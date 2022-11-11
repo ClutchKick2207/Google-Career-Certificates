@@ -7,6 +7,7 @@
 > My notes for this overall course will be laid out by video in the course, and have subheadings in order to differentiate between differnt topics that are presented in the courses. I'll add in any extra notes/resources that I use where necessary, and hope it will be helpful for anyone looking!
 
 ### Finding a Project Management Job
+(note that this is more of an introduction, so not as many notes)
 **Link:**
 - [Google Career Certificates - Finding a Project Management Job](https://youtu.be/y7LDaaFeNn4)
 **Project Management Roles**
