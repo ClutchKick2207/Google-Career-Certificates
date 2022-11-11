@@ -20,3 +20,8 @@
 		- Finance and Insurance
 		- Utilities
 		- Oil and Gas
+	- Also note that the generic role of 'project manager' can have specific roles in different fields, such as:
+		- Construction Project Manager
+		- IT Project Manager
+		- Engineering Project Manager
+- 
