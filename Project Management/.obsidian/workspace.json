@@ -8,6 +8,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "0641cd0e7513023d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Google Career Certificates/Project Management/Project Management - Kanban Board.md"
+              },
+              "pinned": true
+            }
+          },
+          {
             "id": "a29a69473b93974c",
             "type": "leaf",
             "state": {
@@ -30,19 +42,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0641cd0e7513023d",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Google Career Certificates/Project Management/Project Management - Kanban Board.md"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
