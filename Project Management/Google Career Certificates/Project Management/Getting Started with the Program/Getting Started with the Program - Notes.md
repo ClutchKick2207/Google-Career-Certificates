@@ -47,3 +47,28 @@
 - **Define** *"project"* and *"project manager"*
 - **Define** *"project life cycle"*
 - **Describe** organisational structures and cultures
+
+## Helpful Resources
+- ### Helpful Habits
+	- **Plan your time**
+		- Set up regular study times and stick with them
+		- Use a Calendar/Timetable system to create a schedule, and list what you plan on doing each day to break down the work into achievable goals
+	- **Be curious**
+		- Ask questions, and search for more details online
+		- Take notes on any extra information that you have gained
+	- **Take notes**
+		- Take notes on any content that you find interesting, that way you can refer to it later to revise or get any extra content
+		- An effective way to make connections between different topics
+	- **Chat**
+		- Reach out with other learners to gain more information, and potentially have any questions you may have answered
+	- **Update your profile**
+		- Update your profile to something presentable, and something that allows for other people to get to know you more
+- ### Finding more Information
+	- [Project Management Institute](https://www.pmi.org/)
+		- A good resource for those in project, program, or portfolio management professions
+		- Provides guides, industry standards, articles, templates, job boards, certifications, etc.
+	- [Scrum Guides](https://scrumguides.org/index.html)
+		- Defines "Scrum", which is used in Agile project management
+		- Describes Scrum's roles, events, artifacts, and the rules that bind them together
+	- [Foundations of Project Management - Glossary](https://www.coursera.org/learn/project-management-foundations/resources/R9Ijr)
+		- Can find out specific terms (for this unit) in the glossary
