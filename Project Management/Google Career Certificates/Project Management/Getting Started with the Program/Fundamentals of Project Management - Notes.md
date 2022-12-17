@@ -2,11 +2,12 @@
 - [Google Career Certificates - Project Management](https://www.coursera.org/professional-certificates/google-project-management)
 
 ## My Notes
-> My notes for this overall course will be laid out by video in the course, and have subheadings in order to differentiate between different topics that are presented in the courses. I'll add in any extra notes/resources that I use where necessary, and hope it will be helpful for anyone looking!
+> My notes for this overall course will be laid out by module in the course, and have subheadings in order to differentiate between different topics/videos that are presented in the courses. I'll add in any extra notes/resources that I use where necessary, and hope it will be helpful for anyone looking!
 
 ### Welcome!
 - **What is a Project Management?**
 	- The application of knowledge, skills, tools, and techniques to meet the project requirements and achieve the desired outcome
+	- Very possible that you have been project managing in your own life without even knowing it
 
 ### Finding a Project Management Job
 (note that this is more of an introduction, so not as many notes)
