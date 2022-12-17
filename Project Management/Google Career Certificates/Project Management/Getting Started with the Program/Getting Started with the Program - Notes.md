@@ -46,3 +46,4 @@
 - **Discuss** the types of jobs you can pursue
 - **Define** *"project"* and *"project manager"*
 - **Define** *"project life cycle"*
+- **Describe** organisational structures and cultures
