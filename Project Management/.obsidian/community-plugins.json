@@ -1,5 +1,10 @@
 [
   "obsidian-git",
   "obsidian-kanban",
-  "cm-editor-syntax-highlight-obsidian"
+  "cm-editor-syntax-highlight-obsidian",
+  "table-editor-obsidian",
+  "obsidian-dictionary-plugin",
+  "emoji-shortcodes",
+  "obsidian-emoji-toolbar",
+  "obsidian-admonition"
 ]
