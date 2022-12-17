@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0641cd0e7513023d",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Google Career Certificates/Project Management/Project Management - Kanban Board.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes.old.md",
+                "file": "Google Career Certificates/Project Management/Project Management - Kanban Board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes.old.md",
+                "file": "Google Career Certificates/Project Management/Project Management - Kanban Board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes.old.md"
+                "file": "Google Career Certificates/Project Management/Project Management - Kanban Board.md"
               }
             }
           }
@@ -149,8 +159,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "da777a756b4b4ac3",
+  "active": "0641cd0e7513023d",
   "lastOpenFiles": [
+    "Google Career Certificates/Project Management/Kanban Board.md",
+    "Notes.old.md",
     "Google Career Certificates/Project Management/Getting Started with the Program/Getting Started with the Program - Notes.md"
   ]
 }
