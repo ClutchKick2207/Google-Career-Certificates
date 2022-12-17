@@ -13,8 +13,8 @@
 
 ## Program and Course Overview
 ![[Pasted image 20221217165437.png]]
-### Course 1 - Foundations of Project Management
-- 4 week program
+### Course Overview
+- 4 week program - Course 1
 - Lesson Types include:
 	- **Videos**
 		- Google Employee as an instructor
@@ -38,3 +38,11 @@
 	- Take time to do all the readings
 	- Don't be afraid to rewatch a video
 	- Take part in as many learning opportunities as possible
+
+### Foundations of Project Management - Course Objectives
+- **Understand** which types of jobs are suitable for you
+- **Define** key project management terms
+- **Define** roles and responsibilities
+- **Discuss** the types of jobs you can pursue
+- **Define** *"project"* and *"project manager"*
+- **Define** *"project life cycle"*
