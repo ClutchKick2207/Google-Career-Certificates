@@ -10,12 +10,12 @@ kanban-plugin: basic
 
 ## In progress
 
+- [ ] **Watch** - Welcome to Google Project Management Certificate
+- [ ] **Notes** - Welcome to Google Project Management Certificate
 
 
 ## To-Do
 
-- [ ] **Watch** - Welcome to Google Project Management Certificate
-- [ ] **Notes** - Welcome to Google Project Management Certificate
 - [ ] **Read** - Program and Course Overview
 - [ ] **Notes** - General Course Overview
 - [ ] **Watch** - Intro to Course 1
