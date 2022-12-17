@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Google Career Certificates/Project Management/Getting Started with the Program/Fundamentals of Project Management - Notes.md",
+                "file": "Google Career Certificates/Project Management/Getting Started with the Program/Getting Started with the Program - Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da777a756b4b4ac3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes.old.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google Career Certificates/Project Management/Getting Started with the Program/Fundamentals of Project Management - Notes.md",
+                "file": "Notes.old.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Google Career Certificates/Project Management/Getting Started with the Program/Fundamentals of Project Management - Notes.md",
+                "file": "Notes.old.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Google Career Certificates/Project Management/Getting Started with the Program/Fundamentals of Project Management - Notes.md"
+                "file": "Notes.old.md"
               }
             }
           }
@@ -136,6 +149,8 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "60716a4e6f8959cf",
-  "lastOpenFiles": []
+  "active": "da777a756b4b4ac3",
+  "lastOpenFiles": [
+    "Google Career Certificates/Project Management/Getting Started with the Program/Getting Started with the Program - Notes.md"
+  ]
 }
