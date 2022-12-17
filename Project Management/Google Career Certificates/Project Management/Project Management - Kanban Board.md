@@ -22,6 +22,7 @@ kanban-plugin: basic
 - [ ] **Commit** - Complete Program Commitment
 - [ ] **Read** - Helpful Resources
 - [ ] **Notes** - Helpful Resources
+- [ ] **Complete** - Program Surveys
 
 
 
