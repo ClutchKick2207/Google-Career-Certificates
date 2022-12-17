@@ -72,3 +72,14 @@
 		- Describes Scrum's roles, events, artifacts, and the rules that bind them together
 	- [Foundations of Project Management - Glossary](https://www.coursera.org/learn/project-management-foundations/resources/R9Ijr)
 		- Can find out specific terms (for this unit) in the glossary
+
+## Surveys - Info
+During this certificate program, you will be asked to complete a few short surveys. These are part of a research study to understand how effective the certificate has been for you.
+- **Entry Survey**
+	- A brief survey to help us understand why you have entered the certificate 
+	- Asks about experiences leading up to the course, and any goals that you hope to accomplish
+- **Individual Course Feedback**
+	- When you complete the last graded assignment within an individual course, you may be asked to fill in a survey
+- **Certificate Completion Survey**
+	- After you complete the last graded assignment in the final course of the certificate, you will be asked to answer a survey that revisits some earlier questions and asks what you have learned throughout the duration of the program.
+	- This survey also asks if you would like to share your contact information with prospective employers.
