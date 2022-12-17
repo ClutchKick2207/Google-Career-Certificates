@@ -14,12 +14,14 @@ kanban-plugin: basic
 
 ## To-Do
 
-- [ ] Finish Watching - Welcome to Google Project Management Certificate
-- [ ] Finish Notes for - Welcome to Google Project Management Certificate
-- [ ] Finish Reading - Program and Course Overview
-- [ ] Finish General Course Overview
-- [ ] Finish Watching - Intro to Course 1
-- [ ] Commit to completing the Program (figure out Calendar)
+- [ ] **Watch** - Welcome to Google Project Management Certificate
+- [ ] **Notes** - Welcome to Google Project Management Certificate
+- [ ] **Read** - Program and Course Overview
+- [ ] **Notes** - General Course Overview
+- [ ] **Watch** - Intro to Course 1
+- [ ] **Commit** - Complete Program Commitment
+- [ ] **Read** - Helpful Resources
+- [ ] **Notes** - Helpful Resources
 
 
 
