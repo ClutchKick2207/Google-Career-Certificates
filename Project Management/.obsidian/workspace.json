@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google Career Certificates/Project Management/Project Management - Kanban Board.md",
+                "file": "Google Career Certificates/Project Management/Getting Started with the Program/Getting Started with the Program - Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Google Career Certificates/Project Management/Project Management - Kanban Board.md",
+                "file": "Google Career Certificates/Project Management/Getting Started with the Program/Getting Started with the Program - Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Google Career Certificates/Project Management/Project Management - Kanban Board.md"
+                "file": "Google Career Certificates/Project Management/Getting Started with the Program/Getting Started with the Program - Notes.md"
               }
             }
           }
@@ -160,10 +161,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0641cd0e7513023d",
+  "active": "a29a69473b93974c",
   "lastOpenFiles": [
+    "Google Career Certificates/Project Management/Project Management - Kanban Board.md",
+    "Google Career Certificates/Project Management/Getting Started with the Program/Getting Started with the Program - Notes.md",
     "Google Career Certificates/Project Management/Kanban Board.md",
-    "Notes.old.md",
-    "Google Career Certificates/Project Management/Getting Started with the Program/Getting Started with the Program - Notes.md"
+    "Notes.old.md"
   ]
 }
