@@ -12,3 +12,15 @@
 	- Any specific skills that you may know allows for an advantage
 
 ## Program and Course Overview
+![[Pasted image 20221217165437.png]]
+### Course 1 - Foundations of Project Management
+- 4 week program
+- Lesson Types include:
+	- **Videos** - Google Employee as an instructor
+	- **Readings** - Introduces new ideas and case studies to build on top of videos
+	- **Discussion Forums** - Explore course topics for better understanding, and talk with peers
+	- **In Video Questions** - Check up on learning as you go during videos
+	- **Practice Quizzes** - Checks understanding, and gives feedback. Important to do
+	- **Graded Quizzes** - Measures progress by grading quizzes
+	- **Ungraded Peer-Review activities** - Practice applying skills that you are working to master. Other learners can view this, and give feedback
+	- **Graded Peer-Review activities** - Assess the ability to apply skills, other learners will grade your work, and give feedback
