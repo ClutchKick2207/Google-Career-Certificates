@@ -24,3 +24,9 @@
 	- **Graded Quizzes** - Measures progress by grading quizzes
 	- **Ungraded Peer-Review activities** - Practice applying skills that you are working to master. Other learners can view this, and give feedback
 	- **Graded Peer-Review activities** - Assess the ability to apply skills, other learners will grade your work, and give feedback
+- Tips
+	- Take all 6 courses
+	- Complete all items in order
+	- Take time to do all the readings
+	- Don't be afraid to rewatch a video
+	- Take part in as many learning opportunities as possible
