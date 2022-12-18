@@ -72,6 +72,9 @@
 			- All duties and responsibilities to be covered in each shift
 			- All employee's availabilities
 	- **Managing Tasks**
+		- For moving house example
+			- packing each room individually
+			- label all the rooms
 	- **Budgeting**
 		- For moving house have to control budget for
 			- boxes
