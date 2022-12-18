@@ -23,6 +23,8 @@ kanban-plugin: basic
 
 ## In progress
 
+- [ ] **Watch** - Transferable project management skills
+- [ ] **Notes** - Transferable project management skills
 
 
 ## To-Do

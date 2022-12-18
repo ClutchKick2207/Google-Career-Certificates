@@ -23,14 +23,15 @@
             "id": "83c8e87ebf28917a",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Foundations of Project Management/Kanban - Project Management.md"
+                "file": "Foundations of Project Management/Embarking on a career in Project Management/Understanding the basics of Project Management - Notes.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +148,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "83c8e87ebf28917a",
+  "active": "74f9f6b385247b28",
   "lastOpenFiles": [
     "Foundations of Project Management/Embarking on a career in Project Management/Understanding the basics of Project Management - Notes.md",
     "Foundations of Project Management/Kanban - Project Management.md",
