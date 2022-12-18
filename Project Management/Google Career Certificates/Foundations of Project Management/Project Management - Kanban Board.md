@@ -19,12 +19,12 @@ kanban-plugin: basic
 
 ## In progress
 
+- [ ] **Watch** - What is project management?
+- [ ] **Notes** - What is project management?
 
 
 ## To-Do
 
-- [ ] **Watch** - What is project management?
-- [ ] **Notes** - What is project management?
 - [ ] **Watch** - What does a project manager do?
 - [ ] **Notes** - What does a project manager do?
 - [ ] **Watch** - Path to becoming a project manager
