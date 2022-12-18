@@ -32,7 +32,9 @@
 					- For new tablets, computers, and other equipment that may be necessary
 				- **Maintain strong communication**
 					- With doctors, tele-health company, staff, students to make sure everything is working as planned
-	- Poor Project Management can lead to:
+	- **Poor Project Management** can lead to:
 		- 48% of projects missing delivery dates
 		- 43% of projects missing budget targets
 		- 31% of projects failing to meet an organisation's goals
+	- **Program Managers**
+		- A manager that manages multiple projects
