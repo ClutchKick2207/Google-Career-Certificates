@@ -83,7 +83,7 @@
 	- **Controlling costs and other factors**
 		- Surprise birthday party scenario
 			- Birthday person coming home early for a surprise birthday party
-			- People not being able to make it /gitcom
+			- People not being able to make it 
 		- For moving house
 			- manage boxes efficiently
 			- try to avoid errors where possible
