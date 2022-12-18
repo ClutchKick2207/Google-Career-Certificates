@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "74f9f6b385247b28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Google Career Certificates/Foundations of Project Management/Embarking on a career in Project Management/Understanding the basics of Project Management.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google Career Certificates/Foundations of Project Management/Embarking on a career in Project Management/Getting Started with the Program - Notes.md",
+                "file": "Google Career Certificates/Foundations of Project Management/Embarking on a career in Project Management/Understanding the basics of Project Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Google Career Certificates/Foundations of Project Management/Embarking on a career in Project Management/Getting Started with the Program - Notes.md",
+                "file": "Google Career Certificates/Foundations of Project Management/Embarking on a career in Project Management/Understanding the basics of Project Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Google Career Certificates/Foundations of Project Management/Embarking on a career in Project Management/Getting Started with the Program - Notes.md"
+                "file": "Google Career Certificates/Foundations of Project Management/Embarking on a career in Project Management/Understanding the basics of Project Management.md"
               }
             }
           }
@@ -149,10 +161,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "83c8e87ebf28917a",
+  "active": "74f9f6b385247b28",
   "lastOpenFiles": [
-    "Google Career Certificates/Foundations of Project Management/Project Management - Kanban Board.md",
     "Google Career Certificates/Foundations of Project Management/Embarking on a career in Project Management/Getting Started with the Program - Notes.md",
+    "Google Career Certificates/Foundations of Project Management/Embarking on a career in Project Management/Understanding the basics of Project Management.md",
+    "Google Career Certificates/Foundations of Project Management/Project Management - Kanban Board.md",
     "Google Career Certificates/Project Management/Kanban Board.md",
     "Notes.old.md"
   ]
