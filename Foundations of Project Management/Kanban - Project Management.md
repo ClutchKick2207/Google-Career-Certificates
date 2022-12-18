@@ -19,18 +19,18 @@ kanban-plugin: basic
 - [ ] **Notes** - What is project management?
 - [ ] **Watch** - What does a project manager do?
 - [ ] **Notes** - What does a project manager do?
-
-
-## In progress
-
 - [ ] **Watch** - Transferable project management skills
 - [ ] **Notes** - Transferable project management skills
 
 
-## To-Do
+## In progress
 
 - [ ] **Watch** - Path to becoming a project manager
 - [ ] **Notes** - Path to becoming a project manager
+
+
+## To-Do
+
 
 
 
