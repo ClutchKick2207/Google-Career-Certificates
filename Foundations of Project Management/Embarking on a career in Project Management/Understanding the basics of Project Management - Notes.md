@@ -63,3 +63,24 @@
 - All these tasks are to ensure that the projects are done on time and on budget
 	- Also to make sure that all the projects bring value to the company
 - Use different tools, techniques, and methodologies everyday to create some form of impact
+
+## Transferable Project Management skills
+- **Main skills of Project Management**
+	- **Planning and Organising**
+		- Retail Manager scenario
+			- Which employee workstyles will compliment each other in a productive way
+			- All duties and responsibilities to be covered in each shift
+			- All employee's availabilities
+	- **Managing Tasks**
+	- **Budgeting**
+		- For moving house have to control budget for
+			- boxes
+			- moving company
+			- and budget for extra expenses
+	- **Controlling costs and other factors**
+		- Surprise birthday party scenario
+			- Birthday person coming home early for a surprise birthday party
+			- People not being able to make it
+		- For moving house
+			- manage boxes efficiently
+			- try to avoid errors where possible
