@@ -35,12 +35,8 @@
             "id": "74f9f6b385247b28",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -110,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -163,8 +155,8 @@
   },
   "active": "74f9f6b385247b28",
   "lastOpenFiles": [
-    "Notes.old.md",
     "README.md",
+    "Notes.old.md",
     "Google Career Certificates/Foundations of Project Management/Embarking on a career in Project Management/Understanding the basics of Project Management.md",
     "Google Career Certificates/Foundations of Project Management/Embarking on a career in Project Management/Getting Started with the Program - Notes.md",
     "Google Career Certificates/Foundations of Project Management/Project Management - Kanban Board.md",
