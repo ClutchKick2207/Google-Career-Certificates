@@ -23,11 +23,16 @@
             "id": "83c8e87ebf28917a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Foundations of Project Management/Embarking on a career in Project Management/Understanding the basics of Project Management - Notes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Foundations of Project Management/Project Management - Kanban Board.md",
+                "file": "Foundations of Project Management/Embarking on a career in Project Management/Understanding the basics of Project Management - Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Foundations of Project Management/Project Management - Kanban Board.md",
+                "file": "Foundations of Project Management/Embarking on a career in Project Management/Understanding the basics of Project Management - Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Foundations of Project Management/Project Management - Kanban Board.md"
+                "file": "Foundations of Project Management/Embarking on a career in Project Management/Understanding the basics of Project Management - Notes.md"
               }
             }
           }
@@ -144,8 +149,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "74f9f6b385247b28",
+  "active": "83c8e87ebf28917a",
   "lastOpenFiles": [
+    "Foundations of Project Management/Project Management - Kanban Board.md",
     "README.md",
     "Notes.old.md",
     "Google Career Certificates/Foundations of Project Management/Embarking on a career in Project Management/Understanding the basics of Project Management.md",
