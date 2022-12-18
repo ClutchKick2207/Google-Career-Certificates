@@ -6,21 +6,7 @@ kanban-plugin: basic
 
 ## Done
 
-- [ ] **Watch** - Welcome to Google Project Management Certificate
-- [ ] **Notes** - Welcome to Google Project Management Certificate
-- [ ] **Read** - Program and Course Overview
-- [ ] **Notes** - General Course Overview
-- [ ] **Watch** - Intro to Course 1
-- [ ] **Commit** - Complete Program Commitment
-- [ ] **Read** - Helpful Resources
-- [ ] **Notes** - Helpful Resources
-- [ ] **Complete** - Program Surveys
-- [ ] **Watch** - What is project management?
-- [ ] **Notes** - What is project management?
-- [ ] **Watch** - What does a project manager do?
-- [ ] **Notes** - What does a project manager do?
-- [ ] **Watch** - Transferable project management skills
-- [ ] **Notes** - Transferable project management skills
+**Complete**
 
 
 ## In progress
@@ -31,12 +17,43 @@ kanban-plugin: basic
 
 ## To-Do
 
+- [ ] **Watch** - From certificate to career success
+- [ ] **Notes** - From certificate to career success
+- [ ] **Read** - Explore project management roles
+- [ ] **Notes** - Explore project management roles
+- [ ] **Watch** - Finding the perfect role
+- [ ] **Notes** - Finding the perfect role
+- [ ] **Watch** - Gilbert: Project Management skills in my role
+- [ ] **Notes** - Gilbert: Project Management skills in my role
+- [ ] **Participate** - Career goals and next steps
+- [ ] **Read** - Using buzzwords in your job search
+- [ ] **Notes** - Using buzzwords in your job search
+- [ ] **QUIZ** - Test your knowledge
+- [ ] **Participate** - Browsing future jobs
+
+
+## Not Doing
 
 
 
+***
+
+## Archive
+
+- [ ] **Watch** - Welcome to Google Project Management Certificate
+- [ ] **Read** - Program and Course Overview
+- [ ] **Notes** - General Course Overview
+- [ ] **Watch** - Intro to Course 1
+- [ ] **Commit** - Complete Program Commitment
+- [ ] **Read** - Helpful Resources
+- [ ] **Complete** - Program Surveys
+- [ ] **Notes** - What is project management?
+- [ ] **Notes** - What does a project manager do?
+- [ ] **Watch** - Transferable project management skills
+- [ ] **Watch** - Welcome to Google Project Management Certificate
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic"}
+{"kanban-plugin":"basic","show-checkboxes":false}
 ```
 %%
