@@ -38,3 +38,12 @@
 		- 31% of projects failing to meet an organisation's goals
 	- **Program Managers**
 		- A manager that manages multiple projects
+
+## What does a Project Manager do?
+- **Main activities for a Project Manager**
+	- **Planning and Organising**
+	- **Managing Tasks**
+	- **Budgeting**
+	- **Controlling costs and other factors**
+- All these tasks are to ensure that the projects are done on time and on budget
+	- Also to make sure that all the projects bring value to the company
