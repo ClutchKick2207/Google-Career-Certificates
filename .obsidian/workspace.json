@@ -6,7 +6,7 @@
       {
         "id": "8a9bd2a5c3d822e1",
         "type": "tabs",
-        "dimension": 37.976418974499595,
+        "dimension": 54.213036565977745,
         "children": [
           {
             "id": "5653db869a89cff9",
@@ -25,7 +25,7 @@
       {
         "id": "57bf36eb74407c78",
         "type": "tabs",
-        "dimension": 62.02358102550041,
+        "dimension": 45.78696343402226,
         "children": [
           {
             "id": "b0fd66cb33f4a5b4",
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Foundations of Project Management/Embarking on a career in Project Management/Understanding the basics of Project Management - Notes.md",
+                "file": "Foundations of Project Management/Kanban - Project Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Foundations of Project Management/Embarking on a career in Project Management/Understanding the basics of Project Management - Notes.md",
+                "file": "Foundations of Project Management/Kanban - Project Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Foundations of Project Management/Embarking on a career in Project Management/Understanding the basics of Project Management - Notes.md"
+                "file": "Foundations of Project Management/Kanban - Project Management.md"
               }
             }
           }
@@ -157,10 +157,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5653db869a89cff9",
+  "active": "b0fd66cb33f4a5b4",
   "lastOpenFiles": [
-    "Notes  - Path to becoming a project manager.md",
     "Foundations of Project Management/Embarking on a career in Project Management/Understanding the basics of Project Management - Notes.md",
+    "Notes  - Path to becoming a project manager.md",
     "Foundations of Project Management/Kanban - Project Management.md",
     "Foundations of Project Management/Embarking on a career in Project Management/Getting Started with the Program - Notes.md",
     "README.md",

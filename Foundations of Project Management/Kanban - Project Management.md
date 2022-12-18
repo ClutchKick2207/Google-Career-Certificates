@@ -7,7 +7,6 @@ kanban-plugin: basic
 ## Done
 
 **Complete**
-- [x] **Watch** - Path to becoming a project manager
 
 
 ## In progress
@@ -51,6 +50,7 @@ kanban-plugin: basic
 - [ ] **Notes** - What does a project manager do?
 - [ ] **Watch** - Transferable project management skills
 - [ ] **Watch** - Welcome to Google Project Management Certificate
+- [x] **Watch** - Path to becoming a project manager
 
 %% kanban:settings
 ```
