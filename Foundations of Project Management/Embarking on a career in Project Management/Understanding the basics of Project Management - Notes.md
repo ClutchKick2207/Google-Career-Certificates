@@ -87,3 +87,8 @@
 		- For moving house
 			- manage boxes efficiently
 			- try to avoid errors where possible
+- Bring up some examples of how you used these skills in practical life during a job interview
+	- Allows for the company to see how you can employ skills already
+	- Mainly to judge time management and leadership from previous experience
+	- "Tell me about a time where you had to juggle several tasks at once"
+	- "Tell me about a time where you had to influence a customer or teammate"
