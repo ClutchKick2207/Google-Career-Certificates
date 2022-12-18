@@ -42,8 +42,24 @@
 ## What does a Project Manager do?
 - **Main activities for a Project Manager**
 	- **Planning and Organising**
+		- Gathering requirements from teammates/customers
+		- Figure out what the project is trying to do
+			- Kick-off meeting
+			- Send a survey
+		- *Create a project plan*
+			- Keeps everyone in pace and aligned
+			- Key step
 	- **Managing Tasks**
+		- Starts once project is underway
+		- Manage tasks for team members
+		- Communicates milestones to the larger team/customers
+			- keeps team members and customers updated on how the project is progressing
 	- **Budgeting**
+		- Needs to allocate funds appropriately, in order to have some buffer, and to avoid going over budget
 	- **Controlling costs and other factors**
+		- Plans may change
+		- Cause for costs to go up
+			- Needs to be managed accordingly
 - All these tasks are to ensure that the projects are done on time and on budget
 	- Also to make sure that all the projects bring value to the company
+- Use different tools, techniques, and methodologies everyday to create some form of impact
