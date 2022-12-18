@@ -83,7 +83,7 @@
 	- **Controlling costs and other factors**
 		- Surprise birthday party scenario
 			- Birthday person coming home early for a surprise birthday party
-			- People not being able to make it
+			- People not being able to make it /gitcom
 		- For moving house
 			- manage boxes efficiently
 			- try to avoid errors where possible
@@ -92,3 +92,5 @@
 	- Mainly to judge time management and leadership from previous experience
 	- "Tell me about a time where you had to juggle several tasks at once"
 	- "Tell me about a time where you had to influence a customer or teammate"
+
+## Path to Becoming a Project Manager
