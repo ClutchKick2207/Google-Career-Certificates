@@ -15,18 +15,18 @@ kanban-plugin: basic
 - [ ] **Read** - Helpful Resources
 - [ ] **Notes** - Helpful Resources
 - [ ] **Complete** - Program Surveys
-
-
-## In progress
-
 - [ ] **Watch** - What is project management?
 - [ ] **Notes** - What is project management?
 
 
-## To-Do
+## In progress
 
 - [ ] **Watch** - What does a project manager do?
 - [ ] **Notes** - What does a project manager do?
+
+
+## To-Do
+
 - [ ] **Watch** - Path to becoming a project manager
 - [ ] **Notes** - Path to becoming a project manager
 
