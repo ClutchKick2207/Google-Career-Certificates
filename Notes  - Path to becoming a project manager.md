@@ -1,0 +1,1 @@
+Due to the video both being really short, and not having any information that is worth taking notes on for future reference, I just added the minor notes to the end of the previous unit to allow for the general notes to be more cohesive

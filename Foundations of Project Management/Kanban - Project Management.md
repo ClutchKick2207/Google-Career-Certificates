@@ -7,12 +7,11 @@ kanban-plugin: basic
 ## Done
 
 **Complete**
+- [x] **Watch** - Path to becoming a project manager
 
 
 ## In progress
 
-- [ ] **Watch** - Path to becoming a project manager
-- [ ] **Notes** - Path to becoming a project manager
 
 
 ## To-Do
@@ -34,6 +33,7 @@ kanban-plugin: basic
 
 ## Not Doing
 
+- [ ] [[Notes  - Path to becoming a project manager]]
 
 
 ***

@@ -6,7 +6,7 @@
       {
         "id": "8a9bd2a5c3d822e1",
         "type": "tabs",
-        "dimension": 55.047694753577105,
+        "dimension": 37.976418974499595,
         "children": [
           {
             "id": "5653db869a89cff9",
@@ -25,7 +25,7 @@
       {
         "id": "57bf36eb74407c78",
         "type": "tabs",
-        "dimension": 44.95230524642289,
+        "dimension": 62.02358102550041,
         "children": [
           {
             "id": "b0fd66cb33f4a5b4",
@@ -159,8 +159,9 @@
   },
   "active": "5653db869a89cff9",
   "lastOpenFiles": [
-    "Foundations of Project Management/Kanban - Project Management.md",
+    "Notes  - Path to becoming a project manager.md",
     "Foundations of Project Management/Embarking on a career in Project Management/Understanding the basics of Project Management - Notes.md",
+    "Foundations of Project Management/Kanban - Project Management.md",
     "Foundations of Project Management/Embarking on a career in Project Management/Getting Started with the Program - Notes.md",
     "README.md",
     "Notes.old.md",

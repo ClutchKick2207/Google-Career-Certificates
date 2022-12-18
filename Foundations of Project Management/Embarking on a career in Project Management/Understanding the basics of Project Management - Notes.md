@@ -92,5 +92,11 @@
 	- Mainly to judge time management and leadership from previous experience
 	- "Tell me about a time where you had to juggle several tasks at once"
 	- "Tell me about a time where you had to influence a customer or teammate"
-
-## Path to Becoming a Project Manager
+- **Path to becoming a project manager**
+	- "Most of us in our everyday life use program management"
+		- **Example**
+			- When you have a few hours left in the day you have to decide between
+				- Going to the grocery store
+				- Cleaning the house
+			- You also have to decide how long each task will take
+			- And you have to choose whatever works best for the situation
