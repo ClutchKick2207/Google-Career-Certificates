@@ -1,4 +1,5 @@
-# Project-Management
-My exploration into the field of project management, including the notes and videos I watch
+# Google Career Certificates
 
-Follow my journey deeper into the world of Project Management, and hopefully you'll find my notes helpful!
+My exploration into completing Google Career Certificates, including any notes and resources that I use.
+
+This repo is still a work in progress as I continue working through the courses, and I hope this helps in your own studies!
