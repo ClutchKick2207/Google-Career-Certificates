@@ -17,12 +17,12 @@ kanban-plugin: basic
 - [ ] **Complete** - Program Surveys
 - [ ] **Watch** - What is project management?
 - [ ] **Notes** - What is project management?
+- [ ] **Watch** - What does a project manager do?
+- [ ] **Notes** - What does a project manager do?
 
 
 ## In progress
 
-- [ ] **Watch** - What does a project manager do?
-- [ ] **Notes** - What does a project manager do?
 
 
 ## To-Do
