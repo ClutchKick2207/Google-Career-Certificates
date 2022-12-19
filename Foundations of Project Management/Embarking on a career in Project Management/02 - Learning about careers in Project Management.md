@@ -91,20 +91,49 @@
 				- Ensures that projects are completed to the requirements within a defined time frame and budget.
 			- **Project Management Office (PMO) Analyst**
 				- Manages the progress of complex projects to ensure timely execution and completion.
-- **Program and Portfolio Management Roles**
-	- General Progression![Graphic of project manager > program manager > portfolio manager](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/EBTy61fHRGSU8utXx-Rkdw_8a0eb610f69448eeb2c9969d86b70f92_Google_Readings_Stills_PGM_C6-Resume-Graphics-1-.png?expiry=1671580800000&hmac=hLMsdgI5oVxN3q71Jb1ScUokr-bGALA-UuKWhjjVwig)
-	- **Project Manager**
-		- Responsible for the day-to-day management of projects
-		- Shepard projects from start to finish (i.e. a guide for their teams)
-		- Applies the right tools, techniques, and processes to complete the project successfully, on time and within budget
-	- **Program Manager**
-		- Step up in responsibility
-		- Responsible for multiple projects that are related or similar to one another
-			- Also manage the coordination of these projects.
-			- For example all project managers at Google are considered program managers as they all manage multiple projects
-	- **Portfolio Manager**
-		- Step up in responsibility
-		- Responsible for multiple related programs within an organisation
-		- Generally refers to all the programs/projects within an entire organisation
-		- Coordinates various programs in order to make sure they are on track
-		- Looks at all projects and programs within a company and prioritizes work as necessary
+	- **Program and Portfolio Management Roles**
+		- General Progression![Graphic of project manager > program manager > portfolio manager](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/EBTy61fHRGSU8utXx-Rkdw_8a0eb610f69448eeb2c9969d86b70f92_Google_Readings_Stills_PGM_C6-Resume-Graphics-1-.png?expiry=1671580800000&hmac=hLMsdgI5oVxN3q71Jb1ScUokr-bGALA-UuKWhjjVwig)
+		- **Project Manager**
+			- Responsible for the day-to-day management of projects
+			- Shepard projects from start to finish (i.e. a guide for their teams)
+			- Applies the right tools, techniques, and processes to complete the project successfully, on time and within budget
+		- **Program Manager**
+			- Step up in responsibility
+			- Responsible for multiple projects that are related or similar to one another
+				- Also manage the coordination of these projects.
+				- For example all project managers at Google are considered program managers as they all manage multiple projects
+		- **Portfolio Manager**
+			- Step up in responsibility
+			- Responsible for multiple related programs within an organisation
+			- Generally refers to all the programs/projects within an entire organisation
+			- Coordinates various programs in order to make sure they are on track
+			- Looks at all projects and programs within a company and prioritizes work as necessary
+	- **Operational Management Roles**
+		- Experience several departments and how they interact/operate
+		- Allows for you to work alongside peers and management from various business segments
+		- Skills used in project management can be used in the executive side of business as well
+		- Some examples include
+			- **Operations Analyst**
+				- Manages and coordinates research, investigates workflows, creates business procedures, and recommends changes to improve the project and company.
+			- **Operations Manager**
+				- Oversees strategic decision-making and rolls out plans of action based on financial, schedule, and resource reporting.
+			- **Chief Operating Officer**
+				- Responsible for overseeing the day-to-day administrative and operational functions of a business.
+	- **Agile Roles**
+		- Agile Project Management roles
+		- Examples include
+			- **Scrum Master**
+				- Coordinates and guides the Scrum team. 
+				- Knowledgeable in Agile framework and Scrum and is able to teach others about the Scrum values and principles. 
+				- May also be listed as a *Technical Program Manager* or *Technical Project Manager.*
+			- **Product Owner**
+				- Drives the direction of product development and progress.
+	- **Industry Specific Management Roles**
+		- Note that you can move between industries
+		- You are able to use an specific knowledge you have built up as well to be able to be more efficient
+		- Main thing to worry about are soft-skills
+- **Main Takeaway**
+	- Project Management is a career with a lot of potential
+	- Make sure to learn a lot of transferable skills
+		- They can be utilised in multiple industries
+	- 
