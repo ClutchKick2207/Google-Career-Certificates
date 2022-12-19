@@ -11,12 +11,12 @@ kanban-plugin: basic
 
 ## In progress
 
+- [ ] **Watch** - From certificate to career success
+- [ ] **Notes** - From certificate to career success
 
 
 ## To-Do
 
-- [ ] **Watch** - From certificate to career success
-- [ ] **Notes** - From certificate to career success
 - [ ] **Read** - Explore project management roles
 - [ ] **Notes** - Explore project management roles
 - [ ] **Watch** - Finding the perfect role
