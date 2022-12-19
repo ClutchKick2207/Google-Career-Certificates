@@ -91,3 +91,12 @@
 				- Ensures that projects are completed to the requirements within a defined time frame and budget.
 			- **Project Management Office (PMO) Analyst**
 				- Manages the progress of complex projects to ensure timely execution and completion.
+- **Program and Portfolio Management Roles**
+	- **Project Manager**
+		- Responsible for the day-to-day management of projects
+		- Shepard projects from start to finish (i.e. a guide for their teams)
+		- Applies the right tools, techniques, and processes to complete the project successfully, on time and within budget
+	- **Program Manager**
+		- Step up in responsibility
+		- Responsible for multiple projects
+			- For example all project managers at Google are considered program managers as they all manage multiple projects
