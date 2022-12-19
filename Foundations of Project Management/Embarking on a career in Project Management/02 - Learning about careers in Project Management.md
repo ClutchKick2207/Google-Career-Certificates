@@ -5,6 +5,10 @@
 > My notes for this overall course will be laid out by module in the course, and have subheadings in order to differentiate between different topics/videos that are presented in the courses. I'll add in any extra notes/resources that I use where necessary, and hope it will be helpful for anyone looking!
 
 ## From certificate to career success
+
+> [!Info] Internship - Definition
+> A short-term way to get hands-on experience in the industry
+
 - **Project Management Roles**
 	- **Very high demand role**
 		- A 2017 study said that by 2027, 87.7 million people will be required to fill in project management roles
@@ -30,3 +34,4 @@
 			- Project Assistant
 			- Operations Coordinator
 			- Operations Assistant
+		- 
