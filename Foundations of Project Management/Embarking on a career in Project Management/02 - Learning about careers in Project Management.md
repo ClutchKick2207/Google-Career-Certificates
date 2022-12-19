@@ -137,3 +137,9 @@
 	- Make sure to learn a lot of transferable skills
 		- They can be utilised in multiple industries
 
+## Finding the perfect role
+- **How to find a role**
+	- **Buzzwords**
+		- "Data Driven"
+		- "Team Player"
+		- "Self Starter"
