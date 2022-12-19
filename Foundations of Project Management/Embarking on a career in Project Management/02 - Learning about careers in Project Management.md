@@ -51,4 +51,4 @@
 		- Able to try out a few different projects at once
 		- Lets you explore different types of companies and project types
 			- As it is temporary, can really explore
-		- 
+	- 

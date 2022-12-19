@@ -7,18 +7,18 @@ kanban-plugin: basic
 ## Done
 
 **Complete**
+- [x] **Watch** - From certificate to career success
+- [x] **Notes** - From certificate to career success
 
 
 ## In progress
 
-- [ ] **Watch** - From certificate to career success
-- [ ] **Notes** - From certificate to career success
+- [ ] **Read** - Explore project management roles
+- [ ] **Notes** - Explore project management roles
 
 
 ## To-Do
 
-- [ ] **Read** - Explore project management roles
-- [ ] **Notes** - Explore project management roles
 - [ ] **Watch** - Finding the perfect role
 - [ ] **Notes** - Finding the perfect role
 - [ ] **Watch** - Gilbert: Project Management skills in my role
