@@ -21,4 +21,12 @@
 			- IT Project Manager
 			- Engineering Project Manager
 		- Skills that you learn from one industry can also be applied in another industry
-			- Demand for a wide variety of skill due to continually changing processes (such as tech) 
+			- Demand for a wide variety of skill due to continually changing processes (such as tech)
+			- Also note that you don't have to be an expert in the field either, you just have to be able to manage projects, and have some basic knowledge
+		- Different potential roles
+			- Operations Manager
+			- Program Manager
+			- Project Coordinator
+			- Project Assistant
+			- Operations Coordinator
+			- Operations Assistant
