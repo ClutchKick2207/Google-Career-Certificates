@@ -45,3 +45,10 @@
 	- **Transferable roles**
 		- Events manager internship -> full time project management role later on
 	- **Contract work**
+		- Won't be a full time employee
+		- Good way to get your foot in the door
+		- Also a good way to build a portfolio
+		- Able to try out a few different projects at once
+		- Lets you explore different types of companies and project types
+			- As it is temporary, can really explore
+		- 
