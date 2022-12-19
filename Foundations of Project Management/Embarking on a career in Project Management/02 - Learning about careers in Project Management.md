@@ -20,3 +20,5 @@
 			- Construction Project Manager
 			- IT Project Manager
 			- Engineering Project Manager
+		- Skills that you learn from one industry can also be applied in another industry
+			- Demand for a wide variety of skill due to continually changing processes (such as tech) 
