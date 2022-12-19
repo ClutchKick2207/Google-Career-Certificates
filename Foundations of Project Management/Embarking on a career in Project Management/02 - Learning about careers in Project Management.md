@@ -92,11 +92,19 @@
 			- **Project Management Office (PMO) Analyst**
 				- Manages the progress of complex projects to ensure timely execution and completion.
 - **Program and Portfolio Management Roles**
+	- General Progression![Graphic of project manager > program manager > portfolio manager](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/EBTy61fHRGSU8utXx-Rkdw_8a0eb610f69448eeb2c9969d86b70f92_Google_Readings_Stills_PGM_C6-Resume-Graphics-1-.png?expiry=1671580800000&hmac=hLMsdgI5oVxN3q71Jb1ScUokr-bGALA-UuKWhjjVwig)
 	- **Project Manager**
 		- Responsible for the day-to-day management of projects
 		- Shepard projects from start to finish (i.e. a guide for their teams)
 		- Applies the right tools, techniques, and processes to complete the project successfully, on time and within budget
 	- **Program Manager**
 		- Step up in responsibility
-		- Responsible for multiple projects
+		- Responsible for multiple projects that are related or similar to one another
+			- Also manage the coordination of these projects.
 			- For example all project managers at Google are considered program managers as they all manage multiple projects
+	- **Portfolio Manager**
+		- Step up in responsibility
+		- Responsible for multiple related programs within an organisation
+		- Generally refers to all the programs/projects within an entire organisation
+		- Coordinates various programs in order to make sure they are on track
+		- Looks at all projects and programs within a company and prioritizes work as necessary
