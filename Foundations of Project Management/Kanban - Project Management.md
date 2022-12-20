@@ -4,12 +4,42 @@ kanban-plugin: basic
 
 ---
 
-## Done
+## Done - Week 1
 
-**Complete**
+- [ ] **Watch** - Welcome to Google Project Management Certificate
+- [ ] **Read** - Program and Course Overview
+- [ ] **Notes** - General Course Overview
+- [ ] **Watch** - Intro to Course 1
+- [ ] **Commit** - Complete Program Commitment
+- [ ] **Read** - Helpful Resources
+- [ ] **Complete** - Program Surveys
+- [ ] **Notes** - What is project management?
+- [ ] **Notes** - What does a project manager do?
+- [ ] **Watch** - Transferable project management skills
+- [ ] **Watch** - Welcome to Google Project Management Certificate
+- [ ] **Watch** - Path to becoming a project manager
+- [ ] **Watch** - From certificate to career success
+- [ ] **Notes** - From certificate to career success
+- [ ] **Read** - Explore project management roles
+- [ ] **Notes** - Explore project management roles
+- [ ] **Watch** - Finding the perfect role
+- [ ] **Notes** - Finding the perfect role
+- [ ] **Watch** - Gilbert: Project Management skills in my role
+- [ ] **Notes** - Gilbert: Project Management skills in my role
+- [ ] **Read** - Using buzzwords in your job search
+- [ ] **Notes** - Using buzzwords in your job search
+- [ ] **QUIZ** - Test your knowledge
+
+
+## Done - Week 2
+
 
 
 ## In progress
+
+
+
+## Doing Today
 
 
 
@@ -36,42 +66,23 @@ kanban-plugin: basic
 - [ ] **Notes** - The core skills of a project manager
 - [ ] **Read** - Key competencies: Flexibility and handling ambiguity
 - [ ] **Notes** - Key competencies: Flexibility and handling ambiguity
+- [ ] **QUIZ** - Reflection: Identify the essential skills of a project manager
+- [ ] **Watch** - Rachel: My journey to becoming a project manager
+- [ ] **Notes** - Rachel: My journey to becoming a project manager
+- [ ] **Participate** - Skills you bring to the table
+- [ ] **Read** - Common myths about project managers
+- [ ] **Notes** - Common myths about project managers
+- [ ] **QUIZ** - Test your knowledge: Acquiring the core skills of a successful project manager
+- [ ] **Watch** - Leadership and team dynamics
+- [ ] **Notes** - Leadership and team dynamics
+- [ ] **QUIZ** - Reflection: Influence without authority
+- [ ] **Watch** - Ellen: Traits of a successful project manager
+- [ ] **Notes** - Ellen: Traits of a successful project manager
+- [ ] **Watch** - Wrap-up
+- [ ] **QUIZ** - Weekly Challenge 2
 
 
-## Not Doing
 
-- [ ] [[Notes  - Path to becoming a project manager]]
-- [ ] [[Participate  - Career goals and next steps]]
-- [ ] [[Participate  - Browsing future jobs]]
-
-
-***
-
-## Archive
-
-- [ ] **Watch** - Welcome to Google Project Management Certificate
-- [ ] **Read** - Program and Course Overview
-- [ ] **Notes** - General Course Overview
-- [ ] **Watch** - Intro to Course 1
-- [ ] **Commit** - Complete Program Commitment
-- [ ] **Read** - Helpful Resources
-- [ ] **Complete** - Program Surveys
-- [ ] **Notes** - What is project management?
-- [ ] **Notes** - What does a project manager do?
-- [ ] **Watch** - Transferable project management skills
-- [ ] **Watch** - Welcome to Google Project Management Certificate
-- [x] **Watch** - Path to becoming a project manager
-- [x] **Watch** - From certificate to career success
-- [x] **Notes** - From certificate to career success
-- [x] **Read** - Explore project management roles
-- [x] **Notes** - Explore project management roles
-- [x] **Watch** - Finding the perfect role
-- [x] **Notes** - Finding the perfect role
-- [x] **Watch** - Gilbert: Project Management skills in my role
-- [x] **Notes** - Gilbert: Project Management skills in my role
-- [x] **Read** - Using buzzwords in your job search
-- [x] **Notes** - Using buzzwords in your job search
-- [x] **QUIZ** - Test your knowledge
 
 %% kanban:settings
 ```
