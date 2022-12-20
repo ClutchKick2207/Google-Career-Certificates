@@ -200,13 +200,25 @@
 - **Skills**
 	- **Coordination**
 		- Getting people/teams to work together
-		- Can be expressed via "coordination of efforts to achieve project deliverables" and "coordinate internal resources to ensure successful project completion"
+		- Can be expressed via 
+			- "coordination of efforts to achieve project deliverables" 
+			- "coordinate internal resources to ensure successful project completion"
 		- Project Management mainly looks at managing the coordination of resources to achieve the end goal
 		- One of the top skills any Project Manager can have
 	- **Organisation**
 		- Ability to stay focused on different tasks
-		- May come across phrases such as "solid organisational skills, including attention to detail and multitasking skills" and "highly organised"
+		- Can be expressed via
+			- "solid organisational skills, including attention to detail and multitasking skills" 
+			- "highly organised"
 		- Organisational skills are important when it comes to project management
 	- **Leadership**
-		- 
-
+		- Being able to lead a group of people
+		- Can be expressed via
+			- "Strong leadership qualities"
+			- "Ability to lead"
+		- Needs to display leadership in many ways
+			- Effective planning
+			- Efficient task coordination
+			- Inspiring team members
+			- Key decision making
+		- Vital for project management
