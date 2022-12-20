@@ -159,4 +159,20 @@
 		- Tracing work plans and performance metrics
 		- Assisting other members of the operational team
 		- Ensuring timely responses to requests for information
-	- 
+	- Everyone has worked with a project manager in the past...
+		- **Teachers**!
+			- Designing a curriculum that's accessible for students with unique needs
+			- Managing a budget
+			- communicating with others
+				- parents
+				- department heads
+				- school admins
+			- developing processes to make things run efficiently in a classroom
+			- etc.
+		- You can use a similar role (such as student leader) in your resume/interview
+			- "I assembled and lead a team of 20 students to:"
+				- plan and execute events
+					- Like fundraisers
+					- Community events
+					- Academic assemblies for over 300 students
+			- You can surprise yourself with how much experience you may have
