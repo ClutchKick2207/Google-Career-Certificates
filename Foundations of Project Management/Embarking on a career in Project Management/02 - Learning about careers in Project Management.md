@@ -143,3 +143,20 @@
 		- "Data Driven"
 		- "Team Player"
 		- "Self Starter"
+	- Note that some roles list "Project Management" as a skill and not a dedicated role
+	- If you have project management skills, you can have an operational/program manager
+		- End-to-end system management
+	- Note not all "project management" roles are listed as such
+		- Make sure to look through the job description to see if it suits your skillset/experience
+	- **Required Skills examples**
+		- Organisational Management
+		- Broad range of communications
+		- Strong planning and communication skills
+		- Budget preparation and monitoring
+	- **Potential Tasks (for Project Management)**
+		- Create monthly status reports
+		- Implement new and necessary technologies
+		- Tracing work plans and performance metrics
+		- Assisting other members of the operational team
+		- Ensuring timely responses to requests for information
+	- 
