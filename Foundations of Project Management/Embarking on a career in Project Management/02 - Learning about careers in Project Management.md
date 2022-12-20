@@ -222,3 +222,5 @@
 			- Inspiring team members
 			- Key decision making
 		- Vital for project management
+- **Example of a Job Description for Project Management**
+	- From Coursera![[Pasted image 20221220144023.png]]
