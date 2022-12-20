@@ -138,6 +138,8 @@
 		- They can be utilised in multiple industries
 
 ## Finding the perfect role
+> [!Info] Networking - Definition
+> Networking refers to when you meet other people in a professional setting with the goal of learning, sharing knowledge, and creating new business connections
 - **How to find a role**
 	- **Buzzwords**
 		- "Data Driven"
