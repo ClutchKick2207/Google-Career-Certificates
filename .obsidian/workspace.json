@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundations of Project Management/Embarking on a career in Project Management/03 - Final Notes (1st Module).md",
+                "file": "Foundations of Project Management/00 - Embarking on a career in Project Management/03 - Final Notes (1st Module).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8337f771cd84799f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Foundations of Project Management/01 - Becoming an effective Project Manager/00 - Exploring how a project manager adds value.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +43,8 @@
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 276.5
   },
   "right": {
     "id": "547d4c4ba18fd0ab",
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Foundations of Project Management/Embarking on a career in Project Management/03 - Final Notes (1st Module).md",
+                "file": "Foundations of Project Management/01 - Becoming an effective Project Manager/00 - Exploring how a project manager adds value.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Foundations of Project Management/Embarking on a career in Project Management/03 - Final Notes (1st Module).md",
+                "file": "Foundations of Project Management/01 - Becoming an effective Project Manager/00 - Exploring how a project manager adds value.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Foundations of Project Management/Embarking on a career in Project Management/03 - Final Notes (1st Module).md"
+                "file": "Foundations of Project Management/01 - Becoming an effective Project Manager/00 - Exploring how a project manager adds value.md"
               }
             }
           }
@@ -149,17 +161,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fedb6f58332d536b",
+  "active": "8337f771cd84799f",
   "lastOpenFiles": [
-    "Foundations of Project Management/Embarking on a career in Project Management/02 - Learning about careers in Project Management.md",
-    "Foundations of Project Management/Embarking on a career in Project Management/03 - Final Notes (1st Module).md",
-    "Foundations of Project Management/Embarking on a career in Project Management/01 - Understanding the basics of Project Management - Notes.md",
-    "Foundations of Project Management/Embarking on a career in Project Management/00 - Getting Started with the Program - Notes.md",
+    "Foundations of Project Management/00 - Embarking on a career in Project Management/01 - Understanding the basics of Project Management - Notes.md",
+    "Foundations of Project Management/00 - Embarking on a career in Project Management/00 - Getting Started with the Program - Notes.md",
+    "Foundations of Project Management/01 - Becoming an effective Project Manager/00 - Exploring how a project manager adds value.md",
+    "Foundations of Project Management/00 - Embarking on a career in Project Management/03 - Final Notes (1st Module).md",
+    "Foundations of Project Management/00 - Embarking on a career in Project Management/02 - Learning about careers in Project Management.md",
     "Participate  - Browsing future jobs.md",
     "Foundations of Project Management/Kanban - Project Management.md",
     "Participate  - Career goals and next steps.md",
     "Foundations of Project Management/Notes.old.md",
-    "Notes  - Path to becoming a project manager.md",
-    "README.md"
+    "Notes  - Path to becoming a project manager.md"
   ]
 }
