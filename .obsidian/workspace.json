@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5653db869a89cff9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Foundations of Project Management/Embarking on a career in Project Management/02 - Learning about careers in Project Management.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "42421c56050754c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Foundations of Project Management/Embarking on a career in Project Management/01 - Understanding the basics of Project Management - Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e20cf3d00fa2891b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Foundations of Project Management/Embarking on a career in Project Management/00 - Getting Started with the Program - Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fedb6f58332d536b",
             "type": "leaf",
             "state": {
@@ -55,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "94e95079f7d9cf7f",
