@@ -224,3 +224,6 @@
 		- Vital for project management
 - **Example of a Job Description for Project Management**
 	- From Coursera![[Pasted image 20221220144023.png]]
+	- Look at other positions that don't explicitly mention "project management", but require similar skills
+	- Such as this example of a "Operations Associate" ![[Pasted image 20221220144344.png]]
+	- 
