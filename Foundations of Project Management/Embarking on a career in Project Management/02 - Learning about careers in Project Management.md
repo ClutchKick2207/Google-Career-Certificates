@@ -195,4 +195,3 @@
 			- Being able to manage your time
 	- Start applying project management frameworks/practices in everyday life as well to be able to get them ingrained into you
 		- For example planning yourself for the next 3 months
-	- 
