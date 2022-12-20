@@ -226,4 +226,46 @@
 	- From Coursera![[Pasted image 20221220144023.png]]
 	- Look at other positions that don't explicitly mention "project management", but require similar skills
 	- Such as this example of a "Operations Associate" ![[Pasted image 20221220144344.png]]
-	- 
+- **Common Project Management buzzwords**
+	- Buzzwords are a good way to see if the role would suit your skills, so here is a massive list of them:
+		- Analytical
+		- Assertive
+		- Assessing outcomes
+		- Assessing progress
+		- Attention to detail
+		- Conflict resolution
+		- Collaborative
+		- Coordination
+		- Communication
+		- Development
+		- Evaluation
+		- Executing plans
+		- Financial analysis
+		- Impact assessment
+		- Leadership engagement
+		- Managing meetings
+		- Managing client expectations
+		- Managing conflicts
+		- Managing relationships with stakeholders
+		- Managing vendors
+		- Meeting deadlines
+		- Monitoring
+		- Multitasking
+		- Planning
+		- Prioritizing
+		- Problem-solving
+		- Process development
+		- Process improvement
+		- Project coordination
+		- Project implementation
+		- Project initialization
+		- Project planning
+		- Project reporting
+		- Quality control
+		- Risk assessment
+		- Risk management
+		- Solution development
+		- Strategic planning
+		- Strong interpersonal skills
+		- Strong verbal communication
+		- Strong written communication
