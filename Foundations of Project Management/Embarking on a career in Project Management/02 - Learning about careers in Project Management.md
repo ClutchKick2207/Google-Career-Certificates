@@ -195,3 +195,12 @@
 			- Being able to manage your time
 	- Start applying project management frameworks/practices in everyday life as well to be able to get them ingrained into you
 		- For example planning yourself for the next 3 months
+
+## Using Buzzwords in your job search
+- **Skills**
+	- **Coordination**
+		- Getting people/teams to work together
+		- Can be expressed via "coordination of efforts to achieve project deliverables" and "coordinate internal resources to ensure successful project completion"
+		- Project Management mainly looks at managing the coordination of resources to achieve the end goal
+		- One of the top skills any Project Manager can have
+
