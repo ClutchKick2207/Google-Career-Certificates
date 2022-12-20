@@ -1,0 +1,1 @@
+Not considering to be necessary due to me not having any previous career experience, and not being too sure what I would be doing right now anyways

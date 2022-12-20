@@ -13,17 +13,16 @@ kanban-plugin: basic
 - [x] **Notes** - Explore project management roles
 - [x] **Watch** - Finding the perfect role
 - [x] **Notes** - Finding the perfect role
+- [x] **Watch** - Gilbert: Project Management skills in my role
+- [x] **Notes** - Gilbert: Project Management skills in my role
 
 
 ## In progress
 
-- [ ] **Watch** - Gilbert: Project Management skills in my role
-- [ ] **Notes** - Gilbert: Project Management skills in my role
 
 
 ## To-Do
 
-- [ ] **Participate** - Career goals and next steps
 - [ ] **Read** - Using buzzwords in your job search
 - [ ] **Notes** - Using buzzwords in your job search
 - [ ] **QUIZ** - Test your knowledge
@@ -33,6 +32,7 @@ kanban-plugin: basic
 ## Not Doing
 
 - [ ] [[Notes  - Path to becoming a project manager]]
+- [ ] [[Participate  - Career goals and next steps]]
 
 
 ***
