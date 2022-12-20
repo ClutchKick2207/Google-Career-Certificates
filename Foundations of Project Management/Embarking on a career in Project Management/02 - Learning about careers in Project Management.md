@@ -162,7 +162,7 @@
 		- Assisting other members of the operational team
 		- Ensuring timely responses to requests for information
 	- Everyone has worked with a project manager in the past...
-		- **Teachers**!
+		- **Teachers**
 			- Designing a curriculum that's accessible for students with unique needs
 			- Managing a budget
 			- communicating with others
