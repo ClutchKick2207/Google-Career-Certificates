@@ -19,12 +19,12 @@ kanban-plugin: basic
 
 ## In progress
 
+- [ ] **Read** - Using buzzwords in your job search
+- [ ] **Notes** - Using buzzwords in your job search
 
 
 ## To-Do
 
-- [ ] **Read** - Using buzzwords in your job search
-- [ ] **Notes** - Using buzzwords in your job search
 - [ ] **QUIZ** - Test your knowledge
 - [ ] **Participate** - Browsing future jobs
 
