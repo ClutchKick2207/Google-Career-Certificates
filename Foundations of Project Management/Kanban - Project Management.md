@@ -32,7 +32,7 @@ kanban-plugin: basic
 
 - [ ] [[Notes  - Path to becoming a project manager]]
 - [ ] [[Participate  - Career goals and next steps]]
-- [ ] **Participate** - Browsing future jobs
+- [ ] [[Participate  - Browsing future jobs]]
 
 
 ***
