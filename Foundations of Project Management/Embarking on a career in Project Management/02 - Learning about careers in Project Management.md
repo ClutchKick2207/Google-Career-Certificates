@@ -178,3 +178,19 @@
 					- Community events
 					- Academic assemblies for over 300 students
 			- You can surprise yourself with how much experience you may have
+
+## Gilbert: Project Management skills in my role
+- **Project Management skills**
+	- Communicating to stakeholders
+	- Managing a budget
+	- Managing a project timeline
+		- Organising events for university students
+		- Organise guest speakers
+- **Translation of skills**
+	- Being in a management position can allow for you to develop the skills necessary
+		- Such as being a manager at a retail store
+			- Being able to talk, and have difficult conversations
+			- Being able to manage a budget
+			- Being able to manage resources
+			- Being able to manage your time
+	- Start applying project management frameworks/practices in everyday life as well to be able to get them ingrained into you
