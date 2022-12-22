@@ -37,11 +37,11 @@ kanban-plugin: basic
 
 ## In progress
 
+- [ ] **Watch** - Introduction: Becoming an effective project manager
 
 
 ## Doing Today
 
-- [ ] **Watch** - Introduction: Becoming an effective project manager
 - [ ] **Watch** - The value of a project manager
 - [ ] **Notes** - The value of a project manager
 - [ ] **Read** - How project managers impact organisations
