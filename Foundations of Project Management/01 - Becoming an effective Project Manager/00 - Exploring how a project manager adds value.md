@@ -9,4 +9,10 @@
 > [!Info] Project Manager - Definition
 > Shepherds projects from start to finish and serve as guides for their team, using their impeccable organisational and interpersonal skills every step of the way
 - **Value of a Project Manager**
+	- What do they do?
+		- Generally Involves
+			- Planning and Organising
+			- Managing Tasks
+			- Budgeting and Controlling costs
+		- ...all so the project can be done in the approved timeframe
 
