@@ -33,17 +33,17 @@ kanban-plugin: basic
 
 ## Done - Week 2
 
+- [ ] **Watch** - Introduction: Becoming an effective project manager
 
 
 ## In progress
 
-- [ ] **Watch** - Introduction: Becoming an effective project manager
+- [ ] **Watch** - The value of a project manager
+- [ ] **Notes** - The value of a project manager
 
 
 ## Doing Today
 
-- [ ] **Watch** - The value of a project manager
-- [ ] **Notes** - The value of a project manager
 - [ ] **Read** - How project managers impact organisations
 - [ ] **Notes** - How project managers impact organisations
 - [ ] **QUIZ** - Reflection: Relevant project management roles and companies
