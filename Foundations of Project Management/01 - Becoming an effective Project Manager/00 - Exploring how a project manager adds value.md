@@ -8,6 +8,9 @@
 ## The Value of a Project Manager
 > [!Info] Project Manager - Definition
 > Shepherds projects from start to finish and serve as guides for their team, using their impeccable organisational and interpersonal skills every step of the way
+
+> [!Info] Stakeholders - Definition
+> People who are interested in and affected by the project's completion and success
 - **Value of a Project Manager**
 	- What do they do?
 		- Generally Involves
@@ -15,4 +18,11 @@
 			- Managing Tasks
 			- Budgeting and Controlling costs
 		- ...all so the project can be done in the approved timeframe
+	- Adds Value through key areas
+		- **Prioritisation**
+			- Project managers add value to their teams and organisations through effective prioritisation of tasks required to complete a project
+			- Communicate with the team and stakeholders in order to make a plan on what to do first and what order
+		- **Delegation**
+			- 
+		- **Effective Communication**
 
