@@ -103,4 +103,9 @@
 		- Therefore although you may have to manage teammates for a certain task/project, you are probably not their day-to-day boss
 	- Everyone on the team will have their own set of roles and responsibilities
 		- Each person will be an expert on their portion of the project, but no one will be an expert on every aspect of the project
+	- Responsible for guiding your team
+		- Making sure they have the support they need to complete the project
+	- **How can this be done?**
+		- "Hold all team members accountable for their assigned tasks"
+		- "Ensure that issues and risks are tracked and visible, and be able to establish escalation paths"
 		- 
