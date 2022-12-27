@@ -26,4 +26,4 @@
 			- Managing workloads
 			- Make sure things are being done
 			- Demonstrates progress
-		- 
+		- Use some form of project tracker, and actively manage tasks
