@@ -136,4 +136,14 @@
 			- Make sure that all the team members have the correct skills for each of the project functions
 			- Make sure that the right people with the right skills are available
 		- **Measure progress**
+			- Showing your team how much they have accomplished can help them keep motivated
+			- Take the time to measure and communicate the project's progress to the entire cross-functional team
+			- **Measuring progress**
+				- Key milestones
+				- Completing project tasks
+				- Meeting project goals on time and within budget
+			- Document when tasks and goals are completed
+			- Make sure to communicate if everything is on track, and if not, how to get there
 		- **Recognise efforts**
+			- Make sure that every member of the cross-functional team recognises their value
+			- Also makes sure that everyone is considered to be a 'team', and equal
