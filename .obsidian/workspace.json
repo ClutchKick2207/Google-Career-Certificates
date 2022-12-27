@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Foundations of Project Management/01 - Becoming an effective Project Manager/01 - Learning more about project manager roles and responsibilites.md",
+                "file": "Foundations of Project Management/Kanban - Foundations of Project Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Foundations of Project Management/01 - Becoming an effective Project Manager/01 - Learning more about project manager roles and responsibilites.md",
+                "file": "Foundations of Project Management/Kanban - Foundations of Project Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Foundations of Project Management/01 - Becoming an effective Project Manager/01 - Learning more about project manager roles and responsibilites.md"
+                "file": "Foundations of Project Management/Kanban - Foundations of Project Management.md"
               }
             }
           }
@@ -166,10 +166,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fedb6f58332d536b",
+  "active": "8337f771cd84799f",
   "lastOpenFiles": [
-    "Foundations of Project Management/Kanban - Foundations of Project Management.md",
     "Foundations of Project Management/01 - Becoming an effective Project Manager/01 - Learning more about project manager roles and responsibilites.md",
+    "Foundations of Project Management/Kanban - Foundations of Project Management.md",
     "README.md",
     "Foundations of Project Management/00 - Embarking on a career in Project Management/00 - Getting Started with the Program - Notes.md",
     "Foundations of Project Management/01 - Becoming an effective Project Manager/00 - Exploring how a project manager adds value.md",

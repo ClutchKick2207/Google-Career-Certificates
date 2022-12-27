@@ -58,7 +58,11 @@ kanban-plugin: basic
 
 
 
-## Doing Today
+## Doing this session
+
+
+
+## Doing next session
 
 - [ ] **Watch** - The core skills of a project  manager
 - [ ] **Notes** - The core skills of a project manager
