@@ -95,3 +95,12 @@
 	- **Communicating Status and Concerns**
 		- Create an open door policy
 		- Build trust between the team, and stakeholders
+
+## A Project Manager's role within a team
+- **A project manager's role within a team**
+	- A "Project Manager" is not often the direct manager of the people working on a project team
+		- Manages the *tasks* of a project
+		- Therefore although you may have to manage teammates for a certain task/project, you are probably not their day-to-day boss
+	- Everyone on the team will have their own set of roles and responsibilities
+		- Each person will be an expert on their portion of the project, but no one will be an expert on every aspect of the project
+		- 
