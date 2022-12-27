@@ -48,12 +48,12 @@ kanban-plugin: basic
 
 ## In progress
 
+- [ ] **Read** - Responsibilities that utilize interpersonal skills
+- [ ] **Notes** - Responsibilities that utilize interpersonal skills
 
 
 ## Doing Today
 
-- [ ] **Read** - Responsibilities that utilize interpersonal skills
-- [ ] **Notes** - Responsibilities that utilize interpersonal skills
 - [ ] **Watch** - A project manager's role within a team
 - [ ] **Notes** - A project manager's role within a team
 - [ ] **Read** - Working with cross-functional teams
