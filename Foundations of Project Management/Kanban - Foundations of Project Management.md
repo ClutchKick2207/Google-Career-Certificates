@@ -42,11 +42,12 @@ kanban-plugin: basic
 - [ ] **QUIZ** - Reflection: Relevant project management roles and companies
 - [ ] **Watch** - Key project management roles and responsibilities
 - [ ] **Notes** - Key project management roles and responsibilities
+- [ ] **Participate** - Project opportunities and tasks
+- [ ] **Notes** - Project opportunities and tasks
 
 
 ## In progress
 
-- [ ] **Participate** - Project opportunities and tasks
 
 
 ## Doing Today

@@ -33,3 +33,31 @@
 - **Background Info**
 	- As project manager for an arts education centre, you join a planning meeting for the upcoming quarter. Team members will discuss top priorities, and you’ll identify a project and related tasks to achieve these goals.
 - **Notes**
+	- **Roles**
+		- **Senior Artistic Director**
+			- Makes programming decisions and develops the long-term vision for the company.
+		- **Director of Education**
+			- Oversees curriculum planning and evaluation and supervises instructors.
+		- **Communications coordinator**
+			- Manages publicity, social media, and other communications content
+		- **Chief development officer**
+			- Heads fundraising efforts by meeting with donors, organizing events, and writing grant proposals.
+	- **Meeting Notes**
+		- **Online Education**
+			- "More classes we put online, the more students we can reach"
+			- Live-stream classes
+				- Although pre-record some classes as demos
+					- Most popular courses
+						- Art
+						- Music
+						- Theatre
+						- Dance
+				- 30-minutes each
+			- After developing topics, develop marketing
+			- Play demos at fundraiser
+			- **Tasks**
+				- Needs to create an online course to then market, and fundraise for
+				- Then let instructors choose their topics
+				- Let instructors script their lessons
+				- Director of Education speaks with Videographer to set up a schedule to film
+				- Communications Coordinator plans to write a press release as a part of the promotional materials
