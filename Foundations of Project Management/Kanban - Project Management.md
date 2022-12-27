@@ -36,17 +36,17 @@ kanban-plugin: basic
 - [ ] **Watch** - Introduction: Becoming an effective project manager
 - [ ] **Notes** - The value of a project manager
 - [ ] **Watch** - The value of a project manager
+- [ ] **Watch** - JuAnne: Path to becoming a Project Manager
 
 
 ## In progress
 
-- [ ] **Watch** - JuAnne: Path to becoming a Project Manager
+- [ ] **Read** - How project managers impact organisations
+- [ ] **Notes** - How project managers impact organisations
 
 
 ## Doing Today
 
-- [ ] **Read** - How project managers impact organisations
-- [ ] **Notes** - How project managers impact organisations
 - [ ] **QUIZ** - Reflection: Relevant project management roles and companies
 - [ ] **Watch** - Key project management roles and responsibilities
 - [ ] **Notes** - Key project management roles and responsibilities

@@ -62,3 +62,15 @@
 			- Regular contact with people outside the team
 				- company leaders that are invested in the project for example
 
+## How Project Managers Impact Organisations
+> [!Info] Customer - Definition
+> Refers to a person or an organisation that defines the requirement of the project and sets important guidelines, such as budget and deadlines
+- **How Project Managers impact Organisations**
+	- **Focusing on the customer**
+		- ![[Pasted image 20221227170726.png]]
+		- Customers are always a key element to success in any business scenario
+	- **Building a great team**
+	- **Fostering relationships and communication**
+	- **Managing the project**
+	- **Breaking down barriers**
+
