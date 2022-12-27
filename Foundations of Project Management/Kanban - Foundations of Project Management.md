@@ -48,19 +48,18 @@ kanban-plugin: basic
 - [ ] **Notes** - Responsibilities that utilize interpersonal skills
 - [ ] **Watch** - A project manager's role within a team
 - [ ] **Notes** - A project manager's role within a team
+- [ ] **Read** - Working with cross-functional teams
+- [ ] **Notes** - Working with cross-functional teams
+- [ ] **Watch** - Elita: A day in the life of a project manager
 
 
 ## In progress
 
-- [ ] **Read** - Working with cross-functional teams
-- [ ] **Notes** - Working with cross-functional teams
+- [ ] **QUIZ** - Test your knowledge: Learning more about project manager roles and responsibilities
 
 
 ## Doing Today
 
-- [ ] **Watch** - Elita: A day in the life of a project manager
-- [ ] **Notes** - Elita: A day in the life of a project manager
-- [ ] **QUIZ** - Test your knowledge: Learning more about project manager roles and responsibilities
 
 
 ## To-Do
