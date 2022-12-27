@@ -96,6 +96,9 @@
 			- *"What is your hope for the outcome of this project?"*
 				- The customer states that their ultimate goal is to increase the speed at which they fill orders without sacrificing quality.
 	- **Building a great team**
+		- ![[Pasted image 20221227171456.png]]
+		- **Team**
+			- 
 	- **Fostering relationships and communication**
 	- **Managing the project**
 	- **Breaking down barriers**
