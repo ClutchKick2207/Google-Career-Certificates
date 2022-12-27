@@ -44,18 +44,18 @@ kanban-plugin: basic
 - [ ] **Notes** - Key project management roles and responsibilities
 - [ ] **Participate** - Project opportunities and tasks
 - [ ] **Notes** - Project opportunities and tasks
-
-
-## In progress
-
 - [ ] **Read** - Responsibilities that utilize interpersonal skills
 - [ ] **Notes** - Responsibilities that utilize interpersonal skills
 
 
-## Doing Today
+## In progress
 
 - [ ] **Watch** - A project manager's role within a team
 - [ ] **Notes** - A project manager's role within a team
+
+
+## Doing Today
+
 - [ ] **Read** - Working with cross-functional teams
 - [ ] **Notes** - Working with cross-functional teams
 - [ ] **Watch** - Elita: A day in the life of a project manager
