@@ -98,8 +98,23 @@
 	- **Building a great team**
 		- ![[Pasted image 20221227171456.png]]
 		- **Team**
-			- 
+			- A project's biggest asset
+			- A project manager should take the time to understand each person's motivations, strengths, and weaknesses
+			- Project managers add value by identifying the right team of the project, and enabling it to make decisions
+			- **Building a team**
+				- Consider the skills needed for the project
+				- Consider the resources available
+				- Understand what the customer needs
 	- **Fostering relationships and communication**
+		- ![[Pasted image 20221227172036.png]]
+		- **Fostering relationships**
+			- Maintaining customer satisfaction and building a great team are two ways that a project manager can bring value
+			- Treat others with consideration and respect
+			- Project managers set the tone for a project and build relationships within their teams and stakeholders
+			- Take the time to check in daily with the team, and ask if there's anything you can help with
 	- **Managing the project**
+		- ![[Pasted image 20221227172230.png]]
+		- **Managing the project**
+			- 
 	- **Breaking down barriers**
 
