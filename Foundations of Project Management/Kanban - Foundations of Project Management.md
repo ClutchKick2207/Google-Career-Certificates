@@ -60,15 +60,15 @@ kanban-plugin: basic
 
 ## Doing Today
 
-
-
-## To-Do
-
 - [ ] **Watch** - The core skills of a project  manager
 - [ ] **Notes** - The core skills of a project manager
 - [ ] **Read** - Key competencies: Flexibility and handling ambiguity
 - [ ] **Notes** - Key competencies: Flexibility and handling ambiguity
 - [ ] **QUIZ** - Reflection: Identify the essential skills of a project manager
+
+
+## To-Do
+
 - [ ] **Watch** - Rachel: My journey to becoming a project manager
 - [ ] **Notes** - Rachel: My journey to becoming a project manager
 - [ ] **Participate** - Skills you bring to the table
