@@ -61,3 +61,15 @@
 				- Let instructors script their lessons
 				- Director of Education speaks with Videographer to set up a schedule to film
 				- Communications Coordinator plans to write a press release as a part of the promotional materials
+
+## Responsibilities that utilise interpersonal skills
+- ![[Pasted image 20221227184903.png]]
+- **What are the core job responsibilities of project managers?**
+	- Project Managers are responsible for planning, organising, managing tasks, budgeting, controlling costs, and other factors to help keep the project within budget and on time
+		- therefore a project manager is responsible for tracking the day-to-day details of the project
+- **Interpersonal Responsibilities**
+	- **Teaching and Mentoring**
+	- **Building Relationships**
+	- **Controlling Change**
+	- **Empowering your Team**
+	- **Communicating Status and Concerns**
