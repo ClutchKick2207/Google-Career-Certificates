@@ -50,10 +50,6 @@ kanban-plugin: basic
 
 ## Doing Today
 
-
-
-## To-Do
-
 - [ ] **Participate** - Project opportunities and tasks
 - [ ] **Read** - Responsibilities that utilize interpersonal skills
 - [ ] **Notes** - Responsibilities that utilize interpersonal skills
@@ -64,6 +60,10 @@ kanban-plugin: basic
 - [ ] **Watch** - Elita: A day in the life of a project manager
 - [ ] **Notes** - Elita: A day in the life of a project manager
 - [ ] **QUIZ** - Test your knowledge: Learning more about project manager roles and responsibilities
+
+
+## To-Do
+
 - [ ] **Watch** - The core skills of a project  manager
 - [ ] **Notes** - The core skills of a project manager
 - [ ] **Read** - Key competencies: Flexibility and handling ambiguity
