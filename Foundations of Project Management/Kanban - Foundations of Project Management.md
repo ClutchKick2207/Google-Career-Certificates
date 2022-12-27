@@ -40,17 +40,17 @@ kanban-plugin: basic
 - [ ] **Read** - How project managers impact organisations
 - [ ] **Notes** - How project managers impact organisations
 - [ ] **QUIZ** - Reflection: Relevant project management roles and companies
-
-
-## In progress
-
 - [ ] **Watch** - Key project management roles and responsibilities
 - [ ] **Notes** - Key project management roles and responsibilities
 
 
-## Doing Today
+## In progress
 
 - [ ] **Participate** - Project opportunities and tasks
+
+
+## Doing Today
+
 - [ ] **Read** - Responsibilities that utilize interpersonal skills
 - [ ] **Notes** - Responsibilities that utilize interpersonal skills
 - [ ] **Watch** - A project manager's role within a team

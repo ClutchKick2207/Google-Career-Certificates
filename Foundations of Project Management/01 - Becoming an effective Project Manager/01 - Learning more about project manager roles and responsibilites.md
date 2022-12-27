@@ -27,3 +27,9 @@
 			- Make sure things are being done
 			- Demonstrates progress
 		- Use some form of project tracker, and actively manage tasks
+
+## Identify: Project Opportunities and Tasks
+- ![[Pasted image 20221227183627.png]]
+- **Background Info**
+	- As project manager for an arts education centre, you join a planning meeting for the upcoming quarter. Team members will discuss top priorities, and you’ll identify a project and related tasks to achieve these goals.
+- **Notes**
