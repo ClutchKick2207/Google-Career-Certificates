@@ -115,6 +115,14 @@
 	- **Managing the project**
 		- ![[Pasted image 20221227172230.png]]
 		- **Managing the project**
-			- 
+			- Each person should be assigned specific project tasks
+			- Once each task is done, the person responsible hands that part over to the next person
+			- Note that team members may not see the bigger picture and how their work impact others
+			- Make sure that everyone understands the bigger picture and how important their work is
 	- **Breaking down barriers**
+		- ![[Pasted image 20221227172452.png]]
+		- **Breaking Barriers**
+			- Breaks down barriers, and allows for their team to innovate new ways of doing things
+				- Avoid the "Because we’ve always done it this way."
+			- Provide support while your team is trying something new
 
