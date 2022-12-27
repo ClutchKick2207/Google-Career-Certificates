@@ -112,10 +112,28 @@
 		- "Collaborate with other teams at the organisation to deliver solutions that meet the requirements based on project scope, schedule and budget"
 
 ## Working with cross-functional teams
+- ![[Pasted image 20221227200515.png]]
 > [!info] Cross-Functional Team - Definition
 > A team, who's members have different backgrounds, types of expertise and job functions.
+> 
 - **Cross-Functional teams**
 	- Members are sometimes referred to as "T-shaped" professionals
 		- Skilled in how to collaborate and innovate with those in different job functions and different departments
 		- Also contribute their own specific areas of expertise
 		- Each member has their own unique perspective and experience, bringing different ideas and strategies to the project
+	- How this can be done
+		- **Clarify Goals**
+			- Ensure that every team member understands their role, how they support each other, and the common goals of the project
+			- Set clear goals. and make sure everyone understands those goals
+			- **Define**
+				- Budget
+				- Deadlines
+				- Quality requirements
+				- Important resources
+			- Continually check up on the team
+			- All team members work together with the project manager to support the current project
+		- **Get team members with the right skills**
+			- Make sure that all the team members have the correct skills for each of the project functions
+			- Make sure that the right people with the right skills are available
+		- **Measure progress**
+		- **Recognise efforts**
