@@ -51,11 +51,11 @@ kanban-plugin: basic
 - [ ] **Read** - Working with cross-functional teams
 - [ ] **Notes** - Working with cross-functional teams
 - [ ] **Watch** - Elita: A day in the life of a project manager
+- [ ] **QUIZ** - Test your knowledge: Learning more about project manager roles and responsibilities
 
 
 ## In progress
 
-- [ ] **QUIZ** - Test your knowledge: Learning more about project manager roles and responsibilities
 
 
 ## Doing Today
@@ -65,10 +65,6 @@ kanban-plugin: basic
 - [ ] **Read** - Key competencies: Flexibility and handling ambiguity
 - [ ] **Notes** - Key competencies: Flexibility and handling ambiguity
 - [ ] **QUIZ** - Reflection: Identify the essential skills of a project manager
-
-
-## To-Do
-
 - [ ] **Watch** - Rachel: My journey to becoming a project manager
 - [ ] **Notes** - Rachel: My journey to becoming a project manager
 - [ ] **Participate** - Skills you bring to the table
@@ -80,6 +76,10 @@ kanban-plugin: basic
 - [ ] **QUIZ** - Reflection: Influence without authority
 - [ ] **Watch** - Ellen: Traits of a successful project manager
 - [ ] **Notes** - Ellen: Traits of a successful project manager
+
+
+## To-Do
+
 - [ ] **Watch** - Wrap-up
 - [ ] **QUIZ** - Weekly Challenge 2
 
