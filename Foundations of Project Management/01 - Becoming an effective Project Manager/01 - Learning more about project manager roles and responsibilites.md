@@ -110,3 +110,5 @@
 		- "Ensure that issues and risks are tracked and visible, and be able to establish escalation paths"
 		- "Understand and help teammates to adopt the right workflows and project management styles"
 		- "Collaborate with other teams at the organisation to deliver solutions that meet the requirements based on project scope, schedule and budget"
+
+## Working with cross-functional teams
