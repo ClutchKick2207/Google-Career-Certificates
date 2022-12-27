@@ -68,7 +68,33 @@
 - **How Project Managers impact Organisations**
 	- **Focusing on the customer**
 		- ![[Pasted image 20221227170726.png]]
-		- Customers are always a key element to success in any business scenario
+		- **Customers**
+			- Customers are always a key element to success in any business scenario
+			- Customers can be internal or external
+			- **Internal Customers**
+				- Stakeholders within the organisation
+				- Examples
+					- Management
+					- Project team members
+					- Resources managers
+			- **External Customers**
+				- Stakeholders outside of the organisation
+				- Examples
+					- Clients
+					- Contractors
+					- Suppliers
+					- Consumers
+		- To successful deliver a project, you have to meet the customer's standards
+			- Therefore have to clearly understand expectations
+		- **Asking the customer questions**
+			- *"What is the problem you would like us to help solve?"*
+				- The customer wants help developing a new process that would allow their company to be more efficient.
+			- *"How is the problem impacting your organization?"*
+				- The customer states that they are losing clients because of their current inefficient processes since clients are sometimes receiving their orders late.
+			- *"What prompted you to ask for help now?"*
+				- The customer says that they may lose department funding if they do not improve efficiency.
+			- *"What is your hope for the outcome of this project?"*
+				- The customer states that their ultimate goal is to increase the speed at which they fill orders without sacrificing quality.
 	- **Building a great team**
 	- **Fostering relationships and communication**
 	- **Managing the project**
