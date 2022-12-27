@@ -34,12 +34,13 @@ kanban-plugin: basic
 ## Done - Week 2
 
 - [ ] **Watch** - Introduction: Becoming an effective project manager
+- [ ] **Notes** - The value of a project manager
+- [ ] **Watch** - The value of a project manager
 
 
 ## In progress
 
-- [ ] **Watch** - The value of a project manager
-- [ ] **Notes** - The value of a project manager
+- [ ] **Watch** - JuAnne: Path to becoming a Project Manager
 
 
 ## Doing Today
