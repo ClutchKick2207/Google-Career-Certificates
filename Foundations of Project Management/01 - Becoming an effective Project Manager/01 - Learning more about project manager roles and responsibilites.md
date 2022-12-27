@@ -69,7 +69,29 @@
 		- therefore a project manager is responsible for tracking the day-to-day details of the project
 - **Interpersonal Responsibilities**
 	- **Teaching and Mentoring**
+		- As a project manager, you serve as a mentor for the team
+		- Take time to
+			- Fully explain expectations
+			- Eliminate rework
+			- Eliminate confusion
+			- Eliminate frustration
+		- Support each individual in meeting expectations and exceed their own sense of personal potential
 	- **Building Relationships**
+		- Get to know your team members
+			- Let them know that you care about them as people, and not just as employees
+		- Take the time to build relationships with customers, clients, vendors and other stakeholders
+		- Dedicate time to check on people
+		- Ask about their lives beyond the project
+			- Follow up on those discussions later on to show interest
 	- **Controlling Change**
+		- "The only thing that never changes, is that everything changes"
+		- Remain flexible to adjust to the stakeholder's needs
+		- Protect team from constant change and rework
+		- Document initial expectations of the project, and identify any changes being requested
+			- Helpful to understand the budget and schedule impact of the changes and make sure that the stakeholders understand those impacts
 	- **Empowering your Team**
+		- Get fresh ideas and passionate employees willing to help find solutions to problems
+		- Delegating responsibilities to the team, and make them have more impact in the project
 	- **Communicating Status and Concerns**
+		- Create an open door policy
+		- Build trust between the team, and stakeholders
