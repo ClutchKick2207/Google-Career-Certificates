@@ -89,3 +89,19 @@
 				- **Calculate "float" into your schedule**
 					- calculate the amount of time you can wait to begin a task before it impact the project schedule and threatens the project outcome
 					- Identifying this can allow for keeping the project on track, and make sure everything is as efficient as possible
+			- *Handling ambiguity*
+				- **Keep calm**
+					- being calm, and handling ambiguity with grace and poise can set a good example, and allow your team to do the same
+				- **Express empathy**
+					- important to understand what your team is thinking, especially during times of ambiguity
+					- let team members know you care about the challenges they are facing
+				- **Communicate what you know clearly**
+					- Define the aspects of the project that are confirmed and will not change
+					- Allows for the team to have a better sense of what to expect, regardless of any potentially variable aspects
+				- **Make decisions and stick to them**
+					- Don't second guess your decisions, as it can lead to more uncertainty
+					- If you have to change course, make sure you explain to the team exactly why, and why this is a better option
+				- **Trust the expertise of your team**
+					- Have everyone on your team discuss what they already know
+						- such as resources needed, components, specific tasks, etc.
+					- Then use what you know to brainstorm and figure out what to do
