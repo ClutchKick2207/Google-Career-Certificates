@@ -56,16 +56,12 @@ kanban-plugin: basic
 
 ## In progress
 
+- [ ] **Watch** - The core skills of a project  manager
+- [ ] **Notes** - The core skills of a project manager
 
 
 ## Doing this session
 
-
-
-## Doing next session
-
-- [ ] **Watch** - The core skills of a project  manager
-- [ ] **Notes** - The core skills of a project manager
 - [ ] **Read** - Key competencies: Flexibility and handling ambiguity
 - [ ] **Notes** - Key competencies: Flexibility and handling ambiguity
 - [ ] **QUIZ** - Reflection: Identify the essential skills of a project manager
@@ -75,6 +71,10 @@ kanban-plugin: basic
 - [ ] **Read** - Common myths about project managers
 - [ ] **Notes** - Common myths about project managers
 - [ ] **QUIZ** - Test your knowledge: Acquiring the core skills of a successful project manager
+
+
+## Doing next session
+
 - [ ] **Watch** - Leadership and team dynamics
 - [ ] **Notes** - Leadership and team dynamics
 - [ ] **QUIZ** - Reflection: Influence without authority
