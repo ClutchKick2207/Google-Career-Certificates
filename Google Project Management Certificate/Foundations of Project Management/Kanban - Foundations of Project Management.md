@@ -53,20 +53,20 @@ kanban-plugin: basic
 - [ ] **Watch** - Elita: A day in the life of a project manager
 - [ ] **QUIZ** - Test your knowledge: Learning more about project manager roles and responsibilities
 - [ ] **Notes** - The core skills of a project manager
+- [ ] **Read** - Key competencies: Flexibility and handling ambiguity
 - [ ] **Watch** - The core skills of a project  manager
+- [ ] **Notes** - Key competencies: Flexibility and handling ambiguity
+- [ ] **QUIZ** - Reflection: Identify the essential skills of a project manager
+- [ ] **Notes** - Rachel: My journey to becoming a project manager
 
 
 ## In progress
 
-- [ ] **Read** - Key competencies: Flexibility and handling ambiguity
-- [ ] **Notes** - Key competencies: Flexibility and handling ambiguity
+- [ ] **Watch** - Rachel: My journey to becoming a project manager
 
 
 ## Doing this session
 
-- [ ] **QUIZ** - Reflection: Identify the essential skills of a project manager
-- [ ] **Watch** - Rachel: My journey to becoming a project manager
-- [ ] **Notes** - Rachel: My journey to becoming a project manager
 - [ ] **Participate** - Skills you bring to the table
 - [ ] **Read** - Common myths about project managers
 - [ ] **Notes** - Common myths about project managers
