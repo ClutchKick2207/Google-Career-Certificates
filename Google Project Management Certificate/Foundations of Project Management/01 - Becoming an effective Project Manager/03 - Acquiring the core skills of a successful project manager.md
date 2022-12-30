@@ -4,9 +4,6 @@
 ## My Notes
 > My notes for this overall course will be laid out by module in the course, and have subheadings in order to differentiate between different topics/videos that are presented in the courses. I'll add in any extra notes/resources that I use where necessary, and hope it will be helpful for anyone looking!
 
-> [!info] Definiton - Definition
-> Content
-
 
 ## The core skills of a project manager/Key Competencies: Flexibility and handling ambiguity
 - **Core Skills**
@@ -104,4 +101,26 @@
 				- **Trust the expertise of your team**
 					- Have everyone on your team discuss what they already know
 						- such as resources needed, components, specific tasks, etc.
-					- Then use what you know to brainstorm and figure out what to do
+					- Then use what you know to brainstorm and figure out what to do 
+
+## Leadership and team dynamics
+> [!info] Influencing without authority - Definition
+> A project manager's ability to guide teammates to complete their assigned work without acting as their direct manager
+- **Leadership and Team dynamics**
+	- **Key Interpersonal Skills**
+		- *Communication*
+			- Checking in with teammates
+				- understand how they are going with a task
+			- Providing feedback on the quality of the team-mate's work
+		- *Negotiation*
+			- Working with a team-mate to compromise on a new deadline, when they tell you they can't get work done on time
+			- You have to use negotiation often with stakeholders and teammates, to balance their needs and the betterment of the project
+		- *Conflict mediation*
+			- Project plans will change, and tension will arise
+			- Must not allow for conflict to interfere with the project
+				- Setting up a meeting with feuding teammates for example
+		- *Understanding motivations*
+			- Get to know teammates
+			- Figure out what makes them do their best work
+				- Learning how teammates prefer to receive feedback
+				- How they like to receive feedback when they do a good job
