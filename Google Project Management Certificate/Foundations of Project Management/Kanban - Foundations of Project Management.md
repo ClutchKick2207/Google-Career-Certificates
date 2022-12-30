@@ -57,20 +57,18 @@ kanban-plugin: basic
 - [ ] **Watch** - The core skills of a project  manager
 - [ ] **Notes** - Key competencies: Flexibility and handling ambiguity
 - [ ] **QUIZ** - Reflection: Identify the essential skills of a project manager
-- [ ] **Notes** - Rachel: My journey to becoming a project manager
+- [ ] **Watch** - Rachel: My journey to becoming a project manager
+- [ ] **Participate** - Skills you bring to the table
+- [ ] **Read** - Common myths about project managers
 
 
 ## In progress
 
-- [ ] **Watch** - Rachel: My journey to becoming a project manager
+- [ ] **QUIZ** - Test your knowledge: Acquiring the core skills of a successful project manager
 
 
 ## Doing this session
 
-- [ ] **Participate** - Skills you bring to the table
-- [ ] **Read** - Common myths about project managers
-- [ ] **Notes** - Common myths about project managers
-- [ ] **QUIZ** - Test your knowledge: Acquiring the core skills of a successful project manager
 
 
 ## Doing next session
