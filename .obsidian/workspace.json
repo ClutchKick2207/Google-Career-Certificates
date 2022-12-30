@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundations of Project Management/01 - Becoming an effective Project Manager/01 - Learning more about project manager roles and responsibilites.md",
+                "file": "Google Project Management Certificate/Foundations of Project Management/01 - Becoming an effective Project Manager/01 - Learning more about project manager roles and responsibilites.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ceb42f21868df2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Google Project Management Certificate/Foundations of Project Management/01 - Becoming an effective Project Manager/01 - Learning more about project manager roles and responsibilites.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3eaabb16df92b483",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Google Project Management Certificate/Foundations of Project Management/01 - Becoming an effective Project Manager/03 - Acquiring the core skills of a successful project manager.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "120396978f3dd686",
@@ -32,7 +57,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Foundations of Project Management/Kanban - Foundations of Project Management.md"
+                "file": "Google Project Management Certificate/Foundations of Project Management/Kanban - Foundations of Project Management.md"
               },
               "pinned": true
             }
@@ -87,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 276.5
   },
   "right": {
     "id": "547d4c4ba18fd0ab",
@@ -104,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Foundations of Project Management/Kanban - Foundations of Project Management.md",
+                "file": "Google Project Management Certificate/Foundations of Project Management/01 - Becoming an effective Project Manager/03 - Acquiring the core skills of a successful project manager.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Foundations of Project Management/Kanban - Foundations of Project Management.md",
+                "file": "Google Project Management Certificate/Foundations of Project Management/01 - Becoming an effective Project Manager/03 - Acquiring the core skills of a successful project manager.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Foundations of Project Management/Kanban - Foundations of Project Management.md"
+                "file": "Google Project Management Certificate/Foundations of Project Management/01 - Becoming an effective Project Manager/03 - Acquiring the core skills of a successful project manager.md"
               }
             }
           }
@@ -166,17 +190,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8337f771cd84799f",
+  "active": "3eaabb16df92b483",
   "lastOpenFiles": [
-    "Foundations of Project Management/01 - Becoming an effective Project Manager/01 - Learning more about project manager roles and responsibilites.md",
-    "Foundations of Project Management/Kanban - Foundations of Project Management.md",
+    "Google Project Management Certificate/Note Template - Project Management.md",
+    "Google Project Management Certificate/Foundations of Project Management/01 - Becoming an effective Project Manager/03 - Acquiring the core skills of a successful project manager.md",
+    "Google Project Management Certificate/Foundations of Project Management/01 - Becoming an effective Project Manager/01 - Learning more about project manager roles and responsibilites.md",
+    "Google Project Management Certificate/Foundations of Project Management/Kanban - Foundations of Project Management.md",
     "README.md",
-    "Foundations of Project Management/00 - Embarking on a career in Project Management/00 - Getting Started with the Program - Notes.md",
-    "Foundations of Project Management/01 - Becoming an effective Project Manager/00 - Exploring how a project manager adds value.md",
-    "Foundations of Project Management/00 - Embarking on a career in Project Management/02 - Learning about careers in Project Management.md",
+    "Google Project Management Certificate/Foundations of Project Management/00 - Embarking on a career in Project Management/00 - Getting Started with the Program - Notes.md",
+    "Google Project Management Certificate/Foundations of Project Management/01 - Becoming an effective Project Manager/00 - Exploring how a project manager adds value.md",
+    "Google Project Management Certificate/Foundations of Project Management/00 - Embarking on a career in Project Management/02 - Learning about careers in Project Management.md",
     "Notes  - Path to becoming a project manager.md",
-    "Foundations of Project Management/00 - Embarking on a career in Project Management/01 - Understanding the basics of Project Management - Notes.md",
-    "Foundations of Project Management/00 - Embarking on a career in Project Management/03 - Final Notes (1st Module).md",
-    "Participate  - Browsing future jobs.md"
+    "Google Project Management Certificate/Foundations of Project Management/00 - Embarking on a career in Project Management/01 - Understanding the basics of Project Management - Notes.md"
   ]
 }
