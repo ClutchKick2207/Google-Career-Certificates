@@ -103,7 +103,7 @@
 						- such as resources needed, components, specific tasks, etc.
 					- Then use what you know to brainstorm and figure out what to do 
 
-## Leadership and team dynamics
+## Leadership and team dynamics (Influencing without Authority)
 > [!info] Influencing without authority - Definition
 > A project manager's ability to guide teammates to complete their assigned work without acting as their direct manager
 - **Leadership and Team dynamics**
