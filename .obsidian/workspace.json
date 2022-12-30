@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 276.5,
+    "collapsed": true
   },
   "right": {
     "id": "547d4c4ba18fd0ab",
@@ -161,15 +162,15 @@
   },
   "active": "8b411149b7261117",
   "lastOpenFiles": [
-    "Google Project Management Certificate/Foundations of Project Management/01 - Becoming an effective Project Manager/02 - Acquiring the core skills of a successful project manager.md",
+    "Google Project Management Certificate/Foundations of Project Management/00 - Embarking on a career in Project Management/03 - Final Notes (1st Module).md",
     "Google Project Management Certificate/Foundations of Project Management/01 - Becoming an effective Project Manager/03 - Final Notes (2nd Module).md",
+    "Google Project Management Certificate/Foundations of Project Management/01 - Becoming an effective Project Manager/02 - Acquiring the core skills of a successful project manager.md",
     "Google Project Management Certificate/Foundations of Project Management/01 - Becoming an effective Project Manager/01 - Learning more about project manager roles and responsibilites.md",
     "Google Project Management Certificate/Foundations of Project Management/01 - Becoming an effective Project Manager/00 - Exploring how a project manager adds value.md",
     "Google Project Management Certificate/Foundations of Project Management/Kanban - Foundations of Project Management.md",
     "Google Project Management Certificate/Note Template - Project Management.md",
     "README.md",
     "Google Project Management Certificate/Foundations of Project Management/00 - Embarking on a career in Project Management/00 - Getting Started with the Program - Notes.md",
-    "Google Project Management Certificate/Foundations of Project Management/00 - Embarking on a career in Project Management/02 - Learning about careers in Project Management.md",
-    "Notes  - Path to becoming a project manager.md"
+    "Google Project Management Certificate/Foundations of Project Management/00 - Embarking on a career in Project Management/02 - Learning about careers in Project Management.md"
   ]
 }
