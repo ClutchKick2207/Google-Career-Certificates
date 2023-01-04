@@ -60,30 +60,37 @@ kanban-plugin: basic
 - [ ] **Watch** - Rachel: My journey to becoming a project manager
 - [ ] **Participate** - Skills you bring to the table
 - [ ] **Read** - Common myths about project managers
+- [ ] **QUIZ** - Test your knowledge: Acquiring the core skills of a successful project manager
+- [ ] **Notes** - Leadership and team dynamics
+- [ ] **Watch** - Leadership and team dynamics
+- [ ] **Watch** - Ellen: Traits of a successful project manager
+- [ ] **Notes** - Ellen: Traits of a successful project manager
+- [ ] **QUIZ** - Reflection: Influence without authority
+- [ ] **Watch** - Wrap-up
+- [ ] **QUIZ** - Weekly Challenge 2
+
+
+## Done - Week 3
+
 
 
 ## In progress
 
-- [ ] **QUIZ** - Test your knowledge: Acquiring the core skills of a successful project manager
 
 
 ## Doing this session
 
 
 
-## Doing next session
-
-- [ ] **Watch** - Leadership and team dynamics
-- [ ] **Notes** - Leadership and team dynamics
-- [ ] **QUIZ** - Reflection: Influence without authority
-- [ ] **Watch** - Ellen: Traits of a successful project manager
-- [ ] **Notes** - Ellen: Traits of a successful project manager
-
-
 ## To-Do
 
-- [ ] **Watch** - Wrap-up
-- [ ] **QUIZ** - Weekly Challenge 2
+- [ ] **Watch** - Introduction: The project management life cycle and methodologies
+- [ ] **Notes** - Introduction: The project management life cycle and methodologies
+- [ ] **Watch** - Exploring the phases of the project life cycle
+- [ ] **Notes** - Exploring the phases of the project life cycle
+- [ ] **Read** - Case study: The significance of each project phase
+- [ ] **Notes** - Case study: The significance of each project phase
+- [ ] **QUIZ** - Test your knowledge: Understanding the project life cycle
 
 
 
