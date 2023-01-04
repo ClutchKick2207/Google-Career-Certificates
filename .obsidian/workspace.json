@@ -30,7 +30,14 @@
                 "source": false
               }
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "27421b7cee32853b",
+        "type": "tabs",
+        "children": [
           {
             "id": "8337f771cd84799f",
             "type": "leaf",
@@ -43,8 +50,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,13 +181,13 @@
   "active": "8337f771cd84799f",
   "lastOpenFiles": [
     "Google Project Management Certificate/Foundations of Project Management/02 - The project management life cycle and methodologies/00 - Understanding the project lifecycle.md",
+    "Google Project Management Certificate/Foundations of Project Management/Kanban - Foundations of Project Management.md",
     "Google Project Management Certificate/Note Template - Project Management.md",
     "Google Project Management Certificate/Foundations of Project Management/01 - Becoming an effective Project Manager/03 - Final Notes (2nd Module).md",
     "Google Project Management Certificate/Foundations of Project Management/00 - Embarking on a career in Project Management/03 - Final Notes (1st Module).md",
     "Google Project Management Certificate/Foundations of Project Management/01 - Becoming an effective Project Manager/02 - Acquiring the core skills of a successful project manager.md",
     "Google Project Management Certificate/Foundations of Project Management/01 - Becoming an effective Project Manager/01 - Learning more about project manager roles and responsibilites.md",
     "Google Project Management Certificate/Foundations of Project Management/01 - Becoming an effective Project Manager/00 - Exploring how a project manager adds value.md",
-    "Google Project Management Certificate/Foundations of Project Management/Kanban - Foundations of Project Management.md",
     "README.md",
     "Google Project Management Certificate/Foundations of Project Management/00 - Embarking on a career in Project Management/00 - Getting Started with the Program - Notes.md"
   ]

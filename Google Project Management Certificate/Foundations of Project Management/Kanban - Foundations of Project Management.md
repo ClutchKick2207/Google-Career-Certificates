@@ -72,27 +72,27 @@ kanban-plugin: basic
 
 ## Done - Week 3
 
+- [ ] **Watch** - Introduction: The project management life cycle and methodologies
+- [ ] **Notes** - Introduction: The project management life cycle and methodologies
 
 
 ## In progress
 
+- [ ] **Watch** - Exploring the phases of the project life cycle
+- [ ] **Notes** - Exploring the phases of the project life cycle
 
 
 ## Doing this session
 
-
-
-## To-Do
-
-- [ ] **Watch** - Introduction: The project management life cycle and methodologies
-- [ ] **Notes** - Introduction: The project management life cycle and methodologies
-- [ ] **Watch** - Exploring the phases of the project life cycle
-- [ ] **Notes** - Exploring the phases of the project life cycle
 - [ ] **Read** - Case study: The significance of each project phase
 - [ ] **Notes** - Case study: The significance of each project phase
 - [ ] **QUIZ** - Test your knowledge: Understanding the project life cycle
 - [ ] **Watch** - Phases in action: Initiating and planning
 - [ ] **Notes** - Phases in action: Initiating and planning
+
+
+## To-Do
+
 - [ ] **Watch** - Phases in action: Executing and closing
 - [ ] **Notes** - Phases in action: Initiating and planning
 - [ ] **Read** - Summary of Project Phases
