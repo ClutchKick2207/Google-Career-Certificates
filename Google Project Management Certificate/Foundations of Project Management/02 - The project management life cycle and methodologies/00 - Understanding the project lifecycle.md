@@ -12,4 +12,16 @@
 - **Subheading**
 	- content
 
-##
+## Exploring the phases of the project life cycle
+- **Project Lifecycle**
+	- **Initiate the Project**
+		- Launchpad for the entire project
+		- Define project goals and deliverables
+		- Identify the budget and resources you'll need
+		- People involved in the project
+		- Any other details that can affect the successful completion of the project
+		- Put all the info in one place, to write a report, to then send and get approval for
+	- **Make a plan**
+		- 
+	- **Execute and complete tasks**
+	- **Close the project**
