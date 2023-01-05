@@ -22,6 +22,22 @@
 		- Any other details that can affect the successful completion of the project
 		- Put all the info in one place, to write a report, to then send and get approval for
 	- **Make a plan**
-		- 
+		- For every project, you have to use a plan
+		- Includes
+			- Budget
+			- Breakdown of all necessary tasks
+			- Ways to communicate team roles and responsibilities
+			- Schedule
+			- Resources
+			- What to do if the project encounters any problems
 	- **Execute and complete tasks**
+		- Project team has the task of actually doing the tasks
+		- Primary task is to monitor project, and to keep the team motivated
+		- Remove any obstacles that might come up, so that tasks are executed well and on time
 	- **Close the project**
+		- Celebrate hard work
+		- Evaluate how the project went
+		- Take note of what went well, and what didn't
+		- Connect with anyone outside of the team, and let use it as a networking opportunity
+		- Note that some projects have a hard end-date (such as an election)
+			- Some do not have as black-and-white of a end-date, and therefore needs to be clear when it is over in order to pass over to another group for example
