@@ -6,6 +6,7 @@
       {
         "id": "57bf36eb74407c78",
         "type": "tabs",
+        "dimension": 67.32142857142858,
         "children": [
           {
             "id": "8b411149b7261117",
@@ -31,11 +32,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "27421b7cee32853b",
+        "id": "49c0698cf5121cf4",
         "type": "tabs",
+        "dimension": 32.67857142857143,
         "children": [
           {
             "id": "8337f771cd84799f",
@@ -177,7 +180,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8b411149b7261117",
+  "active": "911fe5b39b9627c7",
   "lastOpenFiles": [
     "Google Project Management Certificate/Foundations of Project Management/Kanban - Foundations of Project Management.md",
     "Google Project Management Certificate/Foundations of Project Management/02 - The project management life cycle and methodologies/00 - Understanding the project lifecycle.md",
