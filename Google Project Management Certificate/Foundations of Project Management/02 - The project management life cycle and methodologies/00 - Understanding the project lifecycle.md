@@ -76,3 +76,20 @@
 		- Find a way to celebrate the work (such as holding a lunch)
 
 ## Phases in action: Initiating and planning
+- **Initiating and planning**
+	- **Initiating**
+		- *Define project goals*
+			- Find deliverables that you can measure
+		- *Determine resources, people, and other project details*
+			- *Resources*
+				- People
+				- Equipment
+				- Software
+				- Programs
+				- Vendors
+				- Physical space
+				- etc. (anything you need to complete your tasks and goal)
+		- *Get project approval*
+			- Make sure that everything is feasible, and create a report
+	- **Planning**
+		- 
