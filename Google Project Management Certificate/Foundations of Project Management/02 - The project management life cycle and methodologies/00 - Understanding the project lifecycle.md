@@ -92,4 +92,8 @@
 		- *Get project approval*
 			- Make sure that everything is feasible, and create a report
 	- **Planning**
-		- 
+		- *Create a budget*
+		- *Set the schedule*
+		- *Establish your team*
+		- *Determine roles and responsibilities*
+		- *Planning for risk and change*
