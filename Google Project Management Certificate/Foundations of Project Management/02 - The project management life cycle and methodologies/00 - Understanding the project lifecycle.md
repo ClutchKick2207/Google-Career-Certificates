@@ -74,3 +74,5 @@
 		- Deliver the project outcome to the stakeholders
 		- Document and discuss any lessons learnt from the project
 		- Find a way to celebrate the work (such as holding a lunch)
+
+## Phases in action: Initiating and planning
