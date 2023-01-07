@@ -129,3 +129,7 @@
 		- Pass off all remaining deliverables and get stakeholder approval
 		- Document the lessons you and your team learned during the project
 		- Reflect on ways to improve in the future
+
+## Understanding Project Life Cycles
+![[Pasted image 20230107232924.png]]
+
