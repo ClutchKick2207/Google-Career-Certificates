@@ -13,18 +13,18 @@ kanban-plugin: basic
 - [ ] **Read** - Case study: The significance of each project phase
 - [ ] **Notes** - Case study: The significance of each project phase
 - [ ] **QUIZ** - Test your knowledge: Understanding the project life cycle
+- [ ] **Watch** - Phases in action: Initiating and planning
+- [ ] **Notes** - Phases in action: Initiating and planning
 
 
 ## In progress
 
-- [ ] **Watch** - Phases in action: Initiating and planning
+- [ ] **Watch** - Phases in action: Executing and closing
 - [ ] **Notes** - Phases in action: Initiating and planning
 
 
 ## Doing this session
 
-- [ ] **Watch** - Phases in action: Executing and closing
-- [ ] **Notes** - Phases in action: Initiating and planning
 - [ ] **Read** - Summary of Project Phases
 - [ ] **Notes** - Summary of Project Phases
 - [ ] **Participate** - Identify: Phases of project life cycle

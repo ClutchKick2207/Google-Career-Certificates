@@ -103,3 +103,60 @@
 			- Quality control
 			- Access to resources
 		- *Establish communications*
+
+## Phases in action: Executing and closing
+- **Executing and closing**
+	- **Executing and completing tasks**
+		- *Manage progress*
+			- Oversee the team's efforts
+			- Explain what is expected from all of the team members
+			- What tasks need to be done
+			- How and when to complete those tasks
+			- Remove obstacles
+			- Alert the right people if it looks like there might be a delay in the project
+		- *Communicate*
+			- Meetings
+			- Written communications
+				- Memos
+			- Emails
+			- Internal chat tools
+			- Task reports
+			- If in doubt, don't be afraid to over communicate, as under communication is very bad
+		- *Make adjustments*
+			- Schedule
+			- Budget
+			- Allocation of resources
+			- Communicate every step
+	- **Close the project**
+		- *Ensure all tasks have been completed*
+			- Including any work added along the way
+			- Make sure any outstanding invoices have been paid
+			- Resources returned
+			- Project documentation has been submitted
+		- *Confirm acceptance of the project outcome*
+			- Get confirmation from stakeholders that the project is acceptable
+			- Person that asked you to manage the project should be satisified
+		- *Reflect on lessons learned*
+			- *Retrospective*
+				- A chance to note best practices and learn how to manage a project more effectively the next time
+			- Can submit retrospective to managers and higher-ups, as they can use information to inform decisions next times they consider a project
+		- *Communicate results with stakeholders*
+			- Collect all documentation and information and share with stakeholders
+			- *Stakeholders*
+				- People that are affected by the project
+					- Department management team
+					- Organisation's management team
+					- Client/Customers of the project
+					- Users of the new project
+					- Community at large
+				- Play a huge role in the development and success
+				- VIP
+		- *Celebrate completing the project*
+			- Celebrations help people enjoy the work they have done
+			- Keep motivation high
+			- Company/Teamwide email
+				- thanking the team, and individual efforts
+			- Company party
+				- For big projects
+		- *Formally move on from the project*
+			- So you can pursue new projects in the future
