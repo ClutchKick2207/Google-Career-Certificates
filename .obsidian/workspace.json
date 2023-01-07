@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google Project Management Certificate/Foundations of Project Management/02 - The project management life cycle and methodologies/01 - Analysing the different project phases.md",
+                "file": "Google Project Management Certificate/Foundations of Project Management/Kanban - Foundations of Project Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Google Project Management Certificate/Foundations of Project Management/02 - The project management life cycle and methodologies/01 - Analysing the different project phases.md",
+                "file": "Google Project Management Certificate/Foundations of Project Management/Kanban - Foundations of Project Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Google Project Management Certificate/Foundations of Project Management/02 - The project management life cycle and methodologies/01 - Analysing the different project phases.md"
+                "file": "Google Project Management Certificate/Foundations of Project Management/Kanban - Foundations of Project Management.md"
               }
             }
           }
@@ -192,10 +192,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8642c26ba9d277ae",
+  "active": "8337f771cd84799f",
   "lastOpenFiles": [
-    "Google Project Management Certificate/Foundations of Project Management/02 - The project management life cycle and methodologies/00 - Understanding the project lifecycle.md",
     "Google Project Management Certificate/Foundations of Project Management/02 - The project management life cycle and methodologies/01 - Analysing the different project phases.md",
+    "Google Project Management Certificate/Foundations of Project Management/02 - The project management life cycle and methodologies/00 - Understanding the project lifecycle.md",
     "Google Project Management Certificate/Foundations of Project Management/Kanban - Foundations of Project Management.md",
     "Google Project Management Certificate/Note Template - Project Management.md",
     "Google Project Management Certificate/Foundations of Project Management/01 - Becoming an effective Project Manager/03 - Final Notes (2nd Module).md",

@@ -15,18 +15,18 @@ kanban-plugin: basic
 - [ ] **QUIZ** - Test your knowledge: Understanding the project life cycle
 - [ ] **Watch** - Phases in action: Initiating and planning
 - [ ] **Notes** - Phases in action: Initiating and planning
-
-
-## In progress
-
 - [ ] **Watch** - Phases in action: Executing and closing
 - [ ] **Notes** - Phases in action: Initiating and planning
 
 
-## Doing this session
+## In progress
 
 - [ ] **Read** - Summary of Project Phases
 - [ ] **Notes** - Summary of Project Phases
+
+
+## Doing this session
+
 - [ ] **Participate** - Identify: Phases of project life cycle
 - [ ] **QUIZ** - Test your knowledge: Analysing the different project phases
 - [ ] **Watch** - Introduction to project management methodologies
@@ -35,12 +35,12 @@ kanban-plugin: basic
 - [ ] **Notes** - Overview of Waterfall and Agile
 - [ ] **Read** - Comparing Waterfall and Agile approaches
 - [ ] **Notes** - Comparing Waterfall and Agile approaches
+- [ ] **Watch** - Introduction to Lean and Six Sigma
+- [ ] **Notes** - Introduction to Lean and Six Sigma
 
 
 ## To-Do
 
-- [ ] **Watch** - Introduction to Lean and Six Sigma
-- [ ] **Notes** - Introduction to Lean and Six Sigma
 - [ ] **Read** - Lean and Six Sigma methodologies
 - [ ] **Notes** - Lean and Six Sigma methodologies
 - [ ] **Read** - Common project management approaches and how to select one
