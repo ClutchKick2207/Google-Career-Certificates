@@ -60,5 +60,10 @@
 		- Documents the value that the project creates for the company
 		- Presents all this information to company leadership, and then to the stakeholders
 	- **Making a plan**
+		- Project plan from start to finish
+		- Project plan allows for all team members and stakeholders to be prepared to complete their tasks
+		- Outlines important tasks and deadlines
+		- Creates a schedule to account for all resources, materials and tasks needed to complete the project
 	- **Executing and completing tasks**
+		- 
 	- **Closing the project**
