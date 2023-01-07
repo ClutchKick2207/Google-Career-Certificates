@@ -65,5 +65,12 @@
 		- Outlines important tasks and deadlines
 		- Creates a schedule to account for all resources, materials and tasks needed to complete the project
 	- **Executing and completing tasks**
-		- 
+		- Puts plan into motion by executing work
+		- Monitors team as they complete project tasks
+			- Role of a project manager isn't to complete individual tasks, but to help break down any individual barriers that would slow or stop the team from completing their tasks
+		- Communicate schedule and quality expectations
+		- Keep stakeholders updated on project status, and gather feedback
 	- **Closing the project**
+		- Deliver the project outcome to the stakeholders
+		- Document and discuss any lessons learnt from the project
+		- Find a way to celebrate the work (such as holding a lunch)
