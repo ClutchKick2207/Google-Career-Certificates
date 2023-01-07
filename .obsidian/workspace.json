@@ -1,59 +1,34 @@
 {
   "main": {
-    "id": "a81765387d6811ca",
+    "id": "261350d5cbafc6ea",
     "type": "split",
     "children": [
       {
-        "id": "57bf36eb74407c78",
+        "id": "f246ba447247eacb",
         "type": "tabs",
-        "dimension": 51.828298887122415,
         "children": [
           {
-            "id": "8b411149b7261117",
+            "id": "e9e8c9340e5d30d2",
             "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Google Project Management Certificate/Foundations of Project Management/02 - The project management life cycle and methodologies/00 - Understanding the project lifecycle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "911fe5b39b9627c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Google Project Management Certificate/Foundations of Project Management/02 - The project management life cycle and methodologies/00 - Understanding the project lifecycle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8642c26ba9d277ae",
-            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Google Project Management Certificate/Foundations of Project Management/02 - The project management life cycle and methodologies/01 - Analysing the different project phases.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
-        "id": "49c0698cf5121cf4",
+        "id": "ae16c0119c3f96d5",
         "type": "tabs",
-        "dimension": 48.171701112877585,
         "children": [
           {
-            "id": "8337f771cd84799f",
+            "id": "351652188352de26",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -70,15 +45,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8b9d35d99e75a02b",
+    "id": "68d7b80dad97539e",
     "type": "split",
     "children": [
       {
-        "id": "19f54e240e3b5b91",
+        "id": "2326a74dd8acbfd6",
         "type": "tabs",
         "children": [
           {
-            "id": "60716a4e6f8959cf",
+            "id": "ae760354f12df169",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -88,7 +63,7 @@
             }
           },
           {
-            "id": "81eefe04e68ba404",
+            "id": "c16a32db0e9dab5d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -103,7 +78,7 @@
             }
           },
           {
-            "id": "b0ed1e232a382b24",
+            "id": "392a76213c952df9",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -114,18 +89,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 300
   },
   "right": {
-    "id": "547d4c4ba18fd0ab",
+    "id": "b06ea18f5787de9e",
     "type": "split",
     "children": [
       {
-        "id": "b5c8c4ab1913b8e2",
+        "id": "a88f7bbc2f15b219",
         "type": "tabs",
         "children": [
           {
-            "id": "0f6c2de3c9e2d68c",
+            "id": "5ff713480949f3b2",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -142,7 +117,7 @@
             }
           },
           {
-            "id": "77e022889dcdf489",
+            "id": "4749ff321960d2c4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -154,7 +129,7 @@
             }
           },
           {
-            "id": "87375a2a23337317",
+            "id": "9d2905e16868edad",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -165,7 +140,7 @@
             }
           },
           {
-            "id": "da92c53b15e241c9",
+            "id": "3596e63fb866bf58",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -183,26 +158,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "8642c26ba9d277ae",
+  "active": "e9e8c9340e5d30d2",
   "lastOpenFiles": [
     "Google Project Management Certificate/Foundations of Project Management/Kanban - Foundations of Project Management.md",
-    "Google Project Management Certificate/Foundations of Project Management/02 - The project management life cycle and methodologies/01 - Analysing the different project phases.md",
-    "Google Project Management Certificate/Foundations of Project Management/02 - The project management life cycle and methodologies/00 - Understanding the project lifecycle.md",
-    "Google Project Management Certificate/Note Template - Project Management.md",
-    "Google Project Management Certificate/Foundations of Project Management/01 - Becoming an effective Project Manager/03 - Final Notes (2nd Module).md",
-    "Google Project Management Certificate/Foundations of Project Management/00 - Embarking on a career in Project Management/03 - Final Notes (1st Module).md",
-    "Google Project Management Certificate/Foundations of Project Management/01 - Becoming an effective Project Manager/02 - Acquiring the core skills of a successful project manager.md",
-    "Google Project Management Certificate/Foundations of Project Management/01 - Becoming an effective Project Manager/01 - Learning more about project manager roles and responsibilites.md",
-    "Google Project Management Certificate/Foundations of Project Management/01 - Becoming an effective Project Manager/00 - Exploring how a project manager adds value.md",
-    "README.md"
+    "Google Project Management Certificate/Foundations of Project Management/02 - The project management life cycle and methodologies/01 - Analysing the different project phases.md"
   ]
 }
