@@ -6,7 +6,7 @@
       {
         "id": "57bf36eb74407c78",
         "type": "tabs",
-        "dimension": 67.32142857142858,
+        "dimension": 51.828298887122415,
         "children": [
           {
             "id": "8b411149b7261117",
@@ -38,7 +38,7 @@
       {
         "id": "49c0698cf5121cf4",
         "type": "tabs",
-        "dimension": 32.67857142857142,
+        "dimension": 48.171701112877585,
         "children": [
           {
             "id": "8337f771cd84799f",
@@ -102,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 276.5,
+    "collapsed": true
   },
   "right": {
     "id": "547d4c4ba18fd0ab",
@@ -180,7 +181,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "60716a4e6f8959cf",
+  "active": "911fe5b39b9627c7",
   "lastOpenFiles": [
     "Google Project Management Certificate/Foundations of Project Management/Kanban - Foundations of Project Management.md",
     "Google Project Management Certificate/Note Template - Project Management.md",

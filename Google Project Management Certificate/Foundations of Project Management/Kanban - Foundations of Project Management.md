@@ -10,35 +10,35 @@ kanban-plugin: basic
 - [ ] **Notes** - Introduction: The project management life cycle and methodologies
 - [ ] **Watch** - Exploring the phases of the project life cycle
 - [ ] **Notes** - Exploring the phases of the project life cycle
+- [ ] **Read** - Case study: The significance of each project phase
+- [ ] **Notes** - Case study: The significance of each project phase
+- [ ] **QUIZ** - Test your knowledge: Understanding the project life cycle
 
 
 ## In progress
 
-- [ ] **Read** - Case study: The significance of each project phase
-- [ ] **Notes** - Case study: The significance of each project phase
+- [ ] **Watch** - Phases in action: Initiating and planning
+- [ ] **Notes** - Phases in action: Initiating and planning
 
 
 ## Doing this session
 
-- [ ] **QUIZ** - Test your knowledge: Understanding the project life cycle
-- [ ] **Watch** - Phases in action: Initiating and planning
-- [ ] **Notes** - Phases in action: Initiating and planning
 - [ ] **Watch** - Phases in action: Executing and closing
 - [ ] **Notes** - Phases in action: Initiating and planning
 - [ ] **Read** - Summary of Project Phases
 - [ ] **Notes** - Summary of Project Phases
 - [ ] **Participate** - Identify: Phases of project life cycle
 - [ ] **QUIZ** - Test your knowledge: Analysing the different project phases
-
-
-## To-Do
-
 - [ ] **Watch** - Introduction to project management methodologies
 - [ ] **Notes** - Introduction to project management methodologies
 - [ ] **Watch** - Overview of Waterfall and Agile
 - [ ] **Notes** - Overview of Waterfall and Agile
 - [ ] **Read** - Comparing Waterfall and Agile approaches
 - [ ] **Notes** - Comparing Waterfall and Agile approaches
+
+
+## To-Do
+
 - [ ] **Watch** - Introduction to Lean and Six Sigma
 - [ ] **Notes** - Introduction to Lean and Six Sigma
 - [ ] **Read** - Lean and Six Sigma methodologies
