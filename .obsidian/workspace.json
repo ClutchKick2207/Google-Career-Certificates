@@ -38,7 +38,7 @@
       {
         "id": "49c0698cf5121cf4",
         "type": "tabs",
-        "dimension": 32.67857142857143,
+        "dimension": 32.67857142857142,
         "children": [
           {
             "id": "8337f771cd84799f",
@@ -171,20 +171,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "911fe5b39b9627c7",
+  "active": "60716a4e6f8959cf",
   "lastOpenFiles": [
     "Google Project Management Certificate/Foundations of Project Management/Kanban - Foundations of Project Management.md",
-    "Google Project Management Certificate/Foundations of Project Management/02 - The project management life cycle and methodologies/00 - Understanding the project lifecycle.md",
     "Google Project Management Certificate/Note Template - Project Management.md",
+    "Google Project Management Certificate/Foundations of Project Management/02 - The project management life cycle and methodologies/00 - Understanding the project lifecycle.md",
     "Google Project Management Certificate/Foundations of Project Management/01 - Becoming an effective Project Manager/03 - Final Notes (2nd Module).md",
     "Google Project Management Certificate/Foundations of Project Management/00 - Embarking on a career in Project Management/03 - Final Notes (1st Module).md",
     "Google Project Management Certificate/Foundations of Project Management/01 - Becoming an effective Project Manager/02 - Acquiring the core skills of a successful project manager.md",

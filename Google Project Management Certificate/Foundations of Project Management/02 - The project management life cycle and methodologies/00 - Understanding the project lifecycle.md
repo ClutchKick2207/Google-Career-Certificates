@@ -41,3 +41,12 @@
 		- Connect with anyone outside of the team, and let use it as a networking opportunity
 		- Note that some projects have a hard end-date (such as an election)
 			- Some do not have as black-and-white of a end-date, and therefore needs to be clear when it is over in order to pass over to another group for example
+
+## Case study: The significance of each project phase
+- **Example**
+	- **Consequences of rushing through a project phase**
+		- Quickly throwing together a proposal (with rough estimates)
+		- By not including engineers in the process, doesn't know that requires new software, and therefore will take a year longer than expected, and $800,000 budget wise
+		- Is reprimanded
+	- **What should have happened**
+		- 
