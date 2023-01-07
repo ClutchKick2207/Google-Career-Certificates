@@ -97,3 +97,9 @@
 		- *Establish your team*
 		- *Determine roles and responsibilities*
 		- *Planning for risk and change*
+			- Budget changes
+			- Technology and software requirements
+			- Legal issues
+			- Quality control
+			- Access to resources
+		- *Establish communications*
