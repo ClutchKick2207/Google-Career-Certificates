@@ -43,10 +43,22 @@
 			- Some do not have as black-and-white of a end-date, and therefore needs to be clear when it is over in order to pass over to another group for example
 
 ## Case study: The significance of each project phase
+![[Pasted image 20230107202909.png]]
 - **Example**
 	- **Consequences of rushing through a project phase**
 		- Quickly throwing together a proposal (with rough estimates)
 		- By not including engineers in the process, doesn't know that requires new software, and therefore will take a year longer than expected, and $800,000 budget wise
 		- Is reprimanded
 	- **What should have happened**
-		- 
+		- Although worried about the quick request, will spend the time to make the proposal properly
+		- Is able to develop an accurate proposal, by involving engineers and other members
+- **Project Lifecycle**
+	- **Initiating the project**
+		- Discuss project goals with stakeholders to get a clear idea of what they are asking for
+		- After defining project goals, gather stakeholders and project team members to define what needs to be done
+			- Identifies the skill sets required, the timeline, and cost
+		- Documents the value that the project creates for the company
+		- Presents all this information to company leadership, and then to the stakeholders
+	- **Making a plan**
+	- **Executing and completing tasks**
+	- **Closing the project**
