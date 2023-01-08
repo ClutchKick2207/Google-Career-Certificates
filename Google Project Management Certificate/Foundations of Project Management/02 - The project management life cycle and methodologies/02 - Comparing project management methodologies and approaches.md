@@ -48,6 +48,11 @@
 				- Application design
 			- Event planning and retail also use Waterfall
 			- Waterfall styles all follow an ordered set of steps that are directly linked to clearly defined expectations, resources and goals (that are not likely to change)
+			- By planning the entire project up front, you are planning for success
+				- Help you identify the right people and tasks
+				- Plan accordingly to avoid any hiccups along the way
+				- Create room for documenting plans and progress
+				- Enable you to hit the goal
 		- **Phases**
 			- Initiating
 			- Planning
