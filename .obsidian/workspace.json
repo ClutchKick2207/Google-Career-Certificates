@@ -6,7 +6,6 @@
       {
         "id": "f246ba447247eacb",
         "type": "tabs",
-        "dimension": 83.07761732851986,
         "children": [
           {
             "id": "e9e8c9340e5d30d2",
@@ -36,25 +35,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "ae16c0119c3f96d5",
-        "type": "tabs",
-        "dimension": 16.922382671480143,
-        "children": [
-          {
-            "id": "351652188352de26",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Google Project Management Certificate/Foundations of Project Management/Kanban - Foundations of Project Management.md"
-              },
-              "pinned": true
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b06ea18f5787de9e",
@@ -163,13 +144,21 @@
                 "file": "Google Project Management Certificate/Foundations of Project Management/02 - The project management life cycle and methodologies/02 - Comparing project management methodologies and approaches.md"
               }
             }
+          },
+          {
+            "id": "630d9528ce6f2412",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
