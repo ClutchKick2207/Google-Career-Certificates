@@ -223,4 +223,29 @@
 		- Uses cards that are moved from left to right in order to show work being done, and coordinate work
 		- Kanban boards and Lean 5S are core parts of the Lean methodology
 - **Six Sigma**
-	- 
+	- **Info**
+		- Methodology used to reduce variations, by ensuring that quality processes are followed every time
+		- Six Sigma originates from statistics, whereby items or processes should have 99.9996% quality
+	- **Key principles (7)**
+		- Always focus on the customer
+		- Identify and understand how work gets done. Understand how work really happens
+		- Make your processes flow smoothly
+		- Reduce waste and concentrate on value
+		- Stop defects by removing variation
+		- Involve and collaborate with your team
+		- Approach improvement activity in a systematic way
+	- **When to use**
+		- Find aspects of the product of process that are measurable, such as time cost or quantity
+		- Inspect that measurable item and reject any products that do not meet the Six Sigma standard
+- **Lean Six Sigma**
+	- Discovered that two methodologies work well together
+	- **Lean**
+		- *Tools*
+			- Kanban
+			- 5S
+		- Build quality in processes from the beginning
+		- Products developed using Lean methods are tested using Six Sigma
+		- Optimises processes
+	- **Six Sigma**
+		- Products are tested against the principles, where anything that passes continues, and those that do not are rejected
+		- Reduces variation in products, and makes sure that quality standards are met
