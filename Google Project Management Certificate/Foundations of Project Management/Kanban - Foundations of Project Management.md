@@ -26,13 +26,13 @@ kanban-plugin: basic
 - [ ] **Watch** - Overview of Waterfall and Agile
 - [ ] **Notes** - Overview of Waterfall and Agile
 - [ ] **Notes** - Comparing Waterfall and Agile approaches
+- [ ] **Watch** - Introduction to Lean and Six Sigma
 - [ ] **Read** - Comparing Waterfall and Agile approaches
+- [ ] **Notes** - Introduction to Lean and Six Sigma
 
 
 ## In progress
 
-- [ ] **Watch** - Introduction to Lean and Six Sigma
-- [ ] **Notes** - Introduction to Lean and Six Sigma
 
 
 ## Doing this session
