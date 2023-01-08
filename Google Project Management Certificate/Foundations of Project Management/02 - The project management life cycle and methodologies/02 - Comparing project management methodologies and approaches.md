@@ -75,3 +75,20 @@
 				- Won't allow the client to change the menu when the order is placed
 				- Can choose exactly how much of everything you need because you know exactly how many people are going to be there, and what kind of food is being prepared
 	- **Agile**
+		- **Info**
+			- Able to move quickly and easily, and also willing and able to change and adapt
+			- Many tasks that are being done at the same time, or in various stages of completion
+			- Iterative approach
+			- Used initially in the development of software
+			- More of a mindset that just a series of steps
+				- Concerned with building an effective, collaborative team that seeks regular feedback from the client, so they can deliver the best value, as quickly as possible, and adjust as changes are observed
+		- **Phases**
+			- Initiating
+			- Planning
+			- Executing
+			- Closing
+			- *Note*
+				- Agile projects overlap, and these can be done out of order as well
+				- Done in iterations, which in Scrum are referred to as Sprints
+				- *Sprints*
+					- Short chunks of time (1-4 weeks) where the team works on completing specific tasks
