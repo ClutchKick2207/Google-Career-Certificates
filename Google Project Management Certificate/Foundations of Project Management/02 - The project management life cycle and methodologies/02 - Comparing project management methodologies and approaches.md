@@ -35,18 +35,19 @@
 ## Overview of Waterfall and Agile
 - **Overview of Waterfall and Agile**
 	- **Waterfall**
-		- Sequential ordering of phases
-		- Complete one at a time, down the line
-			- Like a waterfall starting at the top of the mountain to the bottom
-		- Linear approach
-		- First used in physical engineering disciplines
-			- Such as manufacturing and construction
-		- Then used in software engineering projects as well
-		- Used a lot currently
-			- In product feature design
-			- Application design
-		- Event planning and retail also use Waterfall
-		- Waterfall styles all follow an ordered set of steps that are directly linked to clearly defined expectations, resources and goals (that are not likely to change)
+		- **Info**
+			- Sequential ordering of phases
+			- Complete one at a time, down the line
+				- Like a waterfall starting at the top of the mountain to the bottom
+			- Linear approach
+			- First used in physical engineering disciplines
+				- Such as manufacturing and construction
+			- Then used in software engineering projects as well
+			- Used a lot currently
+				- In product feature design
+				- Application design
+			- Event planning and retail also use Waterfall
+			- Waterfall styles all follow an ordered set of steps that are directly linked to clearly defined expectations, resources and goals (that are not likely to change)
 		- **Phases**
 			- Initiating
 			- Planning
@@ -55,4 +56,17 @@
 		- **When to use**
 			- When the phases of the project are clearly defined
 			- When the tasks have to be done sequentially (i.e. one has to be done for the other to happen)
+			- When changes are difficult/expensive, and therefore are unlikely to occur
+		- **Example**
+			- Catering project, on a very tight budget
+				- *Steps*
+					- Confirm number of guests
+					- Very clearly define menu
+					- Get approval and agreement on menu items and cost
+					- Place order on ingredients
+					- Feed guests
+				- As the budget is limited, you cannot afford to waste any food or budget
+				- Therefore by making it rigid, you can be efficient, but lose out on any flexibility (which avoids you being sidetracked)
+				- Won't allow the client to change the menu when the order is placed
+				- Can choose exactly how much of everything you need because you know exactly how many people are going to be there, and what kind of food is being prepared
 	- **Agile**
