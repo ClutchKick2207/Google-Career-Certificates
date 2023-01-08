@@ -117,3 +117,63 @@
 | **Stakeholders**           | Project manager continually manages and monitors stakeholder engagement to ensure the project is on track.                                                                               | Team frequently provides deliverables to stakeholders throughout the project. Progress toward milestones is dependent upon stakeholder feedback.                           |                                                                                                                                               |                                                                                                                                                                            |
 
 ## Introduction to Lean and Six Sigma
+- **Lean Six Sigma**
+	- **Info**
+		- Combination of two parent methodologies (Lean and Six Sigma)
+		- Good for projects where the goals are to
+			- Save money
+			- Improve quality
+			- Move quickly through process
+			- Team collaboration
+			- Positive work environment
+		- When the team feels valued, motivation and productivity increases
+	- **Phases (DMAIC)**
+		- Strategy for process improvement by finding where problems are, and fixing them
+		- **Define**
+			- Define project goal, and what it will take to meet it
+			- Similar to Initiation phase
+			- Example
+				- Streamline customer wait times
+					- Define the project goal, and talk to stakeholders about expectations for the project
+					- Take average wait times down to below 10 minutes, from over 30 minutes
+		- **Measure**
+			- Measure how the current process is performing
+			- Focus on data
+			- Map out the current process, and locate where the current problems are
+			- What kind of effect does the problem have on the process?
+			- Make a plan on how to get the data, and how often to measure it
+			- Example
+				- Why is it taking so long for the company to address a customer service issue
+				- Look at company data
+					- Average wait times
+					- Number of customers per day
+					- Seasonal variations
+					- Set a plan on how to get the data, and how often to measure it
+						- Have the company generate a report weekly
+						- Surveys from staff and customers
+						- Inventory reports
+		- **Analyse**
+			- Identify gaps and issues
+			- Data analysis is very important
+			- Example
+				- Not enough staff on the busiest days
+		- **Improve**
+			- Make sure to go through all the previous steps to avoid mistakes
+			- Present findings and get ready to start making improvements
+			- Example
+				- Recommend to hire more staff during the busiest hours
+		- **Control**
+			- Gotten the project to a good place
+			- Time to implement, and keep it there
+			- Learn from the work you did up front to put new processes and documentation in place
+	- **Phases (DMAIC) Summary**
+		- **Defining**
+			- Tells you what to measure
+		- **Measuring**
+			- Tells you what to analyse
+		- **Analyse**
+			- Tells you what to improve
+		- **Improving**
+			- Tells you what to control
+		- **Control**
+			- Keep it there
