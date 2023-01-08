@@ -92,3 +92,8 @@
 				- Done in iterations, which in Scrum are referred to as Sprints
 				- *Sprints*
 					- Short chunks of time (1-4 weeks) where the team works on completing specific tasks
+		- **When to use**
+			- When the client has an *idea* of what they want, but doesn't have a concrete picture in mind
+			- Have a set of qualities they want to see, but aren't concerned about what it exactly looks like
+			- Levels of high uncertainty and risks in the project
+		- **Example**
