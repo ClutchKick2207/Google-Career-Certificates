@@ -25,18 +25,18 @@ kanban-plugin: basic
 - [ ] **Notes** - Introduction to project management methodologies
 - [ ] **Watch** - Overview of Waterfall and Agile
 - [ ] **Notes** - Overview of Waterfall and Agile
+- [ ] **Notes** - Comparing Waterfall and Agile approaches
+- [ ] **Read** - Comparing Waterfall and Agile approaches
 
 
 ## In progress
 
-- [ ] **Read** - Comparing Waterfall and Agile approaches
-- [ ] **Notes** - Comparing Waterfall and Agile approaches
+- [ ] **Watch** - Introduction to Lean and Six Sigma
+- [ ] **Notes** - Introduction to Lean and Six Sigma
 
 
 ## Doing this session
 
-- [ ] **Watch** - Introduction to Lean and Six Sigma
-- [ ] **Notes** - Introduction to Lean and Six Sigma
 - [ ] **Read** - Lean and Six Sigma methodologies
 - [ ] **Notes** - Lean and Six Sigma methodologies
 - [ ] **Read** - Common project management approaches and how to select one

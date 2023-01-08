@@ -6,21 +6,8 @@
       {
         "id": "f246ba447247eacb",
         "type": "tabs",
+        "dimension": 61.64259927797834,
         "children": [
-          {
-            "id": "e9e8c9340e5d30d2",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Google Project Management Certificate/Foundations of Project Management/02 - The project management life cycle and methodologies/01 - Analysing the different project phases.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
           {
             "id": "a0bf58afcf81c618",
             "type": "leaf",
@@ -33,8 +20,26 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "f0b2468d2c1f92b9",
+        "type": "tabs",
+        "dimension": 38.35740072202166,
+        "children": [
+          {
+            "id": "e6cdb5b3c2b0a923",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Google Project Management Certificate/Foundations of Project Management/Kanban - Foundations of Project Management.md"
+              },
+              "pinned": true
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
