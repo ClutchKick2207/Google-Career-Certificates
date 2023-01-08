@@ -97,3 +97,10 @@
 			- Have a set of qualities they want to see, but aren't concerned about what it exactly looks like
 			- Levels of high uncertainty and risks in the project
 		- **Example**
+			- Building a website
+				- Build different parts of the website in sprints
+				- Deliver each part to the client as they are built
+				- Website can be launched with some parts (such as the main home-page), which other parts can be developed and added
+				- Allows the team to get feedback early on about what works, and what doesn't, and adjust dynamically
+				- Reduces wasted efforts
+				- If using the Waterfall method, would require entire website to be made before launch, and may not be what the client wants
