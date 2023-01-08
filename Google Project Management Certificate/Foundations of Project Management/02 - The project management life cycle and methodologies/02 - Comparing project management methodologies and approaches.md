@@ -20,4 +20,14 @@
 		- Less flexible
 		- Need to complete each step in order, and stick to agreed upon results
 	- **Iterative**
-		- 
+		- Some of the phases and tasks will overlap or happen at the same time that other tasks are being worked on
+		- Works well in something that can change constantly such as a TV show
+			- Comes up with an idea
+			- Run tests to see if it will be good
+			- Get feedback
+				- Adjustments are made
+			- Concurrently can work on other parts of the project
+			- Like hiring permanent actors, starting film production
+		- Overall goal is clear, although actual product may be different to original idea
+		- Therefore is useful to have some form of flexibility, as you can find better ideas, or remain flexible if the client wants to make changes
+		- As this is a more open ended goal, it is vital to be able to use feedback to be able to produce a better overall product
