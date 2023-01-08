@@ -33,14 +33,14 @@ kanban-plugin: basic
 
 ## In progress
 
-
-
-## Doing this session
-
 - [ ] **Read** - Lean and Six Sigma methodologies
 - [ ] **Notes** - Lean and Six Sigma methodologies
 - [ ] **Read** - Common project management approaches and how to select one
 - [ ] **Notes** - Common project management approaches and how to select one
+
+
+## Doing this session
+
 - [ ] **Participate** - Identify: Project management methodologies
 - [ ] **Watch** - Wrap-up
 - [ ] **QUIZ** - Weekly Challenge 3
