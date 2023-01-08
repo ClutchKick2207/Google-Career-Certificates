@@ -104,3 +104,5 @@
 				- Allows the team to get feedback early on about what works, and what doesn't, and adjust dynamically
 				- Reduces wasted efforts
 				- If using the Waterfall method, would require entire website to be made before launch, and may not be what the client wants
+
+## Comparing Waterfall and Agile approaches
