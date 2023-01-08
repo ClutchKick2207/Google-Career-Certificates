@@ -283,3 +283,7 @@
 		- The 5S organization framework, the DMAIC process, and the use of Kanban boards are all components of this approach.
 - **Which one to choose?**
 	- [Project Management Methodologies - How to choose](https://www.teamwork.com/project-management-guide/project-management-methodologies/)
+
+## Understanding project methodologies
+- ![[Pasted image 20230108184431.png]]
+
