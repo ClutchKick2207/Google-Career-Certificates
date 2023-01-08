@@ -1,0 +1,1302 @@
+## Where is this course?
+- [Google Career Certificates - Project Management](https://www.coursera.org/professional-certificates/google-project-management)
+
+## My Notes
+> My notes for this overall course will be laid out by module in the course, and have subheadings in order to differentiate between different topics/videos that are presented in the courses. I'll add in any extra notes/resources that I use where necessary, and hope it will be helpful for anyone looking!
+
+## Welcome to the Google Project Management Certificate
+- ### What is a Project Management?
+> [!info] Project Management - Definition
+> The application of *knowledge*, *skills*, *tools*, and *techniques* to meet the *project requirements* and achieve the *desired outcome* 
+- Spans a large amount of disciplines, and doesn't require a deep amount of technical knowledge
+	- Any specific skills that you may know allows for an advantage
+
+## Program and Course Overview
+![[Pasted image 20221217165437.png]]
+### Course Overview
+- 4 week program - Course 1
+- Lesson Types include:
+	- **Videos**
+		- Google Employee as an instructor
+	- **Readings**
+		- Introduces new ideas and case studies to build on top of videos
+	- **Discussion Forums**
+		- Explore course topics for better understanding, and talk with peers
+	- **In Video Questions**
+		- Check up on learning as you go during videos
+	- **Practice Quizzes**
+		- Checks understanding, and gives feedback. Important to do
+	- **Graded Quizzes** 
+		- Measures progress by grading quizzes
+	- **Ungraded Peer-Review activities** 
+		- Practice applying skills that you are working to master. Other learners can view this, and give feedback
+	- **Graded Peer-Review activities** 
+		- Assess the ability to apply skills, other learners will grade your work, and give feedback
+- **Tips**
+	- Take all 6 courses
+	- Complete all items in order
+	- Take time to do all the readings
+	- Don't be afraid to rewatch a video
+	- Take part in as many learning opportunities as possible
+
+### Foundations of Project Management - Course Objectives
+- **Understand** which types of jobs are suitable for you
+- **Define** key project management terms
+- **Define** roles and responsibilities
+- **Discuss** the types of jobs you can pursue
+- **Define** *"project"* and *"project manager"*
+- **Define** *"project life cycle"*
+- **Describe** organisational structures and cultures
+
+## Helpful Resources
+- ### Helpful Habits
+	- **Plan your time**
+		- Set up regular study times and stick with them
+		- Use a Calendar/Timetable system to create a schedule, and list what you plan on doing each day to break down the work into achievable goals
+	- **Be curious**
+		- Ask questions, and search for more details online
+		- Take notes on any extra information that you have gained
+	- **Take notes**
+		- Take notes on any content that you find interesting, that way you can refer to it later to revise or get any extra content
+		- An effective way to make connections between different topics
+	- **Chat**
+		- Reach out with other learners to gain more information, and potentially have any questions you may have answered
+	- **Update your profile**
+		- Update your profile to something presentable, and something that allows for other people to get to know you more
+- ### Finding more Information
+	- [Project Management Institute](https://www.pmi.org/)
+		- A good resource for those in project, program, or portfolio management professions
+		- Provides guides, industry standards, articles, templates, job boards, certifications, etc.
+	- [Scrum Guides](https://scrumguides.org/index.html)
+		- Defines "Scrum", which is used in Agile project management
+		- Describes Scrum's roles, events, artifacts, and the rules that bind them together
+	- [Foundations of Project Management - Glossary](https://www.coursera.org/learn/project-management-foundations/resources/R9Ijr)
+		- Can find out specific terms (for this unit) in the glossary
+
+## Surveys - Info
+During this certificate program, you will be asked to complete a few short surveys. These are part of a research study to understand how effective the certificate has been for you.
+- **Entry Survey**
+	- A brief survey to help us understand why you have entered the certificate 
+	- Asks about experiences leading up to the course, and any goals that you hope to accomplish
+- **Individual Course Feedback**
+	- When you complete the last graded assignment within an individual course, you may be asked to fill in a survey
+- **Certificate Completion Survey**
+	- After you complete the last graded assignment in the final course of the certificate, you will be asked to answer a survey that revisits some earlier questions and asks what you have learned throughout the duration of the program.
+	- This survey also asks if you would like to share your contact information with prospective employers.
+
+## What is Project Management?
+
+- **Project Definition**
+> [!INFO] Project - Definition
+> - A unique endeavour, and usually includes a set of unique deliverables
+> - A temporary pursuit; it has a defined beginning and end
+
+- **Project Management Definition**
+> [!info] Project Management - Definition
+> The application of *knowledge*, *skills*, *tools*, and *techniques* to meet the *project requirements* and achieve the *desired outcome* 
+
+- **Why is Project Management important?**
+	- Valuable to businesses as it helps ensure that a project delivers the expected outcomes both on time and in budget
+	- *Example*
+		- A school district signs a deal with a tele-health company to make sure students don't have to miss school for simple health issues
+		- The deal is to be completed by the end of the school year
+		- The students can interact with a doctor through a smart-device while they are at school
+		- Implementing the technology to make this work is the *project*
+			- It has a clear start and end date
+		- *How is this project managed?*
+			- Each one of the steps here has to be carefully planned (i.e. *managed*) in order for the project to be completed
+			- This can be done via:
+				- **Organise**
+					- Organise a training session for staff to get them more used to the new technology, policy and procedures
+				- **Budget**
+					- For new tablets, computers, and other equipment that may be necessary
+				- **Maintain strong communication**
+					- With doctors, tele-health company, staff, students to make sure everything is working as planned
+	- **Poor Project Management** can lead to:
+		- 48% of projects missing delivery dates
+		- 43% of projects missing budget targets
+		- 31% of projects failing to meet an organisation's goals
+	- **Program Managers**
+		- A manager that manages multiple projects
+
+## What does a Project Manager do?
+- **Main activities for a Project Manager**
+	- **Planning and Organising**
+		- Gathering requirements from teammates/customers
+		- Figure out what the project is trying to do
+			- Kick-off meeting
+			- Send a survey
+		- *Create a project plan*
+			- Keeps everyone in pace and aligned
+			- Key step
+	- **Managing Tasks**
+		- Starts once project is underway
+		- Manage tasks for team members
+		- Communicates milestones to the larger team/customers
+			- keeps team members and customers updated on how the project is progressing
+	- **Budgeting**
+		- Needs to allocate funds appropriately, in order to have some buffer, and to avoid going over budget
+	- **Controlling costs and other factors**
+		- Plans may change
+		- Cause for costs to go up
+			- Needs to be managed accordingly
+- All these tasks are to ensure that the projects are done on time and on budget
+	- Also to make sure that all the projects bring value to the company
+- Use different tools, techniques, and methodologies everyday to create some form of impact
+
+## Transferable Project Management skills
+- **Main skills of Project Management**
+	- **Planning and Organising**
+		- Retail Manager scenario
+			- Which employee workstyles will compliment each other in a productive way
+			- All duties and responsibilities to be covered in each shift
+			- All employee's availabilities
+	- **Managing Tasks**
+		- For moving house example
+			- packing each room individually
+			- label all the rooms
+	- **Budgeting**
+		- For moving house have to control budget for
+			- boxes
+			- moving company
+			- and budget for extra expenses
+	- **Controlling costs and other factors**
+		- Surprise birthday party scenario
+			- Birthday person coming home early for a surprise birthday party
+			- People not being able to make it 
+		- For moving house
+			- manage boxes efficiently
+			- try to avoid errors where possible
+- Bring up some examples of how you used these skills in practical life during a job interview
+	- Allows for the company to see how you can employ skills already
+	- Mainly to judge time management and leadership from previous experience
+	- "Tell me about a time where you had to juggle several tasks at once"
+	- "Tell me about a time where you had to influence a customer or teammate"
+- **Path to becoming a project manager**
+	- "Most of us in our everyday life use program management"
+		- **Example**
+			- When you have a few hours left in the day you have to decide between
+				- Going to the grocery store
+				- Cleaning the house
+			- You also have to decide how long each task will take
+			- And you have to choose whatever works best for the situation
+
+## From certificate to career success
+
+> [!Info] Internship - Definition
+> A short-term way to get hands-on experience in the industry
+
+> [!Info] Contract Work - Definition
+> Working on contract for a company rather than being an official employee of a company, a contractor may be hired on a project-by-project basis
+
+- **Project Management Roles**
+	- **Very high demand role**
+		- A 2017 study said that by 2027, 87.7 million people will be required to fill in project management roles
+	- **Very high amount of growth**
+		- This is seen throughout the industry, **although especially in**:
+			- Manufacturing and Construction
+			- Information Services and Publishing
+			- Management and Professional Services
+			- Finance and Insurance
+			- Utilities
+			- Oil and Gas
+		- Also note that the generic role of 'project manager' can have **specific roles in different fields**, such as:
+			- Construction Project Manager
+			- IT Project Manager
+			- Engineering Project Manager
+		- **Different potential roles**
+			- Operations Manager
+			- Program Manager
+			- Project Coordinator
+			- Project Assistant
+			- Operations Coordinator
+			- Operations Assistant
+	- **Skills that you learn from one industry can also be applied in another industry**
+		- Demand for a wide variety of skill due to continually changing processes (such as tech
+		- Also note that you don't have to be an expert in the field either, you just have to be able to manage projects, and have some basic knowledge
+	- **Consider doing an internship**
+		- Experience within a company
+		- Boost resume, and stand out compared to other candidates
+		- Real work experience + networking
+			- win-win
+	- **Transferable roles**
+		- Events manager internship -> full time project management role later on
+	- **Contract work**
+		- Won't be a full time employee
+		- Good way to get your foot in the door
+		- Also a good way to build a portfolio
+		- Able to try out a few different projects at once
+		- Lets you explore different types of companies and project types
+			- As it is temporary, can really explore
+
+
+## Explore Project Management Roles
+- **Project Management job categories and common roles**
+	- **Entry Level Project Management Roles**
+		- Entry level project management positions are a good way to get your foot in the door, and learn how a company operates and manages projects
+		- Good idea as it allows for growth, and also allows for learning more from experienced project managers
+		- Examples include
+			- **Junior Project Manager**
+				- Performs all aspects of being a project manager alongside a more experienced professional
+			- **Project Administrator**
+				- Assists the rest of the project team with administrative tasks
+			- **Project/Program Assistant**
+				- Supports team members working on a project and offers administrative support
+				- May perform research or create training documents along with other jobs as assigned by program leaders
+			- **Project/Program Coordinator**
+				- Participates in hands-on project work and administrative tasks. 
+				- Works under a project manager to make sure projects are completed on time and within budget
+			- **Project Support Specialist**
+				- Works alongside a project manager and team members to oversee assigned projects. 
+				- May also be responsible for training and developing employees to perform designated tasks.
+	- **Traditional Project Management Roles**
+		- Once you have gained some experience in the entry level positions, you can explore traditional project management roles
+		- Examples include
+			- **Project Manager**
+				- Responsible for the initiating, planning, executing, monitoring, and closing of a project. 
+				- Includes industry-specific titles like IT project manager, construction project manager, or engineering project manager, which utilize skills that are transferable among industries.
+			- **Project Analyst**
+				- Moves a project along by sharing information, providing support through data analysis, and contributing to strategy and performance.
+			- **Project Leader/Director**
+				- Drives core decision-making and sets the direction for the project. 
+				- Usually knowledgeable about the product or deliverable.
+			- **Project Controller**
+				- Primarily responsible for project planning. 
+				- You are likely to see this job title in industries like engineering and construction.
+			- **Technical Project Manager**
+				- Conducts project planning and management for identified goals within a company. 
+				- Ensures that projects are completed to the requirements within a defined time frame and budget.
+			- **Project Management Office (PMO) Analyst**
+				- Manages the progress of complex projects to ensure timely execution and completion.
+	- **Program and Portfolio Management Roles**
+		- General Progression![Graphic of project manager > program manager > portfolio manager](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/EBTy61fHRGSU8utXx-Rkdw_8a0eb610f69448eeb2c9969d86b70f92_Google_Readings_Stills_PGM_C6-Resume-Graphics-1-.png?expiry=1671580800000&hmac=hLMsdgI5oVxN3q71Jb1ScUokr-bGALA-UuKWhjjVwig)
+		- **Project Manager**
+			- Responsible for the day-to-day management of projects
+			- Shepard projects from start to finish (i.e. a guide for their teams)
+			- Applies the right tools, techniques, and processes to complete the project successfully, on time and within budget
+		- **Program Manager**
+			- Step up in responsibility
+			- Responsible for multiple projects that are related or similar to one another
+				- Also manage the coordination of these projects.
+				- For example all project managers at Google are considered program managers as they all manage multiple projects
+		- **Portfolio Manager**
+			- Step up in responsibility
+			- Responsible for multiple related programs within an organisation
+			- Generally refers to all the programs/projects within an entire organisation
+			- Coordinates various programs in order to make sure they are on track
+			- Looks at all projects and programs within a company and prioritizes work as necessary
+	- **Operational Management Roles**
+		- Experience several departments and how they interact/operate
+		- Allows for you to work alongside peers and management from various business segments
+		- Skills used in project management can be used in the executive side of business as well
+		- Some examples include
+			- **Operations Analyst**
+				- Manages and coordinates research, investigates workflows, creates business procedures, and recommends changes to improve the project and company.
+			- **Operations Manager**
+				- Oversees strategic decision-making and rolls out plans of action based on financial, schedule, and resource reporting.
+			- **Chief Operating Officer**
+				- Responsible for overseeing the day-to-day administrative and operational functions of a business.
+	- **Agile Roles**
+		- Agile Project Management roles
+		- Examples include
+			- **Scrum Master**
+				- Coordinates and guides the Scrum team. 
+				- Knowledgeable in Agile framework and Scrum and is able to teach others about the Scrum values and principles. 
+				- May also be listed as a *Technical Program Manager* or *Technical Project Manager.*
+			- **Product Owner**
+				- Drives the direction of product development and progress.
+	- **Industry Specific Management Roles**
+		- Note that you can move between industries
+		- You are able to use an specific knowledge you have built up as well to be able to be more efficient
+		- Main thing to worry about are soft-skills
+- **Main Takeaway**
+	- Project Management is a career with a lot of potential
+	- Make sure to learn a lot of transferable skills
+		- They can be utilised in multiple industries
+
+## Finding the perfect role
+> [!Info] Networking - Definition
+> Networking refers to when you meet other people in a professional setting with the goal of learning, sharing knowledge, and creating new business connections
+- **How to find a role**
+	- **Buzzwords**
+		- "Data Driven"
+		- "Team Player"
+		- "Self Starter"
+	- Note that some roles list "Project Management" as a skill and not a dedicated role
+	- If you have project management skills, you can have an operational/program manager
+		- End-to-end system management
+	- Note not all "project management" roles are listed as such
+		- Make sure to look through the job description to see if it suits your skillset/experience
+	- **Required Skills examples**
+		- Organisational Management
+		- Broad range of communications
+		- Strong planning and communication skills
+		- Budget preparation and monitoring
+	- **Potential Tasks (for Project Management)**
+		- Create monthly status reports
+		- Implement new and necessary technologies
+		- Tracing work plans and performance metrics
+		- Assisting other members of the operational team
+		- Ensuring timely responses to requests for information
+	- Everyone has worked with a project manager in the past...
+		- **Teachers**
+			- Designing a curriculum that's accessible for students with unique needs
+			- Managing a budget
+			- communicating with others
+				- parents
+				- department heads
+				- school admins
+			- developing processes to make things run efficiently in a classroom
+			- etc.
+		- You can use a similar role (such as student leader) in your resume/interview
+			- "I assembled and lead a team of 20 students to:"
+				- plan and execute events
+					- Like fundraisers
+					- Community events
+					- Academic assemblies for over 300 students
+			- You can surprise yourself with how much experience you may have
+
+## Gilbert: Project Management skills in my role
+- **Project Management skills**
+	- Communicating to stakeholders
+	- Managing a budget
+	- Managing a project timeline
+		- Organising events for university students
+		- Organise guest speakers
+- **Translation of skills**
+	- Being in a management position can allow for you to develop the skills necessary
+		- Such as being a manager at a retail store
+			- Being able to talk, and have difficult conversations
+			- Being able to manage a budget
+			- Being able to manage resources
+			- Being able to manage your time
+	- Start applying project management frameworks/practices in everyday life as well to be able to get them ingrained into you
+		- For example planning yourself for the next 3 months
+
+## Using Buzzwords in your job search
+- **Skills**
+	- **Coordination**
+		- Getting people/teams to work together
+		- Can be expressed via 
+			- "coordination of efforts to achieve project deliverables" 
+			- "coordinate internal resources to ensure successful project completion"
+		- Project Management mainly looks at managing the coordination of resources to achieve the end goal
+		- One of the top skills any Project Manager can have
+	- **Organisation**
+		- Ability to stay focused on different tasks
+		- Can be expressed via
+			- "solid organisational skills, including attention to detail and multitasking skills" 
+			- "highly organised"
+		- Organisational skills are important when it comes to project management
+	- **Leadership**
+		- Being able to lead a group of people
+		- Can be expressed via
+			- "Strong leadership qualities"
+			- "Ability to lead"
+		- Needs to display leadership in many ways
+			- Effective planning
+			- Efficient task coordination
+			- Inspiring team members
+			- Key decision making
+		- Vital for project management
+- **Example of a Job Description for Project Management**
+	- From Coursera![[Pasted image 20221220144023.png]]
+	- Look at other positions that don't explicitly mention "project management", but require similar skills
+	- Such as this example of a "Operations Associate" ![[Pasted image 20221220144344.png]]
+- **Common Project Management buzzwords**
+	- Buzzwords are a good way to see if the role would suit your skills, so here is a massive list of them:
+		- Analytical
+		- Assertive
+		- Assessing outcomes
+		- Assessing progress
+		- Attention to detail
+		- Conflict resolution
+		- Collaborative
+		- Coordination
+		- Communication
+		- Development
+		- Evaluation
+		- Executing plans
+		- Financial analysis
+		- Impact assessment
+		- Leadership engagement
+		- Managing meetings
+		- Managing client expectations
+		- Managing conflicts
+		- Managing relationships with stakeholders
+		- Managing vendors
+		- Meeting deadlines
+		- Monitoring
+		- Multitasking
+		- Planning
+		- Prioritizing
+		- Problem-solving
+		- Process development
+		- Process improvement
+		- Project coordination
+		- Project implementation
+		- Project initialization
+		- Project planning
+		- Project reporting
+		- Quality control
+		- Risk assessment
+		- Risk management
+		- Solution development
+		- Strategic planning
+		- Strong interpersonal skills
+		- Strong verbal communication
+		- Strong written communication
+
+## The Value of a Project Manager
+> [!Info] Project Manager - Definition
+> Shepherds projects from start to finish and serve as guides for their team, using their impeccable organisational and interpersonal skills every step of the way
+
+> [!Info] Stakeholders - Definition
+> People who are interested in and affected by the project's completion and success
+- **Value of a Project Manager**
+	- What do they do?
+		- Generally Involves
+			- Planning and Organising
+			- Managing Tasks
+			- Budgeting and Controlling costs
+		- ...all so the project can be done in the approved timeframe
+	- Adds Value through key areas
+		- **Prioritisation**
+			- *Project managers add value to their teams and organisations through effective prioritisation of tasks required to complete a project*
+			- Communicate with the team and stakeholders in order to make a plan on what to do first and what order
+			- Real life example
+				- Painting a house
+					- Picked out paint, and eager to get started
+					- Although tempting, have to do other tasks, such as:
+						- Laying out drop-cloths
+						- Buying more supplies
+						- Tape corners and edges
+						- Cover furniture
+					- Then you can paint
+					- Other decisions such as new face plates for the light switches can come later in the process
+						- or be switched out if not needed
+					- By doing all of these things before actually painting, you are prioritising the steps of the project, and are able to overall be more efficient and be able to have less mistakes
+			- By effectively prioritising tasks, you are able to set up your team (and yourself) for a better project outcome
+		- **Delegation**
+			- *Project managers use delegation to add value to their teams and organisations by matching tasks to individuals who can best complete the work*
+			- Allows for the project to be much more efficient
+			- Real life example
+				- Painting multiple rooms can take a long time
+					- Therefore enlist a few friends to help
+				- People
+					- One of the friends has a lot of painting experience
+						- ask this person to handle the more challenging aspects of the project
+						- such as painting the ceiling, or the detail work
+						- Schedule her to paint the moulding before another less experienced friend paints the walls
+				- By delegating the tasks to those with appropriate skill, and ordering them appropriately as well, applies strength to the planning of the overall project
+		- **Effective Communication**
+			- *Project managers deliver value through effective communication, both with their team and with key stakeholders*
+			- Being transparent
+				- Being up front with plans and ideas
+				- Making information readily available
+			- Keep in regular contact with the rest of the team and identifies areas where a team-mate need support
+			- Real life example
+				- Check in with friends periodically
+				- Ask if they have enough paint/supplies to complete their task
+					- By checking in regularly, you can see if you need to buy more paint before the can is empty, and no work can be done
+				- Reach out to the landlord to let them know the days you will be working on the project
+					- although not directly involved, the outcomes will affect their property, therefore important to keep them informed
+			- Regular contact with people outside the team
+				- company leaders that are invested in the project for example
+
+## How Project Managers Impact Organisations
+> [!Info] Customer - Definition
+> Refers to a person or an organisation that defines the requirement of the project and sets important guidelines, such as budget and deadlines
+- **How Project Managers impact Organisations**
+	- **Focusing on the customer**
+		- ![[Pasted image 20221227170726.png]]
+		- **Customers**
+			- Customers are always a key element to success in any business scenario
+			- Customers can be internal or external
+			- **Internal Customers**
+				- Stakeholders within the organisation
+				- Examples
+					- Management
+					- Project team members
+					- Resources managers
+			- **External Customers**
+				- Stakeholders outside of the organisation
+				- Examples
+					- Clients
+					- Contractors
+					- Suppliers
+					- Consumers
+		- To successful deliver a project, you have to meet the customer's standards
+			- Therefore have to clearly understand expectations
+		- **Asking the customer questions**
+			- *"What is the problem you would like us to help solve?"*
+				- The customer wants help developing a new process that would allow their company to be more efficient.
+			- *"How is the problem impacting your organization?"*
+				- The customer states that they are losing clients because of their current inefficient processes since clients are sometimes receiving their orders late.
+			- *"What prompted you to ask for help now?"*
+				- The customer says that they may lose department funding if they do not improve efficiency.
+			- *"What is your hope for the outcome of this project?"*
+				- The customer states that their ultimate goal is to increase the speed at which they fill orders without sacrificing quality.
+	- **Building a great team**
+		- ![[Pasted image 20221227171456.png]]
+		- **Team**
+			- A project's biggest asset
+			- A project manager should take the time to understand each person's motivations, strengths, and weaknesses
+			- Project managers add value by identifying the right team of the project, and enabling it to make decisions
+			- **Building a team**
+				- Consider the skills needed for the project
+				- Consider the resources available
+				- Understand what the customer needs
+	- **Fostering relationships and communication**
+		- ![[Pasted image 20221227172036.png]]
+		- **Fostering relationships**
+			- Maintaining customer satisfaction and building a great team are two ways that a project manager can bring value
+			- Treat others with consideration and respect
+			- Project managers set the tone for a project and build relationships within their teams and stakeholders
+			- Take the time to check in daily with the team, and ask if there's anything you can help with
+	- **Managing the project**
+		- ![[Pasted image 20221227172230.png]]
+		- **Managing the project**
+			- Each person should be assigned specific project tasks
+			- Once each task is done, the person responsible hands that part over to the next person
+			- Note that team members may not see the bigger picture and how their work impact others
+			- Make sure that everyone understands the bigger picture and how important their work is
+	- **Breaking down barriers**
+		- ![[Pasted image 20221227172452.png]]
+		- **Breaking Barriers**
+			- Breaks down barriers, and allows for their team to innovate new ways of doing things
+				- Avoid the "Because we’ve always done it this way."
+			- Provide support while your team is trying something new
+
+## Key project manager roles and responsibilities
+> [!info] Project Management - Definition
+> The application of *knowledge*, *skills*, *tools*, and *techniques* to meet the *project requirements* and achieve the *desired outcome* 
+
+> [!info] Project Task - Definition
+> An activity that needs to be accomplished within a set period of time by you, your team or your stakeholders
+- **Project Management Responsibilities**
+	- **Planning and Organising**
+		- Making use of productivity tools and creating processes
+		- Create plans, timelines, schedules, and other forms of documentation to track project completion
+		- Maintain the documents throughout the project
+	- **Budgeting and Controlling Costs and other Factors**
+		- Monitor and manage the budget
+		- Track issues and risks
+		- Manage quality
+		- Remove unforeseen barriers
+			- Things that can get in the way of the project
+	- **Managing Tasks**
+		- Keep track of tasks
+			- Managing workloads
+			- Make sure things are being done
+			- Demonstrates progress
+		- Use some form of project tracker, and actively manage tasks
+
+## Identify: Project Opportunities and Tasks
+- ![[Pasted image 20221227183627.png]]
+- **Background Info**
+	- As project manager for an arts education centre, you join a planning meeting for the upcoming quarter. Team members will discuss top priorities, and you’ll identify a project and related tasks to achieve these goals.
+- **Notes**
+	- **Roles**
+		- **Senior Artistic Director**
+			- Makes programming decisions and develops the long-term vision for the company.
+		- **Director of Education**
+			- Oversees curriculum planning and evaluation and supervises instructors.
+		- **Communications coordinator**
+			- Manages publicity, social media, and other communications content
+		- **Chief development officer**
+			- Heads fundraising efforts by meeting with donors, organizing events, and writing grant proposals.
+	- **Meeting Notes**
+		- **Online Education**
+			- "More classes we put online, the more students we can reach"
+			- Live-stream classes
+				- Although pre-record some classes as demos
+					- Most popular courses
+						- Art
+						- Music
+						- Theatre
+						- Dance
+				- 30-minutes each
+			- After developing topics, develop marketing
+			- Play demos at fundraiser
+			- **Tasks**
+				- Needs to create an online course to then market, and fundraise for
+				- Then let instructors choose their topics
+				- Let instructors script their lessons
+				- Director of Education speaks with Videographer to set up a schedule to film
+				- Communications Coordinator plans to write a press release as a part of the promotional materials
+
+## Responsibilities that utilise interpersonal skills
+- ![[Pasted image 20221227184903.png]]
+- **What are the core job responsibilities of project managers?**
+	- Project Managers are responsible for planning, organising, managing tasks, budgeting, controlling costs, and other factors to help keep the project within budget and on time
+		- therefore a project manager is responsible for tracking the day-to-day details of the project
+- **Interpersonal Responsibilities**
+	- **Teaching and Mentoring**
+		- As a project manager, you serve as a mentor for the team
+		- Take time to
+			- Fully explain expectations
+			- Eliminate rework
+			- Eliminate confusion
+			- Eliminate frustration
+		- Support each individual in meeting expectations and exceed their own sense of personal potential
+	- **Building Relationships**
+		- Get to know your team members
+			- Let them know that you care about them as people, and not just as employees
+		- Take the time to build relationships with customers, clients, vendors and other stakeholders
+		- Dedicate time to check on people
+		- Ask about their lives beyond the project
+			- Follow up on those discussions later on to show interest
+	- **Controlling Change**
+		- "The only thing that never changes, is that everything changes"
+		- Remain flexible to adjust to the stakeholder's needs
+		- Protect team from constant change and rework
+		- Document initial expectations of the project, and identify any changes being requested
+			- Helpful to understand the budget and schedule impact of the changes and make sure that the stakeholders understand those impacts
+	- **Empowering your Team**
+		- Get fresh ideas and passionate employees willing to help find solutions to problems
+		- Delegating responsibilities to the team, and make them have more impact in the project
+	- **Communicating Status and Concerns**
+		- Create an open door policy
+		- Build trust between the team, and stakeholders
+
+## A Project Manager's role within a team
+- **A project manager's role within a team**
+	- A "Project Manager" is not often the direct manager of the people working on a project team
+		- Manages the *tasks* of a project
+		- Therefore although you may have to manage teammates for a certain task/project, you are probably not their day-to-day boss
+	- Everyone on the team will have their own set of roles and responsibilities
+		- Each person will be an expert on their portion of the project, but no one will be an expert on every aspect of the project
+	- Responsible for guiding your team
+		- Making sure they have the support they need to complete the project
+	- **How can this be done?**
+		- "Hold all team members accountable for their assigned tasks"
+		- "Ensure that issues and risks are tracked and visible, and be able to establish escalation paths"
+		- "Understand and help teammates to adopt the right workflows and project management styles"
+		- "Collaborate with other teams at the organisation to deliver solutions that meet the requirements based on project scope, schedule and budget"
+
+## Working with cross-functional teams
+- ![[Pasted image 20221227200515.png]]
+> [!info] Cross-Functional Team - Definition
+> A team, who's members have different backgrounds, types of expertise and job functions.
+> 
+- **Cross-Functional teams**
+	- Members are sometimes referred to as "T-shaped" professionals
+		- Skilled in how to collaborate and innovate with those in different job functions and different departments
+		- Also contribute their own specific areas of expertise
+		- Each member has their own unique perspective and experience, bringing different ideas and strategies to the project
+	- How this can be done
+		- **Clarify Goals**
+			- Ensure that every team member understands their role, how they support each other, and the common goals of the project
+			- Set clear goals. and make sure everyone understands those goals
+			- **Define**
+				- Budget
+				- Deadlines
+				- Quality requirements
+				- Important resources
+			- Continually check up on the team
+			- All team members work together with the project manager to support the current project
+		- **Get team members with the right skills**
+			- Make sure that all the team members have the correct skills for each of the project functions
+			- Make sure that the right people with the right skills are available
+		- **Measure progress**
+			- Showing your team how much they have accomplished can help them keep motivated
+			- Take the time to measure and communicate the project's progress to the entire cross-functional team
+			- **Measuring progress**
+				- Key milestones
+				- Completing project tasks
+				- Meeting project goals on time and within budget
+			- Document when tasks and goals are completed
+			- Make sure to communicate if everything is on track, and if not, how to get there
+		- **Recognise efforts**
+			- Make sure that every member of the cross-functional team recognises their value
+			- Also makes sure that everyone is considered to be a 'team', and equal
+
+## The core skills of a project manager/Key Competencies: Flexibility and handling ambiguity
+- **Core Skills**
+	- ### **Enabling decision making**
+		- **The core skills of a project manager**
+			- The ability to enable decision making on the team, or gathering decisions from the appropriate leader is crucial to keep tasks on time, and achieve goals
+			- Gather information from all the team-mates
+				- Use that information to make informed decisions
+				- Also make sure to communicate relevant stakeholders of decisions
+					- such as the rest of the team and higher ups
+			- Your job is to get all the relevant data to inform a decision between A and B
+		- **Key Competencies: Flexibility and handling ambiguity**
+			- Make the decision making process collaborative
+				- Example
+					- State the goals of specific deliverables
+					- Elicit input from your team on how to achieve these goals
+				- Your team members may think of ideas and solutions that you may not have thought about
+				- Allows for you to focus on the over-arching management tasks, and prioritise them, while your team can focus on the details
+	- ### **Communicating and escalating**
+		- **The core skills of a project manager**
+			- Use communication skills everywhere
+				- documenting plans
+				- sending emails about the status of the project
+				- holding a meeting to escalate a risk or issue to stakeholders
+		- **Key Competencies: Flexibility and handling ambiguity**
+			- Clearly communicate
+				- project goals and expectations
+				- team member roles and responsibilities
+				- constructive feedback
+			- Know how to effectively communicate, and when to escalate issues to management
+			- When escalation is required, try proposing a solution to management when you confront them, as it shows that you are taking initiative as a project manager
+	- ### **Strong Organisational Skills**
+		- **The core skills of a project manager**
+			- Have the ability to organise processes and core elements of a project, so that nothing gets lost or overlooked
+			- Examples
+				- Track daily tasks in a spreadsheet
+				- Send daily reminders to team-members
+		- **Key Competencies: Flexibility and handling ambiguity**
+			- Use organisational tools
+				- *Planning and scheduling software*
+					- templates
+					- workflows
+					- calendars
+				- *Collaboration tools*
+					- email
+					- collaboration software
+					- dashboards
+				- *Documentation*
+					- files
+					- plans
+					- spreadsheets
+				- *Quality assurance tools*
+					- evaluations
+					- productivity trackers
+					- reports
+	- ### **Flexibility**
+		- **The core skills of a project manager**
+			- Be willing to change plans
+			- Examples of issues
+				- Goals of the company may change
+				- Team member leaves
+			- Unpredictable moments are guaranteed
+			- Stay cool under pressure
+		- **Key Competencies: Flexibility and handling ambiguity**
+			- *Flexible planning*
+				- **Assess external constraints**
+					- When planning take external events into account
+						- such as national holidays and team member vacations/sick leave
+					- Leaving extra time in the schedule allows for these events to have a minimal effect on the project
+				- **Plan for risks and challenges**
+					- Consider any potential risks, and plan for them in advance
+						- example
+							- Someone leaves/decides to quit
+								- Are you able to replace them?
+								- Can you hire an independent contractor?
+								- Come up with a list of potential people that can join your team if someone isn't available
+					- Look at historical data
+						- Review past projects, and past challenges you faced
+						- Evaluate if a similar challenge can occur in your current project, and how it can be negated/managed
+				- **Calculate "float" into your schedule**
+					- calculate the amount of time you can wait to begin a task before it impact the project schedule and threatens the project outcome
+					- Identifying this can allow for keeping the project on track, and make sure everything is as efficient as possible
+			- *Handling ambiguity*
+				- **Keep calm**
+					- being calm, and handling ambiguity with grace and poise can set a good example, and allow your team to do the same
+				- **Express empathy**
+					- important to understand what your team is thinking, especially during times of ambiguity
+					- let team members know you care about the challenges they are facing
+				- **Communicate what you know clearly**
+					- Define the aspects of the project that are confirmed and will not change
+					- Allows for the team to have a better sense of what to expect, regardless of any potentially variable aspects
+				- **Make decisions and stick to them**
+					- Don't second guess your decisions, as it can lead to more uncertainty
+					- If you have to change course, make sure you explain to the team exactly why, and why this is a better option
+				- **Trust the expertise of your team**
+					- Have everyone on your team discuss what they already know
+						- such as resources needed, components, specific tasks, etc.
+					- Then use what you know to brainstorm and figure out what to do 
+
+## Leadership and team dynamics (Influencing without Authority)
+> [!info] Influencing without authority - Definition
+> A project manager's ability to guide teammates to complete their assigned work without acting as their direct manager
+- **Leadership and Team dynamics**
+	- **Key Interpersonal Skills**
+		- *Communication*
+			- Checking in with teammates
+				- understand how they are going with a task
+			- Providing feedback on the quality of the team-mate's work
+		- *Negotiation*
+			- Working with a team-mate to compromise on a new deadline, when they tell you they can't get work done on time
+			- You have to use negotiation often with stakeholders and teammates, to balance their needs and the betterment of the project
+		- *Conflict mediation*
+			- Project plans will change, and tension will arise
+			- Must not allow for conflict to interfere with the project
+				- Setting up a meeting with feuding teammates for example
+		- *Understanding motivations*
+			- Get to know teammates
+			- Figure out what makes them do their best work
+				- Learning how teammates prefer to receive feedback
+				- How they like to receive feedback when they do a good job
+
+## Exploring the phases of the project life cycle
+- **Project Lifecycle**
+	- **Initiate the Project**
+		- Launchpad for the entire project
+		- Define project goals and deliverables
+		- Identify the budget and resources you'll need
+		- People involved in the project
+		- Any other details that can affect the successful completion of the project
+		- Put all the info in one place, to write a report, to then send and get approval for
+	- **Make a plan**
+		- For every project, you have to use a plan
+		- Includes
+			- Budget
+			- Breakdown of all necessary tasks
+			- Ways to communicate team roles and responsibilities
+			- Schedule
+			- Resources
+			- What to do if the project encounters any problems
+	- **Execute and complete tasks**
+		- Project team has the task of actually doing the tasks
+		- Primary task is to monitor project, and to keep the team motivated
+		- Remove any obstacles that might come up, so that tasks are executed well and on time
+	- **Close the project**
+		- Celebrate hard work
+		- Evaluate how the project went
+		- Take note of what went well, and what didn't
+		- Connect with anyone outside of the team, and let use it as a networking opportunity
+		- Note that some projects have a hard end-date (such as an election)
+			- Some do not have as black-and-white of a end-date, and therefore needs to be clear when it is over in order to pass over to another group for example
+
+## Case study: The significance of each project phase
+![[Pasted image 20230107202909.png]]
+- **Example**
+	- **Consequences of rushing through a project phase**
+		- Quickly throwing together a proposal (with rough estimates)
+		- By not including engineers in the process, doesn't know that requires new software, and therefore will take a year longer than expected, and $800,000 budget wise
+		- Is reprimanded
+	- **What should have happened**
+		- Although worried about the quick request, will spend the time to make the proposal properly
+		- Is able to develop an accurate proposal, by involving engineers and other members
+- **Project Lifecycle**
+	- **Initiating the project**
+		- Discuss project goals with stakeholders to get a clear idea of what they are asking for
+		- After defining project goals, gather stakeholders and project team members to define what needs to be done
+			- Identifies the skill sets required, the timeline, and cost
+		- Documents the value that the project creates for the company
+		- Presents all this information to company leadership, and then to the stakeholders
+	- **Making a plan**
+		- Project plan from start to finish
+		- Project plan allows for all team members and stakeholders to be prepared to complete their tasks
+		- Outlines important tasks and deadlines
+		- Creates a schedule to account for all resources, materials and tasks needed to complete the project
+	- **Executing and completing tasks**
+		- Puts plan into motion by executing work
+		- Monitors team as they complete project tasks
+			- Role of a project manager isn't to complete individual tasks, but to help break down any individual barriers that would slow or stop the team from completing their tasks
+		- Communicate schedule and quality expectations
+		- Keep stakeholders updated on project status, and gather feedback
+	- **Closing the project**
+		- Deliver the project outcome to the stakeholders
+		- Document and discuss any lessons learnt from the project
+		- Find a way to celebrate the work (such as holding a lunch)
+
+## Phases in action: Initiating and planning
+- **Initiating and planning**
+	- **Initiating**
+		- *Define project goals*
+			- Find deliverables that you can measure
+		- *Determine resources, people, and other project details*
+			- *Resources*
+				- People
+				- Equipment
+				- Software
+				- Programs
+				- Vendors
+				- Physical space
+				- etc. (anything you need to complete your tasks and goal)
+		- *Get project approval*
+			- Make sure that everything is feasible, and create a report
+	- **Planning**
+		- *Create a budget*
+		- *Set the schedule*
+		- *Establish your team*
+		- *Determine roles and responsibilities*
+		- *Planning for risk and change*
+			- Budget changes
+			- Technology and software requirements
+			- Legal issues
+			- Quality control
+			- Access to resources
+		- *Establish communications*
+
+## Phases in action: Executing and closing
+- **Executing and closing**
+	- **Executing and completing tasks**
+		- *Manage progress*
+			- Oversee the team's efforts
+			- Explain what is expected from all of the team members
+			- What tasks need to be done
+			- How and when to complete those tasks
+			- Remove obstacles
+			- Alert the right people if it looks like there might be a delay in the project
+		- *Communicate*
+			- Meetings
+			- Written communications
+				- Memos
+			- Emails
+			- Internal chat tools
+			- Task reports
+			- If in doubt, don't be afraid to over communicate, as under communication is very bad
+		- *Make adjustments*
+			- Schedule
+			- Budget
+			- Allocation of resources
+			- Communicate every step
+	- **Close the project**
+		- *Ensure all tasks have been completed*
+			- Including any work added along the way
+			- Make sure any outstanding invoices have been paid
+			- Resources returned
+			- Project documentation has been submitted
+		- *Confirm acceptance of the project outcome*
+			- Get confirmation from stakeholders that the project is acceptable
+			- Person that asked you to manage the project should be satisified
+		- *Reflect on lessons learned*
+			- *Retrospective*
+				- A chance to note best practices and learn how to manage a project more effectively the next time
+			- Can submit retrospective to managers and higher-ups, as they can use information to inform decisions next times they consider a project
+		- *Communicate results with stakeholders*
+			- Collect all documentation and information and share with stakeholders
+			- *Stakeholders*
+				- People that are affected by the project
+					- Department management team
+					- Organisation's management team
+					- Client/Customers of the project
+					- Users of the new project
+					- Community at large
+				- Play a huge role in the development and success
+				- VIP
+		- *Celebrate completing the project*
+			- Celebrations help people enjoy the work they have done
+			- Keep motivation high
+			- Company/Teamwide email
+				- thanking the team, and individual efforts
+			- Company party
+				- For big projects
+		- *Formally move on from the project*
+			- So you can pursue new projects in the future
+
+## Summary of project phases
+- **Summary of project phases**
+	- **Initiate the project**
+		- *Ask questions* to help set the foundation of the project, such as:
+			- Who are the stakeholders?
+			- What are the client’s or customer’s goals?
+			- What is the purpose and mission of the project?
+			- What are the measurable objectives for the team?
+			- What is the project trying to improve? 
+			- When does this project need to be completed? 
+			- What skills and resources will the project require? 
+			- What will the project cost? What are the benefits?
+	- **Make a plan**
+		- *Make a plan* to take the project from start to finish
+		- *Create a detailed project plan*
+			- What are the major milestones?
+			- What tasks or deliverables make up each milestone?
+		- *Build out a schedule*
+			- Allows for you to manage resources, budget, materials and timeline
+			- Create an itemised budget to send off
+	- **Execute the project**
+		- Put all the hard work that has been done into action
+			- Monitor your project team as they complete project tasks
+			- Break down any barriers that would slow or stop the team from completing tasks
+			- Help keep the team aware of schedule and deliverable expectations
+			- Address weaknesses in your process or examine places where your team may need additional training to meet the project's goals
+			- Adapt to changes in the project as they arise
+	- **Close the project**
+		- Identify that your team has completed all the requested outcomes
+		- Release your team so they can support other projects within the company
+		- Take time with your team to celebrate your successes!
+		- Pass off all remaining deliverables and get stakeholder approval
+		- Document the lessons you and your team learned during the project
+		- Reflect on ways to improve in the future
+
+## Understanding Project Life Cycles
+![[Pasted image 20230107232924.png]]
+
+## Introduction to project management methodologies
+> [!info] Project Management Methodology - Definition
+> A set of guiding principles and processes for owning a project through its life cycle
+- **Project management methodologies**
+	- **Linear**
+		- The previous task or previous phase has to be completed before the next task can start
+		- Works well in something such as building a house (i.e. things have to be done to continue)
+			- Create the blueprint
+			- Have to know exactly how the house looks like before laying down the foundation, then you can put down bricks
+		- Works when there is a clear goal
+			- Know exactly how a house will look like
+			- Unlikely that changes in mind will happen, so you can be more rigid, and more efficient
+		- Less flexible
+		- Need to complete each step in order, and stick to agreed upon results
+	- **Iterative**
+		- Some of the phases and tasks will overlap or happen at the same time that other tasks are being worked on
+		- Works well in something that can change constantly such as a TV show
+			- Comes up with an idea
+			- Run tests to see if it will be good
+			- Get feedback
+				- Adjustments are made
+			- Concurrently can work on other parts of the project
+			- Like hiring permanent actors, starting film production
+		- Overall goal is clear, although actual product may be different to original idea
+		- Therefore is useful to have some form of flexibility, as you can find better ideas, or remain flexible if the client wants to make changes
+		- As this is a more open ended goal, it is vital to be able to use feedback to be able to produce a better overall product
+
+## Overview of Waterfall and Agile
+- **Overview of Waterfall and Agile**
+	- **Waterfall**
+		- **Info**
+			- Sequential ordering of phases
+			- Complete one at a time, down the line
+				- Like a waterfall starting at the top of the mountain to the bottom
+			- Linear approach
+			- First used in physical engineering disciplines
+				- Such as manufacturing and construction
+			- Then used in software engineering projects as well
+			- Used a lot currently
+				- In product feature design
+				- Application design
+			- Event planning and retail also use Waterfall
+			- Waterfall styles all follow an ordered set of steps that are directly linked to clearly defined expectations, resources and goals (that are not likely to change)
+			- By planning the entire project up front, you are planning for success
+				- Help you identify the right people and tasks
+				- Plan accordingly to avoid any hiccups along the way
+				- Create room for documenting plans and progress
+				- Enable you to hit the goal
+		- **Phases**
+			- Initiating
+			- Planning
+			- Executing
+			- Closing
+		- **When to use**
+			- When the phases of the project are clearly defined
+			- When the tasks have to be done sequentially (i.e. one has to be done for the other to happen)
+			- When changes are difficult/expensive, and therefore are unlikely to occur
+		- **Example**
+			- Catering project, on a very tight budget
+				- *Steps*
+					- Confirm number of guests
+					- Very clearly define menu
+					- Get approval and agreement on menu items and cost
+					- Place order on ingredients
+					- Feed guests
+				- As the budget is limited, you cannot afford to waste any food or budget
+				- Therefore by making it rigid, you can be efficient, but lose out on any flexibility (which avoids you being sidetracked)
+				- Won't allow the client to change the menu when the order is placed
+				- Can choose exactly how much of everything you need because you know exactly how many people are going to be there, and what kind of food is being prepared
+	- **Agile**
+		- **Info**
+			- Able to move quickly and easily, and also willing and able to change and adapt
+			- Many tasks that are being done at the same time, or in various stages of completion
+			- Iterative approach
+			- Used initially in the development of software
+			- More of a mindset that just a series of steps
+				- Concerned with building an effective, collaborative team that seeks regular feedback from the client, so they can deliver the best value, as quickly as possible, and adjust as changes are observed
+		- **Phases**
+			- Initiating
+			- Planning
+			- Executing
+			- Closing
+			- *Note*
+				- Agile projects overlap, and these can be done out of order as well
+				- Done in iterations, which in Scrum are referred to as Sprints
+				- *Sprints*
+					- Short chunks of time (1-4 weeks) where the team works on completing specific tasks
+		- **When to use**
+			- When the client has an *idea* of what they want, but doesn't have a concrete picture in mind
+			- Have a set of qualities they want to see, but aren't concerned about what it exactly looks like
+			- Levels of high uncertainty and risks in the project
+		- **Example**
+			- Building a website
+				- Build different parts of the website in sprints
+				- Deliver each part to the client as they are built
+				- Website can be launched with some parts (such as the main home-page), which other parts can be developed and added
+				- Allows the team to get feedback early on about what works, and what doesn't, and adjust dynamically
+				- Reduces wasted efforts
+				- If using the Waterfall method, would require entire website to be made before launch, and may not be what the client wants
+
+## Comparing Waterfall and Agile approaches
+|                            | **Waterfall**                                                                                                                                                                            | **Agile**                                                                                                                                                                  |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Project Manager's Role** | Project manager serves as an active leader by prioritizing and assigning tasks to team members.                                                                                          | Agile project manager (or Scrum Master) acts primarily as a facilitator, removing any barriers the team faces. Team shares more responsibility in managing their own work. |
+| **Scope**                  | Project deliverables and plans are well-established and documented in the early stages of initiating and planning. Changes go through a formal change request process.                   | Planning happens in shorter iterations and focuses on delivering value quickly. Subsequent iterations are adjusted in response to feedback or unforeseen issues.           |
+| **Schedule**               | Follows a mostly linear path through the initiating, planning, executing, and closing phases of the project.                                                                             | Time is organized into phases called Sprints. Each Sprint has a defined duration, with a set list of deliverables planned at the start of the Sprint.                      |
+| **Cost**                   | Costs are kept under control by careful estimation up front and close monitoring throughout the life cycle of the project.                                                               | Costs and schedule could change with each iteration.                                                                                                                       |
+| **Quality**                | Project manager makes plans and clearly defines criteria to measure quality at the beginning of the project.                                                                             | Team solicits ongoing stakeholder input and user feedback by testing products in the field and regularly implementing improvements.                                        |
+| **Communication**          | Project manager continually communicates progress toward milestones and other key indicators to stakeholders, ensuring that the project is on track to meet the customer’s expectations. | Team is customer-focused, with consistent communication between users and the project team.                                                                                |
+| **Stakeholders**           | Project manager continually manages and monitors stakeholder engagement to ensure the project is on track.                                                                               | Team frequently provides deliverables to stakeholders throughout the project. Progress toward milestones is dependent upon stakeholder feedback.                           |                                                                                                                                               |                                                                                                                                                                            |
+
+## Introduction to Lean and Six Sigma
+- **Lean Six Sigma**
+	- **Info**
+		- Combination of two parent methodologies (Lean and Six Sigma)
+		- Good for projects where the goals are to
+			- Save money
+			- Improve quality
+			- Move quickly through process
+			- Team collaboration
+			- Positive work environment
+		- When the team feels valued, motivation and productivity increases
+		- For improving a current process to fix complex or high risk problems
+			- Like improving sales, conversions or eliminating a bottleneck
+	- **Phases (DMAIC)**
+		- Strategy for process improvement by finding where problems are, and fixing them
+		- **Define**
+			- Define project goal, and what it will take to meet it
+			- Similar to Initiation phase
+			- Example
+				- Streamline customer wait times
+					- Define the project goal, and talk to stakeholders about expectations for the project
+					- Take average wait times down to below 10 minutes, from over 30 minutes
+		- **Measure**
+			- Measure how the current process is performing
+			- Focus on data
+			- Map out the current process, and locate where the current problems are
+			- What kind of effect does the problem have on the process?
+			- Make a plan on how to get the data, and how often to measure it
+			- Example
+				- Why is it taking so long for the company to address a customer service issue
+				- Look at company data
+					- Average wait times
+					- Number of customers per day
+					- Seasonal variations
+					- Set a plan on how to get the data, and how often to measure it
+						- Have the company generate a report weekly
+						- Surveys from staff and customers
+						- Inventory reports
+		- **Analyse**
+			- Identify gaps and issues
+			- Data analysis is very important
+			- Example
+				- Not enough staff on the busiest days
+		- **Improve**
+			- Make sure to go through all the previous steps to avoid mistakes
+			- Present findings and get ready to start making improvements
+			- Example
+				- Recommend to hire more staff during the busiest hours
+		- **Control**
+			- Gotten the project to a good place
+			- Time to implement, and keep it there
+			- Learn from the work you did up front to put new processes and documentation in place
+	- **Phases (DMAIC) Summary**
+		- **Defining**
+			- Tells you what to measure
+		- **Measuring**
+			- Tells you what to analyse
+		- **Analyse**
+			- Tells you what to improve
+		- **Improving**
+			- Tells you what to control
+		- **Control**
+			- Keep it there
+
+## Lean and Six Sigma methodologies
+- **Lean** (Lean Manufacturing)
+	- **Info**
+		- Main principle is the removal of waste during an operation. (i.e. make things more efficient)
+		- *Types of waste (manufacturing)*
+			- Defects
+			- Excess processing
+			- Overproduction
+			- Waiting
+			- Inventory
+			- Transportation
+			- Motion
+			- Non-utilized talent
+		- *Issues that arise from the above waste*
+			- Lack of proper documentation
+			- Lack of process standards
+			- Not understanding the customer's needs
+			- Lack of effective communication
+			- Lack of process control
+			- Inefficient process design
+			- Failures of management
+	- **When to use**
+		- Use Lean project management when you want to use limited resources, reduce waste and streamline processes to gain maximum benefits
+	- **Lean 5S quality tool**
+		- **Sort**
+			- Remove all items not needed for current production
+			- Leave only bare essentials
+		- **Set in order**
+			- Arrange needed items so that they are easy to use
+			- Label items so anyone can find them/put them away
+		- **Shine**
+			- Keep everything in the correct place
+			- Clean workspace daily
+		- **Standardise**
+			- Perform the process the same way every time
+		- **Sustain**
+			- Make a habit of maintaining correct procedures and instill this discipline into the team
+	- **Kanban**
+		- ![[Pasted image 20230108182523.png]]
+		- A scheduling system where you are able to optimise the flow of work
+		- Uses cards that are moved from left to right in order to show work being done, and coordinate work
+		- Kanban boards and Lean 5S are core parts of the Lean methodology
+- **Six Sigma**
+	- **Info**
+		- Methodology used to reduce variations, by ensuring that quality processes are followed every time
+		- Six Sigma originates from statistics, whereby items or processes should have 99.9996% quality
+	- **Key principles (7)**
+		- Always focus on the customer
+		- Identify and understand how work gets done. Understand how work really happens
+		- Make your processes flow smoothly
+		- Reduce waste and concentrate on value
+		- Stop defects by removing variation
+		- Involve and collaborate with your team
+		- Approach improvement activity in a systematic way
+	- **When to use**
+		- Find aspects of the product of process that are measurable, such as time cost or quantity
+		- Inspect that measurable item and reject any products that do not meet the Six Sigma standard
+- **Lean Six Sigma**
+	- Discovered that two methodologies work well together
+	- **Lean**
+		- *Tools*
+			- Kanban
+			- 5S
+		- Build quality in processes from the beginning
+		- Products developed using Lean methods are tested using Six Sigma
+		- Optimises processes
+	- **Six Sigma**
+		- Products are tested against the principles, where anything that passes continues, and those that do not are rejected
+		- Reduces variation in products, and makes sure that quality standards are met
+
+## Common project management approaches and how to select one
+- **Popular project management approaches**
+	- **Waterfall**
+		- A traditional methodology in which tasks and phases are completed in a linear, sequential manner
+		- Each stage of the project must be completed before the next begins. 
+		- The project manager is responsible for prioritizing and assigning tasks to team members. 
+		- In Waterfall, the criteria used to measure quality is clearly defined at the beginning of the project.
+	- **Agile**
+		- Involves short phases of collaborative, iterative work with frequent testing and regularly-implemented improvements. 
+		- Some phases and tasks happen at the same time as others. 
+		- In Agile projects, teams share responsibility for managing their own work. 
+		- Scrum and Kanban are examples of Agile frameworks, which are specific development approaches based on the Agile philosophy.
+	- **Scrum**
+		- An Agile framework that focuses on developing, delivering, and sustaining complex projects and products through collaboration, accountability, and an iterative process. 
+		- Work is completed by small, cross-functional teams led by a Scrum Master and is divided into short Sprints with a set list of deliverables.
+	- **Kanban**
+		- A tool used in both Agile and Lean approaches that provides visual feedback about the status of the work in progress through the use of Kanban boards or charts.
+		-  With Kanban, project managers use sticky notes or note cards on a physical or digital Kanban board to represent the team’s tasks with categories like “To do,” “In progress,” and “Done.”
+	- **Lean**
+		- uses the 5S quality tool to eliminate eight areas of waste, save money, improve quality, and streamline processes.
+		-  Lean’s principles state that you can do more with less by addressing dysfunctions that create waste. 
+		- Lean implements a Kanban scheduling system to manage production.
+	- **Six Sigma**
+		- Involves reducing variations by ensuring that quality processes are followed every time.
+		- The Six Sigma method follows a process-improvement approach called DMAIC
+			- stands for define, measure, analyze, improve, and control.
+	- **Lean Six Sigma**
+		- A combination of Lean and Six Sigma approaches.
+		-  It is often used in projects that aim to save money, improve quality, and move through processes quickly. 
+		- Lean Six Sigma is also ideal for solving complex or high-risk problems. 
+		- The 5S organization framework, the DMAIC process, and the use of Kanban boards are all components of this approach.
+- **Which one to choose?**
+	- [Project Management Methodologies - How to choose](https://www.teamwork.com/project-management-guide/project-management-methodologies/)
+
+## Understanding project methodologies
+- ![[Pasted image 20230108184431.png]]
