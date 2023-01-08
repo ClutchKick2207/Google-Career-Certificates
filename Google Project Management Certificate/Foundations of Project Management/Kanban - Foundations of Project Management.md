@@ -4,49 +4,30 @@ kanban-plugin: basic
 
 ---
 
-## Done - Week 3
+## To-Do
 
-- [ ] **Watch** - Introduction: The project management life cycle and methodologies
-- [ ] **Notes** - Introduction: The project management life cycle and methodologies
-- [ ] **Watch** - Exploring the phases of the project life cycle
-- [ ] **Notes** - Exploring the phases of the project life cycle
-- [ ] **Read** - Case study: The significance of each project phase
-- [ ] **Notes** - Case study: The significance of each project phase
-- [ ] **QUIZ** - Test your knowledge: Understanding the project life cycle
-- [ ] **Watch** - Phases in action: Initiating and planning
-- [ ] **Notes** - Phases in action: Initiating and planning
-- [ ] **Watch** - Phases in action: Executing and closing
-- [ ] **Notes** - Phases in action: Initiating and planning
-- [ ] **Read** - Summary of Project Phases
-- [ ] **Notes** - Summary of Project Phases
-- [ ] **Participate** - Identify: Phases of project life cycle
-- [ ] **QUIZ** - Test your knowledge: Analysing the different project phases
-- [ ] **Watch** - Introduction to project management methodologies
-- [ ] **Notes** - Introduction to project management methodologies
-- [ ] **Watch** - Overview of Waterfall and Agile
-- [ ] **Notes** - Overview of Waterfall and Agile
-- [ ] **Notes** - Comparing Waterfall and Agile approaches
-- [ ] **Watch** - Introduction to Lean and Six Sigma
-- [ ] **Read** - Comparing Waterfall and Agile approaches
-- [ ] **Notes** - Introduction to Lean and Six Sigma
-- [ ] **Read** - Lean and Six Sigma methodologies
-- [ ] **Notes** - Lean and Six Sigma methodologies
-- [ ] **Read** - Common project management approaches and how to select one
-- [ ] **Notes** - Common project management approaches and how to select one
-- [ ] **Participate** - Identify: Project management methodologies
-- [ ] **Watch** - Wrap-up
-
-
-## In progress
-
-- [ ] **QUIZ** - Weekly Challenge 3
+- [ ] **Watch** - Introduction: Organisational structure and culture
+- [ ] **Watch** - Overview of Classic and Matrix structures
+- [ ] **Notes** - Overview of Classic and Matrix structures
+- [ ] **Read** - A project manager's role within different organisational structures
+- [ ] **Notes** - A project manager's role within different organisational structures
+- [ ] **Watch** - How organisational structure impacts project management
+- [ ] **Notes** - How organisational structure impact project management
+- [ ] **Read** - The role of a Project Management Office
+- [ ] **Notes** - The role of a Project Management Office
+- [ ] **Watch** - Ian: Working in a Project Management office
+- [ ] **QUIZ** - Test your knowledge: Understanding organisational structure
 
 
 ## Doing this session
 
 
 
-## To-Do
+## In progress
+
+
+
+## Done - Week 4
 
 
 
@@ -114,6 +95,40 @@ kanban-plugin: basic
 - [ ] **QUIZ** - Reflection: Influence without authority
 - [ ] **Watch** - Wrap-up
 - [ ] **QUIZ** - Weekly Challenge 2
+
+
+## Done - Week 3
+
+- [ ] **Watch** - Introduction: The project management life cycle and methodologies
+- [ ] **Notes** - Introduction: The project management life cycle and methodologies
+- [ ] **Watch** - Exploring the phases of the project life cycle
+- [ ] **Notes** - Exploring the phases of the project life cycle
+- [ ] **Read** - Case study: The significance of each project phase
+- [ ] **Notes** - Case study: The significance of each project phase
+- [ ] **QUIZ** - Test your knowledge: Understanding the project life cycle
+- [ ] **Watch** - Phases in action: Initiating and planning
+- [ ] **Notes** - Phases in action: Initiating and planning
+- [ ] **Watch** - Phases in action: Executing and closing
+- [ ] **Notes** - Phases in action: Initiating and planning
+- [ ] **Read** - Summary of Project Phases
+- [ ] **Notes** - Summary of Project Phases
+- [ ] **Participate** - Identify: Phases of project life cycle
+- [ ] **QUIZ** - Test your knowledge: Analysing the different project phases
+- [ ] **Watch** - Introduction to project management methodologies
+- [ ] **Notes** - Introduction to project management methodologies
+- [ ] **Watch** - Overview of Waterfall and Agile
+- [ ] **Notes** - Overview of Waterfall and Agile
+- [ ] **Notes** - Comparing Waterfall and Agile approaches
+- [ ] **Watch** - Introduction to Lean and Six Sigma
+- [ ] **Read** - Comparing Waterfall and Agile approaches
+- [ ] **Notes** - Introduction to Lean and Six Sigma
+- [ ] **Read** - Lean and Six Sigma methodologies
+- [ ] **Notes** - Lean and Six Sigma methodologies
+- [ ] **Read** - Common project management approaches and how to select one
+- [ ] **Notes** - Common project management approaches and how to select one
+- [ ] **Participate** - Identify: Project management methodologies
+- [ ] **Watch** - Wrap-up
+- [ ] **QUIZ** - Weekly Challenge 3
 
 
 
