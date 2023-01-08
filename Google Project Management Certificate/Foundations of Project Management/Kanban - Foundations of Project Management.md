@@ -29,21 +29,21 @@ kanban-plugin: basic
 - [ ] **Watch** - Introduction to Lean and Six Sigma
 - [ ] **Read** - Comparing Waterfall and Agile approaches
 - [ ] **Notes** - Introduction to Lean and Six Sigma
-
-
-## In progress
-
 - [ ] **Read** - Lean and Six Sigma methodologies
 - [ ] **Notes** - Lean and Six Sigma methodologies
 - [ ] **Read** - Common project management approaches and how to select one
 - [ ] **Notes** - Common project management approaches and how to select one
+- [ ] **Participate** - Identify: Project management methodologies
+- [ ] **Watch** - Wrap-up
+
+
+## In progress
+
+- [ ] **QUIZ** - Weekly Challenge 3
 
 
 ## Doing this session
 
-- [ ] **Participate** - Identify: Project management methodologies
-- [ ] **Watch** - Wrap-up
-- [ ] **QUIZ** - Weekly Challenge 3
 
 
 ## To-Do
