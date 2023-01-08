@@ -23,18 +23,18 @@ kanban-plugin: basic
 - [ ] **QUIZ** - Test your knowledge: Analysing the different project phases
 - [ ] **Watch** - Introduction to project management methodologies
 - [ ] **Notes** - Introduction to project management methodologies
-
-
-## In progress
-
 - [ ] **Watch** - Overview of Waterfall and Agile
 - [ ] **Notes** - Overview of Waterfall and Agile
 
 
-## Doing this session
+## In progress
 
 - [ ] **Read** - Comparing Waterfall and Agile approaches
 - [ ] **Notes** - Comparing Waterfall and Agile approaches
+
+
+## Doing this session
+
 - [ ] **Watch** - Introduction to Lean and Six Sigma
 - [ ] **Notes** - Introduction to Lean and Six Sigma
 - [ ] **Read** - Lean and Six Sigma methodologies
