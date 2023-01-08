@@ -31,3 +31,28 @@
 		- Overall goal is clear, although actual product may be different to original idea
 		- Therefore is useful to have some form of flexibility, as you can find better ideas, or remain flexible if the client wants to make changes
 		- As this is a more open ended goal, it is vital to be able to use feedback to be able to produce a better overall product
+
+## Overview of Waterfall and Agile
+- **Overview of Waterfall and Agile**
+	- **Waterfall**
+		- Sequential ordering of phases
+		- Complete one at a time, down the line
+			- Like a waterfall starting at the top of the mountain to the bottom
+		- Linear approach
+		- First used in physical engineering disciplines
+			- Such as manufacturing and construction
+		- Then used in software engineering projects as well
+		- Used a lot currently
+			- In product feature design
+			- Application design
+		- Event planning and retail also use Waterfall
+		- Waterfall styles all follow an ordered set of steps that are directly linked to clearly defined expectations, resources and goals (that are not likely to change)
+		- **Phases**
+			- Initiating
+			- Planning
+			- Executing
+			- Closing
+		- **When to use**
+			- When the phases of the project are clearly defined
+			- When the tasks have to be done sequentially (i.e. one has to be done for the other to happen)
+	- **Agile**

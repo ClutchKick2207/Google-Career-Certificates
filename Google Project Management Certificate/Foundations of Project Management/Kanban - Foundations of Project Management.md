@@ -21,18 +21,18 @@ kanban-plugin: basic
 - [ ] **Notes** - Summary of Project Phases
 - [ ] **Participate** - Identify: Phases of project life cycle
 - [ ] **QUIZ** - Test your knowledge: Analysing the different project phases
-
-
-## In progress
-
 - [ ] **Watch** - Introduction to project management methodologies
 - [ ] **Notes** - Introduction to project management methodologies
 
 
-## Doing this session
+## In progress
 
 - [ ] **Watch** - Overview of Waterfall and Agile
 - [ ] **Notes** - Overview of Waterfall and Agile
+
+
+## Doing this session
+
 - [ ] **Read** - Comparing Waterfall and Agile approaches
 - [ ] **Notes** - Comparing Waterfall and Agile approaches
 - [ ] **Watch** - Introduction to Lean and Six Sigma
