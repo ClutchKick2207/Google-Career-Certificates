@@ -281,3 +281,5 @@
 		-  It is often used in projects that aim to save money, improve quality, and move through processes quickly. 
 		- Lean Six Sigma is also ideal for solving complex or high-risk problems. 
 		- The 5S organization framework, the DMAIC process, and the use of Kanban boards are all components of this approach.
+- **Which one to choose?**
+	- [Project Management Methodologies - How to choose](https://www.teamwork.com/project-management-guide/project-management-methodologies/)
