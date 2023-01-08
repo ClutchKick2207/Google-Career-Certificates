@@ -127,6 +127,8 @@
 			- Team collaboration
 			- Positive work environment
 		- When the team feels valued, motivation and productivity increases
+		- For improving a current process to fix complex or high risk problems
+			- Like improving sales, conversions or eliminating a bottleneck
 	- **Phases (DMAIC)**
 		- Strategy for process improvement by finding where problems are, and fixing them
 		- **Define**
