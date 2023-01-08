@@ -208,6 +208,19 @@
 			- Remove all items not needed for current production
 			- Leave only bare essentials
 		- **Set in order**
+			- Arrange needed items so that they are easy to use
+			- Label items so anyone can find them/put them away
 		- **Shine**
+			- Keep everything in the correct place
+			- Clean workspace daily
 		- **Standardise**
+			- Perform the process the same way every time
 		- **Sustain**
+			- Make a habit of maintaining correct procedures and instill this discipline into the team
+	- **Kanban**
+		- ![[Pasted image 20230108182523.png]]
+		- A scheduling system where you are able to optimise the flow of work
+		- Uses cards that are moved from left to right in order to show work being done, and coordinate work
+		- Kanban boards and Lean 5S are core parts of the Lean methodology
+- **Six Sigma**
+	- 
