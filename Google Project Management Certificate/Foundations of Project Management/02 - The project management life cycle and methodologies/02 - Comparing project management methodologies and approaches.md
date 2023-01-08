@@ -179,3 +179,35 @@
 			- Tells you what to control
 		- **Control**
 			- Keep it there
+
+## Lean and Six Sigma methodologies
+- **Lean** (Lean Manufacturing)
+	- **Info**
+		- Main principle is the removal of waste during an operation. (i.e. make things more efficient)
+		- *Types of waste (manufacturing)*
+			- Defects
+			- Excess processing
+			- Overproduction
+			- Waiting
+			- Inventory
+			- Transportation
+			- Motion
+			- Non-utilized talent
+		- *Issues that arise from the above waste*
+			- Lack of proper documentation
+			- Lack of process standards
+			- Not understanding the customer's needs
+			- Lack of effective communication
+			- Lack of process control
+			- Inefficient process design
+			- Failures of management
+	- **When to use**
+		- Use Lean project management when you want to use limited resources, reduce waste and streamline processes to gain maximum benefits
+	- **Lean 5S quality tool**
+		- **Sort**
+			- Remove all items not needed for current production
+			- Leave only bare essentials
+		- **Set in order**
+		- **Shine**
+		- **Standardise**
+		- **Sustain**

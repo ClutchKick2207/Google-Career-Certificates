@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google Project Management Certificate/Foundations of Project Management/Kanban - Foundations of Project Management.md",
+                "file": "Google Project Management Certificate/Foundations of Project Management/02 - The project management life cycle and methodologies/02 - Comparing project management methodologies and approaches.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Google Project Management Certificate/Foundations of Project Management/Kanban - Foundations of Project Management.md",
+                "file": "Google Project Management Certificate/Foundations of Project Management/02 - The project management life cycle and methodologies/02 - Comparing project management methodologies and approaches.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Google Project Management Certificate/Foundations of Project Management/Kanban - Foundations of Project Management.md"
+                "file": "Google Project Management Certificate/Foundations of Project Management/02 - The project management life cycle and methodologies/02 - Comparing project management methodologies and approaches.md"
               }
             }
           },
@@ -177,10 +177,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e6cdb5b3c2b0a923",
+  "active": "a0bf58afcf81c618",
   "lastOpenFiles": [
-    "Google Project Management Certificate/Foundations of Project Management/02 - The project management life cycle and methodologies/02 - Comparing project management methodologies and approaches.md",
     "Google Project Management Certificate/Foundations of Project Management/Kanban - Foundations of Project Management.md",
+    "Google Project Management Certificate/Foundations of Project Management/02 - The project management life cycle and methodologies/02 - Comparing project management methodologies and approaches.md",
     "Google Project Management Certificate/Foundations of Project Management/02 - The project management life cycle and methodologies/01 - Analysing the different project phases.md"
   ]
 }
