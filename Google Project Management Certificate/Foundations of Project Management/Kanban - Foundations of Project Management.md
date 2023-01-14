@@ -6,17 +6,6 @@ kanban-plugin: basic
 
 ## To-Do
 
-- [ ] **Watch** - Introduction: Organisational structure and culture
-- [ ] **Watch** - Overview of Classic and Matrix structures
-- [ ] **Notes** - Overview of Classic and Matrix structures
-- [ ] **Read** - A project manager's role within different organisational structures
-- [ ] **Notes** - A project manager's role within different organisational structures
-- [ ] **Watch** - How organisational structure impacts project management
-- [ ] **Notes** - How organisational structure impact project management
-- [ ] **Read** - The role of a Project Management Office
-- [ ] **Notes** - The role of a Project Management Office
-- [ ] **Watch** - Ian: Working in a Project Management office
-- [ ] **QUIZ** - Test your knowledge: Understanding organisational structure
 
 
 ## Doing this session
@@ -129,6 +118,17 @@ kanban-plugin: basic
 - [ ] **Participate** - Identify: Project management methodologies
 - [ ] **Watch** - Wrap-up
 - [ ] **QUIZ** - Weekly Challenge 3
+- [ ] **Watch** - Introduction: Organisational structure and culture
+- [ ] **Watch** - Overview of Classic and Matrix structures
+- [ ] **Notes** - Overview of Classic and Matrix structures
+- [ ] **Read** - A project manager's role within different organisational structures
+- [ ] **Notes** - A project manager's role within different organisational structures
+- [ ] **Watch** - How organisational structure impacts project management
+- [ ] **Notes** - How organisational structure impact project management
+- [ ] **Read** - The role of a Project Management Office
+- [ ] **Notes** - The role of a Project Management Office
+- [ ] **Watch** - Ian: Working in a Project Management office
+- [ ] **QUIZ** - Test your knowledge: Understanding organisational structure
 
 
 
