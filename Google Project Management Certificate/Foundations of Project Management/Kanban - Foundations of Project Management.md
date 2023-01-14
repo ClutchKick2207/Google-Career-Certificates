@@ -10,8 +10,6 @@ kanban-plugin: basic
 
 ## Doing this session
 
-- [ ] **Watch** - Overview of Classic and Matrix structures
-- [ ] **Notes** - Overview of Classic and Matrix structures
 - [ ] **Read** - A project manager's role within different organisational structures
 - [ ] **Notes** - A project manager's role within different organisational structures
 - [ ] **Watch** - How organisational structure impacts project management
@@ -24,12 +22,14 @@ kanban-plugin: basic
 
 ## In progress
 
-- [ ] **Watch** - Introduction: Understanding Organisational structure and culture
-- [ ] **Notes** - Introduction: Understanding Organisational structure and culture
+- [ ] **Watch** - Overview of Classic and Matrix structures
+- [ ] **Notes** - Overview of Classic and Matrix structures
 
 
 ## Done - Week 4
 
+- [ ] **Watch** - Introduction: Understanding Organisational structure and culture
+- [ ] **Notes** - Introduction: Understanding Organisational structure and culture
 
 
 ## Done - Week 3
