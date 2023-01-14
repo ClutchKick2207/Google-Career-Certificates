@@ -8,43 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a0bf58afcf81c618",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Google Project Management Certificate/Foundations of Project Management/01 - Becoming an effective Project Manager/03 - Final Notes (2nd Module).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec5c58e029d06cb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Google Project Management Certificate/Foundations of Project Management/02 - The project management life cycle and methodologies/03 - Final Notes (3rd Module).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "18f986dc96ac4fc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Google Project Management Certificate/Foundations of Project Management/00 - Final Notes (Foundations of Project Management).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e97879562108caf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -55,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "f28ab5b34afa4883",
@@ -211,11 +174,11 @@
   },
   "active": "e6cdb5b3c2b0a923",
   "lastOpenFiles": [
-    "Google Project Management Certificate/Note Template - Project Management.md",
-    "Google Project Management Certificate/Foundations of Project Management/Kanban - Foundations of Project Management.md",
-    "Google Project Management Certificate/Foundations of Project Management/00 - Final Notes (Foundations of Project Management).md",
     "Google Project Management Certificate/Foundations of Project Management/03 - Introduction - Organisational structure and culture/00 - Understanding organisational structure.md",
+    "Google Project Management Certificate/Foundations of Project Management/00 - Final Notes (Foundations of Project Management).md",
     "Google Project Management Certificate/Foundations of Project Management/02 - The project management life cycle and methodologies/03 - Final Notes (3rd Module).md",
+    "Google Project Management Certificate/Foundations of Project Management/Kanban - Foundations of Project Management.md",
+    "Google Project Management Certificate/Note Template - Project Management.md",
     "Google Project Management Certificate/Foundations of Project Management/00 - Embarking on a career in Project Management/03 - Final Notes (1st Module).md",
     "Google Project Management Certificate/Foundations of Project Management/01 - Becoming an effective Project Manager/03 - Final Notes (2nd Module).md",
     "Google Project Management Certificate/Foundations of Project Management/02 - The project management life cycle and methodologies/02 - Comparing project management methodologies and approaches.md",
