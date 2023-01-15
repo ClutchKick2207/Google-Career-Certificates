@@ -105,4 +105,26 @@
 ## The role of a Project Management Office
 - **Project management office**
 	- **What is a PMO?**
-		- 
+		- Project Management Office (PMO)
+			- A group within an organisation that defines, sets, and helps maintain project management standards and processes throughout that organisation
+		- Acts as the coordinated center for all the organisation's projects
+		- Project managers may operate from within the PMO, or from within other departments
+	- **What are the functions of a PMO?**
+		- Main functions
+			- **Strategic Planning and governence**
+				- Most important function
+				- Define project criteria
+				- Select projects according to business goals
+				- Provide a business case for those projects to management
+			- **Best practices**
+				- Share lessons learned from previous successful projects
+				- Make sure all the projects are consistent by providing guidance about processes, tools and metrics
+			- **Common project culture**
+				- Train employees about optimal approaches and best practices
+				- Keep project management consistent and efficient throughout the organisation
+			- **Resource management**
+				- Responsible for managing and allocating resources (such as people and equipment) across projects
+				- All of this is based on budget, priorities, schedules and more
+				- Define the roles and responsibilites on different projects
+				- Provide training, mentoring, and coaching to all employees, although project managers in particular
+			- **Creation of project documentation, archives and tools**

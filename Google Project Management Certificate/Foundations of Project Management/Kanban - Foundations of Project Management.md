@@ -10,16 +10,14 @@ kanban-plugin: basic
 
 ## Doing this session
 
-- [ ] **Read** - The role of a project management office
-- [ ] **Notes** - The role of a project management office
 - [ ] **Watch** - Ian: Working in a project management office
 - [ ] **QUIZ** - Test your knowledge: Understanding organisational knowledge
 
 
 ## In progress
 
-- [ ] **Watch** - How organisational structure impacts project management
-- [ ] **Notes** - How organisational structure impacts project mangement
+- [ ] **Read** - The role of a project management office
+- [ ] **Notes** - The role of a project management office
 
 
 ## Done - Week 4
@@ -30,6 +28,8 @@ kanban-plugin: basic
 - [ ] **Notes** - Overview of Classic and Matrix structures
 - [ ] **Read** - A project manager's role within different organisational structures
 - [ ] **Notes** - A project manager's role within different organisational structures
+- [ ] **Watch** - How organisational structure impacts project management
+- [ ] **Notes** - How organisational structure impacts project mangement
 
 
 ## Done - Week 3
