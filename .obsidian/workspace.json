@@ -11,11 +11,9 @@
             "id": "0bffbf31747bf12d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Google Project Management Certificate/Foundations of Project Management/03 - Organisational structure and culture/04 - Final Notes (3rd Module).md",
-                "mode": "source",
-                "source": false
+                "file": "Google Project Management Certificate/Foundations of Project Management/Kanban - Foundations of Project Management.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google Project Management Certificate/Foundations of Project Management/03 - Organisational structure and culture/04 - Final Notes (3rd Module).md",
+                "file": "Google Project Management Certificate/Foundations of Project Management/Kanban - Foundations of Project Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Google Project Management Certificate/Foundations of Project Management/03 - Organisational structure and culture/04 - Final Notes (3rd Module).md",
+                "file": "Google Project Management Certificate/Foundations of Project Management/Kanban - Foundations of Project Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Google Project Management Certificate/Foundations of Project Management/03 - Organisational structure and culture/04 - Final Notes (3rd Module).md"
+                "file": "Google Project Management Certificate/Foundations of Project Management/Kanban - Foundations of Project Management.md"
               }
             }
           },
@@ -158,8 +156,8 @@
   },
   "active": "0bffbf31747bf12d",
   "lastOpenFiles": [
-    "Google Project Management Certificate/Foundations of Project Management/03 - Organisational structure and culture/03 - Pursuing your new career.md",
     "Google Project Management Certificate/Foundations of Project Management/03 - Organisational structure and culture/04 - Final Notes (3rd Module).md",
+    "Google Project Management Certificate/Foundations of Project Management/03 - Organisational structure and culture/03 - Pursuing your new career.md",
     "Google Project Management Certificate/Foundations of Project Management/03 - Organisational structure and culture/02 - Understanding change management.md",
     "Google Project Management Certificate/Foundations of Project Management/03 - Organisational structure and culture/01 - Understanding the imapct of organisational structure.md",
     "Google Project Management Certificate/Foundations of Project Management/03 - Organisational structure and culture/00 - Understanding organisational structure.md",

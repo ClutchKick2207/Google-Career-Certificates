@@ -10,23 +10,10 @@ kanban-plugin: basic
 
 ## Doing this session
 
-- [ ] **Watch** - Participating in change management
-- [ ] **Notes** - Participating in change management
-- [ ] **Read** - Corportate and project governance
-- [ ] **Notes** - Corporate and project governance
-- [ ] **QUIZ** - Test your knowledge: Understanding change management
-- [ ] **Watch** - Preparing for your job search
-- [ ] **Read** - How to uncover job opportunities
-- [ ] **Notes** - How to uncover job opportunities
-- [ ] **EXAM** - Weekly challenge 4
-- [ ] **Notes** - Course 1 Glossary
-- [ ] **Read** - Getting started on course 2
 
 
 ## In progress
 
-- [ ] **Read** - A project manager's role in change management
-- [ ] **Notes** - A project manager's role in change management
 
 
 ## Done - Week 4
@@ -53,6 +40,19 @@ kanban-plugin: basic
 - [ ] **Participate** - Explore: Organisational Culture
 - [ ] **Watch** - Introduction to change management
 - [ ] **Notes** - Introduction to change management
+- [ ] **Read** - A project manager's role in change management
+- [ ] **Notes** - A project manager's role in change management
+- [ ] **Watch** - Participating in change management
+- [ ] **Notes** - Participating in change management
+- [ ] **Read** - Corportate and project governance
+- [ ] **Notes** - Corporate and project governance
+- [ ] **QUIZ** - Test your knowledge: Understanding change management
+- [ ] **Watch** - Preparing for your job search
+- [ ] **Read** - How to uncover job opportunities
+- [ ] **Notes** - How to uncover job opportunities
+- [ ] **QUIZ** - Weekly challenge 4
+- [ ] **Notes** - Course 1 Glossary
+- [ ] **Read** - Getting started on course 2
 
 
 ## Done - Week 3
