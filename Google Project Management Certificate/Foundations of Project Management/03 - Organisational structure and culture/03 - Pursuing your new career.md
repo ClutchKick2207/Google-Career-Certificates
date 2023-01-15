@@ -32,4 +32,18 @@
 				- Do some additional research on other job options
 			- **How do I know if I am really right for my target role?**
 				- The more roles you look at, the more you can see if you are ready for the role, and get over any self doubt, especially as it is your first in a new field
-				- 
+		- **Create professional inventory**
+			- Look at your existing professional qualifications
+			- **Technical (hard) skills**
+				- Related to a specific task or situation such as programming, technical writing, project management, etc.
+			- **Non-technical (interpersonal) skills**
+				- Enable people to navigate their environment, work well with others, perform well and achieve their goals
+				- Skills such as communication, leadership, team management, etc.
+			- **Personal Qualities**
+				- Positive attributes
+				- Honesty, good sense of humour,  dependable
+				- Also add personal interests to this list
+			- **Education**
+				- Post-secondary education, certifications, independent classes completed online or offline
+			- **Tip**
+				- Does not need to be developed through professional experience. Could be volunteer work, or personal experience that can help a hiring manager understand your capabilities.
