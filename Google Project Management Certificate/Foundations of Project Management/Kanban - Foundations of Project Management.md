@@ -10,10 +10,33 @@ kanban-plugin: basic
 
 ## Doing this session
 
+- [ ] **Read** - Learning about an organisation's culture
+- [ ] **Notes** - Learning about an organisation's culture
+- [ ] **QUIZ** - Test your knowledge: Understanding the impact of organisational culture
+- [ ] **Watch** - Amar: Project management in life and in the organisation
+- [ ] **Read** - Case study: Balancing company culture and strategic goals
+- [ ] **Participate** - Explore: Organisational Culture
+- [ ] **Watch** - Introduction to change management
+- [ ] **Notes** - Introduction to change management
+- [ ] **Read** - A project manager's role in change management
+- [ ] **Notes** - A project manager's role in change management
+- [ ] **Watch** - Participating in change management
+- [ ] **Notes** - Participating in change management
+- [ ] **Read** - Corportate and project governance
+- [ ] **Notes** - Corporate and project governance
+- [ ] **QUIZ** - Test your knowledge: Understanding change management
+- [ ] **Watch** - Preparing for your job search
+- [ ] **Read** - How to uncover job opportunities
+- [ ] **Notes** - How to uncover job opportunities
+- [ ] **EXAM** - Weekly challenge 4
+- [ ] **Notes** - Course 1 Glossary
+- [ ] **Read** - Getting started on course 2
 
 
 ## In progress
 
+- [ ] **Watch** - Introduction to organisational culture
+- [ ] **Notes** - Introduction to organisational culture
 
 
 ## Done - Week 4

@@ -4,12 +4,6 @@
 ## My Notes
 > My notes for this overall course will be laid out by module in the course, and have subheadings in order to differentiate between different topics/videos that are presented in the courses. I'll add in any extra notes/resources that I use where necessary, and hope it will be helpful for anyone looking!
 
-## Major Heading
-
-
-
-- **Subheading**
-	- content
 
 ## Overview of Classic and Matrix structures
 > [!info] Organisational Structure - Definition
