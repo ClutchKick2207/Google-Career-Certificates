@@ -10,11 +10,6 @@ kanban-plugin: basic
 
 ## Doing this session
 
-- [ ] **Participate** - Explore: Organisational Culture
-- [ ] **Watch** - Introduction to change management
-- [ ] **Notes** - Introduction to change management
-- [ ] **Read** - A project manager's role in change management
-- [ ] **Notes** - A project manager's role in change management
 - [ ] **Watch** - Participating in change management
 - [ ] **Notes** - Participating in change management
 - [ ] **Read** - Corportate and project governance
@@ -30,7 +25,8 @@ kanban-plugin: basic
 
 ## In progress
 
-- [ ] **Read** - Case study: Balancing company culture and strategic goals
+- [ ] **Read** - A project manager's role in change management
+- [ ] **Notes** - A project manager's role in change management
 
 
 ## Done - Week 4
@@ -53,6 +49,10 @@ kanban-plugin: basic
 - [ ] **Notes** - Learning about an organisation's culture
 - [ ] **QUIZ** - Test your knowledge: Understanding the impact of organisational culture
 - [ ] **Watch** - Amar: Project management in life and in the organisation
+- [ ] **Read** - Case study: Balancing company culture and strategic goals
+- [ ] **Participate** - Explore: Organisational Culture
+- [ ] **Watch** - Introduction to change management
+- [ ] **Notes** - Introduction to change management
 
 
 ## Done - Week 3
