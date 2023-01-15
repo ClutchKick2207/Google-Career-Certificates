@@ -72,4 +72,32 @@
 		- Vital to understand who you are responsible to work for
 		- Who the members of your team reports to
 	- Can identify how you manage a project
-		- Is able to define how much authority you are able to get as a project manager
+		- *Is able to define how much authority you are able to get as a project manager*
+			- How many changes you can make on an organisational level
+				- such as changing vendors, or staff
+		- *Resource availability*
+			- Knowing how to access the people, equipment and budget needed for a project
+	- **Classic Structure**
+		- Less authority, and tighter scope
+		- Need to rely on getting approval from appropriate managers
+		- These people are also in charge of people on your team, and have the resources you need
+		- Depend on the managers in your organisation to approve resources
+			- The amount of resources and budget for project is decided by the managers
+		- Chain of approval
+			- Budget increase example
+				- Report to manager
+				- Manager reports to their management chain
+			- Traditional top-down arrangement of authority and resources
+	- **Matrix Structure**
+		- ![[Pasted image 20230115191512.png]]
+		- Two or more managers they need to report to and work with to function
+		- Team mates will have their functional managers as well as you as their managers
+		- If members are working on multiple projects, may also have multiple managers
+		- Affects your authority as a project manager
+			- You may have to collaborate with other managers to make decisions
+			- Share resources
+			- Negotiate priorities
+			- Make sure you know who your stakeholders are
+		- No clear chain of command
+			- Make sure you have identified and communicated, with anyone you need approval from well before the project is due to begin
+		- Strong project focus, and therefore have strong autonomy, and are able to gather resources as needed.
