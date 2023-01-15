@@ -32,4 +32,33 @@
 					- Take example of the army
 						- ![[Pasted image 20230115185111.png]]
 						- Having a strict hierarchy, where you report up the chain of command
+					- If a similar structure is evident where you are working, you would probably end up speaking with your manager (i.e. the person above you), and with peers (same kinds of projects)
 			- **Matrix Structure**
+				- Grid
+					- People above you, although people adjacent to you, who also expect to hear from you about different projects
+					- ![[Pasted image 20230115185320.png]]
+					- May not be direct bosses, although important to give any information that you have gained to them, as they can inform changes to your work
+
+## A project manager's role within different organisational structures
+- **Organisational Structures**
+	- **Classic Organisational Structure**
+		- Top-down heirarchy system
+			- CEO has direct authority of several department managers
+			- Department manager has direct authority over several other sections of employees
+			- Communication is needed both up and down the ladder
+			- Authority comes from the top, and filters to the bottom
+			- Requires reporting up the chain
+			- Will generally stay within their own chain of command, and rarely go outside of it for teams, or guidance
+			- Have to report to functional managers
+		- **Functional Organisations**
+			- Organisation is divided into departments based on function
+			- Each department is led by a functional manager, and employees are grouped depending on the functions of their role
+		- **Classic Organisational Structure Org chart**
+			- ![[Pasted image 20230115190038.png]]
+	- **Matrix Organisational Structure**
+		- Employees generally have 2 or more managers
+		- People above you, as well as those in adjacent departments
+			- Have to communicate and progress and work with as well
+		- Functional areas cross paths, and the responsible manager for each area generally has the most authority
+		- Will have 2 chains of command
+			- 
