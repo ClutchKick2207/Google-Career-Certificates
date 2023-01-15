@@ -6,12 +6,23 @@
 
 ## Major Heading
 
-> [!info] Definiton - Definition
-> Content
+
 
 - **Subheading**
 	- content
 
-## Introduction: Organisational Structure and Culture
+## Overview of Classic and Matrix structures
+> [!info] Organisational Structure - Definition
+> The way a company or organisation is arranged or structure
 - **Organizational Structure and Culture**
-	- 
+	- **Organisational Structure**
+		- Sense of who reports to who
+		- Who does what
+		- Map where you fit in, who you should communicate to, and how often to communicate with them
+		- **Organisational Heirarchy**
+			- Generally mapped using a Reporting chart or Organisational chart
+				- *Reporting Chart*
+					- Details who reports to who, and goes up that chain
+			- **Classic Structure**
+				- Functional or top-down structures
+			- **Matrix Structure**
