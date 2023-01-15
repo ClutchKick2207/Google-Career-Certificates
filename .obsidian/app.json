@@ -2,6 +2,7 @@
   "spellcheck": true,
   "attachmentFolderPath": "./Images",
   "pdfExportSettings": {
+    "includeName": true,
     "pageSize": "Letter",
     "landscape": false,
     "margin": "0",
