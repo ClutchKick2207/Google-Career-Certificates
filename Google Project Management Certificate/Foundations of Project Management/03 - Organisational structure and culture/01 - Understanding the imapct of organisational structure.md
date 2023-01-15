@@ -78,3 +78,21 @@
 			- Watch employee interactions: Observing how employees interact can help you tailor your interaction style to the company norm. 
 			- Are employee interactions more formal or informal in nature? 
 			- Are ideas solicited from employees in different roles?
+
+## Case study: Balancing company culture and strategic goals
+- **The family Java**
+	- **Mission**
+		- To provide a welcoming environment where our employees become our family and our guests become our friends
+	- **Values**
+		- To create a place where everyone is welcome
+		- To always give our best and hold ourselves accountable for the results
+		- To treat others with respect and kindness
+	- **Project Manager's relationship to organisational culture**
+		- **Learning the company values**
+			- Use this to stand out in the interview
+			- See if it suits you as well, and aligns to your values
+		- **Clarifying the company's expectations**
+			- Clarify anything that may be a sticking point
+				- Such as over-time expectations, and different priorities compared to what you are used to
+		- **Applying organisational culture to a project**
+			- Use everything that you learnt to create a better entrance, and also be able to work well
