@@ -47,3 +47,19 @@
 				- Post-secondary education, certifications, independent classes completed online or offline
 			- **Tip**
 				- Does not need to be developed through professional experience. Could be volunteer work, or personal experience that can help a hiring manager understand your capabilities.
+		- **Match your profile to the job requirements**
+			- Make it easy for a hiring manager to see why you are a good fit for the role
+			- Go through professional inventory, and highlight every item in green, orange or red depending on your target role
+			- **Highlighting Guidelines**
+				- **Green**
+					- Used for skills that are directly relevant for your target role
+					- Should look for roles that emphasise these skills
+					- Highlight these skills on your resume, and be prepared to discuss them in an interview
+				- **Orange**
+					- Should be used to identify skills and experiences that are relevant, but not necessarily directly
+					- Transferable skills (i.e. things you bring in from past jobs)
+					- Plan to explain this to hiring managers, as their relevance may not be immediately seen
+				- **Red**
+					- Used to identify items that are not relevant for your job search
+					- De-prioritise these skills, and do not highlight them in your resume, and do not focus on them in interviews
+			- Be sure to add on how you think it is relevant with any experience to resume
