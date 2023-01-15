@@ -101,3 +101,8 @@
 		- No clear chain of command
 			- Make sure you have identified and communicated, with anyone you need approval from well before the project is due to begin
 		- Strong project focus, and therefore have strong autonomy, and are able to gather resources as needed.
+
+## The role of a Project Management Office
+- **Project management office**
+	- **What is a PMO?**
+		- 
