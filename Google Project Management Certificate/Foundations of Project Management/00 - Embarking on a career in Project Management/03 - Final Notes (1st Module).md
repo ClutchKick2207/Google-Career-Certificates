@@ -1,4 +1,5 @@
 ## Welcome to the Google Project Management Certificate
+
 - ### What is a Project Management?
 > [!info] Project Management - Definition
 > The application of *knowledge*, *skills*, *tools*, and *techniques* to meet the *project requirements* and achieve the *desired outcome* 
