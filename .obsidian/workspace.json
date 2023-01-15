@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4be07251d90b9b6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Google Project Management Certificate/Foundations of Project Management/03 - Organisational structure and culture/02 - Understanding change management.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6199d479a160dcf8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Google Project Management Certificate/Foundations of Project Management/03 - Organisational structure and culture/04 - Final Notes (3rd Module).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "21c05309f045a7ab",
             "type": "leaf",
             "state": {
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
