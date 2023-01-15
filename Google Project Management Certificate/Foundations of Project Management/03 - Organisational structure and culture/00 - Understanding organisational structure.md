@@ -128,3 +128,6 @@
 				- Define the roles and responsibilites on different projects
 				- Provide training, mentoring, and coaching to all employees, although project managers in particular
 			- **Creation of project documentation, archives and tools**
+				- Provide templates, tools and software to help manage projects
+				- Maintains organisation's project history
+				- Archive all completed projects for future project's reference and to capture and lessons learnt
