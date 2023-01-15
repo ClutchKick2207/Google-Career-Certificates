@@ -56,9 +56,11 @@
 		- **Classic Organisational Structure Org chart**
 			- ![[Pasted image 20230115190038.png]]
 	- **Matrix Organisational Structure**
+		- [The Matrix Organizational structure article (PMI)](https://www.pmi.org/learning/library/matrix-organization-structure-reason-evolution-1837)
 		- Employees generally have 2 or more managers
 		- People above you, as well as those in adjacent departments
 			- Have to communicate and progress and work with as well
 		- Functional areas cross paths, and the responsible manager for each area generally has the most authority
-		- Will have 2 chains of command
-			- 
+		- In the below diagram, think about how you have to go left for a manager there, and those next to you are adjacent, as well as up, where you have the board and CEO
+		- **Matric Organsiational Structure Org Chart**
+			- ![[Pasted image 20230115190441.png]]
