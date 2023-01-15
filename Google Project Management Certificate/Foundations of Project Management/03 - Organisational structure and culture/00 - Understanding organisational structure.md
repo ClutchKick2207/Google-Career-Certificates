@@ -66,4 +66,10 @@
 			- ![[Pasted image 20230115190441.png]]
 
 ## How organisational structure impacts project management
-
+- **Impacts on project management**
+	- Accountability, and who to report to
+		- ![[Pasted image 20230115190742.png]]
+		- Vital to understand who you are responsible to work for
+		- Who the members of your team reports to
+	- Can identify how you manage a project
+		- Is able to define how much authority you are able to get as a project manager
