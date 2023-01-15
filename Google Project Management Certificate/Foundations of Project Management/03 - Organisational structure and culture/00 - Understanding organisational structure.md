@@ -25,4 +25,11 @@
 					- Details who reports to who, and goes up that chain
 			- **Classic Structure**
 				- Functional or top-down structures
+					- CEO -> Directors -> Direct reports -> Direct reports -> etc.
+					- ![[Pasted image 20230115185029.png]]
+					- Each manager generally oversees teams which have a specific function
+						- such as marketing, accounting, human resources
+					- Take example of the army
+						- ![[Pasted image 20230115185111.png]]
+						- Having a strict hierarchy, where you report up the chain of command
 			- **Matrix Structure**
