@@ -72,6 +72,11 @@
 	- You may not have the authority to implement the system
 	- You can and still collaborate and help stay involved
 	- Communicate with employees about how the system can help their work
+	- **Questions to ask**
+		- **How will the organisation react to change?**
+		- **Which influencers can affect change?**
+		- **What are the best means of communication?**
+		- **What change management practices will lead to the successful implementation of my project?**
 	- **Pharmacy Check in Project**
 		- **Classic Organisational Structure/Informal Corporate culture**
 			- Need to change name from Speedycare to Speedycheckin
@@ -95,21 +100,29 @@
 
 ## Corporate and Project Governance
 - **Corporate and Project governance**
-	- **Corporate Governance**
-		- Each organization is governed by its own set of standards and practices that direct and control its actions. Those standards and practices are called **corporate governance**, and they will influence your projects. Corporate governance is the framework by which an organization achieves its goals and objectives. Corporate governance is also a way to balance the requirements of the various corporate entities, such as stakeholders, management, and customers. Corporate governance affects every part of an organization, including action plans, internal and external controls, and performance measurements.
-		- Governance and change management go hand-in-hand. Think back to the previous videos on change management. To successfully implement change management, it is essential that you understand the structure and culture of the organization. Effective governance in change management provides clearly defined roles and responsibilities during change. This enables the people within the organization to have a precise understanding of who makes decisions and of the relationship between those managing and participating in the change management process.
-		- Another example of governance within an organization is the creation and use of **steering committees**. Steering committees decide on the priorities of an organization and manage the general course of its operations. The steering committee essentially acts as an advisory board or council to help the project manager and the company make and approve strategic decisions that affect both the company and the project.
-	- **Project Governance**
-		- As a project manager, you will be responsible for **project governance**. Project governance is the framework for how project decisions are made. Project governance helps keep projects running smoothly, on time, and within budget. Project governance involves all the key elements that make a project successful. It tells you what activities an organization does and who is responsible for those activities. Project governance covers policies, regulations, functions, processes, procedures, and responsibilities.
-	- **How they intersect**
-		- Project governance needs to be tailored to your organization's specific needs. These needs will influence how you implement and monitor the governance framework on your project. Project governance concerns those areas of corporate governance that are specifically related to project activities. Effective project governance ensures that an organization’s projects are aligned to the organization’s larger objectives, are delivered efficiently, and are sustainable. This includes:
-			- Considering the long- and short-term interests of your organization
+	- **Corporate Governance** (who is in charge in the company)
+		- Framework in which an organisation achieves its goals and objectives
+		- Way to balance the requirements of various corporate entities, such as stakeholders, management and customers
+		- Controls every part of an organisation, including action plans, internal and external controls and performance measurements
+		- Essential that you understand the structure and culture of an organisation to be most effective
+		- Effective governance in change management provides clearly defined roles and responsibilities during change
+		- Enables for people within the organisation to have a precise understanding of everyone that makes decisions and the relationship they have to the project
+		- **Steering committees**
+			- Decide on priorities of an organisation, and manage the general course of it's operations
+			- Acts as an advisory board and helps the project manager and company make and approve strategic decisions that affect the company and projct
+	- **Project Governance** (who is in charge in the project)
+		- Framework for how project decisions are made
+		- Keeps projects running smoothly, on time and within budget
+		- Informs you on what activities and organisation does and who is responsible for those activities
+		- Covers policies, regulations, functions, processes, procedures and responsibilities
+	- **How Project Governance and Corporate Governance intersect**
+		- Effective project governance ensures that an organisation's projects are aligned to the organisation's larger objectives
+		- Includes
+			- Considering long and short term interests of your organisation
 			- Making thoughtful decisions about which projects to take on and avoiding projects if you do not have sufficient resources
-			- Providing timely, relevant, and reliable information to the board of directors and other major stakeholders 
-			- Eliciting the input and buy-in of senior managers since they are the decision-makers 
-			- During the initiation phase, prioritizing clear, reachable, and sustainable goals in order to reduce confusion and conflict
-			- During the planning phase, assigning ownership and accountability to an experienced team to deliver, monitor, and control the process 
+			- Providing timely, relevant, and reliable information to the board of directors and other major stakeholders
+			- Eliciting the input and buy-in of senior managers since they are the decision makers
+			- During the initiation phase, prioritising clear, reachable and sustainable goals in order to reduce confusion and conflict
+			- During the planning phase, assigning ownership and accountability to an experiences team to deliver, monitor, and control the process
 			- During the execution phase, learning from mistakes and adapting to new or improved knowledge
-		- Corporate governance can involve clearing many hurdles before making decisions. These decisions can influence not only a single project, but the entire corporation. 
-		- At the same time, corporate governance can help support project governance, as it provides oversight on compliance and mitigating risk and offers guidance and direction for project managers. Good corporate governance can also help project managers secure resources, get issues addressed, avoid delays in decision-making, get buy-in from stakeholders, and achieve visibility for projects on the executive level.
 
