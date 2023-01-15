@@ -10,11 +10,6 @@ kanban-plugin: basic
 
 ## Doing this session
 
-- [ ] **Read** - Learning about an organisation's culture
-- [ ] **Notes** - Learning about an organisation's culture
-- [ ] **QUIZ** - Test your knowledge: Understanding the impact of organisational culture
-- [ ] **Watch** - Amar: Project management in life and in the organisation
-- [ ] **Read** - Case study: Balancing company culture and strategic goals
 - [ ] **Participate** - Explore: Organisational Culture
 - [ ] **Watch** - Introduction to change management
 - [ ] **Notes** - Introduction to change management
@@ -35,8 +30,7 @@ kanban-plugin: basic
 
 ## In progress
 
-- [ ] **Watch** - Introduction to organisational culture
-- [ ] **Notes** - Introduction to organisational culture
+- [ ] **Read** - Case study: Balancing company culture and strategic goals
 
 
 ## Done - Week 4
@@ -53,6 +47,12 @@ kanban-plugin: basic
 - [ ] **Notes** - The role of a project management office
 - [ ] **Watch** - Ian: Working in a project management office
 - [ ] **QUIZ** - Test your knowledge: Understanding organisational knowledge
+- [ ] **Watch** - Introduction to organisational culture
+- [ ] **Notes** - Introduction to organisational culture
+- [ ] **Read** - Learning about an organisation's culture
+- [ ] **Notes** - Learning about an organisation's culture
+- [ ] **QUIZ** - Test your knowledge: Understanding the impact of organisational culture
+- [ ] **Watch** - Amar: Project management in life and in the organisation
 
 
 ## Done - Week 3
