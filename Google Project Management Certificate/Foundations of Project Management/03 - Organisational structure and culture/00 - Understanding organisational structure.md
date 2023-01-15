@@ -64,3 +64,6 @@
 		- In the below diagram, think about how you have to go left for a manager there, and those next to you are adjacent, as well as up, where you have the board and CEO
 		- **Matric Organsiational Structure Org Chart**
 			- ![[Pasted image 20230115190441.png]]
+
+## How organisational structure impacts project management
+

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f246ba447247eacb",
+        "id": "f28ab5b34afa4883",
         "type": "tabs",
         "children": [
           {
-            "id": "18f986dc96ac4fc5",
+            "id": "6994523ef74df8c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,7 +22,7 @@
         ]
       },
       {
-        "id": "f28ab5b34afa4883",
+        "id": "7df9c220466a46a3",
         "type": "tabs",
         "children": [
           {
@@ -172,7 +172,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "18f986dc96ac4fc5",
+  "active": "6994523ef74df8c0",
   "lastOpenFiles": [
     "Google Project Management Certificate/Foundations of Project Management/Kanban - Foundations of Project Management.md",
     "Google Project Management Certificate/Foundations of Project Management/03 - Organisational structure and culture/00 - Understanding organisational structure.md",
