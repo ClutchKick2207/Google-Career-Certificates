@@ -14,7 +14,6 @@ kanban-plugin: basic
 
 ## In progress
 
-- [ ] **QUIZ** - Test your knowledge: Understanding organisational knowledge
 
 
 ## Done - Week 4
@@ -30,6 +29,7 @@ kanban-plugin: basic
 - [ ] **Read** - The role of a project management office
 - [ ] **Notes** - The role of a project management office
 - [ ] **Watch** - Ian: Working in a project management office
+- [ ] **QUIZ** - Test your knowledge: Understanding organisational knowledge
 
 
 ## Done - Week 3
