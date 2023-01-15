@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Google Project Management Certificate/Foundations of Project Management/03 - Organisational structure and culture/02 - Understanding change management.md",
+                "file": "Google Project Management Certificate/Foundations of Project Management/03 - Organisational structure and culture/04 - Final Notes (3rd Module).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21c05309f045a7ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Google Project Management Certificate/Foundations of Project Management/03 - Organisational structure and culture/03 - Pursuing your new career.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google Project Management Certificate/Foundations of Project Management/03 - Organisational structure and culture/02 - Understanding change management.md",
+                "file": "Google Project Management Certificate/Foundations of Project Management/03 - Organisational structure and culture/03 - Pursuing your new career.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Google Project Management Certificate/Foundations of Project Management/03 - Organisational structure and culture/02 - Understanding change management.md",
+                "file": "Google Project Management Certificate/Foundations of Project Management/03 - Organisational structure and culture/03 - Pursuing your new career.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Google Project Management Certificate/Foundations of Project Management/03 - Organisational structure and culture/02 - Understanding change management.md"
+                "file": "Google Project Management Certificate/Foundations of Project Management/03 - Organisational structure and culture/03 - Pursuing your new career.md"
               }
             }
           },
@@ -170,9 +182,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6199d479a160dcf8",
+  "active": "21c05309f045a7ab",
   "lastOpenFiles": [
-    "Google Project Management Certificate/Foundations of Project Management/03 - Organisational structure and culture/03 - Final Notes (3rd Module).md",
+    "Google Project Management Certificate/Foundations of Project Management/03 - Organisational structure and culture/04 - Final Notes (3rd Module).md",
+    "Google Project Management Certificate/Foundations of Project Management/03 - Organisational structure and culture/03 - Pursuing your new career.md",
     "Google Project Management Certificate/Foundations of Project Management/03 - Organisational structure and culture/02 - Understanding change management.md",
     "Google Project Management Certificate/Foundations of Project Management/03 - Organisational structure and culture/01 - Understanding the imapct of organisational structure.md",
     "Google Project Management Certificate/Foundations of Project Management/00 - Final Notes (Foundations of Project Management).md",
@@ -180,7 +193,6 @@
     "Google Project Management Certificate/Foundations of Project Management/Kanban - Foundations of Project Management.md",
     "Google Project Management Certificate/Foundations of Project Management/02 - The project management life cycle and methodologies/02 - Comparing project management methodologies and approaches.md",
     "Google Project Management Certificate/Note Template - Project Management.md",
-    "Google Project Management Certificate/Foundations of Project Management/02 - The project management life cycle and methodologies/03 - Final Notes (3rd Module).md",
-    "Google Project Management Certificate/Foundations of Project Management/02 - The project management life cycle and methodologies/01 - Analysing the different project phases.md"
+    "Google Project Management Certificate/Foundations of Project Management/02 - The project management life cycle and methodologies/03 - Final Notes (3rd Module).md"
   ]
 }
