@@ -21,3 +21,15 @@
 			- The more common it is, the more likely it is essential for the role
 			- Put these requirements on the top of the list
 		- After this, you should have a clear understanding of the potential requirements for the role
+		- **Questions + Answers**
+			- **Why do requirements different across job descriptions?**
+				- Overly general job titles, or job titles that are not able to deliver the specific scope for the company
+				- Program manager at one company maybe more focused on customer management, and another more on project management
+				- Important to look beyond job titles and look at the job description to target roles
+			- **Why are some requirements higher on my list than I thought they would be, while others I expected to see barely show up at all?**
+				- May need to spend more time learning what the role really entails
+				- May have some preconceptions that need adjusting
+				- Do some additional research on other job options
+			- **How do I know if I am really right for my target role?**
+				- The more roles you look at, the more you can see if you are ready for the role, and get over any self doubt, especially as it is your first in a new field
+				- 
