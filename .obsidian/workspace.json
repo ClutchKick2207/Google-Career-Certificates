@@ -22,16 +22,16 @@
         ]
       },
       {
-        "id": "ee0ae40e5359da54",
+        "id": "e1c91aa0471288d6",
         "type": "tabs",
         "children": [
           {
-            "id": "21c05309f045a7ab",
+            "id": "e815809a3fbe6dd7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Google Project Management Certificate/Foundations of Project Management/01 - Becoming an effective Project Manager/03 - Final Notes (2nd Module).md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Google Project Management Certificate/Foundations of Project Management/01 - Becoming an effective Project Manager/03 - Final Notes (2nd Module).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Google Project Management Certificate/Foundations of Project Management/01 - Becoming an effective Project Manager/03 - Final Notes (2nd Module).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Google Project Management Certificate/Foundations of Project Management/01 - Becoming an effective Project Manager/03 - Final Notes (2nd Module).md"
               }
             }
           },
@@ -174,17 +174,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "21c05309f045a7ab",
+  "active": "e815809a3fbe6dd7",
   "lastOpenFiles": [
-    "Google Project Management Certificate/Foundations of Project Management/00 - Embarking on a career in Project Management/03 - Final Notes (1st Module).md",
+    "Google Project Management Certificate/Foundations of Project Management/01 - Becoming an effective Project Manager/02 - Acquiring the core skills of a successful project manager.md",
+    "Google Project Management Certificate/Foundations of Project Management/01 - Becoming an effective Project Manager/01 - Learning more about project manager roles and responsibilites.md",
+    "Google Project Management Certificate/Foundations of Project Management/01 - Becoming an effective Project Manager/00 - Exploring how a project manager adds value.md",
     "Google Project Management Certificate/Foundations of Project Management/03 - Organisational structure and culture/03 - Pursuing your new career.md",
+    "README.md",
+    "Google Project Management Certificate/Foundations of Project Management/00 - Embarking on a career in Project Management/03 - Final Notes (1st Module).md",
     "Google Project Management Certificate/Foundations of Project Management/00 - Embarking on a career in Project Management/02 - Learning about careers in Project Management.md",
     "Google Project Management Certificate/Foundations of Project Management/00 - Embarking on a career in Project Management/01 - Understanding the basics of Project Management - Notes.md",
     "Google Project Management Certificate/Foundations of Project Management/00 - Embarking on a career in Project Management/00 - Getting Started with the Program - Notes.md",
-    "Google Project Management Certificate/Foundations of Project Management/00 - Final Notes (Foundations of Project Management).md",
-    "Google Project Management Certificate/Foundations of Project Management/03 - Organisational structure and culture/02 - Understanding change management.md",
-    "Google Project Management Certificate/Foundations of Project Management/03 - Organisational structure and culture/01 - Understanding the imapct of organisational structure.md",
-    "Google Project Management Certificate/Foundations of Project Management/03 - Organisational structure and culture/00 - Understanding organisational structure.md",
-    "Google Project Management Certificate/Foundations of Project Management/02 - The project management life cycle and methodologies/02 - Comparing project management methodologies and approaches.md"
+    "Google Project Management Certificate/Foundations of Project Management/00 - Final Notes (Foundations of Project Management).md"
   ]
 }
