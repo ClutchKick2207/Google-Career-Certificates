@@ -339,3 +339,63 @@
 			- During the initiation phase, prioritising clear, reachable and sustainable goals in order to reduce confusion and conflict
 			- During the planning phase, assigning ownership and accountability to an experiences team to deliver, monitor, and control the process
 			- During the execution phase, learning from mistakes and adapting to new or improved knowledge
+
+## How to uncover job opportunities
+- **Job opportunities**
+	- **Understand your target role**
+		- Stand out against candidates that already have experience in the field
+		- Understand the role in the context of any company you are applying to
+	- **Analyse job listings**
+		- Gather information from job listings
+		- **Pull up ten job descriptions for your target role**
+			- Use job boards such as Indeed, Glassdoor and LinkedIn
+			- Make sure the roles come from different companies, share similar titles, and are roles you would actively apply for
+			- Should be able to identify a section listing requirements for the role
+		- **Combine the job requirements**
+			- Create a document and copy over all the required responsibilities from all ten job descriptions
+		- **Order requirements based on appearance frequency**
+			- The more common it is, the more likely it is essential for the role
+			- Put these requirements on the top of the list
+		- After this, you should have a clear understanding of the potential requirements for the role
+		- **Questions + Answers**
+			- **Why do requirements different across job descriptions?**
+				- Overly general job titles, or job titles that are not able to deliver the specific scope for the company
+				- Program manager at one company maybe more focused on customer management, and another more on project management
+				- Important to look beyond job titles and look at the job description to target roles
+			- **Why are some requirements higher on my list than I thought they would be, while others I expected to see barely show up at all?**
+				- May need to spend more time learning what the role really entails
+				- May have some preconceptions that need adjusting
+				- Do some additional research on other job options
+			- **How do I know if I am really right for my target role?**
+				- The more roles you look at, the more you can see if you are ready for the role, and get over any self doubt, especially as it is your first in a new field
+		- **Create professional inventory**
+			- Look at your existing professional qualifications
+			- **Technical (hard) skills**
+				- Related to a specific task or situation such as programming, technical writing, project management, etc.
+			- **Non-technical (interpersonal) skills**
+				- Enable people to navigate their environment, work well with others, perform well and achieve their goals
+				- Skills such as communication, leadership, team management, etc.
+			- **Personal Qualities**
+				- Positive attributes
+				- Honesty, good sense of humour,  dependable
+				- Also add personal interests to this list
+			- **Education**
+				- Post-secondary education, certifications, independent classes completed online or offline
+			- **Tip**
+				- Does not need to be developed through professional experience. Could be volunteer work, or personal experience that can help a hiring manager understand your capabilities.
+		- **Match your profile to the job requirements**
+			- Make it easy for a hiring manager to see why you are a good fit for the role
+			- Go through professional inventory, and highlight every item in green, orange or red depending on your target role
+			- **Highlighting Guidelines**
+				- **Green**
+					- Used for skills that are directly relevant for your target role
+					- Should look for roles that emphasise these skills
+					- Highlight these skills on your resume, and be prepared to discuss them in an interview
+				- **Orange**
+					- Should be used to identify skills and experiences that are relevant, but not necessarily directly
+					- Transferable skills (i.e. things you bring in from past jobs)
+					- Plan to explain this to hiring managers, as their relevance may not be immediately seen
+				- **Red**
+					- Used to identify items that are not relevant for your job search
+					- De-prioritise these skills, and do not highlight them in your resume, and do not focus on them in interviews
+			- Be sure to add on how you think it is relevant with any experience to resume
