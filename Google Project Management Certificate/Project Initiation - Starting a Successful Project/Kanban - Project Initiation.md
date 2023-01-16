@@ -10,12 +10,6 @@ kanban-plugin: basic
 
 ## Doing this session
 
-- [ ] **Read** - Course 2 overview
-- [ ] **Read** - Helpful resources to get started
-- [ ] **Notes** - Helpful resources to get started
-- [ ] **Participate** - Meet and greet
-- [ ] **Watch** - Why is project initiation essential?
-- [ ] **Notes** - Why is project initiation essential?
 - [ ] **Watch** - Key components of project initiation
 - [ ] **Notes** - Key components of project initiation
 - [ ] **QUIZ** - Reflection - Project initiation and key components
@@ -29,12 +23,18 @@ kanban-plugin: basic
 
 ## In progress
 
-- [ ] **Watch** - Intro to course 2
-- [ ] **Notes** - Course 2 overview
+- [ ] **Watch** - Why is project initiation essential?
+- [ ] **Notes** - Why is project initiation essential?
 
 
 ## Done - Week 1
 
+- [ ] **Watch** - Intro to course 2
+- [ ] **Notes** - Course 2 overview
+- [ ] **Read** - Course 2 overview
+- [ ] **Read** - Helpful resources to get started
+- [ ] **Notes** - Helpful resources to get started
+- [ ] **Participate** - Meet and greet
 
 
 ## Done - Week 2
