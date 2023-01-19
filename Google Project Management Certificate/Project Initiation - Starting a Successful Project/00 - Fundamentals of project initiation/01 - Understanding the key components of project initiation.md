@@ -8,6 +8,9 @@
 ## Why is Project initiation essential?
 > [!info] Cost Benefit Analysis - Definition
 > The process of adding up the expected value of a project - the benefits - and comparing them to the dollar costs
+
+> [!info] Project Charter - Definition
+> A document that clearly defines the project and its goals, and outlines what is needed to accomplish them
 - **Project Initiation**
 	- First step of the project
 	- Well planned initiation allows for a strong foundation for the rest of the project
@@ -66,4 +69,8 @@
 		- Budget
 		- People
 		- Materials
-		- 
+		- Other items you will have at your disposal
+		- Think carefully about what resources you need initially
+- **Project Charter**
+	- ![[Pasted image 20230119182411.png]]
+	- Contains all the details of a project
