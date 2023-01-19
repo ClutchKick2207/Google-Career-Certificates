@@ -6,6 +6,8 @@
 
 
 ## Why is Project initiation essential?
+> [!info] Cost Benefit Analysis - Definition
+> The process of adding up the expected value of a project - the benefits - and comparing them to the dollar costs
 - **Project Initiation**
 	- First step of the project
 	- Well planned initiation allows for a strong foundation for the rest of the project
@@ -23,3 +25,17 @@
 		- Without understanding project goals, may underestimate the resources needed/time needed
 		- May not accomplish appropriate goals
 		- Gain as much clarity during the initial phase, as it'll allow for saving time throughout the rest of the project
+	- **Cost Benefit Analysis**
+		- Work with stakeholders
+			- **Benefits**
+				- What value will this project create?
+				- How much money could this project save our organisation?
+				- How much money will it bring in from existing customers?
+				- How much time will be saved?
+				- How will the user experience be improved?
+			- **Costs**
+				- How much time will people have to spend on this project?
+				- What will be the one-time costs?
+				- Are there any on-going costs?
+				- What about long-term costs?
+		- Benefits should always outweigh the costs of the project

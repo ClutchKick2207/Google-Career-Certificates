@@ -10,8 +10,6 @@ kanban-plugin: basic
 
 ## Doing this session
 
-- [ ] **Watch** - Key components of project initiation
-- [ ] **Notes** - Key components of project initiation
 - [ ] **QUIZ** - Reflection - Project initiation and key components
 - [ ] **Watch** - Afsheen: Listening to learn
 - [ ] **Participate** - Explore: Project initiation
@@ -23,8 +21,8 @@ kanban-plugin: basic
 
 ## In progress
 
-- [ ] **Watch** - Why is project initiation essential?
-- [ ] **Notes** - Why is project initiation essential?
+- [ ] **Watch** - Key components of project initiation
+- [ ] **Notes** - Key components of project initiation
 
 
 ## Done - Week 1
@@ -35,6 +33,8 @@ kanban-plugin: basic
 - [ ] **Read** - Helpful resources to get started
 - [ ] **Notes** - Helpful resources to get started
 - [ ] **Participate** - Meet and greet
+- [ ] **Watch** - Why is project initiation essential?
+- [ ] **Notes** - Why is project initiation essential?
 
 
 ## Done - Week 2
