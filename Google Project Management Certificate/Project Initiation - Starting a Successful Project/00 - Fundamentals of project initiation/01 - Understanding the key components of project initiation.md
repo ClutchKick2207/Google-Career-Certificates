@@ -9,8 +9,6 @@
 > [!info] Cost Benefit Analysis - Definition
 > The process of adding up the expected value of a project - the benefits - and comparing them to the dollar costs
 
-> [!info] Project Charter - Definition
-> A document that clearly defines the project and its goals, and outlines what is needed to accomplish them
 - **Project Initiation**
 	- First step of the project
 	- Well planned initiation allows for a strong foundation for the rest of the project
@@ -44,6 +42,8 @@
 		- Benefits should always outweigh the costs of the project
 
 ## Key components of project initiation
+> [!info] Project Charter - Definition
+> A document that clearly defines the project and its goals, and outlines what is needed to accomplish them
 - **Project initiation parts**
 	- **Goals**
 		- The goal is what you've been asked to do and what you're trying to achieve.
@@ -74,3 +74,4 @@
 - **Project Charter**
 	- ![[Pasted image 20230119182411.png]]
 	- Contains all the details of a project
+	- Review the document with stakeholders to make sure you haven't missed anything
