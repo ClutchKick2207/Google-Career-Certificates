@@ -76,4 +76,38 @@
 	- Contains all the details of a project
 	- Review the document with stakeholders to make sure you haven't missed anything
 
-## Explore: Project Initiation
+## Performing a cost-benefit analysis
+- **Cost-benefit analysis**
+	- **Benefits of a cost-benefit analysis**
+		- Minimise risks
+		- Maximise gains
+		- Allows for clear communication with stakeholders
+		- Uses objective data, and therefore can point out any biases, and keep out stakeholder self-interest
+		- Reduces waste
+		- Provides good justification for a project
+	- **Guiding Questions**
+		- **Benefits**
+			- What value will this project create?
+			- How much money could this project save our organisation?
+			- How much money will it bring in from existing customers?
+			- How much time will it save?
+			- How will it improve the customer experience?
+		- **Costs**
+			- How much time will people have to spend on this project?
+			- What are the one-time costs?
+			- Are there any ongoing costs?
+			- What about the long term costs?
+		- **Intangible Benefits** (Costs are the same but reversed)
+			- **Customer Satisfaction**
+				- Will the project increase customer retention, causing them to spend more on the company's products or services?
+			- **Employee satisfaction
+				- Is the project likely to improve company morale, reducing turnover?
+			- **Employee productivity**
+				- Will the project reduce employee's overtime hours, saving the company money?
+			- **Brand perception**
+				- Is the project likely to improve the company's brand perception and recognition, attracting more customers or providing a competitive advantage?
+	- **Calculating Costs and Benefits**
+		- **ROI (Return on Investment) Formula**
+			- ![[Pasted image 20230120143138.png]]
+			- **G**: Financial gains expected
+			- **C**: Upfront and ongoing costs of investment
