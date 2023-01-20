@@ -10,7 +10,6 @@ kanban-plugin: basic
 
 ## Doing this session
 
-- [ ] **Participate** - Explore: Project initiation
 - [ ] **Read** - Performing a cost-benefit analysis
 - [ ] **Notes** - Performing a cost-benefit analysis
 - [ ] **Watch** - Wrap-up
@@ -19,7 +18,7 @@ kanban-plugin: basic
 
 ## In progress
 
-- [ ] **Watch** - Afsheen: Listening to learn
+- [ ] **Participate** - Explore: Project initiation
 
 
 ## Done - Week 1
@@ -35,6 +34,7 @@ kanban-plugin: basic
 - [ ] **Watch** - Key components of project initiation
 - [ ] **Notes** - Key components of project initiation
 - [ ] **QUIZ** - Reflection - Project initiation and key components
+- [ ] **Watch** - Afsheen: Listening to learn
 
 
 ## Done - Week 2

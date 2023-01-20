@@ -75,3 +75,5 @@
 	- ![[Pasted image 20230119182411.png]]
 	- Contains all the details of a project
 	- Review the document with stakeholders to make sure you haven't missed anything
+
+## Explore: Project Initiation
