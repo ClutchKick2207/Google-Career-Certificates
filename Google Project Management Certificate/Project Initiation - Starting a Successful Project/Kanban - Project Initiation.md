@@ -14,7 +14,18 @@ kanban-plugin: basic
 
 ## In progress
 
-- [ ] **QUIZ** - Weekly challenge 1
+
+
+## Done - Week 2
+
+
+
+## Done - Week 3
+
+
+
+## Done - Week 4
+
 
 
 ## Done - Week 1
@@ -35,18 +46,7 @@ kanban-plugin: basic
 - [ ] **Read** - Performing a cost-benefit analysis
 - [ ] **Notes** - Performing a cost-benefit analysis
 - [ ] **Watch** - Wrap-up
-
-
-## Done - Week 2
-
-
-
-## Done - Week 3
-
-
-
-## Done - Week 4
-
+- [ ] **QUIZ** - Weekly challenge 1
 
 
 
