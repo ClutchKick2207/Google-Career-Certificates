@@ -111,3 +111,12 @@
 			- ![[Pasted image 20230120143138.png]]
 			- **G**: Financial gains expected
 			- **C**: Upfront and ongoing costs of investment
+			- Example
+				- Project costs $6000 upfront
+				- $25/month for 12 months (i.e. $300/year)
+				- $10,000 revenue over the course of the year
+				- $$\frac{($10,000-$6,300)}{$6300}=0.58=58\% $$
+	- **Extra Resources**
+		- [Cost-Benefits Analysis for Projects - A Step-by-Step Guide (projectmanager.com)](https://www.projectmanager.com/blog/cost-benefit-analysis-for-projects-a-step-by-step-guide)
+		- [Cost-Benefit Analysis in Project Management | (pmstudycircle.com)](https://pmstudycircle.com/cost-benefit-or-benefit-cost-analysis/#:~:text=Cost%2Dbenefit%20analysis%20is%20a,during%20the%20project%20selection%20analysis)
+
