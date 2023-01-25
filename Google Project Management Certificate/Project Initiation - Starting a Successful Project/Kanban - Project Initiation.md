@@ -37,6 +37,17 @@ kanban-plugin: basic
 - [ ] **Read** - Strategies for controlling scope creep
 - [ ] **Notes** - Strategies for controlling scope creep
 - [ ] **QUIZ** - Test your knowledge: Defining project scope
+- [ ] **Watch** - Managing changes to a project's scope
+- [ ] **Notes** - Managing changes to a project's scope
+- [ ] **Watch** - Torie: The importance of staying within scope
+- [ ] **Read** - Optional: Reviewing the Triple Constraint
+- [ ] **QUIZ** - Reflection: Applying the Triple Constraint
+- [ ] **Watch** - Launching and landing a project
+- [ ] **Notes** - Launching and landing a project
+- [ ] **Read** - Don't forget to land: Measuring a project's success
+- [ ] **Notes** - Don't forget to land: Measuring a project's success
+- [ ] **Watch** - Defining success criteria
+- [ ] **Notes** - Defining success criteria
 
 
 ## Doing this session
