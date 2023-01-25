@@ -25,6 +25,18 @@ kanban-plugin: basic
 - [ ] **Read** - Creating OKRs for your project
 - [ ] **Notes** - Creating OKRs for your project
 - [ ] **QUIZ** - Optional Activity: Create OKRs for your project
+- [ ] **Read** - Create OKRs for your project
+- [ ] **Notes** - Create OKRs for your project
+- [ ] **QUIZ** - Test your knowledge: Identifying project goals
+- [ ] **Watch** - Determining a project's scope
+- [ ] **Notes** - Determining a project's scope
+- [ ] **Read** - Gathering information to define scope
+- [ ] **Notes** - Gathering information to define scope
+- [ ] **Watch** - Monitoring and maintaining a project's scope
+- [ ] **Notes** - Monitoring and maintaining a project's scope
+- [ ] **Read** - Strategies for controlling scope creep
+- [ ] **Notes** - Strategies for controlling scope creep
+- [ ] **QUIZ** - Test your knowledge: Defining project scope
 
 
 ## Doing this session
