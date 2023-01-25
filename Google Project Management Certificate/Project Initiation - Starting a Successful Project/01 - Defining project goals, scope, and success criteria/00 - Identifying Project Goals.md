@@ -11,3 +11,13 @@
 
 - **Subheading**
 	- content
+
+## Introduction: Defining project goals, scope and success criteria
+- **Goals, scope and success criteria**
+	- **Office Green**
+		- Lead project manager
+		- Commercial landscaping company
+			- Specialises in plant décor for offices and other businesses
+		- Director of Product has an idea for a new service
+			- *Plant Pals*
+				- High volume customers are offered small, low maintenance plants

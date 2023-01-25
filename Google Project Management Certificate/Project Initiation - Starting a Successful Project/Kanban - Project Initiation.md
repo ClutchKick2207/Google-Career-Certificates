@@ -45,8 +45,6 @@ kanban-plugin: basic
 
 ## Doing this session
 
-- [ ] **Watch** - Introduction: Defining project goals, scope and success criteria
-- [ ] **Notes** - Introduction: Defining project goals, scope and success criteria
 - [ ] **Watch** - Determining project goals and deliverables
 - [ ] **Notes** - Determining project goals and deliverables
 - [ ] **Participate** - Explore: Project Plant Pals: Initiation
@@ -62,6 +60,8 @@ kanban-plugin: basic
 
 ## In progress
 
+- [ ] **Watch** - Introduction: Defining project goals, scope and success criteria
+- [ ] **Notes** - Introduction: Defining project goals, scope and success criteria
 
 
 ## Done - Week 2
