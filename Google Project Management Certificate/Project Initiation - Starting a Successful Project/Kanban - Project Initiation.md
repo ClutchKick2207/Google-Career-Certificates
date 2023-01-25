@@ -48,6 +48,12 @@ kanban-plugin: basic
 - [ ] **Notes** - Don't forget to land: Measuring a project's success
 - [ ] **Watch** - Defining success criteria
 - [ ] **Notes** - Defining success criteria
+- [ ] **Read** - Tracking and communicating success criteria
+- [ ] **Notes** - Tracking and communicating success criteria
+- [ ] **Read** - Using OKRs to evaluate progress
+- [ ] **Notes** - Using OKRs to evaluate progress
+- [ ] **Watch** - Wrap up
+- [ ] **QUIZ** - Weekly challenge 2
 
 
 ## Doing this session
