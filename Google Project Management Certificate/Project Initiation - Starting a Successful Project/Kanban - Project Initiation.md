@@ -6,19 +6,6 @@ kanban-plugin: basic
 
 ## To-Do
 
-- [ ] **Watch** - Introduction: Defining project goals, scope and success criteria
-- [ ] **Notes** - Introduction: Defining project goals, scope and success criteria
-- [ ] **Watch** - Determining project goals and deliverables
-- [ ] **Notes** - Determining project goals and deliverables
-- [ ] **Participate** - Explore: Project Plant Pals: Initiation
-- [ ] **Watch** - How to set SMART goals
-- [ ] **Notes** - How to set SMART goals
-- [ ] **Read** - SMART goals: Making goals meaningful
-- [ ] **Watch** - Navigating Peer/Self reviews
-- [ ] **Notes** - Navigating Peer/Self reviews
-- [ ] **Read** - Optional: What to know about peer-graded assignments
-- [ ] **Notes** - Optional: What to know about peer-graded assignments
-- [ ] **QUIZ** - Activity: Define and determine SMART project goals
 - [ ] **Read** - Activity Exemplar: Define and determine SMART project goals
 - [ ] **Watch** - Introduction to OKRs
 - [ ] **Notes** - Introduction to OKRs
@@ -58,6 +45,19 @@ kanban-plugin: basic
 
 ## Doing this session
 
+- [ ] **Watch** - Introduction: Defining project goals, scope and success criteria
+- [ ] **Notes** - Introduction: Defining project goals, scope and success criteria
+- [ ] **Watch** - Determining project goals and deliverables
+- [ ] **Notes** - Determining project goals and deliverables
+- [ ] **Participate** - Explore: Project Plant Pals: Initiation
+- [ ] **Watch** - How to set SMART goals
+- [ ] **Notes** - How to set SMART goals
+- [ ] **Read** - SMART goals: Making goals meaningful
+- [ ] **Watch** - Navigating Peer/Self reviews
+- [ ] **Notes** - Navigating Peer/Self reviews
+- [ ] **Read** - Optional: What to know about peer-graded assignments
+- [ ] **Notes** - Optional: What to know about peer-graded assignments
+- [ ] **QUIZ** - Activity: Define and determine SMART project goals
 
 
 ## In progress
