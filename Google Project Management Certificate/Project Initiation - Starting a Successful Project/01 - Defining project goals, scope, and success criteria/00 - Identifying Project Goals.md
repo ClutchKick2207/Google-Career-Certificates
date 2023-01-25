@@ -20,4 +20,6 @@
 			- Specialises in plant décor for offices and other businesses
 		- Director of Product has an idea for a new service
 			- *Plant Pals*
-				- High volume customers are offered small, low maintenance plants
+				- High volume customers are offered small, low maintenance plants for their desks
+				- As the project manager, are responsible for the rollout of this new service
+	- 
