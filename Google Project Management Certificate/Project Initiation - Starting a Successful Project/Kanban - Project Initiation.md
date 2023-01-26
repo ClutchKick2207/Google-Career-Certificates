@@ -45,8 +45,6 @@ kanban-plugin: basic
 
 ## Doing this session
 
-- [ ] **Watch** - How to set SMART goals
-- [ ] **Notes** - How to set SMART goals
 - [ ] **Read** - SMART goals: Making goals meaningful
 - [ ] **Watch** - Navigating Peer/Self reviews
 - [ ] **Notes** - Navigating Peer/Self reviews
@@ -57,7 +55,8 @@ kanban-plugin: basic
 
 ## In progress
 
-- [ ] **Participate** - Explore: Project Plant Pals: Initiation
+- [ ] **Watch** - How to set SMART goals
+- [ ] **Notes** - How to set SMART goals
 
 
 ## Done - Week 2
@@ -66,6 +65,7 @@ kanban-plugin: basic
 - [ ] **Notes** - Introduction: Defining project goals, scope and success criteria
 - [ ] **Watch** - Determining project goals and deliverables
 - [ ] **Notes** - Determining project goals and deliverables
+- [ ] **Participate** - Explore: Project Plant Pals: Initiation
 
 
 ## Done - Week 3
