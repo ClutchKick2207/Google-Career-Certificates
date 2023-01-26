@@ -60,4 +60,12 @@
 			- Customer was satisfied, and therefore should've been completed
 				- But internal team wasted time going back and forth about it
 			- Make sure to keep everyone (stakeholders and team), in the loop about the project goals
-			- 
+	- **Project Deliverables**
+		- The products or services that are created for the customer, client or project sponsor
+		- What get produced or presented at the end of a task, event, or process
+		- Tangible outputs that show how more revenue can be generated
+		- *Customer Response Time*
+			- Deliverable is the creation of email templates for typical questions
+		- *Officegreen*
+			- New website page listing the plants available
+			- Launching the plant service
