@@ -63,9 +63,29 @@
 	- **Project Deliverables**
 		- The products or services that are created for the customer, client or project sponsor
 		- What get produced or presented at the end of a task, event, or process
+		- Help quantify and realise the impact of the project
+		- Decided upfront by clients/stakeholders
+		- Hold everyone accountable
+		- Ask questions, and make sure everyone discusses their expectations and goals
 		- Tangible outputs that show how more revenue can be generated
 		- *Customer Response Time*
 			- Deliverable is the creation of email templates for typical questions
 		- *Officegreen*
 			- New website page listing the plants available
 			- Launching the plant service
+
+## Project Plant Pals: Initiation
+- **Initiation**
+	- **Refine goals with stakeholders**
+		- Meet with the Director of Product (the project sponsor)
+		- Discuss aims for the project
+		- Clarify goals and keep the project on track
+		- Turn them into SMART goals
+	- **Assess stakeholder power and influence**
+		- Get to know some of the stakeholders
+		- Find out how these stakeholders fit into the project
+		- Use a stakeholder analysis and power grid
+		- Figure out how often you are to communicate with team member, investors, etc.
+	- **Assign roles and responsibilities to promote the service**
+		- Assemble teams to plan the marketing and sales strategy, and to redesign the website
+		- Use RACI (Responsible Accountable Consulted Informed) charts to determine who should be responsible, accounted, consulted and informed about various project tasks
