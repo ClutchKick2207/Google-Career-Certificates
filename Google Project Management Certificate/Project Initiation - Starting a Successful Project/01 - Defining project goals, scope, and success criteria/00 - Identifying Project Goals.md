@@ -89,3 +89,11 @@
 	- **Assign roles and responsibilities to promote the service**
 		- Assemble teams to plan the marketing and sales strategy, and to redesign the website
 		- Use RACI (Responsible Accountable Consulted Informed) charts to determine who should be responsible, accounted, consulted and informed about various project tasks
+	- **Create a charter for the next stage of the project**
+		- Wrapping up the initiation phase
+		- Focus will shift into internal operations
+		- Create a project charter to guide team as they plan training, fulfillment, and delivery procedures for Plant Pals
+
+## How to set SMART goals
+- **Setting SMART goals**
+	- 
