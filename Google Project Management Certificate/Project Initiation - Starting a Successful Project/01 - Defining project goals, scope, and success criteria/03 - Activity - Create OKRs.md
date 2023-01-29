@@ -37,3 +37,10 @@
 				- Can the project team easily grasp the objective?
 			- **Significant** 
 				- Will achieving the objective make a meaningful impact or change from where you are currently?
+	- **Add key results**
+		- **Key results**
+			- **Should address...**
+				- Does the key result help define success for your team?
+				- Can it be measured to prove that you’ve achieved your objective?
+				- Is it specific and time-bound?
+				- Is it ambitious yet realistic?
