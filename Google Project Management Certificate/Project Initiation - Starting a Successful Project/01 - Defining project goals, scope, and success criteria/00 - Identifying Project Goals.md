@@ -288,3 +288,8 @@
 				- Action-oriented
 				- Concrete
 				- Significant
+			- **Questions to ask to create an Objective**
+				- Does the objective help in achieving the project’s overall goals?
+				- Does the objective align with company and departmental OKRs?
+				- Is the objective inspiring and motivational?
+				- Will achieving the objective make a significant impact?
