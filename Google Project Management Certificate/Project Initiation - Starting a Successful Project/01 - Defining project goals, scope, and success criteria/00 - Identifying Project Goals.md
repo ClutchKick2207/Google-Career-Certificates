@@ -156,3 +156,39 @@
 		- The goal fits the organization’s strategic plan and supports the project charter.
 	- **Time-bound**
 		- The project team documents a date to achieve the goal.
+
+## Navigating Peer/Self Reviews
+- **Peer/Self Reviews**
+	- Not just Multiple Choice/Short Answer quizzes
+	- Apply what you learnt to real world Project Management problems, and situations
+	- Create the types of artifacts project managers use everyday
+	- Finish these hands on activities where you can
+		- As it provides practical experience for interviews
+		- Allows you to manage projects better in your personal or professional life
+	- **Self Review**
+		- Follow step-by-step instructions to move the project forward
+		- Quizzes with "Activity" in the title
+		- When you finish an activity, taken through an Exemplar of the completed activity to compare with own work
+		- Review the examplars carefully so you know what you did well, and what to improve for next time
+		- Some activities may have multiple right answers
+		- Examplars only explain one way of doing things
+			- But it gives guides for other approaches
+			- Therefore not just the answers, but shows what approaches you can take
+	- **Quiz Questions**
+		- May be graded or ungraded
+		- Measurement of progress
+		- Expand knowledge
+	- **Peer-Review Assignments**
+		- Similar format to Self Review
+		- Classmates will grade your assignments, and you will grade theirs.
+		- Have to grade at least 2 submissions (can grade more)
+		- Gives objective feedback, and allows for you to see how others did a similar problem
+		- Use a rubric to grade
+			- Checklist of items, each with a mark allocation
+			- Score at least 80% to pass
+				- If a Rubric has 10 points, need at least 8
+			- Rubric is available before the assignment is submitted, so you are able to see how you will be graded
+			- Give and receive qualitative feedback
+		- Feedback
+			- Positive and Negative feedback
+			- Leave thoughtful and constructive feedback
