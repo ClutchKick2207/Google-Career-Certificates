@@ -19,3 +19,9 @@
 		- Bus lines must service at least 50% of the most densely-populated areas of Wonder City.
 		- The project is intended to help improve wait times and increase ridership.
 		- The plan includes a marketing campaign to promote the new lines.
+- **Draft your first objective**
+	- **Objectives**
+		- Actively and meaningfully engage the public to generate buy-in and project support.
+		- Make it easy to get around the greater Wonder City area via public transportation.
+		- Promote public transportation as a convenient alternative to driving.
+		- Provide a reliable and consistent public transportation service.
