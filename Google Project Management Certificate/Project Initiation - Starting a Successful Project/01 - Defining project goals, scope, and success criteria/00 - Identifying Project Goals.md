@@ -236,7 +236,8 @@
 		- **Department/Team**
 		- **Project**
 			- ![[Pasted image 20230129130242.png]]
-			- Should support and align with project level OKRs
+			- Created in the initiation phase
+			- Need to align with and support both company and department level OKRs
 	- **Office Green Company-wide OKRs**
 		- **Objective**
 			- Increase customer retention by adapting to the changing workplace environment
@@ -244,3 +245,11 @@
 			- 95% of phone, chat, and email customer support tickets are resolved during the first contact
 			- Top 3 most requested new offering for distributed office environments are in pilot by the end of the second quarter
 			- Sales and support channels are available 24/7 by the end of the year
+				- **Office Green Sales Department OKRs**
+					- **Objective**
+						- Increase the sales team presence 
+					- **Key Result**
+						- New sales offices are open in 10 cities by the end of the year
+		- These Key Results can be the basis for projects themselves
+			- *"Top 3 most requested new offering for distributed office environments are in pilot by the end of the second quarter"*
+				- Could involve the Plant Pals project
