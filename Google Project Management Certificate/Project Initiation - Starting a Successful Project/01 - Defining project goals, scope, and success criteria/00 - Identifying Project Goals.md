@@ -236,6 +236,17 @@
 			- _“Office Green will soon create an app to help customers care for their plants.”_
 		- Goal with SMART criteria
 			- _“Office Green will create an app that offers tips and reminders to help customers care for their plants. The app will be completed within 18 months and be compatible with 100% of the types of plants Office Green sells.”_
+		- Example of why it is "SMART"
+			- **Specific**
+				- The team knows what they’re building: an app that helps users care for their plants and reminds them to do so. 
+			- **Measurable**
+				- The app will be complete when it includes 100% of the plant types Office Green sells.
+			- **Attainable** 
+				- The company has the knowledge, time, resources to build the app. 
+			- **Relevant**
+				-  Office Green’s business model relies on customers caring for their plants successfully. 
+			- **Time-bound**
+				-  The goal includes an 18-month timeframe.
 	- **What makes it SMART?**
 		- What makes the goal **specific**?
 			- Does it provide enough detail to avoid ambiguity?
