@@ -226,3 +226,21 @@
 			- Objective: Improve customer retention
 				- Key Result: achieve a 90% customer satisfaction rating by the end of the first quarter
 		- A bit more ambitious
+	- **OKR Levels**
+		- **Company/Organisation**
+			- ![[Pasted image 20230129130204.png]]
+			- Commonly shared among the organisation
+			- Everyone is clear on the company goals
+			- Updated on an annual basis
+			- Helps drive the organisation in the direction it wants to go
+		- **Department/Team**
+		- **Project**
+			- ![[Pasted image 20230129130242.png]]
+			- Should support and align with project level OKRs
+	- **Office Green Company-wide OKRs**
+		- **Objective**
+			- Increase customer retention by adapting to the changing workplace environment
+		- **Key Results**
+			- 95% of phone, chat, and email customer support tickets are resolved during the first contact
+			- Top 3 most requested new offering for distributed office environments are in pilot by the end of the second quarter
+			- Sales and support channels are available 24/7 by the end of the year
