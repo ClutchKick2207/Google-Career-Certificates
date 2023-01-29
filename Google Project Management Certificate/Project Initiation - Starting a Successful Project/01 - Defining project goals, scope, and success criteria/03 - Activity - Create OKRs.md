@@ -19,9 +19,21 @@
 		- Bus lines must service at least 50% of the most densely-populated areas of Wonder City.
 		- The project is intended to help improve wait times and increase ridership.
 		- The plan includes a marketing campaign to promote the new lines.
-- **Draft your first objective**
-	- **Objectives**
-		- Actively and meaningfully engage the public to generate buy-in and project support.
-		- Make it easy to get around the greater Wonder City area via public transportation.
-		- Promote public transportation as a convenient alternative to driving.
-		- Provide a reliable and consistent public transportation service.
+- **What to do**
+	- **Draft objectives**
+		- **Objectives**
+			- Actively and meaningfully engage the public to generate buy-in and project support.
+			- Make it easy to get around the greater Wonder City area via public transportation.
+			- Promote public transportation as a convenient alternative to driving.
+			- Provide a reliable and consistent public transportation service.
+		- **Objectives have to be...**
+			- **Aspirational**
+				- Is the objective challenging and inspiring?
+			- **Aligned with company goals** 
+				- Does the objective support company and/or departmental OKRs?
+			- **Action-oriented** 
+				- Does the objective motivate the team to take initiative?
+			- **Concrete**
+				- Can the project team easily grasp the objective?
+			- **Significant** 
+				- Will achieving the objective make a meaningful impact or change from where you are currently?
