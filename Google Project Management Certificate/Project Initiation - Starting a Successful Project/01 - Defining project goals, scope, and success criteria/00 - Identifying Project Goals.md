@@ -258,3 +258,14 @@
 		- These Key Results can be the basis for projects themselves
 			- *"Top 3 most requested new offering for distributed office environments are in pilot by the end of the second quarter"*
 				- Could involve the Plant Pals project
+
+## Creating OKRs for your project
+- **OKRs**
+	- **What are OKRs?**
+		- Objectives and Key Result
+		- ![[Pasted image 20230129140328.png]]
+		- Combines a goal and a metric to determine a measurable outcome
+		- Company-wide OKRs are used to set an ultimate goal for an entire organisation
+		- Team, department and project-level OKRs describe focused results each group needs to do in order to support the organisation
+	- **OKRs and Project Management**
+		- Can help in expanding upon project goals and further clarify the deliveries you'll need from the project to accomplish the goals
