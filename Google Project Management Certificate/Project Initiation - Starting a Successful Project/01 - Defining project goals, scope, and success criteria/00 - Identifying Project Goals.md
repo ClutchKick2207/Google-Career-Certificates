@@ -204,3 +204,25 @@
 		- [Coursera Help Center | Submit peer reviewed assignments](https://www.coursera.support/s/article/208279926-Submit-peer-reviewed-assignments?language=en_US)
 		- [Coursera Help Center | Getting and viewing grades for peer-reviewed assignments](https://www.coursera.support/s/article/208279946-Getting-and-viewing-grades-for-peer-reviewed-assignments?language=en_US)
 		- [Sharing Google files for Peer-Graded activities | Coursera](https://www.coursera.org/learn/project-initiation-google/resources/FOW2Z)
+
+## Introduction to OKRs
+- **OKRs**
+	- "**O**bjectives + **K**ey **R**esults"
+	- Combine a goal and a metric to determine a measurable outcome
+	- Clearly state goal, and provide specific details to measure success
+	- Separate different components of SMART goals, and clarify them even further
+	- Can be used to create "stretch goals"
+		- Challenges to achieve
+	- If you are able to achieve all the key results, may have made the OKRs a bit too easy
+	- **Objective**
+		- Similar to goals
+		- Defines what needs to be achieved
+		- Describes a desired outcome
+			- Increase in customer retention
+			- Improvement in employee onboarding process
+	- **Key Results**
+		- Defines how you'll know whether or not you've met your objective
+		- Measurable outcomes that define when the objective has been met
+			- Objective: Improve customer retention
+				- Key Result: achieve a 90% customer satisfaction rating by the end of the first quarter
+		- A bit more ambitious
