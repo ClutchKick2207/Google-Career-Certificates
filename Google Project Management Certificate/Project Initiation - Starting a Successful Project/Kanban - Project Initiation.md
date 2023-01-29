@@ -11,23 +11,18 @@ kanban-plugin: basic
 ## Doing this session
 
 - [ ] **Read** - Optional: Reviewing the Triple Constraint
-- [ ] **Watch** - Launching and landing a project
-- [ ] **Notes** - Launching and landing a project
 - [ ] **Read** - Don't forget to land: Measuring a project's success
 - [ ] **Notes** - Don't forget to land: Measuring a project's success
-- [ ] **Watch** - Defining success criteria
-- [ ] **Notes** - Defining success criteria
 - [ ] **Read** - Tracking and communicating success criteria
 - [ ] **Notes** - Tracking and communicating success criteria
 - [ ] **Read** - Using OKRs to evaluate progress
 - [ ] **Notes** - Using OKRs to evaluate progress
 - [ ] **Watch** - Wrap up
-- [ ] **QUIZ** - Weekly challenge 2
 
 
 ## In progress
 
-- [ ] **QUIZ** - Reflection: Applying the Triple Constraint
+- [ ] **QUIZ** - Weekly challenge 2
 
 
 ## Done - Week 2
@@ -65,8 +60,13 @@ kanban-plugin: basic
 - [ ] **Notes** - Strategies for controlling scope creep
 - [ ] **QUIZ** - Test your knowledge: Defining project scope
 - [ ] **Watch** - Managing changes to a project's scope
+- [ ] **QUIZ** - Reflection: Applying the Triple Constraint
 - [ ] **Notes** - Managing changes to a project's scope
 - [ ] **Watch** - Torie: The importance of staying within scope
+- [ ] **Watch** - Launching and landing a project
+- [ ] **Notes** - Launching and landing a project
+- [ ] **Watch** - Defining success criteria
+- [ ] **Notes** - Defining success criteria
 
 
 ## Done - Week 3
