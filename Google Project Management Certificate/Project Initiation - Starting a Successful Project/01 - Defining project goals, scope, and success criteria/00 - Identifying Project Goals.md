@@ -275,3 +275,10 @@
 		- **Set your objectives**
 			- Project objectives should be aspirational, aligned with organisational goals, action-oriented, concrete and significant
 			- Consider the vision you and your stakeholders have for your project, and determine what you want the project team to do
+			- **Examples**
+				- Build the most secure data security software
+				- Continuously improve web analytics and conversions
+				- Provide a top-performing service
+				- Make a universally-available app
+				- Increase market reach
+				- Achieve top sales among competitors in the region
