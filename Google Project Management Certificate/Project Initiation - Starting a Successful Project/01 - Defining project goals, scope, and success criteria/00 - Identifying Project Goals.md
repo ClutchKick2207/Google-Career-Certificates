@@ -293,3 +293,27 @@
 				- Does the objective align with company and departmental OKRs?
 				- Is the objective inspiring and motivational?
 				- Will achieving the objective make a significant impact?
+		- **Develop key results**
+			- Add 2-3 key results for each objective
+			- Should be time-bound
+			- Can be used to indicate the amount of progress to achieve within a shorter period
+			- Or to define whether you have met your objective at the end of the project
+			- Should be challenging
+			- **Examples**
+				- X% new signups within first quarter post launch
+				- Increase advertiser spend by X%
+				- New feature adoption is at least X% 
+				- Maximum 2 critical bugs are reported by customers per Sprint
+				- Maintain newsletter unsubscribe rate at X%
+
+
+
+-   
+    
+-   
+    
+-   
+    
+-   
+    
+-   
