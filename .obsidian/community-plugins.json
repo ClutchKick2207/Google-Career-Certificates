@@ -7,5 +7,7 @@
   "emoji-shortcodes",
   "obsidian-emoji-toolbar",
   "obsidian-admonition",
-  "obsidian-outliner"
+  "obsidian-outliner",
+  "obsidian-linter",
+  "quick-latex"
 ]
