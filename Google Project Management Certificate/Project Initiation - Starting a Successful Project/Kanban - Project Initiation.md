@@ -6,24 +6,6 @@ kanban-plugin: basic
 
 ## To-Do
 
-- [ ] **Read** - Activity Exemplar: Define and determine SMART project goals
-- [ ] **Watch** - Introduction to OKRs
-- [ ] **Notes** - Introduction to OKRs
-- [ ] **Read** - Creating OKRs for your project
-- [ ] **Notes** - Creating OKRs for your project
-- [ ] **QUIZ** - Optional Activity: Create OKRs for your project
-- [ ] **Read** - Create OKRs for your project
-- [ ] **Notes** - Create OKRs for your project
-- [ ] **QUIZ** - Test your knowledge: Identifying project goals
-- [ ] **Watch** - Determining a project's scope
-- [ ] **Notes** - Determining a project's scope
-- [ ] **Read** - Gathering information to define scope
-- [ ] **Notes** - Gathering information to define scope
-- [ ] **Watch** - Monitoring and maintaining a project's scope
-- [ ] **Notes** - Monitoring and maintaining a project's scope
-- [ ] **Read** - Strategies for controlling scope creep
-- [ ] **Notes** - Strategies for controlling scope creep
-- [ ] **QUIZ** - Test your knowledge: Defining project scope
 - [ ] **Watch** - Managing changes to a project's scope
 - [ ] **Notes** - Managing changes to a project's scope
 - [ ] **Watch** - Torie: The importance of staying within scope
@@ -45,15 +27,31 @@ kanban-plugin: basic
 
 ## Doing this session
 
-- [ ] **Read** - Optional: What to know about peer-graded assignments
-- [ ] **Notes** - Optional: What to know about peer-graded assignments
 - [ ] **QUIZ** - Activity: Define and determine SMART project goals
+- [ ] **Read** - Activity Exemplar: Define and determine SMART project goals
+- [ ] **Watch** - Introduction to OKRs
+- [ ] **Notes** - Introduction to OKRs
+- [ ] **Read** - Creating OKRs for your project
+- [ ] **Notes** - Creating OKRs for your project
+- [ ] **QUIZ** - Optional Activity: Create OKRs for your project
+- [ ] **Read** - Create OKRs for your project
+- [ ] **Notes** - Create OKRs for your project
+- [ ] **QUIZ** - Test your knowledge: Identifying project goals
+- [ ] **Watch** - Determining a project's scope
+- [ ] **Notes** - Determining a project's scope
+- [ ] **Read** - Gathering information to define scope
+- [ ] **Notes** - Gathering information to define scope
+- [ ] **Watch** - Monitoring and maintaining a project's scope
+- [ ] **Notes** - Monitoring and maintaining a project's scope
+- [ ] **Read** - Strategies for controlling scope creep
+- [ ] **Notes** - Strategies for controlling scope creep
+- [ ] **QUIZ** - Test your knowledge: Defining project scope
 
 
 ## In progress
 
-- [ ] **Notes** - Navigating Peer/Self reviews
-- [ ] **Watch** - Navigating Peer/Self reviews
+- [ ] **Read** - Optional: What to know about peer-graded assignments
+- [ ] **Notes** - Optional: What to know about peer-graded assignments
 
 
 ## Done - Week 2
@@ -67,6 +65,8 @@ kanban-plugin: basic
 - [ ] **Notes** - How to set SMART goals
 - [ ] **Read** - SMART goals: Making goals meaningful
 - [ ] **Notes** - SMART goals: Making goals meaningful
+- [ ] **Notes** - Navigating Peer/Self reviews
+- [ ] **Watch** - Navigating Peer/Self reviews
 
 
 ## Done - Week 3
