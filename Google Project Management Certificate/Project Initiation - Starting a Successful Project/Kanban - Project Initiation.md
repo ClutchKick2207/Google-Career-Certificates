@@ -6,8 +6,6 @@ kanban-plugin: basic
 
 ## To-Do
 
-- [ ] **Watch** - Managing changes to a project's scope
-- [ ] **Notes** - Managing changes to a project's scope
 - [ ] **Watch** - Torie: The importance of staying within scope
 - [ ] **Read** - Optional: Reviewing the Triple Constraint
 - [ ] **QUIZ** - Reflection: Applying the Triple Constraint
@@ -27,8 +25,6 @@ kanban-plugin: basic
 
 ## Doing this session
 
-- [ ] **Read** - Creating OKRs for your project
-- [ ] **Notes** - Creating OKRs for your project
 - [ ] **QUIZ** - Optional Activity: Create OKRs for your project
 - [ ] **Read** - Create OKRs for your project
 - [ ] **Notes** - Create OKRs for your project
@@ -42,12 +38,14 @@ kanban-plugin: basic
 - [ ] **Read** - Strategies for controlling scope creep
 - [ ] **Notes** - Strategies for controlling scope creep
 - [ ] **QUIZ** - Test your knowledge: Defining project scope
+- [ ] **Watch** - Managing changes to a project's scope
+- [ ] **Notes** - Managing changes to a project's scope
 
 
 ## In progress
 
-- [ ] **Watch** - Introduction to OKRs
-- [ ] **Notes** - Introduction to OKRs
+- [ ] **Read** - Creating OKRs for your project
+- [ ] **Notes** - Creating OKRs for your project
 
 
 ## Done - Week 2
@@ -67,6 +65,8 @@ kanban-plugin: basic
 - [ ] **Notes** - Optional: What to know about peer-graded assignments
 - [ ] **QUIZ** - Activity: Define and determine SMART project goals
 - [ ] **Read** - Activity Exemplar: Define and determine SMART project goals
+- [ ] **Watch** - Introduction to OKRs
+- [ ] **Notes** - Introduction to OKRs
 
 
 ## Done - Week 3
