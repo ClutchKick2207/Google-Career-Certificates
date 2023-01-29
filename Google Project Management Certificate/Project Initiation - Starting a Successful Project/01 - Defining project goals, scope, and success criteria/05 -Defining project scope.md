@@ -72,4 +72,8 @@
 				- Create a plan for dealing with out-of-scope requests
 				- Put your agreements and plans in writing
 		- **Internal**
-			- 
+			- Product improvements
+			- Process changes
+			- Anytime a team member takes on an extra task, losing time and resources
+			- Maintain limits, and keep everything just at the scope
+			- Protect it at all costs

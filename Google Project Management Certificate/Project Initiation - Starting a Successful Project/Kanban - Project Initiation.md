@@ -10,8 +10,6 @@ kanban-plugin: basic
 
 ## Doing this session
 
-- [ ] **Watch** - Monitoring and maintaining a project's scope
-- [ ] **Notes** - Monitoring and maintaining a project's scope
 - [ ] **Read** - Strategies for controlling scope creep
 - [ ] **Notes** - Strategies for controlling scope creep
 - [ ] **QUIZ** - Test your knowledge: Defining project scope
@@ -67,6 +65,8 @@ kanban-plugin: basic
 - [ ] **Notes** - Determining a project's scope
 - [ ] **Read** - Gathering information to define scope
 - [ ] **Notes** - Gathering information to define scope
+- [ ] **Watch** - Monitoring and maintaining a project's scope
+- [ ] **Notes** - Monitoring and maintaining a project's scope
 
 
 ## Done - Week 3
