@@ -4,13 +4,6 @@
 ## My Notes
 > My notes for this overall course will be laid out by module in the course, and have subheadings in order to differentiate between different topics/videos that are presented in the courses. I'll add in any extra notes/resources that I use where necessary, and hope it will be helpful for anyone looking!
 
-## Major Heading
-
-
-
-- **Subheading**
-	- content
-
 ## Introduction: Defining project goals, scope and success criteria
 - **Goals, scope and success criteria**
 	- **Officegreen**
@@ -95,5 +88,57 @@
 		- Create a project charter to guide team as they plan training, fulfillment, and delivery procedures for Plant Pals
 
 ## How to set SMART goals
+> [!info] Metrics - Definition
+> What you use to measure something
 - **Setting SMART goals**
-	- 
+	- **Specific**
+		- Can figure out how long it should take
+		- Whether it has been accomplished
+		- *Improve Customer Service response time*
+			- Not specific
+			- Just a general statement
+			- Could improve by 1%, but is that enough?
+		- **Questions**
+			- What do I want to accomplish?
+			- Why is this a goal? (Specific reason, purpose, benefit?)
+			- Who is involved?
+			- Where should be goal be delivered?
+			- To what degree?
+	- **Measurable**
+		- Determine that they are objectively met
+		- Track progress, and stay motivated
+		- **Questions**
+			- How much?
+			- How many?
+			- How will I know when it's accomplished?
+		- Can sometimes be a simple "yes" or "no"
+		- Have to use *Metrics*
+			- Can use numbers or figures
+		- Use *Benchmarks* (points of reference)
+			- To make sure you are using accurate metrics
+			- Look at last year's revenue in order to see what you should aim for this year
+	- **Attainable**
+		- Is it possible?
+		- **Questions**
+			- Can it reasonably be reached?
+				- A little challenging to encourage growth
+				- Don't want it to be too extreme, otherwise you can never reach it
+				- Aim to find a balance
+			- How can it be accomplished?
+				- Break down the goal into smaller parts, and see if it makes sense
+		- **Officegreen**
+			- Only requires a 1.25% increase in revenue per quarter
+			- Reasonable
+	- **Relevant**
+		- **Questions**
+			- Does the goal make sense?
+			- Is the goal worthwhile?
+				- Does the effort balance out with the benefits?
+				- Does it match the organisation's other needs and priorities?
+			- Is it the right time?
+	- **Time-bound**
+		- Has a deadline
+		- Track progress
+		- Goes hand-in-hand with metrics
+		- Increase revenue by the end of the year
+			- Break down how much you need to increase by each quarter, month, and week
