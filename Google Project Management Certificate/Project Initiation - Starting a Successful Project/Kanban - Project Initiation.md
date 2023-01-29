@@ -25,8 +25,6 @@ kanban-plugin: basic
 
 ## Doing this session
 
-- [ ] **Watch** - Determining a project's scope
-- [ ] **Notes** - Determining a project's scope
 - [ ] **Read** - Gathering information to define scope
 - [ ] **Notes** - Gathering information to define scope
 - [ ] **Watch** - Monitoring and maintaining a project's scope
@@ -40,6 +38,8 @@ kanban-plugin: basic
 
 ## In progress
 
+- [ ] **Watch** - Determining a project's scope
+- [ ] **Notes** - Determining a project's scope
 
 
 ## Done - Week 2
