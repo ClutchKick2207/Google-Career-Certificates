@@ -211,7 +211,7 @@
 	- Write goals using SMART criteria
 - **Scenario**
 	- *Background*
-		- Office Green, LLC, is a commercial landscaping company that specializes in plant decor for offices and other businesses. The company is getting ready to introduce its new Plant Pals service, which will provide high-volume customers with small, low-maintenance plants for their desks. You are the project manager assigned to manage the Plant Pals launch.
+		- Office Green, LLC, is a commercial landscaping company that specializes in plant decor for offices and other businesses. The company is getting ready to introduce its new Plant Pals service, which will provide high-volume customers with small, low-maintenance plants for their desks. You are the project manager assigned to manage the Plant Pals launch. 
 	- *Main Goal*
 		- Office Green’s main goal for this project is: _“Increase revenue by 5% by the end of the year by rolling out a new service that provides office plants to high-volume clients.”_
 	- *Additional Goals*
