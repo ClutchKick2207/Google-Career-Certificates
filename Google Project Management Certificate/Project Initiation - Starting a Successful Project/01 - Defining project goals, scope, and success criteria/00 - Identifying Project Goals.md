@@ -241,6 +241,11 @@
 	- **Office Green Company-wide OKRs**
 		- **Objective**
 			- Increase customer retention by adapting to the changing workplace environment
+				- **Project (Plant Pals) OKRs**
+					- **Objective**
+						- Enroll existing customers in the Plant Pals service
+					- **Key Result**
+						- 25% of existing customers sign up for the Plant Pals pilot
 		- **Key Results**
 			- 95% of phone, chat, and email customer support tickets are resolved during the first contact
 			- Top 3 most requested new offering for distributed office environments are in pilot by the end of the second quarter
