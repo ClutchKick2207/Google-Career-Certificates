@@ -56,14 +56,7 @@
                 "source": false
               }
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "7c0f9f9d36035434",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "b3d42b5379a60e7b",
             "type": "leaf",
@@ -76,7 +69,8 @@
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -215,9 +209,9 @@
   },
   "active": "3aef56b0b602a204",
   "lastOpenFiles": [
-    "Google Project Management Certificate/Project Initiation - Starting a Successful Project/01 - Defining project goals, scope, and success criteria/01 - Activity - SMART project goals.md",
-    "Google Project Management Certificate/Project Initiation - Starting a Successful Project/01 - Defining project goals, scope, and success criteria/03 - Activity - Create OKRs.md",
     "Google Project Management Certificate/Project Initiation - Starting a Successful Project/01 - Defining project goals, scope, and success criteria/00 - Identifying Project Goals.md",
+    "Google Project Management Certificate/Project Initiation - Starting a Successful Project/01 - Defining project goals, scope, and success criteria/03 - Activity - Create OKRs.md",
+    "Google Project Management Certificate/Project Initiation - Starting a Successful Project/01 - Defining project goals, scope, and success criteria/01 - Activity - SMART project goals.md",
     "Google Project Management Certificate/Project Initiation - Starting a Successful Project/Kanban - Project Initiation.md",
     "Google Project Management Certificate/Foundations of Project Management/00 - Embarking on a career in Project Management/03 - Final Notes (1st Module).md",
     "Google Project Management Certificate/Foundations of Project Management/00 - Embarking on a career in Project Management/02 - Learning about careers in Project Management.md",
