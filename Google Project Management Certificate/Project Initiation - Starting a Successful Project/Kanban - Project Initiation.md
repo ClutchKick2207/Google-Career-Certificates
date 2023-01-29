@@ -29,8 +29,6 @@ kanban-plugin: basic
 
 ## In progress
 
-- [ ] **Watch** - Managing changes to a project's scope
-- [ ] **Notes** - Managing changes to a project's scope
 
 
 ## Done - Week 2
@@ -67,6 +65,8 @@ kanban-plugin: basic
 - [ ] **Read** - Strategies for controlling scope creep
 - [ ] **Notes** - Strategies for controlling scope creep
 - [ ] **QUIZ** - Test your knowledge: Defining project scope
+- [ ] **Watch** - Managing changes to a project's scope
+- [ ] **Notes** - Managing changes to a project's scope
 
 
 ## Done - Week 3
