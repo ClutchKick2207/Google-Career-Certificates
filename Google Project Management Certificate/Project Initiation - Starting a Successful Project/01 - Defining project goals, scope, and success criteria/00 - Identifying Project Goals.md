@@ -258,3 +258,7 @@
 			- Does it support project or business objectives?
 		- What makes the goal **time-bound**?
 			- Does it include a timeline or deadline?
+	- **Response**
+		- Goal one is rewritten to meet all the SMART criteria
+		- Goal two is rewritten to meet all the SMART criteria
+		- There is an explanation for why each rewritten goal is specific, measurable, attainable, relevant, and time-bound 
