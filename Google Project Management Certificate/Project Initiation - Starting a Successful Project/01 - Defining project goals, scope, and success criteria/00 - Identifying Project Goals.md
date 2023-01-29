@@ -204,3 +204,26 @@
 		- [Coursera Help Center | Submit peer reviewed assignments](https://www.coursera.support/s/article/208279926-Submit-peer-reviewed-assignments?language=en_US)
 		- [Coursera Help Center | Getting and viewing grades for peer-reviewed assignments](https://www.coursera.support/s/article/208279946-Getting-and-viewing-grades-for-peer-reviewed-assignments?language=en_US)
 		- [Sharing Google files for Peer-Graded activities | Coursera](https://www.coursera.org/learn/project-initiation-google/resources/FOW2Z)
+
+## Activity: Define and Determine SMART project goals
+- **Activity Overview**
+	- Analyse a scenario to identify project goals
+	- Write goals using SMART criteria
+- **Scenario**
+	- *Background*
+		- Office Green, LLC, is a commercial landscaping company that specializes in plant decor for offices and other businesses. The company is getting ready to introduce its new Plant Pals service, which will provide high-volume customers with small, low-maintenance plants for their desks. You are the project manager assigned to manage the Plant Pals launch.
+	- *Main Goal*
+		- Office Green’s main goal for this project is: _“Increase revenue by 5% by the end of the year by rolling out a new service that provides office plants to high-volume clients.”_
+	- *Additional Goals*
+		- You recently met with the project sponsor (the Director of Product) to discuss two additional goals for the Plant Pals project:
+			1. _Boost Office Green’s brand awareness_
+			2. _Raise Office Green’s customer retention rate_
+	- *Notes from Meeting*
+		- Office Green’s customer retention rate was 80% last year, but the CEO wants that number to increase by at least 10% this year.
+		- Last year, 70% of customers who left Office Green for competitors said they did so because they wanted more extensive services. When surveyed, 85% of existing customers expressed an interest in Plant Pals.
+		- The Vice President of Customer Success expects Office Green to achieve a customer satisfaction rating of over 90% this year—a slight increase over last year. The rating has stayed between 85%-90% for the last five years.
+		- The company plans to create an Operations and Training plan for Plant Pals to improve on existing customer service standards and boost efficiency.
+		- Office Green will promote the new service with a new marketing and sales strategy, a redesigned website with a new Plant Pals landing page, and a print catalog. 
+		- With the publicity around the launch, Office Green projects that their customer base will grow by at least 15%.
+		- Website traffic has dipped slightly over the past three years, from 15K to 13K visits each month. The Marketing Manager wants unique page visits to increase by at least 2K each month by the end of the year, which is in line with the results of prior marketing campaigns.
+		- The project is scheduled to launch by the end of the third quarter. The project team will continue to collect data on the project’s progress through the rest of the year and assess how well it has met its goals at the end of the fourth quarter. (It is currently the start of Q1.)
