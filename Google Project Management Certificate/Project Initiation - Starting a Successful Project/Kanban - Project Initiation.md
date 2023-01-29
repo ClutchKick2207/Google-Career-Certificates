@@ -25,7 +25,6 @@ kanban-plugin: basic
 
 ## Doing this session
 
-- [ ] **QUIZ** - Optional Activity: Create OKRs for your project
 - [ ] **Read** - Create OKRs for your project
 - [ ] **Notes** - Create OKRs for your project
 - [ ] **QUIZ** - Test your knowledge: Identifying project goals
@@ -44,8 +43,7 @@ kanban-plugin: basic
 
 ## In progress
 
-- [ ] **Read** - Creating OKRs for your project
-- [ ] **Notes** - Creating OKRs for your project
+- [ ] **QUIZ** - Optional Activity: Create OKRs for your project
 
 
 ## Done - Week 2
@@ -67,6 +65,8 @@ kanban-plugin: basic
 - [ ] **Read** - Activity Exemplar: Define and determine SMART project goals
 - [ ] **Watch** - Introduction to OKRs
 - [ ] **Notes** - Introduction to OKRs
+- [ ] **Read** - Creating OKRs for your project
+- [ ] **Notes** - Creating OKRs for your project
 
 
 ## Done - Week 3

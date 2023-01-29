@@ -310,3 +310,12 @@
 				- Measurable and verifiable
 				- Specific and time-bound
 				- Aggressive yet realistic
+			- **Questions to ask to create a Key Result**
+				- What does success mean?
+				- What metrics would prove that we've successfully achieved the objective?
+	- **OKR Development best practices**
+		- Think of objectives as motivational and inspiring
+		- Think of key results as tactical and specific
+		- Objective describes what you want to do, and key results describe how you'll know you did it
+		- Develop 2-3 key results for each objective
+		- Document OKRs and link them into the project plan
