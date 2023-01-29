@@ -221,9 +221,29 @@
 	- *Notes from Meeting*
 		- Office Green’s *customer retention rate was 80% last year*, but the CEO wants that number to *increase by at least 10% this year*.
 		- Last year, *70% of customers who left Office Green* for competitors said they did so because they *wanted more extensive services*. When surveyed, *85% of existing customers expressed an interest in Plant Pals*.
-		- The Vice President of Customer Success expects Office Green to achieve a *customer satisfaction rating of over 90% this year*—a slight increase over last year. *The rating has stayed between 85%-90% for the last five years*.
+		- The Vice President of Customer Success expects Office Green to achieve a *customer satisfaction rating of over 90% this year* — a slight increase over last year. *The rating has stayed between 85%-90% for the last five years*.
 		- The company plans to *create an Operations and Training plan* for Plant Pals to improve on existing customer service standards and boost efficiency.
 		- Office Green will promote the new service with a *new marketing and sales strategy*, a *redesigned website with a new Plant Pals landing page*, and a *print catalog*. 
 		- With the publicity around the launch, Office Green projects that their *customer base will grow by at least 15%*.
 		- Website traffic has dipped slightly over the past three years, from *15K to 13K visits each month*. The Marketing Manager wants unique page visits to *increase by at least 2K each month by the end of the year*, which is *in line with the results of prior marketing campaigns*.
 		- *The project is scheduled to launch by the end of the third quarter*. The project team will continue to collect data on the project’s progress through the rest of the year and *assess how well it has met its goals at the end of the fourth quarter*. *(It is currently the start of Q1.)*
+- **What to do**
+	- Turn the two additional goals into SMART goals
+		- _“Office Green will boost brand awareness”_
+		- _“Office Green will raise their customer retention rate”_
+	- *Examples*
+		- Goal which is missing SMART criteria
+			- _“Office Green will soon create an app to help customers care for their plants.”_
+		- Goal with SMART criteria
+			- _“Office Green will create an app that offers tips and reminders to help customers care for their plants. The app will be completed within 18 months and be compatible with 100% of the types of plants Office Green sells.”_
+	- **What makes it SMART?**
+		- What makes the goal **specific**?
+			- Does it provide enough detail to avoid ambiguity?
+		- What makes the goal **measurable**? 
+			- Does it include metrics to gauge success?
+		- What makes the goal **attainable**? 
+			- Is it realistic given available time and resources?
+		- What makes the goal **relevant**? 
+			- Does it support project or business objectives?
+		- What makes the goal **time-bound**?
+			- Does it include a timeline or deadline?
