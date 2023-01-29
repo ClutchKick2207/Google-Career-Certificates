@@ -192,3 +192,15 @@
 		- Feedback
 			- Positive and Negative feedback
 			- Leave thoughtful and constructive feedback
+
+## Optional: What to know about peer-graded feedback
+- **Peer Graded Assignments**
+	- **Submitting Work**
+		- Generally involve submitting documents or spreadsheets for review
+		- Can submit as a URL (a shared Google Doc for example), or a downloadable file (such as .docx or .pdf)
+		- To grade your assignment, graders will access the link, or download the file submitted
+		- Try submitting it a day or two before the deadline, to allow for timely feedback
+	- **Links**
+		- [Coursera Help Center | Submit peer reviewed assignments](https://www.coursera.support/s/article/208279926-Submit-peer-reviewed-assignments?language=en_US)
+		- [Coursera Help Center | Getting and viewing grades for peer-reviewed assignments](https://www.coursera.support/s/article/208279946-Getting-and-viewing-grades-for-peer-reviewed-assignments?language=en_US)
+		- [Sharing Google files for Peer-Graded activities | Coursera](https://www.coursera.org/learn/project-initiation-google/resources/FOW2Z)

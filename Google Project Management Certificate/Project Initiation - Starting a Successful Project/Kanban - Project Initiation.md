@@ -27,8 +27,6 @@ kanban-plugin: basic
 
 ## Doing this session
 
-- [ ] **QUIZ** - Activity: Define and determine SMART project goals
-- [ ] **Read** - Activity Exemplar: Define and determine SMART project goals
 - [ ] **Watch** - Introduction to OKRs
 - [ ] **Notes** - Introduction to OKRs
 - [ ] **Read** - Creating OKRs for your project
@@ -50,8 +48,8 @@ kanban-plugin: basic
 
 ## In progress
 
-- [ ] **Read** - Optional: What to know about peer-graded assignments
-- [ ] **Notes** - Optional: What to know about peer-graded assignments
+- [ ] **QUIZ** - Activity: Define and determine SMART project goals
+- [ ] **Read** - Activity Exemplar: Define and determine SMART project goals
 
 
 ## Done - Week 2
@@ -67,6 +65,8 @@ kanban-plugin: basic
 - [ ] **Notes** - SMART goals: Making goals meaningful
 - [ ] **Notes** - Navigating Peer/Self reviews
 - [ ] **Watch** - Navigating Peer/Self reviews
+- [ ] **Read** - Optional: What to know about peer-graded assignments
+- [ ] **Notes** - Optional: What to know about peer-graded assignments
 
 
 ## Done - Week 3
