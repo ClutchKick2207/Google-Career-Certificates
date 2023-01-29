@@ -6,6 +6,17 @@ kanban-plugin: basic
 
 ## To-Do
 
+
+
+## Doing this session
+
+- [ ] **Watch** - Monitoring and maintaining a project's scope
+- [ ] **Notes** - Monitoring and maintaining a project's scope
+- [ ] **Read** - Strategies for controlling scope creep
+- [ ] **Notes** - Strategies for controlling scope creep
+- [ ] **QUIZ** - Test your knowledge: Defining project scope
+- [ ] **Watch** - Managing changes to a project's scope
+- [ ] **Notes** - Managing changes to a project's scope
 - [ ] **Watch** - Torie: The importance of staying within scope
 - [ ] **Read** - Optional: Reviewing the Triple Constraint
 - [ ] **QUIZ** - Reflection: Applying the Triple Constraint
@@ -23,23 +34,8 @@ kanban-plugin: basic
 - [ ] **QUIZ** - Weekly challenge 2
 
 
-## Doing this session
-
-- [ ] **Read** - Gathering information to define scope
-- [ ] **Notes** - Gathering information to define scope
-- [ ] **Watch** - Monitoring and maintaining a project's scope
-- [ ] **Notes** - Monitoring and maintaining a project's scope
-- [ ] **Read** - Strategies for controlling scope creep
-- [ ] **Notes** - Strategies for controlling scope creep
-- [ ] **QUIZ** - Test your knowledge: Defining project scope
-- [ ] **Watch** - Managing changes to a project's scope
-- [ ] **Notes** - Managing changes to a project's scope
-
-
 ## In progress
 
-- [ ] **Watch** - Determining a project's scope
-- [ ] **Notes** - Determining a project's scope
 
 
 ## Done - Week 2
@@ -67,6 +63,10 @@ kanban-plugin: basic
 - [ ] **QUIZ** - Optional Activity: Create OKRs for your project
 - [ ] **Read** - Create OKRs for your project
 - [ ] **QUIZ** - Test your knowledge: Identifying project goals
+- [ ] **Watch** - Determining a project's scope
+- [ ] **Notes** - Determining a project's scope
+- [ ] **Read** - Gathering information to define scope
+- [ ] **Notes** - Gathering information to define scope
 
 
 ## Done - Week 3
