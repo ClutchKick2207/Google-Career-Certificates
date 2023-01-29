@@ -305,15 +305,8 @@
 				- New feature adoption is at least X% 
 				- Maximum 2 critical bugs are reported by customers per Sprint
 				- Maintain newsletter unsubscribe rate at X%
-
-
-
--   
-    
--   
-    
--   
-    
--   
-    
--   
+			- **Strong Key Results Criteria**
+				- Results-oriented—**not** a task
+				- Measurable and verifiable
+				- Specific and time-bound
+				- Aggressive yet realistic
