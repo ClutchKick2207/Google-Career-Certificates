@@ -25,9 +25,6 @@ kanban-plugin: basic
 
 ## Doing this session
 
-- [ ] **Read** - Create OKRs for your project
-- [ ] **Notes** - Create OKRs for your project
-- [ ] **QUIZ** - Test your knowledge: Identifying project goals
 - [ ] **Watch** - Determining a project's scope
 - [ ] **Notes** - Determining a project's scope
 - [ ] **Read** - Gathering information to define scope
@@ -43,7 +40,6 @@ kanban-plugin: basic
 
 ## In progress
 
-- [ ] **QUIZ** - Optional Activity: Create OKRs for your project
 
 
 ## Done - Week 2
@@ -67,6 +63,10 @@ kanban-plugin: basic
 - [ ] **Notes** - Introduction to OKRs
 - [ ] **Read** - Creating OKRs for your project
 - [ ] **Notes** - Creating OKRs for your project
+- [ ] **Notes** - Create OKRs for your project
+- [ ] **QUIZ** - Optional Activity: Create OKRs for your project
+- [ ] **Read** - Create OKRs for your project
+- [ ] **QUIZ** - Test your knowledge: Identifying project goals
 
 
 ## Done - Week 3
