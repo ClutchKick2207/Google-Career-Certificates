@@ -282,3 +282,9 @@
 				- Make a universally-available app
 				- Increase market reach
 				- Achieve top sales among competitors in the region
+			- **Strong Objectives Criteria**
+				- Aspirational
+				- Aligned with organizational goals
+				- Action-oriented
+				- Concrete
+				- Significant
