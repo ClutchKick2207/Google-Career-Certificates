@@ -269,3 +269,9 @@
 		- Team, department and project-level OKRs describe focused results each group needs to do in order to support the organisation
 	- **OKRs and Project Management**
 		- Can help in expanding upon project goals and further clarify the deliveries you'll need from the project to accomplish the goals
+		- Allows for an appropriate scope for a team (in a project-level OKR), therefore allowing for you to say "no" to requests that may get in the way
+		- Can create and push project-level OKRs to help motivate the team, as they are used to push past what is easily achievable
+	- **Creating OKRs**
+		- **Set your objectives**
+			- Project objectives should be aspirational, aligned with organisational goals, action-oriented, concrete and significant
+			- Consider the vision you and your stakeholders have for your project, and determine what you want the project team to do
