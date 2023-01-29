@@ -56,7 +56,14 @@
                 "source": false
               }
             }
-          },
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "1d6564f74c0fadf3",
+        "type": "tabs",
+        "children": [
           {
             "id": "b3d42b5379a60e7b",
             "type": "leaf",
@@ -69,8 +76,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
