@@ -1,0 +1,21 @@
+## Optional Activity: Create OKRs for your project
+- **Activity Overview**
+	- Practice creating OKRs for a project
+	- Analyse a scenario
+- **Scenario**
+	- *Background*
+		- Wonder City is a mid-sized city where increasing growth and traffic are impacting quality of life. 
+		- According to a recent market assessment, the region’s population is expected to double in the next five years. 
+		- Job growth is expected to increase by 48%. 
+		- This growth will impact street networks, parking and mobility.
+		- Wonder City has several city-wide objectives related to reducing traffic congestion and improving the city’s infrastructure. 
+		- In order to support these city-wide objectives, the Wonder City Transportation Authority (WCTA) will be launching five new bus lines. 
+		- This initiative has been nicknamed Project Move It.
+	- *Additional Notes*
+		- The project needs to be completed within two years.
+		- Community member buy-in and support for the locations of the new bus lines will be required.
+		- The project must adhere to all government regulations.
+		- Stops along the new bus lines must connect neighboring suburbs to downtown and public resource facilities.
+		- Bus lines must service at least 50% of the most densely-populated areas of Wonder City.
+		- The project is intended to help improve wait times and increase ridership.
+		- The plan includes a marketing campaign to promote the new lines.
