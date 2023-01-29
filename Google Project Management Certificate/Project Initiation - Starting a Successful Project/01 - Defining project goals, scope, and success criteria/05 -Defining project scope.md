@@ -94,3 +94,40 @@
 		- Sometimes you will have to say no to proposed changes. Saying no to a key stakeholder or customer can be uncomfortable, but it can be necessary to protect your project’s scope and its overall quality. If you are asked to take on additional tasks, explain how they will interfere with the budget, timeline, and/or resources defined in your initial project requirements. 
 	- **Collect** **costs for out-of-scope work.** 
 		- If out-of-scope work is required, be sure to document all costs incurred. That includes costs for work indirectly impacted by the increased scope. Be sure to indicate what the charges are for.
+
+## Managing changes to a project's scope
+- **Project Scope**
+	- Deliver within the project's scope agreements
+	- Within the given deadline, and approved budget
+	- May need to make compromises, and weigh up trade offs, as situations arise
+	- Every time a team member is doing something else apart from the task, more than just time is lost
+	- **Triple constraint model**
+		- ![[Pasted image 20230129221403.png]]
+		- Three most significant restrictions of any project
+		- **Time**
+			- Timeline
+			- Schedule
+			- Deadlines
+		- **Cost**
+			- Budget
+			- Resources
+			- People that will work on it
+		- **Scope**
+			- The limitations of the project's boundaries
+		- A change in any of the three has an affect on the other
+			- A decrease in budget affects the time and scope
+		- Look at what you are willing to trade off
+			- Such as if there is a specific deadline that must be met, need to limit any changes to the scope
+			- Must look or function a certain way
+				- Scope is a priority, justify changes in time or cost
+		- Just because you can make a change doesn't mean you should make a change
+		- You are able to ask stakeholders and project sponsors
+		- **Office Green**
+			- Wants to have a pot that will tell you when to water it
+			- ![[Pasted image 20230129221837.png]]
+			- Can extend the timeline to compensate
+			- A request has been made to reduce budget, without changing scope
+				- ![[Pasted image 20230129221926.png]]
+			- Finish early
+				- ![[Pasted image 20230129221939.png]]
+			- 

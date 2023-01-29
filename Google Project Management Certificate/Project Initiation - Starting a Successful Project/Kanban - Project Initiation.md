@@ -10,11 +10,6 @@ kanban-plugin: basic
 
 ## Doing this session
 
-- [ ] **Read** - Strategies for controlling scope creep
-- [ ] **Notes** - Strategies for controlling scope creep
-- [ ] **QUIZ** - Test your knowledge: Defining project scope
-- [ ] **Watch** - Managing changes to a project's scope
-- [ ] **Notes** - Managing changes to a project's scope
 - [ ] **Watch** - Torie: The importance of staying within scope
 - [ ] **Read** - Optional: Reviewing the Triple Constraint
 - [ ] **QUIZ** - Reflection: Applying the Triple Constraint
@@ -34,6 +29,8 @@ kanban-plugin: basic
 
 ## In progress
 
+- [ ] **Watch** - Managing changes to a project's scope
+- [ ] **Notes** - Managing changes to a project's scope
 
 
 ## Done - Week 2
@@ -67,6 +64,9 @@ kanban-plugin: basic
 - [ ] **Notes** - Gathering information to define scope
 - [ ] **Watch** - Monitoring and maintaining a project's scope
 - [ ] **Notes** - Monitoring and maintaining a project's scope
+- [ ] **Read** - Strategies for controlling scope creep
+- [ ] **Notes** - Strategies for controlling scope creep
+- [ ] **QUIZ** - Test your knowledge: Defining project scope
 
 
 ## Done - Week 3
