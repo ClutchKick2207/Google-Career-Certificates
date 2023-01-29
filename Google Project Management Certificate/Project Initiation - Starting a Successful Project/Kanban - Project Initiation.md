@@ -45,9 +45,8 @@ kanban-plugin: basic
 
 ## Doing this session
 
-- [ ] **Read** - SMART goals: Making goals meaningful
-- [ ] **Watch** - Navigating Peer/Self reviews
 - [ ] **Notes** - Navigating Peer/Self reviews
+- [ ] **Watch** - Navigating Peer/Self reviews
 - [ ] **Read** - Optional: What to know about peer-graded assignments
 - [ ] **Notes** - Optional: What to know about peer-graded assignments
 - [ ] **QUIZ** - Activity: Define and determine SMART project goals
@@ -55,8 +54,7 @@ kanban-plugin: basic
 
 ## In progress
 
-- [ ] **Watch** - How to set SMART goals
-- [ ] **Notes** - How to set SMART goals
+- [ ] **Read** - SMART goals: Making goals meaningful
 
 
 ## Done - Week 2
@@ -66,6 +64,8 @@ kanban-plugin: basic
 - [ ] **Watch** - Determining project goals and deliverables
 - [ ] **Notes** - Determining project goals and deliverables
 - [ ] **Participate** - Explore: Project Plant Pals: Initiation
+- [ ] **Watch** - How to set SMART goals
+- [ ] **Notes** - How to set SMART goals
 
 
 ## Done - Week 3
