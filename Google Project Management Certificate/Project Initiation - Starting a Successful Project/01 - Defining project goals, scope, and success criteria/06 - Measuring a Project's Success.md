@@ -59,3 +59,4 @@
 			- Hold live feedback sessions with customers and users
 	- Include methods for how success will be measured, how often it's measured, and who's responsible for measuring it
 	- Have the appropriate stakeholders sign off on the success criteria
+	- Defining success criteria should create greater alignment within the team and give everybody better visibility into how to achieve success
