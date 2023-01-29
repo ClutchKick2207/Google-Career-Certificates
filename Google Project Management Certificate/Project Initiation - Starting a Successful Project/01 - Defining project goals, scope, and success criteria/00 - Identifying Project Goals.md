@@ -319,3 +319,13 @@
 		- Objective describes what you want to do, and key results describe how you'll know you did it
 		- Develop 2-3 key results for each objective
 		- Document OKRs and link them into the project plan
+	- **OKRs vs SMART goals**
+		- [SMART Goals vs. OKRs | Smartsheet](https://www.smartsheet.com/content/okr-vs-smart-goals)
+	- **More resources**
+		- [What Matters: OKR Google playbook: Examples & templates](https://www.whatmatters.com/resources/google-okr-playbook)
+		- [How to Create and Track Goals in Asana | Product Guide • Asana Product Guide](https://asana.com/guide/examples/project-management/goals-okrs-planning)
+		- [What Matters: OKR vs. SMART goals: What's the difference?](https://www.whatmatters.com/resources/okrs-smart-goals-difference-between)
+		- [OKRs and KPIs: What They Are and How They Work Together - Reflektive](https://www.reflektive.com/blog/okrs-and-kpis-what-they-are-and-how-they-work-together/)
+		- [How OKR and project management work together - Perdoo](https://www.perdoo.com/resources/okr-and-project-management/)
+		- [OKR Examples - Company Objectives &amp; Key Results | Adobe Workfront](https://business.adobe.com/blog/basics/okr-examples)
+
