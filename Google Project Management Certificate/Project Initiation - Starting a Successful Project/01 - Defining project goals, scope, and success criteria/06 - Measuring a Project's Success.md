@@ -87,3 +87,12 @@
 			- Evaluating user engagement with the product 
 			- Measuring stakeholder and customer satisfaction via surveys
 			- Tracking user adoption of the product by using sales data
+	- **Document, align, and communicate success**
+		- Understanding where we are and where we we are going
+		- Get clarity from stakeholder on the project requirements and expectations
+			- Many people involved with any project, and success will look different for each of them
+		- *Questions*
+			- Who ultimately says whether or not the project is successful?
+			- What criteria will be measured to determine success?
+			- What is the success of this project based on?
+		- Get key stakeholder 
