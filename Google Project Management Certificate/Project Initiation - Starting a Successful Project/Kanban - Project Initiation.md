@@ -10,7 +10,6 @@ kanban-plugin: basic
 
 ## Doing this session
 
-- [ ] **Read** - Optional: Reviewing the Triple Constraint
 - [ ] **Read** - Don't forget to land: Measuring a project's success
 - [ ] **Notes** - Don't forget to land: Measuring a project's success
 - [ ] **Read** - Tracking and communicating success criteria
@@ -22,7 +21,6 @@ kanban-plugin: basic
 
 ## In progress
 
-- [ ] **QUIZ** - Weekly challenge 2
 
 
 ## Done - Week 2
@@ -36,6 +34,7 @@ kanban-plugin: basic
 - [ ] **Notes** - How to set SMART goals
 - [ ] **Read** - SMART goals: Making goals meaningful
 - [ ] **Notes** - SMART goals: Making goals meaningful
+- [ ] **Read** - Optional: Reviewing the Triple Constraint
 - [ ] **Notes** - Navigating Peer/Self reviews
 - [ ] **Watch** - Navigating Peer/Self reviews
 - [ ] **Read** - Optional: What to know about peer-graded assignments
@@ -53,6 +52,7 @@ kanban-plugin: basic
 - [ ] **Watch** - Determining a project's scope
 - [ ] **Notes** - Determining a project's scope
 - [ ] **Read** - Gathering information to define scope
+- [ ] **QUIZ** - Weekly challenge 2
 - [ ] **Notes** - Gathering information to define scope
 - [ ] **Watch** - Monitoring and maintaining a project's scope
 - [ ] **Notes** - Monitoring and maintaining a project's scope

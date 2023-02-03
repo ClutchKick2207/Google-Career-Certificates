@@ -39,29 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Google Project Management Certificate/Project Initiation - Starting a Successful Project/01 - Defining project goals, scope, and success criteria/05 -Defining project scope.md",
+                "file": "Google Project Management Certificate/Project Initiation - Starting a Successful Project/01 - Defining project goals, scope, and success criteria/06 - Measuring a Project's Success.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
-          {
-            "id": "9c969a8211fcd15e",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Google Project Management Certificate/Foundations of Project Management/Kanban - Foundations of Project Management.md"
-              }
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "1053b57faed6c4f5",
-        "type": "tabs",
-        "children": [
           {
             "id": "b3d42b5379a60e7b",
             "type": "leaf",
@@ -74,7 +57,8 @@
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,7 +108,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b06ea18f5787de9e",
@@ -140,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google Project Management Certificate/Foundations of Project Management/Kanban - Foundations of Project Management.md",
+                "file": "Google Project Management Certificate/Project Initiation - Starting a Successful Project/01 - Defining project goals, scope, and success criteria/06 - Measuring a Project's Success.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Google Project Management Certificate/Foundations of Project Management/Kanban - Foundations of Project Management.md",
+                "file": "Google Project Management Certificate/Project Initiation - Starting a Successful Project/01 - Defining project goals, scope, and success criteria/06 - Measuring a Project's Success.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Google Project Management Certificate/Foundations of Project Management/Kanban - Foundations of Project Management.md"
+                "file": "Google Project Management Certificate/Project Initiation - Starting a Successful Project/01 - Defining project goals, scope, and success criteria/06 - Measuring a Project's Success.md"
               }
             }
           },
@@ -211,17 +196,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9c969a8211fcd15e",
+  "active": "7bdfb5ca70db78ab",
   "lastOpenFiles": [
-    "Google Project Management Certificate/Project Initiation - Starting a Successful Project/01 - Defining project goals, scope, and success criteria/06 - Measuring a Project's Success.md",
-    "Google Project Management Certificate/Project Initiation - Starting a Successful Project/01 - Defining project goals, scope, and success criteria/00 - Identifying Project Goals.md",
     "Google Project Management Certificate/Project Initiation - Starting a Successful Project/01 - Defining project goals, scope, and success criteria/05 -Defining project scope.md",
+    "Google Project Management Certificate/Project Initiation - Starting a Successful Project/01 - Defining project goals, scope, and success criteria/00 - Identifying Project Goals.md",
+    "Google Project Management Certificate/Foundations of Project Management/Kanban - Foundations of Project Management.md",
+    "Google Project Management Certificate/Project Initiation - Starting a Successful Project/01 - Defining project goals, scope, and success criteria/06 - Measuring a Project's Success.md",
     "Google Project Management Certificate/Project Initiation - Starting a Successful Project/Kanban - Project Initiation.md",
     "Google Project Management Certificate/Note Template - Project Management.md",
     "Google Project Management Certificate/Project Initiation - Starting a Successful Project/01 - Defining project goals, scope, and success criteria/004 - Activity - Create OKRs response.pdf",
     "Google Project Management Certificate/Project Initiation - Starting a Successful Project/01 - Defining project goals, scope, and success criteria/003 - Activity - Create OKRs.md",
     "Google Project Management Certificate/Project Initiation - Starting a Successful Project/01 - Defining project goals, scope, and success criteria/002 - Activity - SMART project goals response.pdf",
-    "Google Project Management Certificate/Project Initiation - Starting a Successful Project/01 - Defining project goals, scope, and success criteria/001 - Activity - SMART project goals.md",
-    "Google Project Management Certificate/Foundations of Project Management/00 - Embarking on a career in Project Management/03 - Final Notes (1st Module).md"
+    "Google Project Management Certificate/Project Initiation - Starting a Successful Project/01 - Defining project goals, scope, and success criteria/001 - Activity - SMART project goals.md"
   ]
 }
