@@ -96,3 +96,40 @@
 			- What criteria will be measured to determine success?
 			- What is the success of this project based on?
 		- Get key stakeholder 
+
+## Using OKRs to evaluate progress
+![[Pasted image 20230203090222.png]]
+- **OKRs**
+	- ![[Pasted image 20230203090229.png]]
+- **Communicating and tracking OKRs**
+	- **Share OKRs**
+		- Once you have created OKRs, it is important to communicate them to the team so that everyone knows what to do
+		- Allows for focusing and aligning efforts
+	- **Assign owners**
+		- Make sure someone is responsible for each key result, so that everyone knows who is responsible for what
+		- Adds clarity, and increases accountability
+- **Measuring Progress**
+	- **Determine how you will score your OKRs**
+		- Can be scored as a percentage of the objective completed
+		- Can be scored as the completion of certain milestones
+		- On a scale of 1-10
+		- Traffic light scale
+			- Red: no progress
+			- Yellow: some progress
+			- Green: completed objective
+		- Yes/No methods
+			- yes: achieved objective
+			- no: didn't achieve objective
+		- Scale
+			- example
+				- "launch 6 features"
+				- Only launched 3
+				- Therefore score of 0.5
+			- Score ranges from 0.0 - 1.0
+	- **Set scoring expectations**
+		- Expectations can be set from 0.6-0.7 (60-70% completed) across all OKRs
+		- Lower scores may indicate that the OKRs are too ambitious
+		- Higher scores may indicate that it is not challenging enough
+	- **Schedule checkpoints**
+		- Regularly communicate the status of project OKRs with the team and senior managers
+		- A monthly check-up can help, and make sure that goals and objectives have not changed
