@@ -35,10 +35,6 @@ kanban-plugin: basic
 
 ## Doing this session
 
-- [ ] **Watch** - Accessibility for project managers
-- [ ] **Notes** - Accessibility for project managers
-- [ ] **Watch** - Choosing a project team
-- [ ] **Notes** - Choosing a project team
 - [ ] **Read** - Review: The building blocks of a project dream team
 - [ ] **Notes** - Review: The building blocks of a project dream team
 - [ ] **Watch** - Defining project roles
@@ -51,12 +47,16 @@ kanban-plugin: basic
 
 ## In progress
 
-- [ ] **Watch** - Introduction: Working effectively with stakeholders
-- [ ] **Notes** - Introduction: Working effective with stakeholders
+- [ ] **Watch** - Choosing a project team
+- [ ] **Notes** - Choosing a project team
 
 
 ## Done - Week 3
 
+- [ ] **Watch** - Introduction: Working effectively with stakeholders
+- [ ] **Notes** - Introduction: Working effective with stakeholders
+- [ ] **Watch** - Accessibility for project managers
+- [ ] **Notes** - Accessibility for project managers
 
 
 ## Done - Week 4

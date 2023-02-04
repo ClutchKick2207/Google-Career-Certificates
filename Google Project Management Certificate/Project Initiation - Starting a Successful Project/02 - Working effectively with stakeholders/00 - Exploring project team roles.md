@@ -10,4 +10,18 @@
 - **RACI charts**
 	- ![[Pasted image 20230204203350.png]]
 
-
+## Accessibility for project managers
+> [!info] Accessibility - Definition
+> Actively removing any barriers that might prevent persons with disabilities from being able to access technology, information, or experiences, and levelling the playing field so everyone has an equal chance of enjoying life and being successful
+- **Accessibility**
+	- Should be at any role of a company
+	- Over 1 billion people have a disability
+	- Diverse and intersectional
+		- Could be born with, or developed later on
+	- Could be permanent, to temporary, or situational
+		- Deaf, broken leg, using a remote in the dark (respectively)
+	- Communicate freely
+		- Make sure to ask, and have other people comfortable to ask what they need
+		- Try and deliver where you can
+	- As a project manager, you are responsible for making sure a group of people can come together to achieve a common goal using shared tools and systems
+	- Make sure the infrastructure and culture works for everyone
