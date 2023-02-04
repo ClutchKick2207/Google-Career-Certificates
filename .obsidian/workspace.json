@@ -22,26 +22,6 @@
             }
           },
           {
-            "id": "7bdfb5ca70db78ab",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "9c969a8211fcd15e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Google Project Management Certificate/Project Initiation - Starting a Successful Project/01 - Defining project goals, scope, and success criteria/06 -Defining project scope.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a7c5fcf56fb89c7c",
             "type": "leaf",
             "state": {
@@ -54,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "367d79a0e9bc18a8",
@@ -209,14 +189,14 @@
   },
   "active": "a7c5fcf56fb89c7c",
   "lastOpenFiles": [
-    "Google Project Management Certificate/Project Initiation - Starting a Successful Project/01 - Defining project goals, scope, and success criteria/06 -Defining project scope.md",
-    "Google Project Management Certificate/Project Initiation - Starting a Successful Project/02 - Working effectively with stakeholders/00 - Exploring project team roles.md",
     "Google Project Management Certificate/Project Initiation - Starting a Successful Project/Kanban - Project Initiation.md",
+    "Google Project Management Certificate/Project Initiation - Starting a Successful Project/02 - Working effectively with stakeholders/00 - Exploring project team roles.md",
+    "Google Project Management Certificate/Note Template - Project Management.md",
+    "Google Project Management Certificate/Project Initiation - Starting a Successful Project/01 - Defining project goals, scope, and success criteria/06 -Defining project scope.md",
     "Google Project Management Certificate/Project Initiation - Starting a Successful Project/01 - Defining project goals, scope, and success criteria/00 - Identifying Project Goals.md",
     "Untitled.md",
     "Google Project Management Certificate/Project Initiation - Starting a Successful Project/01 - Defining project goals, scope, and success criteria/05 -Defining project scope.md",
     "Google Project Management Certificate/Project Initiation - Starting a Successful Project/01 - Defining project goals, scope, and success criteria/06 - Measuring a Project's Success.md",
-    "Google Project Management Certificate/Note Template - Project Management.md",
     "Google Project Management Certificate/Project Initiation - Starting a Successful Project/01 - Defining project goals, scope, and success criteria/004 - Activity - Create OKRs response.pdf",
     "Google Project Management Certificate/Project Initiation - Starting a Successful Project/01 - Defining project goals, scope, and success criteria/003 - Activity - Create OKRs.md"
   ]

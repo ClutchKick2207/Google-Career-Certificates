@@ -35,8 +35,6 @@ kanban-plugin: basic
 
 ## Doing this session
 
-- [ ] **Watch** - Introduction: Working effectively with stakeholders
-- [ ] **Notes** - Introduction: Working effective with stakeholders
 - [ ] **Watch** - Accessibility for project managers
 - [ ] **Notes** - Accessibility for project managers
 - [ ] **Watch** - Choosing a project team
@@ -52,6 +50,16 @@ kanban-plugin: basic
 
 
 ## In progress
+
+- [ ] **Watch** - Introduction: Working effectively with stakeholders
+- [ ] **Notes** - Introduction: Working effective with stakeholders
+
+
+## Done - Week 3
+
+
+
+## Done - Week 4
 
 
 
@@ -106,14 +114,6 @@ kanban-plugin: basic
 - [ ] **Notes** - Tracking and communicating success criteria
 - [ ] **Read** - Tracking and communicating success criteria
 - [ ] **Notes** - Defining success criteria
-
-
-## Done - Week 3
-
-
-
-## Done - Week 4
-
 
 
 ## Done - Week 1
