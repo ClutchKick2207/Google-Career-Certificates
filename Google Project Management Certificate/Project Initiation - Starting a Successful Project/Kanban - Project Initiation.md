@@ -10,13 +10,6 @@ kanban-plugin: basic
 
 ## Doing this session
 
-- [ ] **Read** - Don't forget to land: Measuring a project's success
-- [ ] **Notes** - Don't forget to land: Measuring a project's success
-- [ ] **Read** - Tracking and communicating success criteria
-- [ ] **Notes** - Tracking and communicating success criteria
-- [ ] **Read** - Using OKRs to evaluate progress
-- [ ] **Notes** - Using OKRs to evaluate progress
-- [ ] **Watch** - Wrap up
 
 
 ## In progress
@@ -66,6 +59,13 @@ kanban-plugin: basic
 - [ ] **Watch** - Launching and landing a project
 - [ ] **Notes** - Launching and landing a project
 - [ ] **Watch** - Defining success criteria
+- [ ] **Read** - Don't forget to land: Measuring a project's success
+- [ ] **Notes** - Using OKRs to evaluate progress
+- [ ] **Notes** - Don't forget to land: Measuring a project's success
+- [ ] **Watch** - Wrap up
+- [ ] **Read** - Using OKRs to evaluate progress
+- [ ] **Notes** - Tracking and communicating success criteria
+- [ ] **Read** - Tracking and communicating success criteria
 - [ ] **Notes** - Defining success criteria
 
 
