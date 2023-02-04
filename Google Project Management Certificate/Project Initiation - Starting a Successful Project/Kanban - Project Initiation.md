@@ -6,10 +6,49 @@ kanban-plugin: basic
 
 ## To-Do
 
+- [ ] **Notes** - Project role responsibilities
+- [ ] **Watch** - Completing a stakeholder analysis
+- [ ] **Notes** - Completing a stakeholder analysis
+- [ ] **Read** - prioritising stakeholders and generating their buy-in
+- [ ] **Notes** - Prioritising stakeholders and generating their buy-in
+- [ ] **Participate** - Explore: Stakeholder interviews
+- [ ] **Notes** - Explore: Stakeholder interviews
+- [ ] **QUIZ** - Complete a stakeholder analysis and power grid
+- [ ] **Notes** - Activity exemplar: complete a stakeholder analysis and power grid
+- [ ] **QUIZ** - Test your knowledge: Evaluating stakeholders
+- [ ] **Watch** - Elements of a RACI chart
+- [ ] **Notes** - Elements of a RACI chart
+- [ ] **Read** - Building out a RACI chart
+- [ ] **Notes** - Building out a RACI chart
+- [ ] **QUIZ** - Set project roles and responsibilities in a RACI chart
+- [ ] **Notes** - Exemplar: Set project roles and responsibilities in a RACI chart
+- [ ] **Watch** - Certificate completers: Staying motivated with the program
+- [ ] **Read** - Getting the most out of a RACI chart
+- [ ] **Notes** - Getting the most out of a RACI chart
+- [ ] **QUIZ** - Activity: Assign project roles and responsibilities in a RACI chart
+- [ ] **Notes** - Activity Exemplar: Assign project roles and responsibilities in a RACI chart
+- [ ] **Watch** - Why projects fail: Initiation missteps
+- [ ] **Notes** - Why projects fail: Initiation missteps
+- [ ] **Watch** - Wrap-up
+- [ ] **QUIZ** - Weekly challenge 3
 
 
 ## Doing this session
 
+- [ ] **Watch** - Introduction: Working effectively with stakeholders
+- [ ] **Notes** - Introduction: Working effective with stakeholders
+- [ ] **Watch** - Accessibility for project managers
+- [ ] **Notes** - Accessibility for project managers
+- [ ] **Watch** - Choosing a project team
+- [ ] **Notes** - Choosing a project team
+- [ ] **Read** - Review: The building blocks of a project dream team
+- [ ] **Notes** - Review: The building blocks of a project dream team
+- [ ] **Watch** - Defining project roles
+- [ ] **Notes** - Defining project roles
+- [ ] **Read** - Essential project roles
+- [ ] **Notes** - Essential project roles
+- [ ] **Watch** - John: The importance of a project team
+- [ ] **Participate** - Project role responsibilities
 
 
 ## In progress
@@ -85,6 +124,7 @@ kanban-plugin: basic
 - [ ] **Read** - Helpful resources to get started
 - [ ] **Notes** - Helpful resources to get started
 - [ ] **Participate** - Meet and greet
+- [ ] 
 - [ ] **Watch** - Why is project initiation essential?
 - [ ] **Notes** - Why is project initiation essential?
 - [ ] **Watch** - Key components of project initiation
