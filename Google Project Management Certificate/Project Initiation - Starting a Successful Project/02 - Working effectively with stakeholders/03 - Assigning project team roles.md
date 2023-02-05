@@ -159,3 +159,9 @@
 		- Without proper planning, resources can be over-tasked or depleted
 		-  Have to account that staff can be juggling multiple things at the same time, and may not be able to dedicate their entire time to this one project
 		- Make sure to accurately calculate project expenses, and have some buffer room where possible
+	- **Scope Creep**
+		- Make sure that you know exactly what is and what isn't expected from the project's work and deliverables
+		- Defining scope helps identify any resources that are needed, any costs that can be associated with it, and the schedule
+		- Some projects fail due to the scope of the project growing too much
+		- Make sure that it is set very firmly, and meet with stakeholders to confirm exactly what is needed
+		- Make sure to know who has the authority to approve scope changes, and document everything
