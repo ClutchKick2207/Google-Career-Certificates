@@ -24,7 +24,6 @@ kanban-plugin: basic
 
 ## In progress
 
-- [ ] **QUIZ** - Set project roles and responsibilities in a RACI chart
 
 
 ## Done - Week 3
@@ -57,6 +56,7 @@ kanban-plugin: basic
 - [ ] **Notes** - Elements of a RACI chart
 - [ ] **Read** - Building out a RACI chart
 - [ ] **Notes** - Building out a RACI chart
+- [ ] **QUIZ** - Set project roles and responsibilities in a RACI chart
 
 
 ## Done - Week 4
