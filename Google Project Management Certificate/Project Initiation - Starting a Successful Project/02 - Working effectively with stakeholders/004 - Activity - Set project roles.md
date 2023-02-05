@@ -36,3 +36,41 @@
 		2. Write promotional copy 
 		3. Design marketing assets (e.g., flyers, brochures, and online advertisements)
 		4. Create a customer outreach and onboarding plan
+- **Instructions**
+	- **Step 2: Add tasks to the RACI chart**
+		- Add the four tasks from the scenario to your RACI chart template under the **Task/Deliverable** heading. 
+		- Replace “Task/Deliverable” with the name of each task.
+	- **Step 3: Add team members to the RACI chart**
+		- Add your team members to the template. 
+		- Replace “Role A” with “Director of Product,” and so on.
+	- **Step 4:** **Assign letters in the RACI chart**
+		- For each task, assign the letters **R**, **A**, **C**, and **I** to the team members involved.
+		- Consult the descriptions below to determine how your team members relate to the tasks:
+			- **Responsible** 
+				- *Who is responsible for completing this task?* 
+				- *Questions*
+					- Which department manages the work?
+					- Who should perform the work?
+			- **Accountable** 
+				- *Who is accountable if the task isn’t completed?* 
+				- Remember that only one person should be accountable for each task or deliverable. 
+				- *Questions*
+					- Who might delegate the task to another team member?
+					- Who makes final decisions about the task?
+					- Who should review the work to confirm it is complete?
+			- **Consulted**
+				- *Who should be consulted for their insights, expertise, or strong opinions on the task?* 
+				- *Questions*
+					- Who can give feedback to responsible individuals to help them complete tasks? 
+					- Who are the subject matter experts (SMEs) for the task?
+			- **Informed**
+				- *Who should be kept informed about task progress or project decisions?*
+				-  *Questions*
+					- Who is invested in task completion but not directly involved in the work? 
+					- Who is affected by the project outcome?
+- **What to include**
+	- The RACI chart includes all of the project roles from the scenario.
+	- The RACI chart includes all the deliverables/tasks from the scenario.
+	- The appropriate individuals are Responsible, Accountable, Consulted, and Informed.
+	- Only one individual is accountable for each task or deliverable.
+	- At least one individual is responsible for each task. (_**Note:**_ _Some tasks may not need Consulted or Informed individuals._)
