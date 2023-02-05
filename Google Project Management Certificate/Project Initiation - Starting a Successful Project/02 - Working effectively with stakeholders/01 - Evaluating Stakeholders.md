@@ -40,4 +40,18 @@
 		- Different ways to involve stakeholders
 			- Meet with some stakeholders every day
 			- Some just periodic emails with updates
-		- 
+		- **Stakeholder buy-in**
+			- Pay particular attention to high impact stakeholders
+				- Keep them in the loop
+				- Explain to them how this project will help them achieve their goals
+				- Have their support later on when any issues come up
+		- **Communicating with stakeholders**
+			- If you have 1 main stakeholder
+				- Likely to be highly important and influential
+				- Needs constant communication
+			- If you have numerous stakeholders
+				- Not as involved in the day-to-day tasks
+			- Overcommunicate early on so stakeholders can make decisions with as much information as possible
+			- Send daily end of day progress emails
+			- Think about the amount of project detail every stakeholder needs
+			- Daily, weekly, monthly check-ins
