@@ -165,3 +165,5 @@
 		- Some projects fail due to the scope of the project growing too much
 		- Make sure that it is set very firmly, and meet with stakeholders to confirm exactly what is needed
 		- Make sure to know who has the authority to approve scope changes, and document everything
+	- **Extra reading**
+		- https://project-management.com/7-lessons-to-learn-from-a-failed-project/
