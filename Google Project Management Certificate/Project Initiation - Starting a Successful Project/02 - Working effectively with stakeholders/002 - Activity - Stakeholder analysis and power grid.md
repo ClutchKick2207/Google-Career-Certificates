@@ -1,0 +1,35 @@
+## Activity: Complete a stakeholder analysis and power grid
+- **Activity Overview**
+	- *In this activity you will complete a stakeholder analysis and power grid.*
+	- Important to understand how each stakeholder relates to your project
+	- Completing a stakeholder analysis and power grid allows you to determine each stakeholder’s influence and potential impact on a project
+		- Crucial to managing communications and expectations
+- **Scenario**
+	- You are the project manager at Office Green
+		- A commercial landscaping company that specializes in plants and greenery for offices and other businesses. 
+	- The company is getting ready to introduce its new Plant Pals service, and you will manage the launch. 
+	- You and your team need to maintain trust and generate buy-in from your stakeholders. 
+	- Some of your stakeholders include:
+		- **Director of Product**
+			- The Director of Product is the project sponsor. 
+			- As the sponsor, they fully support the project, sign off on high-level decisions, and sometimes act as a resource for the team. 
+			- They are deeply invested in the outcome of the project, but less involved with its day-to-day operations.
+		- **Landscape Designer/Web Designer** 
+			- This person has two roles at Office Green, and within the Plant Pals project.
+			- In addition to their web design skills and knowledge of plants, they have strong relationships with a range of people across the company. 
+			- The Plant Pals project could affect their role as Landscape Designer if it results in a pivot toward new services. 
+			- If they don’t want their role to change, it could be harder to get their buy-in.
+		- **Existing clients and their employees** 
+			- The core customers for this product launch are Office Green’s existing clients and their employees. 
+			- Their feedback can help Office Green improve the customer experience for the new service. 
+			- Depending on their needs, some clients will be very interested in Plant Pals, while others will be less so. 
+			- Lower-interest clients are unlikely to resist the project unless it impacts the existing product line.
+		- **Office Green’s investors** 
+			- The investors support Office Green financially, so the company wants to keep them happy. 
+			- Likewise, because Office Green’s performance affects their investments, the investors want Plant Pals to succeed. 
+			- However, they will not be directly involved in the project and it will not affect them before launch. 
+			- They are therefore unlikely to oppose the project at this stage.
+		- **Office Green’s receptionist** 
+			- The receptionist will not be directly involved with the Plant Pals project. 
+			- They will need to answer customer questions about the service later on, but don’t need to know many details until closer to launch. 
+			- They have no major concerns about the project at this stage.
