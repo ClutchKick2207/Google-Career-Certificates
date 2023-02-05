@@ -82,3 +82,12 @@
 			- Low interest, low power stakeholders go towards the lower-left corner
 		2. **Determine how to engage with stakeholders**
 			- think about how you should engage with the stakeholders
+- **Response**
+	- Be sure to address the following criteria in your completed stakeholder analysis table:
+		- The table includes all five stakeholders and groups from the scenario.
+		- The table lists information on each stakeholder’s role, resources, potential resistance, and engagement.
+		- The table lists each stakeholder’s level of power or influence as low, medium, or high.
+		- The table lists each stakeholder’s level of interest as low, medium, or high.
+	- Be sure to address the following criteria in your completed power grid:
+		- The grid contains all the stakeholders from your stakeholder analysis. 
+		- The position of each stakeholder corresponds to their level of interest and influence in your stakeholder analysis.
