@@ -5,5 +5,32 @@
 > My notes for this overall course will be laid out by module in the course, and have subheadings in order to differentiate between different topics/videos that are presented in the courses. I'll add in any extra notes/resources that I use where necessary, and hope it will be helpful for anyone looking!
 
 ## Elements of a RACI chart
+> [!info] RACI Chart - Definition
+> Helps define roles and responsibilities for individuals or teams to ensure work gets done efficiently
 - **RACI chart**
-	- 
+	- ![[Pasted image 20230205213736.png]]
+	- **RACI Chart principles**
+		- **Responsible**
+			- Those doing the work to complete the task
+		- **Accountable**
+			- Those making sure the work gets done
+		- **Consulted**
+			- Those giving feedback, like subject matter experts or decision makers
+		- **Informed**
+			- Those just needing to know the final decisions or that a task is complete
+	- **Role confusion**
+		- *Unbalanced workloads*
+			- Some people might be doing more or less work compared to other people on the team
+		- *Unclear hierarchy*
+			- People aren't sure who to seek help from if a task doesn't get done
+		- *Unclear ownership decisions*
+			- Unsure who makes the final call on a project
+		- *Overlapping work*
+			- Multiple people are responsible for the same work
+		- *Excessive communication*
+			- Too much can make things more complicated
+			- Cause information overload
+				- Not too sure what to pay attention to
+		- RACI can help resolve/avoid all this
+
+## Building out a RACI chart
