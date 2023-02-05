@@ -10,11 +10,6 @@ kanban-plugin: basic
 
 ## Doing this session
 
-- [ ] **Watch** - Elements of a RACI chart
-- [ ] **Notes** - Elements of a RACI chart
-- [ ] **Read** - Building out a RACI chart
-- [ ] **Notes** - Building out a RACI chart
-- [ ] **QUIZ** - Set project roles and responsibilities in a RACI chart
 - [ ] **Notes** - Exemplar: Set project roles and responsibilities in a RACI chart
 - [ ] **Watch** - Certificate completers: Staying motivated with the program
 - [ ] **Read** - Getting the most out of a RACI chart
@@ -29,7 +24,7 @@ kanban-plugin: basic
 
 ## In progress
 
-- [ ] **QUIZ** - Test your knowledge: Evaluating stakeholders
+- [ ] **QUIZ** - Set project roles and responsibilities in a RACI chart
 
 
 ## Done - Week 3
@@ -57,6 +52,11 @@ kanban-plugin: basic
 - [ ] **Notes** - Explore: Stakeholder interviews
 - [ ] **QUIZ** - Complete a stakeholder analysis and power grid
 - [ ] **Notes** - Activity exemplar: complete a stakeholder analysis and power grid
+- [ ] **QUIZ** - Test your knowledge: Evaluating stakeholders
+- [ ] **Watch** - Elements of a RACI chart
+- [ ] **Notes** - Elements of a RACI chart
+- [ ] **Read** - Building out a RACI chart
+- [ ] **Notes** - Building out a RACI chart
 
 
 ## Done - Week 4

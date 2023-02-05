@@ -37,11 +37,34 @@
 - **RACI Chart**
 	- **Elements of a RACI chart**
 		- **Responsible**
-			- Who gets the work done
+			- *Who gets the work done*
+			- Those who are actually doing the work to complete the task
+			- At least one is needed
+			- Try and limit the amount of people you have assigned to "responsible"
+				- Although you may need more than one
+			- *Questions*
+				- What department does the work fall under?
+				- Who will perform the work?
+			- *Office Green Example*
+				- Task is to develop price points
+				- Therefore will list Financial Analyst
+				- ![[Pasted image 20230205215505.png]]
 		- **Accountable**
-			- Who makes sure the work is done
+			- *Who makes sure the work is done*
+			- Only have one individual accountable for each task
+			- Helps clarify ownership for the task
+			- Ultimately has the authority to approve the deliverable to the responsible party
+			- *Questions*
+				- Who will delegate the task to be completed?
+				- Who will delegate the task to be completed?
+			- May encounter a situation where the responsible party is accountable
+				- Try and avoid this where possible to avoid confusion of ownership
+			- *Office Green Example*
+				- Head of finance will be assigned here
+				- Has to make sure the project stays on budget and creates a profit anyways, so needs to approve the Financial Analyst's work
+				- ![[Pasted image 20230205215751.png]]
 		- **Consulted**
-			- Who gives input or feedback on work
+			- *Who gives input or feedback on work*
 		- **Informed**
 			- Who needs to know the outcome
 	- **RACI chart example**
