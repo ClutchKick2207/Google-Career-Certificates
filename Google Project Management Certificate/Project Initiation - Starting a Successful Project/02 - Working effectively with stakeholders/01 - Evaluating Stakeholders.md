@@ -67,7 +67,7 @@
 		2. **Determine the level of interest and influence for each stakeholder**
 			- Determine who your key stakeholders are. 
 			- The higher the level of interest and influence, the more important it will be to prioritize their needs throughout the project. 
-		3. Assess stakeholders’ ability to participate and then find ways to involve them. 
+		3. **Assess stakeholders’ ability to participate and then find ways to involve them.** 
 			- **Active Stakeholders**
 				- More opinions and touchpoints
 			- **Passive Stakeholders**
@@ -76,3 +76,23 @@
 			- Many different factors that can influence the stakeholder's ability to participate
 				- Physical distance from the project
 				- Existing workload
+	- **Steering committee**
+		- A collection of key stakeholders who have a high level of power and interest in a project
+		- Can influence multiple departments within an organisation
+			- Potential to release a greater number of resources to the project manager
+	- **Visualising Analysis**
+		- **Power grid**
+			- ![[Pasted image 20230205154232.png]]
+			- Shows stakeholder interest in the project versus their influence over the project
+			- Allows for evaluating how to manage their stakeholders
+			- Used to determine the appropriate level of engagement required by the project team to gain the stakeholder's buy-in and trust
+			- Make sure to take into account each individual project, as they all will be different
+	- **Generating stakeholder buy-in**
+		- Make decisions on whose buy-in is absolutely necessary for success, whose requirements deserve the most attention, and what level of communication each stakeholder will require
+		- **Tips**
+			- Clearly mapping the work of the project to the goals of the stakeholder
+			- Describing how the project aligns with the goals of the stakeholder's department or team
+			- Listening to feedback from the stakeholder and finding ways to incorporate their feedback into the project's charter where appropriate
+	- **Optional Reading**
+		- [We Asked the Project Management Community: What Steps Do You Take To Identify and Prioritize All Stakeholders at the Start of a Project? (pmi.org)](https://www.pmi.org/learning/library/identify-prioritize-stakeholders-11408)
+
