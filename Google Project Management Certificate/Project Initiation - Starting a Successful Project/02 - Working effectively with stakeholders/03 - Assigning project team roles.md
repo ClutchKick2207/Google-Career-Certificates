@@ -112,4 +112,13 @@
 		- Try not to rely just on top performers to keep the project moving forward
 			- If you find yourself doing so, step back and revaluate your team
 	- **Put your RACI into practice**
-		- 
+		- Share RACI with sponsors and stakeholders to get buy-in and it signed off
+		- When you get stakeholder buy-in, can set clear expectations for the team, and make sure everyone is aligned with their responsibilities
+		- Document your team and stakeholder's acknowledgement of expectations through the project charter, meeting notes and in the RACI
+		- Makes sure to continually check in with stakeholders and your team
+	- **When should you use a RACI chart?**
+		- Use it for larger, more complex projects
+		- Might just slow down smaller projects
+		- Projects which have a large amount of stakeholders would benefit
+		- Even if you don't use it, it allows for a much larger level of understanding
+			- Can help for a better project management experience
