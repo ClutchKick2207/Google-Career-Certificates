@@ -14,7 +14,10 @@ kanban-plugin: basic
 
 ## In progress
 
-- [ ] **QUIZ** - Weekly challenge 3
+
+
+## Done - Week 4
+
 
 
 ## Done - Week 3
@@ -57,10 +60,7 @@ kanban-plugin: basic
 - [ ] **Watch** - Why projects fail: Initiation missteps
 - [ ] **Notes** - Why projects fail: Initiation missteps
 - [ ] **Watch** - Wrap-up
-
-
-## Done - Week 4
-
+- [ ] **QUIZ** - Weekly challenge 3
 
 
 ## Done - Week 2
