@@ -33,3 +33,23 @@
 			- The receptionist will not be directly involved with the Plant Pals project. 
 			- They will need to answer customer questions about the service later on, but don’t need to know many details until closer to launch. 
 			- They have no major concerns about the project at this stage.
+- **Instructions**
+	- **Part 1: Understanding stakeholders with a stakeholder analysis**
+		1. **Access the template**
+		2. **Identify Stakeholders**
+			- Start with the understanding stakeholders slide in the PowerPoint
+			- Identify the stakeholders, and write them all down in the stakeholder column
+		3. **Determine stakeholder roles**
+			- Write down each team member's role
+			- *Select from the following options*
+				- Project sponsor
+				- Project team member
+				- Office Green employee
+				- Office Green customer 
+				- Secondary stakeholder
+		4. **Determine Stakeholder involvement**
+			- *Questions*
+				- How will each stakeholder participate in the project?
+				- What resources do they have that can help project success?
+			- Consider each stakeholder’s involvement in the project, as well as any tools (software, hardware, etc.), knowledge, or relationships that could be helpful.
+				- Make note of these in the "Involvement" column
