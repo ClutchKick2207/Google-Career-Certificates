@@ -6,10 +6,6 @@ kanban-plugin: basic
 
 ## To-Do
 
-- [ ] **QUIZ** - Set project roles and responsibilities in a RACI chart
-- [ ] **Notes** - Exemplar: Set project roles and responsibilities in a RACI chart
-- [ ] **Watch** - Certificate completers: Staying motivated with the program
-- [ ] **Read** - Getting the most out of a RACI chart
 - [ ] **Notes** - Getting the most out of a RACI chart
 - [ ] **QUIZ** - Activity: Assign project roles and responsibilities in a RACI chart
 - [ ] **Notes** - Activity Exemplar: Assign project roles and responsibilities in a RACI chart
@@ -21,21 +17,20 @@ kanban-plugin: basic
 
 ## Doing this session
 
-- [ ] **Participate** - Explore: Stakeholder interviews
-- [ ] **Notes** - Explore: Stakeholder interviews
-- [ ] **QUIZ** - Complete a stakeholder analysis and power grid
-- [ ] **Notes** - Activity exemplar: complete a stakeholder analysis and power grid
 - [ ] **QUIZ** - Test your knowledge: Evaluating stakeholders
 - [ ] **Watch** - Elements of a RACI chart
 - [ ] **Notes** - Elements of a RACI chart
 - [ ] **Read** - Building out a RACI chart
 - [ ] **Notes** - Building out a RACI chart
+- [ ] **QUIZ** - Set project roles and responsibilities in a RACI chart
+- [ ] **Notes** - Exemplar: Set project roles and responsibilities in a RACI chart
+- [ ] **Watch** - Certificate completers: Staying motivated with the program
+- [ ] **Read** - Getting the most out of a RACI chart
 
 
 ## In progress
 
-- [ ] **Read** - prioritising stakeholders and generating their buy-in
-- [ ] **Notes** - Prioritising stakeholders and generating their buy-in
+- [ ] **Notes** - Activity exemplar: complete a stakeholder analysis and power grid
 
 
 ## Done - Week 3
@@ -57,6 +52,11 @@ kanban-plugin: basic
 - [ ] **Notes** - Project role responsibilities
 - [ ] **Watch** - Completing a stakeholder analysis
 - [ ] **Notes** - Completing a stakeholder analysis
+- [ ] **Read** - prioritising stakeholders and generating their buy-in
+- [ ] **Notes** - Prioritising stakeholders and generating their buy-in
+- [ ] **Participate** - Explore: Stakeholder interviews
+- [ ] **Notes** - Explore: Stakeholder interviews
+- [ ] **QUIZ** - Complete a stakeholder analysis and power grid
 
 
 ## Done - Week 4
