@@ -81,6 +81,14 @@
                 "file": "Google Project Management Certificate/Project Initiation - Starting a Successful Project/Kanban - Project Initiation.md"
               }
             }
+          },
+          {
+            "id": "1d46666e288f72c7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       }
@@ -148,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google Project Management Certificate/Project Initiation - Starting a Successful Project/Kanban - Project Initiation.md",
+                "file": "Google Project Management Certificate/Project Initiation - Starting a Successful Project/02 - Working effectively with stakeholders/005 - Assign project roles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Google Project Management Certificate/Project Initiation - Starting a Successful Project/Kanban - Project Initiation.md",
+                "file": "Google Project Management Certificate/Project Initiation - Starting a Successful Project/02 - Working effectively with stakeholders/005 - Assign project roles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Google Project Management Certificate/Project Initiation - Starting a Successful Project/Kanban - Project Initiation.md"
+                "file": "Google Project Management Certificate/Project Initiation - Starting a Successful Project/02 - Working effectively with stakeholders/005 - Assign project roles.md"
               }
             }
           },
@@ -219,12 +227,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7082cbb752730a84",
+  "active": "19f741f9b4079d17",
   "lastOpenFiles": [
+    "Google Project Management Certificate/Project Initiation - Starting a Successful Project/Kanban - Project Initiation.md",
     "Google Project Management Certificate/Project Initiation - Starting a Successful Project/02 - Working effectively with stakeholders/005 - Assign project roles.md",
     "Google Project Management Certificate/Project Initiation - Starting a Successful Project/02 - Working effectively with stakeholders/004 - Activity - Set project roles.md",
     "Google Project Management Certificate/Project Initiation - Starting a Successful Project/02 - Working effectively with stakeholders/03 - Assigning project team roles.md",
-    "Google Project Management Certificate/Project Initiation - Starting a Successful Project/Kanban - Project Initiation.md",
     "Google Project Management Certificate/Project Initiation - Starting a Successful Project/01 - Defining project goals, scope, and success criteria/002 - Activity - SMART project goals response.pdf",
     "Google Project Management Certificate/Note Template - Project Management.md",
     "Google Project Management Certificate/Project Initiation - Starting a Successful Project/02 - Working effectively with stakeholders/002 - Activity - Stakeholder analysis and power grid.md",
