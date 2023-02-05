@@ -34,3 +34,18 @@
 		- RACI can help resolve/avoid all this
 
 ## Building out a RACI chart
+- **RACI Chart**
+	- **Elements of a RACI chart**
+		- **Responsible**
+			- Who gets the work done
+		- **Accountable**
+			- Who makes sure the work is done
+		- **Consulted**
+			- Who gives input or feedback on work
+		- **Informed**
+			- Who needs to know the outcome
+	- **RACI chart example**
+		- One a bit above is an example
+		- Here is another one
+		- ![[Pasted image 20230205215156.png]]
+		- 
