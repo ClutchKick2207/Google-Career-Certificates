@@ -75,3 +75,40 @@
 		- No exact formula
 			- Makes it tricky
 		- Look deeper into each part of the project
+
+## Review: The building blocks of a project dream team
+![[Pasted image 20230205130207.png]]
+- **Project Dream team**
+	- **Too big, too small, or just right?**
+		- Dependant on the size of the project
+		- Complex projects with large divisions of work will require larger project teams
+		- Simple projects with straightforward expectations may only require a few people on the project team
+	- **The right skills and abilities to fill the role**
+		- Multiple roles may be assigned to one person
+			- Especially in a smaller team
+		- May require those with necessary technical skills
+			- Specific skills for the task being performed
+			- *Office Green*
+				- Indoor landscaping design for the layout of plants
+				- Floral design of plant arranging
+		- Interpersonal skills are also highly valuable
+			- People skills/soft skills
+		- **Problem Solving skills**
+			- Being able to solve problems in a large complex project is vital
+			- Need to use their own judgement to get the job done
+		- **Leadership skills**
+			- Help team members navigate organisational boundaries and effectively communicate with stakeholders to generate buy-in
+	- **Who is available?**
+		- Especially true in Matrix organisations
+			- Team members being able to have multiple bosses
+		- May not be able to keep a team member for the entire project
+		- May not be able to pick the team members you want to for your project
+		- May have to use team members picked by the project sponsor
+		- Have a diverse team
+			- Allows for different viewpoints
+			- and different lines of thinking
+		- Dedicate time early on in the team to develop trust between the team members
+	- **What motivates them?**
+		- Make sure to take note of the motivation level of team members, and engage them to keep them motivated
+		- Keep the team engaged and keep them ready to overcome any obstacles that may occur
+		- Maintaining a positive outlook with the team can keep them motivated
