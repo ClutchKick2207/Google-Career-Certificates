@@ -6,16 +6,6 @@ kanban-plugin: basic
 
 ## To-Do
 
-- [ ] **Notes** - Project role responsibilities
-- [ ] **Watch** - Completing a stakeholder analysis
-- [ ] **Notes** - Completing a stakeholder analysis
-- [ ] **Read** - prioritising stakeholders and generating their buy-in
-- [ ] **Notes** - Prioritising stakeholders and generating their buy-in
-- [ ] **Participate** - Explore: Stakeholder interviews
-- [ ] **Notes** - Explore: Stakeholder interviews
-- [ ] **QUIZ** - Complete a stakeholder analysis and power grid
-- [ ] **Notes** - Activity exemplar: complete a stakeholder analysis and power grid
-- [ ] **QUIZ** - Test your knowledge: Evaluating stakeholders
 - [ ] **Watch** - Elements of a RACI chart
 - [ ] **Notes** - Elements of a RACI chart
 - [ ] **Read** - Building out a RACI chart
@@ -35,18 +25,26 @@ kanban-plugin: basic
 
 ## Doing this session
 
-- [ ] **Watch** - Defining project roles
-- [ ] **Notes** - Defining project roles
 - [ ] **Read** - Essential project roles
 - [ ] **Notes** - Essential project roles
 - [ ] **Watch** - John: The importance of a project team
 - [ ] **Participate** - Project role responsibilities
+- [ ] **Notes** - Project role responsibilities
+- [ ] **Watch** - Completing a stakeholder analysis
+- [ ] **Notes** - Completing a stakeholder analysis
+- [ ] **Read** - prioritising stakeholders and generating their buy-in
+- [ ] **Notes** - Prioritising stakeholders and generating their buy-in
+- [ ] **Participate** - Explore: Stakeholder interviews
+- [ ] **Notes** - Explore: Stakeholder interviews
+- [ ] **QUIZ** - Complete a stakeholder analysis and power grid
+- [ ] **Notes** - Activity exemplar: complete a stakeholder analysis and power grid
+- [ ] **QUIZ** - Test your knowledge: Evaluating stakeholders
 
 
 ## In progress
 
-- [ ] **Read** - Review: The building blocks of a project dream team
-- [ ] **Notes** - Review: The building blocks of a project dream team
+- [ ] **Watch** - Defining project roles
+- [ ] **Notes** - Defining project roles
 
 
 ## Done - Week 3
@@ -57,6 +55,8 @@ kanban-plugin: basic
 - [ ] **Notes** - Accessibility for project managers
 - [ ] **Watch** - Choosing a project team
 - [ ] **Notes** - Choosing a project team
+- [ ] **Read** - Review: The building blocks of a project dream team
+- [ ] **Notes** - Review: The building blocks of a project dream team
 
 
 ## Done - Week 4

@@ -112,3 +112,7 @@
 		- Make sure to take note of the motivation level of team members, and engage them to keep them motivated
 		- Keep the team engaged and keep them ready to overcome any obstacles that may occur
 		- Maintaining a positive outlook with the team can keep them motivated
+
+## Defining project roles
+- **Project roles**
+	- 
