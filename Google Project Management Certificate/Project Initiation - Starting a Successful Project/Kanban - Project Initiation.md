@@ -10,14 +10,11 @@ kanban-plugin: basic
 
 ## Doing this session
 
-- [ ] **Watch** - Wrap-up
-- [ ] **QUIZ** - Weekly challenge 3
 
 
 ## In progress
 
-- [ ] **Watch** - Why projects fail: Initiation missteps
-- [ ] **Notes** - Why projects fail: Initiation missteps
+- [ ] **QUIZ** - Weekly challenge 3
 
 
 ## Done - Week 3
@@ -57,6 +54,9 @@ kanban-plugin: basic
 - [ ] **Notes** - Getting the most out of a RACI chart
 - [ ] **QUIZ** - Activity: Assign project roles and responsibilities in a RACI chart
 - [ ] **Notes** - Activity Exemplar: Assign project roles and responsibilities in a RACI chart
+- [ ] **Watch** - Why projects fail: Initiation missteps
+- [ ] **Notes** - Why projects fail: Initiation missteps
+- [ ] **Watch** - Wrap-up
 
 
 ## Done - Week 4
