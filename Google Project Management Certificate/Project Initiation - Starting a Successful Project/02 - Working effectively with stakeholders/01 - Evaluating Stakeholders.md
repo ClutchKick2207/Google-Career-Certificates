@@ -55,3 +55,24 @@
 			- Send daily end of day progress emails
 			- Think about the amount of project detail every stakeholder needs
 			- Daily, weekly, monthly check-ins
+
+## Prioritising stakeholders and generating their buy-in
+- **Conducting a stakeholder analysis**
+	- **Key Steps**
+		1.  **Make a list of all the stakeholders the project impacts.** 
+			- *Questions to ask* 
+				- Who is invested in the project? 
+				- Who is impacted by this project? 
+				- Who contributes to this project? 
+		2. **Determine the level of interest and influence for each stakeholder**
+			- Determine who your key stakeholders are. 
+			- The higher the level of interest and influence, the more important it will be to prioritize their needs throughout the project. 
+		3. Assess stakeholders’ ability to participate and then find ways to involve them. 
+			- **Active Stakeholders**
+				- More opinions and touchpoints
+			- **Passive Stakeholders**
+				- Preferring only high-level updates and not involved in the day-to-day
+			- Just because some stakeholders don't participate as directly, doesn't mean they aren't important
+			- Many different factors that can influence the stakeholder's ability to participate
+				- Physical distance from the project
+				- Existing workload
