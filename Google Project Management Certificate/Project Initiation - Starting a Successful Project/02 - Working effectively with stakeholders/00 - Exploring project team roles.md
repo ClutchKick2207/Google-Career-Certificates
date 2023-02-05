@@ -251,3 +251,7 @@
 		- Releases resources for the project manager
 		- Critical to communicate with the sponsor every step of the way
 		- Could be the CEO for example
+
+## Project Role Responsibilities
+- ![[Pasted image 20230205134826.png]]
+
