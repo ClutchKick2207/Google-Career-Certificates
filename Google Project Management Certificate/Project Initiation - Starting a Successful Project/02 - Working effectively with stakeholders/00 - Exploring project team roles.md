@@ -115,4 +115,83 @@
 
 ## Defining project roles
 - **Project roles**
-	- 
+	- Many moving parts
+	- Have confidence and trust that the people around you have the skills and motivation to do the work well
+	- Have clearly defined responsibilities for each role
+		- Makes sure everyone knows what they need to do
+	- Cannot complete the project on your own
+		- Make sure to have trust
+	- Project roles aren't always fixed
+		- Some team members may need to adapt, and take on multiple roles
+		- Most common in smaller companies, where you have to do multiple roles
+	- **Fixed Roles**
+		- ![[Pasted image 20230205131248.png]]
+		- **Project Sponsor**
+			- The person who's accountable for the project and who ensures the project delivers the agreed upon business benefits
+			- Vital leadership role
+			- Sometimes funds the project
+			- Communicate directly with managers and stakeholders
+		- **Team member**
+			- The people doing the work and making things happen
+		- **Users (customers)**
+			- The people who will get some value from a successfully landed project
+			- "Buyers" of the project
+			- **Customers vs Users**
+				- **Users**
+					- The people that use the product produced by your project
+				- **Customers**
+					- The people that will get some value from a successfully landed project
+			- **Example**
+				- Instant messaging platform
+				- Purchased by company ABC
+					- They are the customer
+				- Users are everyone within corporation ABC that will be using the software
+		- **Stakeholders**
+			-  Anyone involved in the project who has a vested interest in the project's success
+			- **Primary**
+				- Expected to benefit directly from the project's success
+			- **Secondary**
+				- Indirectly impacted by the project
+					- Could be contractors
+					- Members of a partner organisation
+			- Help define project goals and outcomes
+		- **Project Manager**
+			- The person who plans, organises, and oversees the whole project
+- **Office Green**
+	- Commercial plant company that does interior landscaping and plant design for offices and other commercial business
+	- New plant service
+		- SMART goal
+			- Roll out a new service to provide office plants to the top clients by the end of the year
+		- Plants need to be ordered and delivered every few days
+		- New clients will need to be familiarised with office green and it's procedures
+		- Ongoing updates for the app and website
+	- **Roles**
+		- **Project Sponsor**
+			- *Director of Product*
+				- Approves the project budget
+				- Makes sure everything stays aligned with the vision
+				- Inexpensive, and easy to maintain live plants are provided in order to improve the employee work experience
+		- **Team members**
+			- Cross-discipline team
+			- *Marketing team*
+				- Assigned some people to the team
+				- Need to tell people about this new service
+			- *Website designer, Landscape designer*
+				- Example of where a team member can play more than one role
+		- **Project Manager**
+			- *you :)*
+				- Managing information
+				- Managing Schedule
+				- Managing People
+		- **Customers**
+			- Buyers at offices
+				- Those who might be interested in Office Green services
+				- Such as office managers and procurement team
+		- **Users**
+			- Employees that work at the offices
+			- As they are the ones actually using the plants
+		- **Project Stakeholders**
+			- *Investors*
+				- Helping to fund the new service launch
+			- *Receptionist*
+				- Answer a lot of customer questions
