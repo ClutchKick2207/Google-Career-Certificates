@@ -97,4 +97,12 @@
 		- One a bit above is an example
 		- Here is another one
 		- ![[Pasted image 20230205215156.png]]
-		- 
+
+## Getting the most out of a RACI chart
+- **RACI charts**
+	- **Definition and Structure**
+		- Determining the graph allows for you to keep in control of the project
+		- ![[Pasted image 20230205224851.png]]
+	- **Workload balance**
+		- Try not to assign too many tasks to one stakeholder
+		- Good idea to go back and track how many "R"s are assigned to each stakeholder

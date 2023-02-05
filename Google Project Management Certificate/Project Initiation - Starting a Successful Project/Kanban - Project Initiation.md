@@ -10,10 +10,6 @@ kanban-plugin: basic
 
 ## Doing this session
 
-- [ ] **Notes** - Exemplar: Set project roles and responsibilities in a RACI chart
-- [ ] **Watch** - Certificate completers: Staying motivated with the program
-- [ ] **Read** - Getting the most out of a RACI chart
-- [ ] **Notes** - Getting the most out of a RACI chart
 - [ ] **QUIZ** - Activity: Assign project roles and responsibilities in a RACI chart
 - [ ] **Notes** - Activity Exemplar: Assign project roles and responsibilities in a RACI chart
 - [ ] **Watch** - Why projects fail: Initiation missteps
@@ -24,6 +20,8 @@ kanban-plugin: basic
 
 ## In progress
 
+- [ ] **Read** - Getting the most out of a RACI chart
+- [ ] **Notes** - Getting the most out of a RACI chart
 
 
 ## Done - Week 3
@@ -57,6 +55,8 @@ kanban-plugin: basic
 - [ ] **Read** - Building out a RACI chart
 - [ ] **Notes** - Building out a RACI chart
 - [ ] **QUIZ** - Set project roles and responsibilities in a RACI chart
+- [ ] **Notes** - Exemplar: Set project roles and responsibilities in a RACI chart
+- [ ] **Watch** - Certificate completers: Staying motivated with the program
 
 
 ## Done - Week 4
