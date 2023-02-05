@@ -53,3 +53,32 @@
 				- What resources do they have that can help project success?
 			- Consider each stakeholder’s involvement in the project, as well as any tools (software, hardware, etc.), knowledge, or relationships that could be helpful.
 				- Make note of these in the "Involvement" column
+		5. **Determine the impact on your stakeholders**
+			- *Questions*
+				- How will the project outcomes affect the needs of each stakeholder?
+				- Do you expect any resistance that could affect their buy-in?
+			- Record in the Impact column
+		6. **Determine each stakeholder’s level of power or influence**
+			- How much influence does each stakeholder have over the project?
+			- Consider information added in the "Involvement" and "Impact" columns
+			- Record each stakeholder's influence as
+				- **High** (H)
+				- **Medium** (M)
+				- **Low** (L)
+		7. **Determine each stakeholder’s level of interest**
+			- *Questions*
+				- How involved is each stakeholder in the project on a daily basis?
+				- How much will the project impact the needs of each stakeholder?
+			- Record each stakeholder's interest as
+				- **High** (H)
+				- **Medium** (M)
+				- **Low** (L)
+	- **Part 2**
+		1. **Place stakeholders in the power grid**
+			- Go to second slide of the PowerPoint
+			- Consider the power or influence ratings
+			- Place in the appropriate place in the grid
+			- High interest, High power stakeholders should go toward the upper-right corner
+			- Low interest, low power stakeholders go towards the lower-left corner
+		2. **Determine how to engage with stakeholders**
+			- think about how you should engage with the stakeholders
