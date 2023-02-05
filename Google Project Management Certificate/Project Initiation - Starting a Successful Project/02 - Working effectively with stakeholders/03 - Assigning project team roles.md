@@ -106,3 +106,10 @@
 	- **Workload balance**
 		- Try not to assign too many tasks to one stakeholder
 		- Good idea to go back and track how many "R"s are assigned to each stakeholder
+		- Helps you avoid overloading a single member in the team
+		- A RACI chart can help mitigate single points of failure (aka *Silos*, where knowledge and responsibility for a task falls on a single person)
+			- Therefore distribute tasks to avoid burnout
+		- Try not to rely just on top performers to keep the project moving forward
+			- If you find yourself doing so, step back and revaluate your team
+	- **Put your RACI into practice**
+		- 
