@@ -1,0 +1,525 @@
+### Where is this course?
+- [Google Career Certificates - Project Management](https://www.coursera.org/professional-certificates/google-project-management)
+
+## My Notes
+> My notes for this overall course will be laid out by module in the course, and have subheadings in order to differentiate between different topics/videos that are presented in the courses. I'll add in any extra notes/resources that I use where necessary, and hope it will be helpful for anyone looking!
+
+## Introduction: Working effectively with stakeholders
+> [!info] Stakeholders - Definition
+> People who are interested in and affected by the project's completion and success
+- **RACI charts**
+	- ![[Pasted image 20230204203350.png]]
+
+## Accessibility for project managers
+> [!info] Accessibility - Definition
+> Actively removing any barriers that might prevent persons with disabilities from being able to access technology, information, or experiences, and levelling the playing field so everyone has an equal chance of enjoying life and being successful
+- **Accessibility**
+	- Should be at any role of a company
+	- Over 1 billion people have a disability
+	- Diverse and intersectional
+		- Could be born with, or developed later on
+	- Could be permanent, to temporary, or situational
+		- Deaf, broken leg, using a remote in the dark (respectively)
+	- Communicate freely
+		- Make sure to ask, and have other people comfortable to ask what they need
+		- Try and deliver where you can
+	- As a project manager, you are responsible for making sure a group of people can come together to achieve a common goal using shared tools and systems
+	- Make sure the infrastructure and culture works for everyone
+
+## Choosing a project team
+- **Project Team**
+	- Consider and outline needs
+	- Choosing the right people for the team is a big task
+	- The people that do the actual work on the project
+	- **Key Questions**
+		- How many people do I need on my team each step of the way?
+		- Which team members do I need and when?
+		- Are those experts already busy on other projects?
+		- Who makes the final decisions on project resources?
+	- **Consider**
+		- **Required roles**
+			- Accountable for specific tasks in the project life cycle
+			- Home Construction Project Team
+				- Includes roles such as
+					- Architect
+					- Site manager
+					- Construction workers
+		- **Team size**
+			- Small projects, may only need 3-4 people to complete the project in time
+				- Might not be enough people to finish the deliverables on time
+			- Large projects may need dozens
+				- Communication can become difficult
+				- Someone can miss important details
+		- **Necessary Skills**
+			- To see who should do what
+			- Remember that skills can be taught
+				- Just because someone doesn't have the skills initially, it doesn't mean they wouldn't be a good fit for the team
+				- Could bring a positive attitude, and attention to detail
+				- Make sure they are trained in time so they don't cause any project delays
+		- **Availability**
+			- Maybe staffed on a different project
+			- Make sure that it is relevant for the staff member
+				- Such as giving them the visibility needed for a promotion
+		- **Motivation**
+			- Key ingredient to great work
+			- Pick people who are excited to get to work
+	- **Office Green**
+		- Ask about staff experience
+		- Availability
+		- Workspace
+		- Team member workload on other projects
+		- **Questions to ask**
+			- Who on the team has office landscaping experience?
+			- Who is local to the city where the launch will happen?
+			- Who will be fully dedicated to the project for the next 8 weeks?
+		- No exact formula
+			- Makes it tricky
+		- Look deeper into each part of the project
+
+## Review: The building blocks of a project dream team
+![[Pasted image 20230205130207.png]]
+- **Project Dream team**
+	- **Too big, too small, or just right?**
+		- Dependant on the size of the project
+		- Complex projects with large divisions of work will require larger project teams
+		- Simple projects with straightforward expectations may only require a few people on the project team
+	- **The right skills and abilities to fill the role**
+		- Multiple roles may be assigned to one person
+			- Especially in a smaller team
+		- May require those with necessary technical skills
+			- Specific skills for the task being performed
+			- *Office Green*
+				- Indoor landscaping design for the layout of plants
+				- Floral design of plant arranging
+		- Interpersonal skills are also highly valuable
+			- People skills/soft skills
+		- **Problem Solving skills**
+			- Being able to solve problems in a large complex project is vital
+			- Need to use their own judgement to get the job done
+		- **Leadership skills**
+			- Help team members navigate organisational boundaries and effectively communicate with stakeholders to generate buy-in
+	- **Who is available?**
+		- Especially true in Matrix organisations
+			- Team members being able to have multiple bosses
+		- May not be able to keep a team member for the entire project
+		- May not be able to pick the team members you want to for your project
+		- May have to use team members picked by the project sponsor
+		- Have a diverse team
+			- Allows for different viewpoints
+			- and different lines of thinking
+		- Dedicate time early on in the team to develop trust between the team members
+	- **What motivates them?**
+		- Make sure to take note of the motivation level of team members, and engage them to keep them motivated
+		- Keep the team engaged and keep them ready to overcome any obstacles that may occur
+		- Maintaining a positive outlook with the team can keep them motivated
+
+## Defining project roles
+- **Project roles**
+	- Many moving parts
+	- Have confidence and trust that the people around you have the skills and motivation to do the work well
+	- Have clearly defined responsibilities for each role
+		- Makes sure everyone knows what they need to do
+	- Cannot complete the project on your own
+		- Make sure to have trust
+	- Project roles aren't always fixed
+		- Some team members may need to adapt, and take on multiple roles
+		- Most common in smaller companies, where you have to do multiple roles
+	- **Fixed Roles**
+		- ![[Pasted image 20230205131248.png]]
+		- **Project Sponsor**
+			- The person who's accountable for the project and who ensures the project delivers the agreed upon business benefits
+			- Vital leadership role
+			- Sometimes funds the project
+			- Communicate directly with managers and stakeholders
+		- **Team member**
+			- The people doing the work and making things happen
+		- **Users (customers)**
+			- The people who will get some value from a successfully landed project
+			- "Buyers" of the project
+			- **Customers vs Users**
+				- **Users**
+					- The people that use the product produced by your project
+				- **Customers**
+					- The people that will get some value from a successfully landed project
+			- **Example**
+				- Instant messaging platform
+				- Purchased by company ABC
+					- They are the customer
+				- Users are everyone within corporation ABC that will be using the software
+		- **Stakeholders**
+			-  Anyone involved in the project who has a vested interest in the project's success
+			- **Primary**
+				- Expected to benefit directly from the project's success
+			- **Secondary**
+				- Indirectly impacted by the project
+					- Could be contractors
+					- Members of a partner organisation
+			- Help define project goals and outcomes
+		- **Project Manager**
+			- The person who plans, organises, and oversees the whole project
+- **Office Green**
+	- Commercial plant company that does interior landscaping and plant design for offices and other commercial business
+	- New plant service
+		- SMART goal
+			- Roll out a new service to provide office plants to the top clients by the end of the year
+		- Plants need to be ordered and delivered every few days
+		- New clients will need to be familiarised with office green and it's procedures
+		- Ongoing updates for the app and website
+	- **Roles**
+		- **Project Sponsor**
+			- *Director of Product*
+				- Approves the project budget
+				- Makes sure everything stays aligned with the vision
+				- Inexpensive, and easy to maintain live plants are provided in order to improve the employee work experience
+		- **Team members**
+			- Cross-discipline team
+			- *Marketing team*
+				- Assigned some people to the team
+				- Need to tell people about this new service
+			- *Website designer, Landscape designer*
+				- Example of where a team member can play more than one role
+		- **Project Manager**
+			- *you :)*
+				- Managing information
+				- Managing Schedule
+				- Managing People
+		- **Customers**
+			- Buyers at offices
+				- Those who might be interested in Office Green services
+				- Such as office managers and procurement team
+		- **Users**
+			- Employees that work at the offices
+			- As they are the ones actually using the plants
+		- **Project Stakeholders**
+			- *Investors*
+				- Helping to fund the new service launch
+			- *Receptionist*
+				- Answer a lot of customer questions
+
+## Essential project roles
+- **Project Roles**
+	- **Project Manager**
+		- ![[Pasted image 20230205133502.png]]
+		- Responsible for the overall success of the team and project
+		- Paying close attention to team dynamics is essential
+		- *Techniques used*
+			- Team building techniques
+			- Motivation
+			- Influencing
+			- Decision-making
+			- Coaching skills
+		- *Integrating project work*
+			- Developing project management plan
+			- Directing the work
+			- Documenting reports
+			- Controlling change
+			- Monitoring quality
+		- *Responsible for*
+			- Balancing the scope
+			- Balancing the schedule
+			- Balancing cost of the project
+				- All the above done by managing engagement with stakeholders
+		- *Managing stakeholders*
+			- Strong communication skills
+			- Political and cultural awareness
+			- Negotiation
+			- Trust-building
+			- Conflict management skills
+	- **Stakeholders**
+		- **Primary Stakeholders**
+			- Key stakeholders
+			- Directly affected by the outcome of the project
+			- *Includes*
+				- Team members
+				- Senior leaders
+				- Customers
+		- **Secondary Stakeholders**
+			- Indirectly affected by the outcome of the project
+			- *Includes*
+				- Project's point of contact in legal
+			- Although the project outcome may not affect them directly, the project itself would impact their work when they process the contract
+	- **Project team members**
+		- Considered to be primary stakeholders
+			- As they play a crucial role in getting the job done
+		- Team members will vary depending on the type, complexity, and size of the project
+		- Choosing team members with the right technical skills and interpersonal skills will be valuable as you work to meet your project goals
+		- If you are not able to select the team, build trust and create harmony within the team
+	- **Sponsor**
+		- Primary stakeholder
+		- Initiates the project, and is responsible for presenting a business case
+		- Signs the project charter
+		- Releases resources for the project manager
+		- Critical to communicate with the sponsor every step of the way
+		- Could be the CEO for example
+
+## Project Role Responsibilities
+- ![[Pasted image 20230205134826.png]]
+
+## Completing a stakeholder analysis
+> [!info] Stakeholder buy-in - Definition
+> The process of involving these people in decision making to hopefully reach a broader consensus  on the organisation's future
+- **Stakeholder Analysis**
+	- **Primary Stakeholders**
+		- People who will benefit directly from the project's success
+	- **Secondary Stakeholders**
+		- People who are indirectly impacted by the project's success
+	- Helps you see all the opportunities for success, and the risks
+	- Allows for you to see which stakeholders are taking on which responsibilites
+	- Helps include the right people in the important conversations
+	- *3 key steps*
+		- Make a list of all the stakeholders the project impacts
+		- Determine the level of interest and influence for each stakeholder
+			- **Influence**
+				- Measures how much power a stakeholder has and how much this stakeholder's actions affect the project outcome
+			- **Interest**
+				- How much are the needs of the stakeholder affected by the project operations and outcomes?
+		- Assess stakeholder's ability to participate and then find ways to involve them
+	- **Power Grid**
+		- ![[Pasted image 20230205150811.png]]
+		- 2x2 grid
+		- Assign each stakeholder's level of importance to the project
+			- Measuring their influence and interest
+		- The higher their level of influence and interest, the more important
+			- Without their support, will probably not be successful
+			- **Key stakeholders**
+				- Closely partner with them
+		- Everyone gets a spot in the grid
+		- Look above at the diagram, and treat as listed
+		- **Template**
+			- ![[Pasted image 20230205150853.png]]
+		- Different ways to involve stakeholders
+			- Meet with some stakeholders every day
+			- Some just periodic emails with updates
+		- **Stakeholder buy-in**
+			- Pay particular attention to high impact stakeholders
+				- Keep them in the loop
+				- Explain to them how this project will help them achieve their goals
+				- Have their support later on when any issues come up
+		- **Communicating with stakeholders**
+			- If you have 1 main stakeholder
+				- Likely to be highly important and influential
+				- Needs constant communication
+			- If you have numerous stakeholders
+				- Not as involved in the day-to-day tasks
+			- Overcommunicate early on so stakeholders can make decisions with as much information as possible
+			- Send daily end of day progress emails
+			- Think about the amount of project detail every stakeholder needs
+			- Daily, weekly, monthly check-ins
+
+## Prioritising stakeholders and generating their buy-in
+- **Conducting a stakeholder analysis**
+	- **Key Steps**
+		1.  **Make a list of all the stakeholders the project impacts.** 
+			- *Questions to ask* 
+				- Who is invested in the project? 
+				- Who is impacted by this project? 
+				- Who contributes to this project? 
+		2. **Determine the level of interest and influence for each stakeholder**
+			- Determine who your key stakeholders are. 
+			- The higher the level of interest and influence, the more important it will be to prioritize their needs throughout the project. 
+		3. **Assess stakeholders’ ability to participate and then find ways to involve them.** 
+			- **Active Stakeholders**
+				- More opinions and touchpoints
+			- **Passive Stakeholders**
+				- Preferring only high-level updates and not involved in the day-to-day
+			- Just because some stakeholders don't participate as directly, doesn't mean they aren't important
+			- Many different factors that can influence the stakeholder's ability to participate
+				- Physical distance from the project
+				- Existing workload
+	- **Steering committee**
+		- A collection of key stakeholders who have a high level of power and interest in a project
+		- Can influence multiple departments within an organisation
+			- Potential to release a greater number of resources to the project manager
+	- **Visualising Analysis**
+		- **Power grid**
+			- ![[Pasted image 20230205154232.png]]
+			- Shows stakeholder interest in the project versus their influence over the project
+			- Allows for evaluating how to manage their stakeholders
+			- Used to determine the appropriate level of engagement required by the project team to gain the stakeholder's buy-in and trust
+			- Make sure to take into account each individual project, as they all will be different
+	- **Generating stakeholder buy-in**
+		- Make decisions on whose buy-in is absolutely necessary for success, whose requirements deserve the most attention, and what level of communication each stakeholder will require
+		- **Tips**
+			- Clearly mapping the work of the project to the goals of the stakeholder
+			- Describing how the project aligns with the goals of the stakeholder's department or team
+			- Listening to feedback from the stakeholder and finding ways to incorporate their feedback into the project's charter where appropriate
+	- **Optional Reading**
+		- [We Asked the Project Management Community: What Steps Do You Take To Identify and Prioritize All Stakeholders at the Start of a Project? (pmi.org)](https://www.pmi.org/learning/library/identify-prioritize-stakeholders-11408)
+
+## Stakeholder Interviews
+- **Suggested Questions**
+	- What are your most important priorities/goals?
+	-   How will this initiative/project support you and your most important priorities?
+	-   What role would you like to play within this initiative/project?
+	-   Here’s how I plan to keep people informed; does that work for you?
+	-   What can I clarify for you?
+	-   What are your expectations? What would you like for the project to accomplish?
+	-   What would success look like for you?
+	-   Who else do you recommend I reach out to about this initiative?
+	-   What information or insights do you have that might be challenging for me to find?
+	-   Where do you see me getting support for this initiative? Facing resistance?
+	-   What additional thoughts/questions do you have?
+
+## Elements of a RACI chart
+> [!info] RACI Chart - Definition
+> Helps define roles and responsibilities for individuals or teams to ensure work gets done efficiently
+- **RACI chart**
+	- ![[Pasted image 20230205213736.png]]
+	- **RACI Chart principles**
+		- **Responsible**
+			- Those doing the work to complete the task
+		- **Accountable**
+			- Those making sure the work gets done
+		- **Consulted**
+			- Those giving feedback, like subject matter experts or decision makers
+		- **Informed**
+			- Those just needing to know the final decisions or that a task is complete
+	- **Role confusion**
+		- *Unbalanced workloads*
+			- Some people might be doing more or less work compared to other people on the team
+		- *Unclear hierarchy*
+			- People aren't sure who to seek help from if a task doesn't get done
+		- *Unclear ownership decisions*
+			- Unsure who makes the final call on a project
+		- *Overlapping work*
+			- Multiple people are responsible for the same work
+		- *Excessive communication*
+			- Too much can make things more complicated
+			- Cause information overload
+				- Not too sure what to pay attention to
+		- RACI can help resolve/avoid all this
+
+## Building out a RACI chart
+- **RACI Chart**
+	- **Elements of a RACI chart**
+		- **Responsible**
+			- *Who gets the work done*
+			- Those who are actually doing the work to complete the task
+			- At least one is needed
+			- Try and limit the amount of people you have assigned to "responsible"
+				- Although you may need more than one
+			- *Questions*
+				- What department does the work fall under?
+				- Who will perform the work?
+			- *Office Green Example*
+				- Task is to develop price points
+				- Therefore will list Financial Analyst
+				- ![[Pasted image 20230205215505.png]]
+		- **Accountable**
+			- *Who makes sure the work is done*
+			- Only have one individual accountable for each task
+			- Helps clarify ownership for the task
+			- Ultimately has the authority to approve the deliverable to the responsible party
+			- *Questions*
+				- Who will delegate the task to be completed?
+				- Who will delegate the task to be completed?
+			- May encounter a situation where the responsible party is accountable
+				- Try and avoid this where possible to avoid confusion of ownership
+			- *Office Green Example*
+				- Head of finance will be assigned here
+				- Has to make sure the project stays on budget and creates a profit anyways, so needs to approve the Financial Analyst's work
+				- ![[Pasted image 20230205215751.png]]
+		- **Consulted**
+			- *Who gives input or feedback on work*
+			- Have useful information to help complete the task
+			- No maximum or minimum amount of people that can be here
+			- Important that each person has a reason for being there
+			- *Questions*
+				- Who will the task impact?
+				- Who will have input or feedback for the responsible person to help the work be completed?
+				- Who will have input or feedback for the responsible person to help the work be completed?
+			- Consulted people will be in frequent, two-way communication with the responsible party
+				- Make sure that the right people are in this role to help accomplish the goal efficiently and correctly
+			- *Office Green example*
+				- Have the director of product be consulted
+				- As they oversee all product offerings
+					- Have knowledge about the product, and any potential changes, and how this can affect price points
+				- ![[Pasted image 20230205220213.png]]
+		- **Informed**
+			- *Who needs to know the outcome*
+			- Just need to know the final decisions, and when the item is completed
+			- Common to have many people assigned to this role
+			- Will not be asked for feedback
+				- so make sure that anyone here only requires status updates and does not need to provide any direct feedback for the completion of the task
+			- As a lot of people may be in this section, make sure it is not labour intensive to get  the information out
+				- Something as simple as a read only version of the planning document is good
+			- *Questions*
+				- Who cares about this task’s completion?
+				- Who will be affected by the outcome?
+			- *Office Green*
+				- Let the sales team know what has been happening, and also keep them informed on any progress
+				- ![[Pasted image 20230205220509.png]]
+	- **RACI chart example**
+		- One a bit above is an example
+		- Here is another one
+		- ![[Pasted image 20230205215156.png]]
+
+## Getting the most out of a RACI chart
+- **RACI charts**
+	- **Definition and Structure**
+		- Determining the graph allows for you to keep in control of the project
+		- ![[Pasted image 20230205224851.png]]
+	- **Workload balance**
+		- Try not to assign too many tasks to one stakeholder
+		- Good idea to go back and track how many "R"s are assigned to each stakeholder
+		- Helps you avoid overloading a single member in the team
+		- A RACI chart can help mitigate single points of failure (aka *Silos*, where knowledge and responsibility for a task falls on a single person)
+			- Therefore distribute tasks to avoid burnout
+		- Try not to rely just on top performers to keep the project moving forward
+			- If you find yourself doing so, step back and revaluate your team
+	- **Put your RACI into practice**
+		- Share RACI with sponsors and stakeholders to get buy-in and it signed off
+		- When you get stakeholder buy-in, can set clear expectations for the team, and make sure everyone is aligned with their responsibilities
+		- Document your team and stakeholder's acknowledgement of expectations through the project charter, meeting notes and in the RACI
+		- Makes sure to continually check in with stakeholders and your team
+	- **When should you use a RACI chart?**
+		- Use it for larger, more complex projects
+		- Might just slow down smaller projects
+		- Projects which have a large amount of stakeholders would benefit
+		- Even if you don't use it, it allows for a much larger level of understanding
+			- Can help for a better project management experience
+
+## Why Projects fail: Initiation missteps
+- **Projects failing: Initiation Mistakes**
+	- ![[Pasted image 20230205232303.png]]
+	- **Unclear expectations**
+		- *Questions*
+			- What is the end goal?
+			- What are the expected deliverables and schedule?
+			- What is the budget?
+			- Who are the stakeholders?
+		- Not taking the time at the beginning of the project to answer these questions can bring headaches down the line
+	- **Unrealistic expectations**
+		- Although good to impress managers, try not to be too unreasonable from the start
+		- Give yourself enough time and resources to complete the task comfortably
+		- Understand the requirements before agreeing to any deadline
+		- Best practice is to not commit to any firm deadlines while initiating to avoid setting any unrealistic expectations
+		- Will have more information and will be able to better manage expectations in the planning phase
+	- **Miscommunication**
+		- Clear communication is key
+		- Make sure it is communicated in a timely manner
+		- Make sure it includes pertinent information
+			- Risks
+			- Decisions made
+			- Scope changes
+		- Make sure it is sent to the correct stakeholders
+		- Conduct a stakeholder analysis, and use a RACI chart
+		- Don't have to cater to everyone, but have to set clear expectations about how communication will occur
+		- Make sure to take some time to understand the communication needs of the team and stakeholders
+		- Set expectations for communications early on, so that everyone can have a clear understanding of how you will all communicate
+	- **Lack of resources**
+		- Resources include
+			- Team members
+			- Budget
+			- Materials
+		- Without proper planning, resources can be over-tasked or depleted
+		-  Have to account that staff can be juggling multiple things at the same time, and may not be able to dedicate their entire time to this one project
+		- Make sure to accurately calculate project expenses, and have some buffer room where possible
+	- **Scope Creep**
+		- Make sure that you know exactly what is and what isn't expected from the project's work and deliverables
+		- Defining scope helps identify any resources that are needed, any costs that can be associated with it, and the schedule
+		- Some projects fail due to the scope of the project growing too much
+		- Make sure that it is set very firmly, and meet with stakeholders to confirm exactly what is needed
+		- Make sure to know who has the authority to approve scope changes, and document everything
+	- **Extra reading**
+		- https://project-management.com/7-lessons-to-learn-from-a-failed-project/

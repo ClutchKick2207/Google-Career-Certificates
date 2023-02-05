@@ -22,36 +22,24 @@
             }
           },
           {
-            "id": "fc358477b4c102d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Google Project Management Certificate/Project Initiation - Starting a Successful Project/02 - Working effectively with stakeholders/03 - Assigning project team roles.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a4bd526b44ea55b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Google Project Management Certificate/Project Initiation - Starting a Successful Project/02 - Working effectively with stakeholders/004 - Activity - Set project roles.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "19f741f9b4079d17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Google Project Management Certificate/Project Initiation - Starting a Successful Project/02 - Working effectively with stakeholders/03 - Assigning project team roles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "facae34b76b65ce0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Google Project Management Certificate/Project Initiation - Starting a Successful Project/02 - Working effectively with stakeholders/06- Final notes (Unit 3).md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "367d79a0e9bc18a8",
@@ -156,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google Project Management Certificate/Project Initiation - Starting a Successful Project/02 - Working effectively with stakeholders/03 - Assigning project team roles.md",
+                "file": "Google Project Management Certificate/Project Initiation - Starting a Successful Project/02 - Working effectively with stakeholders/06- Final notes (Unit 3).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Google Project Management Certificate/Project Initiation - Starting a Successful Project/02 - Working effectively with stakeholders/03 - Assigning project team roles.md",
+                "file": "Google Project Management Certificate/Project Initiation - Starting a Successful Project/02 - Working effectively with stakeholders/06- Final notes (Unit 3).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Google Project Management Certificate/Project Initiation - Starting a Successful Project/02 - Working effectively with stakeholders/03 - Assigning project team roles.md"
+                "file": "Google Project Management Certificate/Project Initiation - Starting a Successful Project/02 - Working effectively with stakeholders/06- Final notes (Unit 3).md"
               }
             }
           },
@@ -227,17 +215,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "19f741f9b4079d17",
+  "active": "facae34b76b65ce0",
   "lastOpenFiles": [
+    "Google Project Management Certificate/Project Initiation - Starting a Successful Project/02 - Working effectively with stakeholders/03 - Assigning project team roles.md",
+    "Google Project Management Certificate/Project Initiation - Starting a Successful Project/02 - Working effectively with stakeholders/01 - Evaluating Stakeholders.md",
+    "Google Project Management Certificate/Project Initiation - Starting a Successful Project/02 - Working effectively with stakeholders/06- Final notes (Unit 3).md",
+    "Google Project Management Certificate/Project Initiation - Starting a Successful Project/02 - Working effectively with stakeholders/00 - Exploring project team roles.md",
     "Google Project Management Certificate/Project Initiation - Starting a Successful Project/02 - Working effectively with stakeholders/005 - Assign project roles.md",
     "Google Project Management Certificate/Project Initiation - Starting a Successful Project/02 - Working effectively with stakeholders/004 - Activity - Set project roles.md",
     "Google Project Management Certificate/Project Initiation - Starting a Successful Project/Kanban - Project Initiation.md",
-    "Google Project Management Certificate/Project Initiation - Starting a Successful Project/02 - Working effectively with stakeholders/03 - Assigning project team roles.md",
     "Google Project Management Certificate/Project Initiation - Starting a Successful Project/01 - Defining project goals, scope, and success criteria/002 - Activity - SMART project goals response.pdf",
     "Google Project Management Certificate/Note Template - Project Management.md",
-    "Google Project Management Certificate/Project Initiation - Starting a Successful Project/02 - Working effectively with stakeholders/002 - Activity - Stakeholder analysis and power grid.md",
-    "Google Project Management Certificate/Project Initiation - Starting a Successful Project/02 - Working effectively with stakeholders/01 - Evaluating Stakeholders.md",
-    "Google Project Management Certificate/Project Initiation - Starting a Successful Project/02 - Working effectively with stakeholders/00 - Exploring project team roles.md",
-    "Google Project Management Certificate/Project Initiation - Starting a Successful Project/01 - Defining project goals, scope, and success criteria/003 - Activity - Create OKRs.md"
+    "Google Project Management Certificate/Project Initiation - Starting a Successful Project/02 - Working effectively with stakeholders/002 - Activity - Stakeholder analysis and power grid.md"
   ]
 }
