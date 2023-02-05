@@ -65,8 +65,34 @@
 				- ![[Pasted image 20230205215751.png]]
 		- **Consulted**
 			- *Who gives input or feedback on work*
+			- Have useful information to help complete the task
+			- No maximum or minimum amount of people that can be here
+			- Important that each person has a reason for being there
+			- *Questions*
+				- Who will the task impact?
+				- Who will have input or feedback for the responsible person to help the work be completed?
+				- Who will have input or feedback for the responsible person to help the work be completed?
+			- Consulted people will be in frequent, two-way communication with the responsible party
+				- Make sure that the right people are in this role to help accomplish the goal efficiently and correctly
+			- *Office Green example*
+				- Have the director of product be consulted
+				- As they oversee all product offerings
+					- Have knowledge about the product, and any potential changes, and how this can affect price points
+				- ![[Pasted image 20230205220213.png]]
 		- **Informed**
-			- Who needs to know the outcome
+			- *Who needs to know the outcome*
+			- Just need to know the final decisions, and when the item is completed
+			- Common to have many people assigned to this role
+			- Will not be asked for feedback
+				- so make sure that anyone here only requires status updates and does not need to provide any direct feedback for the completion of the task
+			- As a lot of people may be in this section, make sure it is not labour intensive to get  the information out
+				- Something as simple as a read only version of the planning document is good
+			- *Questions*
+				- Who cares about this task’s completion?
+				- Who will be affected by the outcome?
+			- *Office Green*
+				- Let the sales team know what has been happening, and also keep them informed on any progress
+				- ![[Pasted image 20230205220509.png]]
 	- **RACI chart example**
 		- One a bit above is an example
 		- Here is another one
