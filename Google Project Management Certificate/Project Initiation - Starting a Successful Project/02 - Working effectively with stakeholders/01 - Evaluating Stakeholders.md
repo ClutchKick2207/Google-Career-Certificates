@@ -6,3 +6,38 @@
 
 
 ## Completing a stakeholder analysis
+> [!info] Stakeholder buy-in - Definition
+> The process of involving these people in decision making to hopefully reach a broader consensus  on the organisation's future
+- **Stakeholder Analysis**
+	- **Primary Stakeholders**
+		- People who will benefit directly from the project's success
+	- **Secondary Stakeholders**
+		- People who are indirectly impacted by the project's success
+	- Helps you see all the opportunities for success, and the risks
+	- Allows for you to see which stakeholders are taking on which responsibilites
+	- Helps include the right people in the important conversations
+	- *3 key steps*
+		- Make a list of all the stakeholders the project impacts
+		- Determine the level of interest and influence for each stakeholder
+			- **Influence**
+				- Measures how much power a stakeholder has and how much this stakeholder's actions affect the project outcome
+			- **Interest**
+				- How much are the needs of the stakeholder affected by the project operations and outcomes?
+		- Assess stakeholder's ability to participate and then find ways to involve them
+	- **Power Grid**
+		- ![[Pasted image 20230205150811.png]]
+		- 2x2 grid
+		- Assign each stakeholder's level of importance to the project
+			- Measuring their influence and interest
+		- The higher their level of influence and interest, the more important
+			- Without their support, will probably not be successful
+			- **Key stakeholders**
+				- Closely partner with them
+		- Everyone gets a spot in the grid
+		- Look above at the diagram, and treat as listed
+		- **Template**
+			- ![[Pasted image 20230205150853.png]]
+		- Different ways to involve stakeholders
+			- Meet with some stakeholders every day
+			- Some just periodic emails with updates
+		- 
