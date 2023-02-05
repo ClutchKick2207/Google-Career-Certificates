@@ -1,0 +1,72 @@
+## Activity: Assign project roles and responsibilities in a RACI chart
+- **Activity Overview**
+	- In this activity, you will apply your knowledge of RACI charts to a new phase of project planning. 
+	- You will analyze a scenario about the execution phase of the Plant Pals project. 
+	- Then you will use a RACI chart to determine each stakeholder’s relationship to project tasks.
+- **Scenario**
+	- As the lead project manager for the Plant Pals project, you’re managing the launch of this new service. 
+	- Previously, you worked with your project team as they developed a marketing plan, wrote promotional copy, designed marketing assets, and created a sales plan for customer outreach.
+	- Now you are gathering a new team to design and develop the Plant Pals landing page. 
+	- When potential customers click on Plant Pals advertisements, the landing page is the first part of the Office Green website they will see. 
+	- The team members you need to build the landing page include:
+		- **Web Manager** 
+			- Makes final decisions about new site features and content changes. 
+			- Signs off on the landing page design and launch plans. 
+			- Coordinates maintenance and management tasks to keep the page operating smoothly. 
+		- **Graphic Designer** 
+			- Creates and chooses images and typefaces for the landing page and submits them to the Web Designer for approval. 
+			- They also provide feedback on the landing page design and mockup. 
+		- **Web Developer** 
+			- Supports the product team by writing the code that powers the site. 
+			- They give feedback to the Web Designer on the landing page mockup. 
+			- The Web Developer also helps set quality standards for the project.
+		- **Quality Assurance Tester** 
+			- Reviews system specifications and runs quality tests for the new landing page. 
+			- They run test scripts and review results, create reports, and document technical issues. 
+			- These tests identify problems that the team can then resolve before launch. 
+		- **Content Writer** 
+			- Creates the written content that explains how Plant Pals works and helps potential customers sign up for the service. 
+			- They give feedback to the Web Designer on the landing page mockup.
+		- **Web Designer** 
+			- Creates the landing page design, determining how the page looks and how customers interact with it. 
+			- The Web Designer connects the creative and technical elements of the project, ensuring that the website is both attractive and functional. 
+			- They report to the Web Manager, who makes final decisions on new site features.
+	- To build and launch a landing page for Plant Pals, the team needs to accomplish the following tasks:
+		1. Design a landing page 
+		2.  Create a landing page mockup
+		3. Design image assets
+		4. Write content
+		5. Code the landing page
+		6. Test the landing page
+- **Instructions**
+	-  **Step 2: Add tasks to the RACI chart**
+		- Add the four tasks from the scenario to your RACI chart template under the **Task/Deliverable** heading. 
+		- Replace “Task/Deliverable” with the name of each task.
+	- **Step 3: Add team members to the RACI chart**
+		- Add your team members to the template. 
+		- Replace “Role A” with “Web Manager,” and so on.
+	- **Step 4:** **Assign letters in the RACI chart**
+		- For each task, assign the letters **R**, **A**, **C**, and **I** to the team members involved.
+		- Consult the descriptions below to determine how your team members relate to the tasks:
+			- **Responsible** 
+				- *Who is responsible for completing this task?* 
+				- *Questions*
+					- Which department manages the work?
+					- Who should perform the work?
+			- **Accountable** 
+				- *Who is accountable if the task isn’t completed?* 
+				- Remember that only one person should be accountable for each task or deliverable. 
+				- *Questions*
+					- Who might delegate the task to another team member?
+					- Who makes final decisions about the task?
+					- Who should review the work to confirm it is complete?
+			- **Consulted**
+				- *Who should be consulted for their insights, expertise, or strong opinions on the task?* 
+				- *Questions*
+					- Who can give feedback to responsible individuals to help them complete tasks? 
+					- Who are the subject matter experts (SMEs) for the task?
+			- **Informed**
+				- *Who should be kept informed about task progress or project decisions?*
+				-  *Questions*
+					- Who is invested in task completion but not directly involved in the work? 
+					- Who is affected by the project outcome?
