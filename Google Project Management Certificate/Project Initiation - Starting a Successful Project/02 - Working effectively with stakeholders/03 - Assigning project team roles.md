@@ -122,3 +122,40 @@
 		- Projects which have a large amount of stakeholders would benefit
 		- Even if you don't use it, it allows for a much larger level of understanding
 			- Can help for a better project management experience
+
+## Why Projects fail: Initiation missteps
+- **Projects failing: Initiation Mistakes**
+	- ![[Pasted image 20230205232303.png]]
+	- **Unclear expectations**
+		- *Questions*
+			- What is the end goal?
+			- What are the expected deliverables and schedule?
+			- What is the budget?
+			- Who are the stakeholders?
+		- Not taking the time at the beginning of the project to answer these questions can bring headaches down the line
+	- **Unrealistic expectations**
+		- Although good to impress managers, try not to be too unreasonable from the start
+		- Give yourself enough time and resources to complete the task comfortably
+		- Understand the requirements before agreeing to any deadline
+		- Best practice is to not commit to any firm deadlines while initiating to avoid setting any unrealistic expectations
+		- Will have more information and will be able to better manage expectations in the planning phase
+	- **Miscommunication**
+		- Clear communication is key
+		- Make sure it is communicated in a timely manner
+		- Make sure it includes pertinent information
+			- Risks
+			- Decisions made
+			- Scope changes
+		- Make sure it is sent to the correct stakeholders
+		- Conduct a stakeholder analysis, and use a RACI chart
+		- Don't have to cater to everyone, but have to set clear expectations about how communication will occur
+		- Make sure to take some time to understand the communication needs of the team and stakeholders
+		- Set expectations for communications early on, so that everyone can have a clear understanding of how you will all communicate
+	- **Lack of resources**
+		- Resources include
+			- Team members
+			- Budget
+			- Materials
+		- Without proper planning, resources can be over-tasked or depleted
+		-  Have to account that staff can be juggling multiple things at the same time, and may not be able to dedicate their entire time to this one project
+		- Make sure to accurately calculate project expenses, and have some buffer room where possible
