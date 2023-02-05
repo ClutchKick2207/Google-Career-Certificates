@@ -239,4 +239,15 @@
 				- Project's point of contact in legal
 			- Although the project outcome may not affect them directly, the project itself would impact their work when they process the contract
 	- **Project team members**
-		- 
+		- Considered to be primary stakeholders
+			- As they play a crucial role in getting the job done
+		- Team members will vary depending on the type, complexity, and size of the project
+		- Choosing team members with the right technical skills and interpersonal skills will be valuable as you work to meet your project goals
+		- If you are not able to select the team, build trust and create harmony within the team
+	- **Sponsor**
+		- Primary stakeholder
+		- Initiates the project, and is responsible for presenting a business case
+		- Signs the project charter
+		- Releases resources for the project manager
+		- Critical to communicate with the sponsor every step of the way
+		- Could be the CEO for example
