@@ -25,7 +25,6 @@ kanban-plugin: basic
 
 ## Doing this session
 
-- [ ] **Participate** - Project role responsibilities
 - [ ] **Notes** - Project role responsibilities
 - [ ] **Watch** - Completing a stakeholder analysis
 - [ ] **Notes** - Completing a stakeholder analysis
@@ -40,7 +39,6 @@ kanban-plugin: basic
 
 ## In progress
 
-- [ ] **Watch** - John: The importance of a project team
 
 
 ## Done - Week 3
@@ -57,6 +55,8 @@ kanban-plugin: basic
 - [ ] **Notes** - Defining project roles
 - [ ] **Read** - Essential project roles
 - [ ] **Notes** - Essential project roles
+- [ ] **Watch** - John: The importance of a project team
+- [ ] **Participate** - Project role responsibilities
 
 
 ## Done - Week 4
