@@ -195,3 +195,48 @@
 				- Helping to fund the new service launch
 			- *Receptionist*
 				- Answer a lot of customer questions
+
+## Essential project roles
+- **Project Roles**
+	- **Project Manager**
+		- ![[Pasted image 20230205133502.png]]
+		- Responsible for the overall success of the team and project
+		- Paying close attention to team dynamics is essential
+		- *Techniques used*
+			- Team building techniques
+			- Motivation
+			- Influencing
+			- Decision-making
+			- Coaching skills
+		- *Integrating project work*
+			- Developing project management plan
+			- Directing the work
+			- Documenting reports
+			- Controlling change
+			- Monitoring quality
+		- *Responsible for*
+			- Balancing the scope
+			- Balancing the schedule
+			- Balancing cost of the project
+				- All the above done by managing engagement with stakeholders
+		- *Managing stakeholders*
+			- Strong communication skills
+			- Political and cultural awareness
+			- Negotiation
+			- Trust-building
+			- Conflict management skills
+	- **Stakeholders**
+		- **Primary Stakeholders**
+			- Key stakeholders
+			- Directly affected by the outcome of the project
+			- *Includes*
+				- Team members
+				- Senior leaders
+				- Customers
+		- **Secondary Stakeholders**
+			- Indirectly affected by the outcome of the project
+			- *Includes*
+				- Project's point of contact in legal
+			- Although the project outcome may not affect them directly, the project itself would impact their work when they process the contract
+	- **Project team members**
+		- 

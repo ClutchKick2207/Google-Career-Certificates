@@ -25,8 +25,6 @@ kanban-plugin: basic
 
 ## Doing this session
 
-- [ ] **Read** - Essential project roles
-- [ ] **Notes** - Essential project roles
 - [ ] **Watch** - John: The importance of a project team
 - [ ] **Participate** - Project role responsibilities
 - [ ] **Notes** - Project role responsibilities
@@ -43,8 +41,6 @@ kanban-plugin: basic
 
 ## In progress
 
-- [ ] **Watch** - Defining project roles
-- [ ] **Notes** - Defining project roles
 
 
 ## Done - Week 3
@@ -57,6 +53,10 @@ kanban-plugin: basic
 - [ ] **Notes** - Choosing a project team
 - [ ] **Read** - Review: The building blocks of a project dream team
 - [ ] **Notes** - Review: The building blocks of a project dream team
+- [ ] **Watch** - Defining project roles
+- [ ] **Notes** - Defining project roles
+- [ ] **Read** - Essential project roles
+- [ ] **Notes** - Essential project roles
 
 
 ## Done - Week 4
