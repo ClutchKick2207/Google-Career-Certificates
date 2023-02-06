@@ -22,44 +22,15 @@
             }
           },
           {
-            "id": "19f741f9b4079d17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Google Project Management Certificate/Project Initiation - Starting a Successful Project/02 - Working effectively with stakeholders/03 - Assigning project team roles.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "facae34b76b65ce0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Google Project Management Certificate/Project Initiation - Starting a Successful Project/02 - Working effectively with stakeholders/06- Final notes (Unit 3).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "016448a86723b8fc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "kanban",
+              "state": {
+                "file": "Google Project Management Certificate/Project Initiation - Starting a Successful Project/Kanban - Project Initiation.md"
+              }
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "475fa44ec8b3086a",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "7082cbb752730a84",
             "type": "leaf",
@@ -72,7 +43,8 @@
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b06ea18f5787de9e",
@@ -210,17 +181,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7082cbb752730a84",
+  "active": "016448a86723b8fc",
   "lastOpenFiles": [
-    "Google Project Management Certificate/Project Initiation - Starting a Successful Project/02 - Working effectively with stakeholders/06- Final notes (Unit 3).md",
+    "Google Project Management Certificate/Note Template - Project Management.md",
     "Google Project Management Certificate/Project Initiation - Starting a Successful Project/02 - Working effectively with stakeholders/03 - Assigning project team roles.md",
     "Google Project Management Certificate/Project Initiation - Starting a Successful Project/Kanban - Project Initiation.md",
+    "Google Project Management Certificate/Project Initiation - Starting a Successful Project/02 - Working effectively with stakeholders/06- Final notes (Unit 3).md",
     "Google Project Management Certificate/Project Initiation - Starting a Successful Project/02 - Working effectively with stakeholders/01 - Evaluating Stakeholders.md",
     "Google Project Management Certificate/Project Initiation - Starting a Successful Project/02 - Working effectively with stakeholders/00 - Exploring project team roles.md",
     "Google Project Management Certificate/Project Initiation - Starting a Successful Project/02 - Working effectively with stakeholders/005 - Assign project roles.md",
     "Google Project Management Certificate/Project Initiation - Starting a Successful Project/02 - Working effectively with stakeholders/004 - Activity - Set project roles.md",
     "Google Project Management Certificate/Project Initiation - Starting a Successful Project/01 - Defining project goals, scope, and success criteria/002 - Activity - SMART project goals response.pdf",
-    "Google Project Management Certificate/Note Template - Project Management.md",
     "Google Project Management Certificate/Project Initiation - Starting a Successful Project/02 - Working effectively with stakeholders/002 - Activity - Stakeholder analysis and power grid.md"
   ]
 }

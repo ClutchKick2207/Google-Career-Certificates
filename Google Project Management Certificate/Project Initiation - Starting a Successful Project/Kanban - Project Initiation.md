@@ -6,6 +6,41 @@ kanban-plugin: basic
 
 ## To-Do
 
+- [ ] **Watch** - Introduction: Ultilising resources and tools for project success
+- [ ] **Watch** - Essential project resources
+- [ ] **Notes** - Essential project resources
+- [ ] **Read** - Managing resources to get the job done
+- [ ] **Notes** - Managing resources to get the job done
+- [ ] **Watch** - The value of project documentation
+- [ ] **Notes** - The value of project documentation
+- [ ] **Watch** - Project charters: Elements and format
+- [ ] **Notes** - Project charters: Elements and format
+- [ ] **Watch** - Developing a project charter
+- [ ] **Notes** - Developing a project charter
+- [ ] **ASSESMENT** - Activity: *Create a project charter*
+- [ ] **ASSESMENT** - Activity: Create a project charter (marking)
+- [ ] **Watch** - Utilising tools for effective project management
+- [ ] **Notes** - Utilising tools for effective project management
+- [ ] **Read** - Introducing new tools to a team
+- [ ] **Notes** - Introducing new tools to a team
+- [ ] **Watch** - Exploring types of project management tools
+- [ ] **Notes** - Exploring types of project management tools
+- [ ] **QUIZ** - Test your knowledge: Evaluating tools
+- [ ] **Watch** - Common project management tools
+- [ ] **Notes** - Common project management tools
+- [ ] **Read** - Using Google Sheets for project management
+- [ ] **Notes** - Using Google Sheets for project management
+- [ ] **Read** - Demonstrating your knowledge of project management tools
+- [ ] **Notes** - Demonstrating your knowledge of project management tools
+- [ ] **Read** - Build a project management tool tracker
+- [ ] **Notes** - Build a project management tool tracker
+- [ ] **QUIZ** - Reflection: Project tools
+- [ ] **Watch** - Amar: Tools are our best friends
+- [ ] **QUIZ** - Weekly challenge 4
+- [ ] **Watch** - Course wrap-up
+- [ ] **Read** - Course 2 glossary
+- [ ] **Notes** - Course 2 glossary
+- [ ] **Read** - Get started on Course 3
 
 
 ## Doing this session
