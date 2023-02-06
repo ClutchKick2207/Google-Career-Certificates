@@ -20,17 +20,13 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "016448a86723b8fc",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Google Project Management Certificate/Project Initiation - Starting a Successful Project/Kanban - Project Initiation.md"
-              }
-            }
-          },
+          }
+        ]
+      },
+      {
+        "id": "9f082f896868aaf0",
+        "type": "tabs",
+        "children": [
           {
             "id": "7082cbb752730a84",
             "type": "leaf",
@@ -43,8 +39,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,7 +176,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "016448a86723b8fc",
+  "active": "7082cbb752730a84",
   "lastOpenFiles": [
     "Google Project Management Certificate/Note Template - Project Management.md",
     "Google Project Management Certificate/Project Initiation - Starting a Successful Project/02 - Working effectively with stakeholders/03 - Assigning project team roles.md",

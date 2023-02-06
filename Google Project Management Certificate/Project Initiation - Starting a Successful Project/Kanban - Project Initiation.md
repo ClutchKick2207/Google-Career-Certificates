@@ -6,17 +6,6 @@ kanban-plugin: basic
 
 ## To-Do
 
-- [ ] **Watch** - Introduction: Ultilising resources and tools for project success
-- [ ] **Watch** - Essential project resources
-- [ ] **Notes** - Essential project resources
-- [ ] **Read** - Managing resources to get the job done
-- [ ] **Notes** - Managing resources to get the job done
-- [ ] **Watch** - The value of project documentation
-- [ ] **Notes** - The value of project documentation
-- [ ] **Watch** - Project charters: Elements and format
-- [ ] **Notes** - Project charters: Elements and format
-- [ ] **Watch** - Developing a project charter
-- [ ] **Notes** - Developing a project charter
 - [ ] **ASSESMENT** - Activity: *Create a project charter*
 - [ ] **ASSESMENT** - Activity: Create a project charter (marking)
 - [ ] **Watch** - Utilising tools for effective project management
@@ -45,6 +34,17 @@ kanban-plugin: basic
 
 ## Doing this session
 
+- [ ] **Watch** - Introduction: Ultilising resources and tools for project success
+- [ ] **Watch** - Essential project resources
+- [ ] **Notes** - Essential project resources
+- [ ] **Read** - Managing resources to get the job done
+- [ ] **Notes** - Managing resources to get the job done
+- [ ] **Watch** - The value of project documentation
+- [ ] **Notes** - The value of project documentation
+- [ ] **Watch** - Project charters: Elements and format
+- [ ] **Notes** - Project charters: Elements and format
+- [ ] **Watch** - Developing a project charter
+- [ ] **Notes** - Developing a project charter
 
 
 ## In progress
