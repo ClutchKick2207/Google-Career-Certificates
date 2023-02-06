@@ -159,7 +159,6 @@ kanban-plugin: basic
 - [ ] **Read** - Helpful resources to get started
 - [ ] **Notes** - Helpful resources to get started
 - [ ] **Participate** - Meet and greet
-- [ ] 
 - [ ] **Watch** - Why is project initiation essential?
 - [ ] **Notes** - Why is project initiation essential?
 - [ ] **Watch** - Key components of project initiation
