@@ -53,3 +53,5 @@
 				- Build a realistic budget
 				- Who is working with you?
 					- List of people and external vendors that will complete all the tasks
+
+## Managing resources to get the job done
