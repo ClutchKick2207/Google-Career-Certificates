@@ -55,3 +55,22 @@
 					- List of people and external vendors that will complete all the tasks
 
 ## Managing resources to get the job done
+![[Pasted image 20230209092903.png]]
+- **Managing resources**
+	- **Budget**
+		- *Team*
+			- The cost of people performing the work
+		- *Services*
+			- Any outside vendors helping your project
+		- *Materials*
+			- Any tangible items purchased to complete the project
+	- **People**
+		- Rely on a strong team of people with a variety of skill sets
+		- Commitment and buy-in on the number of hours it will take for your resources to complete their tasks
+		- Find the best partners who are aligned to the goals of the project
+			- Or who are most interested in the project's work
+	- **Materials**
+		- Different on any project
+		- Can be tangible or intangible
+			- i.e. software or hardware
+		- Account for all of this in your budget
