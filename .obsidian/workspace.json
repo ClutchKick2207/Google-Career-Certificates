@@ -20,13 +20,7 @@
               },
               "pinned": true
             }
-          }
-        ]
-      },
-      {
-        "id": "9f082f896868aaf0",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "7082cbb752730a84",
             "type": "leaf",
@@ -38,8 +32,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "3be8d93134dff6fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Google Project Management Certificate/Project Initiation - Starting a Successful Project/03 - Utilising resources and tools for project success/00 - Understanding project resource needs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -89,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b06ea18f5787de9e",
@@ -105,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google Project Management Certificate/Project Initiation - Starting a Successful Project/Kanban - Project Initiation.md",
+                "file": "Google Project Management Certificate/Project Initiation - Starting a Successful Project/03 - Utilising resources and tools for project success/00 - Understanding project resource needs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Google Project Management Certificate/Project Initiation - Starting a Successful Project/Kanban - Project Initiation.md",
+                "file": "Google Project Management Certificate/Project Initiation - Starting a Successful Project/03 - Utilising resources and tools for project success/00 - Understanding project resource needs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Google Project Management Certificate/Project Initiation - Starting a Successful Project/Kanban - Project Initiation.md"
+                "file": "Google Project Management Certificate/Project Initiation - Starting a Successful Project/03 - Utilising resources and tools for project success/00 - Understanding project resource needs.md"
               }
             }
           },
@@ -176,17 +184,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7082cbb752730a84",
+  "active": "3be8d93134dff6fd",
   "lastOpenFiles": [
+    "Google Project Management Certificate/Note Template - Project Management.md",
+    "Google Project Management Certificate/Project Initiation - Starting a Successful Project/03 - Utilising resources and tools for project success/00 - Understanding project resource needs.md",
+    "Google Project Management Certificate/Project Initiation - Starting a Successful Project/Kanban - Project Initiation.md",
     "Google Project Management Certificate/Project Initiation - Starting a Successful Project/02 - Working effectively with stakeholders/002 - Activity - Stakeholder analysis and power grid.md",
     "Google Project Management Certificate/Project Initiation - Starting a Successful Project/02 - Working effectively with stakeholders/004 - Activity - Set project roles.md",
     "Google Project Management Certificate/Project Initiation - Starting a Successful Project/02 - Working effectively with stakeholders/005 - Assign project roles.md",
     "Google Project Management Certificate/Project Initiation - Starting a Successful Project/02 - Working effectively with stakeholders/06- Final notes (Unit 3).md",
     "Google Project Management Certificate/Project Initiation - Starting a Successful Project/02 - Working effectively with stakeholders/00 - Exploring project team roles.md",
     "Google Project Management Certificate/Project Initiation - Starting a Successful Project/02 - Working effectively with stakeholders/01 - Evaluating Stakeholders.md",
-    "Google Project Management Certificate/Project Initiation - Starting a Successful Project/Kanban - Project Initiation.md",
-    "Google Project Management Certificate/Note Template - Project Management.md",
-    "Google Project Management Certificate/Project Initiation - Starting a Successful Project/02 - Working effectively with stakeholders/03 - Assigning project team roles.md",
-    "Google Project Management Certificate/Project Initiation - Starting a Successful Project/01 - Defining project goals, scope, and success criteria/002 - Activity - SMART project goals response.pdf"
+    "Google Project Management Certificate/Project Initiation - Starting a Successful Project/02 - Working effectively with stakeholders/03 - Assigning project team roles.md"
   ]
 }
