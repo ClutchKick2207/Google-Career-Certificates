@@ -34,9 +34,6 @@ kanban-plugin: basic
 
 ## Doing this session
 
-- [ ] **Watch** - Introduction: Ultilising resources and tools for project success
-- [ ] **Watch** - Essential project resources
-- [ ] **Notes** - Essential project resources
 - [ ] **Read** - Managing resources to get the job done
 - [ ] **Notes** - Managing resources to get the job done
 - [ ] **Watch** - The value of project documentation
@@ -49,10 +46,13 @@ kanban-plugin: basic
 
 ## In progress
 
+- [ ] **Watch** - Essential project resources
+- [ ] **Notes** - Essential project resources
 
 
 ## Done - Week 4
 
+- [ ] **Watch** - Introduction: Ultilising resources and tools for project success
 
 
 ## Done - Week 3
