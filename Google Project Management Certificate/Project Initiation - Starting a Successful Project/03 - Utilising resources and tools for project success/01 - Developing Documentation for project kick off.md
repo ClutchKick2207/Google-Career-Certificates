@@ -67,3 +67,7 @@
 		- Living document
 			- Can evolve as the project progresses
 			- Can review and refine it as the project progresses
+
+## Project charters: Elements and formats
+- **Project Charters**
+	- 
