@@ -6,15 +6,6 @@ kanban-plugin: basic
 
 ## To-Do
 
-- [ ] **ASSESMENT** - Activity: *Create a project charter*
-- [ ] **ASSESMENT** - Activity: Create a project charter (marking)
-- [ ] **Watch** - Utilising tools for effective project management
-- [ ] **Notes** - Utilising tools for effective project management
-- [ ] **Read** - Introducing new tools to a team
-- [ ] **Notes** - Introducing new tools to a team
-- [ ] **Watch** - Exploring types of project management tools
-- [ ] **Notes** - Exploring types of project management tools
-- [ ] **QUIZ** - Test your knowledge: Evaluating tools
 - [ ] **Watch** - Common project management tools
 - [ ] **Notes** - Common project management tools
 - [ ] **Read** - Using Google Sheets for project management
@@ -34,12 +25,19 @@ kanban-plugin: basic
 
 ## Doing this session
 
-- [ ] **Watch** - Developing a project charter
-- [ ] **Notes** - Developing a project charter
+- [ ] **Watch** - Utilising tools for effective project management
+- [ ] **Notes** - Utilising tools for effective project management
+- [ ] **Read** - Introducing new tools to a team
+- [ ] **Notes** - Introducing new tools to a team
+- [ ] **Watch** - Exploring types of project management tools
+- [ ] **Notes** - Exploring types of project management tools
+- [ ] **QUIZ** - Test your knowledge: Evaluating tools
 
 
 ## In progress
 
+- [ ] **ASSESMENT** - Activity: *Create a project charter*
+- [ ] **ASSESMENT** - Activity: Create a project charter (marking)
 
 
 ## Done - Week 4
@@ -53,6 +51,8 @@ kanban-plugin: basic
 - [ ] **Notes** - The value of project documentation
 - [ ] **Watch** - Project charters: Elements and format
 - [ ] **Notes** - Project charters: Elements and format
+- [ ] **Watch** - Developing a project charter
+- [ ] **Notes** - Developing a project charter
 
 
 ## Done - Week 3
