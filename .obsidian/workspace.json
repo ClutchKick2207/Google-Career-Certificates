@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "7082cbb752730a84",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Google Project Management Certificate/Project Initiation - Starting a Successful Project/Kanban - Project Initiation.md"
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "3bb0967c2447b811",
             "type": "leaf",
             "state": {
@@ -70,7 +58,25 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
+      },
+      {
+        "id": "bea414139a1e2a98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7082cbb752730a84",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Google Project Management Certificate/Project Initiation - Starting a Successful Project/Kanban - Project Initiation.md"
+              },
+              "pinned": true
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b06ea18f5787de9e",

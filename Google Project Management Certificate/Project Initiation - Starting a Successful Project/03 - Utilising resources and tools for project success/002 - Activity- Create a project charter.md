@@ -25,8 +25,14 @@
 		- *Budget*
 			- $75,000
 	- *Milestones*
-		- Create a plant delivery and logistics plan to make the fulfillment process as efficient as possible. Your target is to deliver 95% of orders on time within one month of launch. Tasks include purchasing delivery trucks, hiring drivers, and calculating delivery fees. 
-		- Set up order processing and supply chain management software to make revenue streams more efficient. Your team must select, install, and maintain the software to ensure it continues to function properly. If it does, all orders should be packaged and ready for shipment within two business days of being placed. 
-		- Maintain excellent service standards by developing and launching an employee training program. You want to train 90% of employees before the official service launch. To reach this milestone, your team needs to create a communications plan, prepare training lessons, and schedule and conduct training sessions.
+		- Create a plant delivery and logistics plan to make the fulfillment process as efficient as possible. 
+			- Target is to deliver 95% of orders on time within one month of launch. 
+				- Tasks include purchasing delivery trucks, hiring drivers, and calculating delivery fees. 
+		- Set up order processing and supply chain management software to make revenue streams more efficient. 
+			- Your team must select, install, and maintain the software to ensure it continues to function properly. 
+				- If it does, all orders should be packaged and ready for shipment within two business days of being placed. 
+		- Maintain excellent service standards by developing and launching an employee training program. 
+			- You want to train 90% of employees before the official service launch. 
+				- To reach this milestone, your team needs to create a communications plan, prepare training lessons, and schedule and conduct training sessions.
 
     
