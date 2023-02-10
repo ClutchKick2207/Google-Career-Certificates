@@ -29,8 +29,41 @@
 ## Project proposals and charters 101
 > [!info] Project proposal - Definition
 > A form of documentation that persuades a stakeholder to begin a project
+
+> [!info] Project Charter - Definition
+> A form of documentation that clearly defines the project and outline the necessary details needed to reach its goals
 - **Project proposals and charters**
 	- **Project proposal**
 		- Persuade stakeholders that they should start a project
 		- Senior members of an organisation might make 
+		- Able to help understand the impact of the project
+		- *Could be*
+			- A formal document
+			- A presentation
+			- A simple email to get others onboard
+		- Created earlier than the project charter
+		- Kicks off the initiation phase by influencing and persuading the company to move forward with the project
+		- Only use at the earliest ages
 	- **Project charter**
+		- Helps you get organised
+		- Helps you set up a framework for what needs to be done
+		- Communicate those details with others
+		- Comes at the end of the initiation phase
+		- Goal is to clearly define the key details of the project
+		- Point of reference throughout the life of the project
+		- Makes clear that the benefits of the project outweigh the costs of the project
+		- **Cost benefit analysis**
+			- Business value created?
+			- Money saved?
+			- Time invested?
+		- Include answers for cost benefit analysis in the project charter
+		- Helps ensure that you and your stakeholder agree on the details of the project
+		- Management is supportive, if the charter is approved
+		- After the charter is approved, you have authority to move on with the project
+		- Tailor to the stakeholders
+			- If chief of marketing, talk about how it will impact the brand
+			- If chief of technology, talk about engineering resources needed to maintain the project
+		- Creating a project charter is a best practice for ensuring that everyone agrees on how to move forward before entering the planning phase
+		- Living document
+			- Can evolve as the project progresses
+			- Can review and refine it as the project progresses
