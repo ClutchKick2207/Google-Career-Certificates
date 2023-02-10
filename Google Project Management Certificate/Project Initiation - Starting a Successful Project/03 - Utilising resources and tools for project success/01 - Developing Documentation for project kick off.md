@@ -148,3 +148,56 @@
 				- *What is acceptable?*
 					- 5% revenue increase by the end of the year
 					- Customer satisfaction rate of 95% 3 months after launch
+
+## Identify: Components of a project charter
+- **Project Charter Example**
+	- **Executive Summary**
+		- *Project overview*
+			- Our plan is to add a line of replacement laces that will stay tied during athletic activity.
+	- **Project Goals**
+		- *SMART objective 1*
+			- Increase overall revenue by 3% by the end of fourth quarter by releasing our new athletic shoelaces.
+		- *SMART objective 2*
+			- Gain 2,000 new social media followers from the running community prior to launch.
+	- **Deliverables**
+		- *Major requirements*
+			- Design slip-proof shoelace weave.
+			- Manufacture 12,000 pairs of athletic shoelaces.
+			- Increase brand awareness in the running community.
+	- **Business Case**
+		- *Why are we doing this?*
+			- Customer research reveals this as an untapped opportunity in the market, with the potential to win loyalty among a demographic obsessed with finding the best gear.
+	- **Benefits and Costs**
+		- *What we'll gain/pay*
+			- *Benefits*
+				- Add new product to our lace line, leading to 3% revenue increase, increased brand awareness and customer loyalty
+			- *Costs*
+				- Price of materials, design, and prototyping
+				- Adding laces to inventory software
+			- *Budget needed*
+				- $525,000
+	- **Scope and exclusion**
+		- *What's in- and out-of-scope*
+			- *In-scope*
+				- Product development, prototyping, manufacturing, marketing
+			- *Out-of-scope*
+				- Vendor contracts, delivery to customers
+	- **Project Team**
+		- *Stakeholders*
+			- *Project Sponsor*
+				- Director of merchandise
+			- *Project Lead*
+				- Project manager (you)
+			- *Project Team*
+				- Shoelace designer
+				- Prototyper
+				- Quality assurance tester
+			- *Additional stakeholders*
+				- Director of market research
+				- Marketing manager
+				- Sales manager 
+				- Director of online sales
+	- **Measuring Success**
+		- *What is acceptable*
+			- 3% increase in revenue by the end of the fourth quarter
+			- 5% increase in new customers three months after product launch

@@ -40,8 +40,6 @@ kanban-plugin: basic
 
 ## In progress
 
-- [ ] **Watch** - Project charters: Elements and format
-- [ ] **Notes** - Project charters: Elements and format
 
 
 ## Done - Week 4
@@ -53,6 +51,8 @@ kanban-plugin: basic
 - [ ] **Notes** - Managing resources to get the job done
 - [ ] **Watch** - The value of project documentation
 - [ ] **Notes** - The value of project documentation
+- [ ] **Watch** - Project charters: Elements and format
+- [ ] **Notes** - Project charters: Elements and format
 
 
 ## Done - Week 3
