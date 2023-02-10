@@ -70,4 +70,27 @@
 
 ## Project charters: Elements and formats
 - **Project Charters**
-	- 
+	- Formal way that a project's goals, values, benefits and details are captured
+	- Stakeholders can look to the project charter to see if the desired end goal is on track
+	- Important to incorporate the right amount of detail, while omitting miscellaneous elements
+	- Collaborate with your team and stakeholders early and often
+	- Use the business case (the reason for initiating the project) within the project charter
+	- **Key points in a project charter**
+		- introduction/project summary
+		- goals/objectives 
+		- business case/benefits and costs
+		- project team
+		- scope
+		- success criteria
+		- major requirements or key deliverables
+		- budget
+		- schedule/timeline or milestones
+		- constraints and assumptions
+		- risks
+		- OKRs
+		- approvals
+	- Short and simple charters are good for smaller projects
+		- ![[Pasted image 20230210091803.png]]
+	- Larger projects may need to link to additional analysis or documents
+	- Can house these items in an appendix
+	- Remember that changes can happen in the project charter, and therefore is important to change it time goes on
