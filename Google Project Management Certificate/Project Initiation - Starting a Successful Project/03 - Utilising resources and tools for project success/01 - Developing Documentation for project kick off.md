@@ -25,3 +25,12 @@
 		- Reference later for those that join later on
 	- Documenting decisions can help you uncover tasks, timelines or costs you hadn't previously considered
 	- Provides a historical record that can be reviewed at the end of the project
+
+## Project proposals and charters 101
+> [!info] Project proposal - Definition
+> A form of documentation that persuades a stakeholder to begin a project
+- **Project proposals and charters**
+	- **Project proposal**
+		- Persuade stakeholders that they should start a project
+		- Senior members of an organisation might make 
+	- **Project charter**
