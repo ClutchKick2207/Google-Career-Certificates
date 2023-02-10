@@ -94,3 +94,57 @@
 	- Larger projects may need to link to additional analysis or documents
 	- Can house these items in an appendix
 	- Remember that changes can happen in the project charter, and therefore is important to change it time goes on
+
+## Developing a project charter
+- **Project charter**
+	- Many different templates
+	- Using a Google template for the next project
+	- **Project Green**
+		- *Name of the project*
+			- Project Plant Pals
+		- *Brief summary*
+			- Our plan is to offer high volume customers small, low maintenance plants that can thrive in an office environment
+		- **Project goals**
+			- *SMART goals*
+				- Increase revenue by 5% by rolling out a new service that provides office plants to top clients by the end of the year
+			- *Project deliverable*
+				- Send 1000 plants to 100 customers
+				- Launch a new website for orders and customer support
+			- *Business case*
+				- Reason for starting the project
+				- This is a top requested service from our customers, nd will improve customer satisfaction and retention
+				- *Cost benefit analysis*
+					- Should be more detailed than this
+					- Make sure benefits outweigh costs
+					- *Gain*
+						- Improved customer satisfaction
+						- Increased revenue
+					- *Costs*
+						- Sourcing products 
+						- Developing a website
+						- Marketing materials
+					- *Budget*
+						- $250,000
+			- *Project Scope*
+				- Agreed upon understanding about what is included, and what is excluded from the project
+				- *In Scope*
+					- We'll create a service to deliver small plants to last year's top clients
+				- *Out of Scope*
+					- Plant care after they are delivered
+			- *Project Team*
+				- *Project Sponsor*
+					- Director of Product
+				- *Project Lead*
+					- Me :)
+				- *Project Team*
+					- Marketing Associates
+					- Website developers
+					- Plant vendors
+				- *Additional Stakeholders*
+					- VP, Customer Success
+					- Account manager
+					- Fulfilment Manager
+			- *Measuring Success*
+				- *What is acceptable?*
+					- 5% revenue increase by the end of the year
+					- Customer satisfaction rate of 95% 3 months after launch
