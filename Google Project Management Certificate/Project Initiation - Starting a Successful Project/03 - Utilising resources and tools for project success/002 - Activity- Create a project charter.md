@@ -19,14 +19,14 @@
 	- *Larger Project Goal*
 		- 5% revenue increase for Office Green
 	- *Time Frame and Costs*
-		- 6 months
+		- *6 months*
 			- fully implement all protocols, including setting up operational tools
 			- putting delivery processes in place, and training employees
-		- Budget
+		- *Budget*
 			- $75,000
-	- Some of the milestones your team must reach to complete this project include:
+	- *Milestones*
 		- Create a plant delivery and logistics plan to make the fulfillment process as efficient as possible. Your target is to deliver 95% of orders on time within one month of launch. Tasks include purchasing delivery trucks, hiring drivers, and calculating delivery fees. 
 		- Set up order processing and supply chain management software to make revenue streams more efficient. Your team must select, install, and maintain the software to ensure it continues to function properly. If it does, all orders should be packaged and ready for shipment within two business days of being placed. 
 		- Maintain excellent service standards by developing and launching an employee training program. You want to train 90% of employees before the official service launch. To reach this milestone, your team needs to create a communications plan, prepare training lessons, and schedule and conduct training sessions.
-	- Your first step is to create a charter to align your stakeholders and map out what your team needs to know to create and implement the plan.
+
     
