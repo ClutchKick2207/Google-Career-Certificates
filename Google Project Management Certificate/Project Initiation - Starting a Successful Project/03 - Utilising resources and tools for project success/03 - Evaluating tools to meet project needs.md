@@ -113,3 +113,7 @@
 		- **Collaboration Tools**
 			- **Email and chat**
 				- Quickly and efficiently check in to questions, comment, and other communication about the project
+
+## Common project management tools
+- **Common project management tools**
+	- 
