@@ -116,4 +116,99 @@
 
 ## Common project management tools
 - **Common project management tools**
-	- 
+	- **Work Management Software**
+		- More efficient than manual project tracking
+		- **Asana**
+			- Work management platform
+			- *Helps to plan and coordinate work*
+				- From daily tasks to strategic initiatives
+			- *Living system, and source of truth*
+				- Everyone can see, discuss and manage team priorities
+				- Gives teams clarity on who is doing what, by when
+				- Good for building project plans
+				- Assigning tasks
+				- Automating workflows
+				- Tracking progress
+				- Communicating with stakeholders
+			- *Can create a log of tasks*
+				- Create tasks
+				- Assign them to people on the team
+			- *All tasks are visible and organised*
+				- Can be organised in whatever way the project manager chooses
+					- Like a list
+					- Or a calendar
+				- Designed to be transparent, with all the tasks related to the overall goal
+			- *Easy to use with external stakeholders*
+				- Within Asana, can share status updates and other communications with those outside of the company
+		- **Spreadsheet**
+			- Extremely versatile
+			- *Can be used in a wide range of tasks*
+				- From creating timelines
+				- Building charts
+				- Managing budgets
+				- Tracking tasks
+			- *Add and view project information*
+				- Depending on what you need in the moment
+				- Can sort easily
+					- Such as by due date, to see what is due next
+					- By name to see who has to do what
+					- etc.
+				- Transform, visualise and manipulate information
+	- Make sure you are familiar with a few pieces of software
+	- Keep in mind that options are always changing
+		- If you understand one tool deeply, can translate to others
+		- As a lot of similar features
+
+## Using Google Sheets for project management
+- **Google Sheets**
+	- **Essential Sheets features**
+		- **Collaboration**
+			- Easy to collaborate and share information
+			- *Permissions*
+				- **Editing**
+					- Allows others to make direct edits and changes to the file
+				- **Commenting**
+					- Allows others to add comments and make suggestions
+				- **View only**
+					- Allows others to view the file but not edit, comment, or suggest. 
+					- This is a good choice if you don’t want any changes to be made to the file.
+			- Can all collaborate by using comments
+			- Can assign tasks or action items using comments
+		- **Formatting Spreadsheet**
+			- *Resources*
+				- [Google Sheets cheat sheet - Google Workspace Learning Center](https://support.google.com/a/users/answer/9300022?hl=en)
+			- **Create lists**
+				- To create any list in Sheets, simply label each list
+					- for example, Name, Date, Notes, or other criteria—in the **header row**. 
+						- (The header row is the top row in the spreadsheet.) 
+				- Add a different list item in each cell underneath the list title. 
+				- Most lists are arranged vertically, but you might prefer a horizontal list depending on the types of items.
+			- **Display and hide content**
+				- **Freeze rows or columns**
+					- Freezing the header row (or column for horizontal lists) and formatting headers is a great way to make the list titles stand out.
+					- Freezing a header row keeps the row in place when you scroll down the list, so you can always see what the list titles are. 
+					- Format the headers just like you would text in a document by changing the font, style, size, or color.
+				- **Group and hide related content**
+					- Grouping rows and columns allows you to expand and collapse larger categories of data or information with a single click. 
+					- This makes your spreadsheet easier to read and manage by hiding the grouped data when it’s not needed, or quickly ungroup and show when it is needed.
+				- **Resources**
+					- [Freeze or merge rows & columns - Computer - Google Docs Editors Help](https://support.google.com/docs/answer/9060449?hl=en&ref_topic=9055295)
+			- **Add checkboxes**
+				- Checkboxes provide a quick and highly-visual way to track progress on a task or indicate whether certain criteria have been met.
+				- *Resources*
+					- [Add checkboxes to spreadsheets - Google Workspace Learning Center](https://support.google.com/a/users/answer/9308622?hl=en&ref_topic=9326428)
+		- **Organise Data**
+			- **Create dropdown lists**
+				- Ensures data is entered into the spreadsheet correctly
+				- Makes it much fasters for others to add data
+					- As they are choosing from pre-existing options
+				- *Resources*
+					- [Top 10 tips to clean up data - Google Workspace Learning Center](https://support.google.com/a/users/answer/9604139?hl=en#zippy=%2Clearn-how)
+			- **Add colour coding**
+				- Sometimes it’s helpful to change the colour of cells and text so you can quickly see how your project is progressing. 
+				- You can add colour coding to your spreadsheet by applying *conditional formatting*. 
+					- Conditional formatting formats cells in a certain way if they contain specific information. 
+					- For example, track progress status as “Not started” in red, “In progress” in orange, and “Complete” in green.
+				- *Resources*
+					- [See data changes with conditional formatting - Google Workspace Learning Center](https://support.google.com/a/users/answer/9308962?hl=en&ref_topic=9327402)
+				- 
