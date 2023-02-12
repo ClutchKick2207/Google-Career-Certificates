@@ -262,3 +262,49 @@
 				- You can track social media posts, market research, and coordinate content across multiple platforms.
 		- **Creating Templates resources**
 			- [Create document templates - Google Workspace Learning Center](https://support.google.com/a/users/answer/9308885?hl=en)
+
+## Demonstrating your knowledge of project management tools
+![[Pasted image 20230212150925.png]]
+- **Demonstrating knowledge**
+	- *“How do you know if a project is off track?”*
+		- It’s important to tie this answer back to the types of scheduling tools you have learned
+		- Leverage any real life experiences you can
+	- **Planning for a move as experience**
+		- If so, you can discuss how you planned your timeline and scheduled vendors so that you could meet your move date. 
+		- Did you use a spreadsheet to keep track of your budget, schedule, and belongings?
+			- This experience demonstrates you understand how to use tools.
+			- It also demonstrates that you know the importance of creating, monitoring, and managing the project schedule to deliver results at project completion.
+	- *“How do you execute tasks within your timeline?”*
+		- Demonstrate your ability to be productive by sharing your experience with tools, such as digital documents or spreadsheets
+		- These tools help you create project artifacts, track tasks, and store project details in one place
+		- You can also use them as a collaboration tool because they are easily shareable with teammates and stakeholders and allow for real-time updates
+	- **Special Project Management tools**
+		- Project management tools such as 
+			- Asana 
+			- Monday.com
+			- Basecamp
+			- Trello
+		- Among some of the top ranked tools for managing projects.  
+		- These tools help you plan, track, and complete work across many project phases. 
+		- They often have visually appealing layouts and automated features that save time and create efficiency in a project manager’s day-to-day tasks.  
+		- Explaining your knowledge of these tools—and how they benefit the project manager, team, and company—in an interview is a great way to demonstrate that you are qualified for the role.
+	- **Examples of tools to Learn**
+		- **Asana**
+			- [Asana](https://asana.com/)
+			- [Asana Product Guide](https://asana.com/guide)
+		- **Basecamp**
+			- [Basecamp](https://basecamp.com/)
+		- **Trello**
+			- [Trello](https://trello.com/en)
+		- **Jira**
+			- [Jira](https://www.atlassian.com/software/jira)
+		- **Clickup**
+			- [ClickUp](https://www.clickup.com/)
+		- **Monday.com**
+			- [monday.com](https://monday.com/)
+		- **Microsoft Project**
+			- [Microsoft Project](https://www.microsoft.com/en-us/microsoft-365/project/project-management-software)
+		- **Project Libre (Open source alternative :D)**
+			- [Projectlibre](https://www.projectlibre.com/)
+
+## Build a project management tool tracker
