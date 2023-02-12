@@ -211,4 +211,54 @@
 					- For example, track progress status as “Not started” in red, “In progress” in orange, and “Complete” in green.
 				- *Resources*
 					- [See data changes with conditional formatting - Google Workspace Learning Center](https://support.google.com/a/users/answer/9308962?hl=en&ref_topic=9327402)
-				- 
+			- **Add links**
+				- It can be helpful to link to other project documentation or even external websites in your spreadsheet. 
+				- This provides your team easy, centralized access to all relevant data they might need. 
+					- For example, you could add a link to your project charter document from your project plan spreadsheet.
+				- *Resources*
+					- [Work with links & bookmarks - Computer - Google Docs Editors Help](https://support.google.com/docs/answer/45893?co=GENIE.Platform%3DDesktop&hl=en#zippy=%2Ccreate-a-link)
+					- [Link to data in a spreadsheet - Google Workspace Learning Center](https://support.google.com/a/users/answer/9308662?hl=en)
+		- **Visualise data**
+			- **Create a pivot table**
+				- A *pivot table* is a basic data analysis tool. 
+				- Pivot tables summarize your data and can help show the relationships between data points, making it easier to understand all the information contained in your spreadsheet. 
+				- *Resources*
+					- [Create and edit pivot tables - Google Workspace Learning Center](https://support.google.com/a/users/answer/9308944?hl=en)
+			- **Make a chart or graph**
+				- Presenting data in charts and graphs is a great way to quickly and effectively summarize important information about your project to stakeholders and make reports and presentations more engaging. 
+				- Sheets enables you to automatically create different kinds of charts and graphs using the data in your spreadsheet.
+				- *Resources*
+					- [Insert and edit charts - Google Workspace Learning Center](https://support.google.com/a/users/answer/9308981?hl=en)
+		- **Perform calculations**
+			- **Use functions**
+				- *Functions* can be used to manipulate data and perform calculations. 
+				- Google Sheets has a wide array of functions that are already built in, which means they will automatically perform the calculations you specify.
+				- Use functions to quickly calculate sums or averages, automatically determine start or end dates, generate financial reports, and much more.
+				- *Resources*
+					- [Add formulas & functions - Computer - Google Docs Editors Help](https://support.google.com/docs/answer/46977?hl=en&ref_topic=9054531)
+					- [Google Sheets cheat sheet - Google Workspace Learning Center](https://support.google.com/a/users/answer/9300022?hl=en)
+	- **Useful Templates**
+		- [Google Sheets - Template Gallery](https://docs.google.com/spreadsheets/u/0/?ftv=1&folder=0AKrj08N1UHZqUk9PVA&tgif=c)
+		- **Name and Uses**
+			- **Project Timeline**
+				- [Project timeline template - Google Sheets](https://docs.google.com/spreadsheets/d/1Us-j-BAG3kiIJENBt3SqRXkJQL_TZh-yejJyZzq9L60/template/preview#gid=1709744959)
+				- A project timeline template is useful if you want to track an entire project from conception to close. 
+				- This example includes a visual timeline that lays out the life cycle of a project and the major activities that need to happen during each phase. 
+			- **Project Tracking**
+				- [Project tracking template - Google Sheets](https://docs.google.com/spreadsheets/d/12AK5slxygSxj8nmjS39SCnEFkCy8WZDbgN0vSQh2xwg/template/preview?resourcekey=0-__sqaWcGZavYWgXz-WD4jQ#gid=1161341563)
+				- A project tracking template is useful for tracking your project’s budget, deliverables, and other data. 
+				- This example includes columns for tracking costs and time, as well as a column with dropdown lists for tracking tasks’ priority levels. 
+				- Other features include formulas for calculating hours, costs, and percentage of deliverables completed, which allow you to track your spending and progress on a project.
+			- **GANTT Chart**
+				- [Gantt chart template - Google Sheets](https://docs.google.com/spreadsheets/d/1Yc1KA_7DMwBqyt2Zcx68HAV3oEp1FnUt-undm0XHgqM/template/preview?resourcekey=0-y-3VgQEbmAVaiEGfeyeJ-g#gid=1115838130)
+				- A Gantt chart combines many of the aspects of other types of project management spreadsheets into one. 
+				- It organizes tasks by day and is useful for showing the relationships between the many moving parts of a project. 
+				- It’s also helpful for managing a project with multiple collaborators. 
+				- Gantt charts often include conditional formatting that makes cells change color based on how far along the project is so you can immediately determine how much progress you have made on a particular task.
+			- **Event Marketing Timeline**
+				- [Event marketing timeline template - Google Sheets](https://docs.google.com/spreadsheets/d/10GindXMsW6z0pFvd5Ymjz_PS0dXJ5eCkl3KDKEPO9qY/template/preview#gid=541890420)
+				- A timeline template is useful for creating a schedule, tracking events, and visualizing the tasks and milestones involved in a project. 
+				- You might use this template to manage a project that involves a lot of marketing or public-facing tasks. 
+				- You can track social media posts, market research, and coordinate content across multiple platforms.
+		- **Creating Templates resources**
+			- [Create document templates - Google Workspace Learning Center](https://support.google.com/a/users/answer/9308885?hl=en)
