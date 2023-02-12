@@ -10,7 +10,6 @@ kanban-plugin: basic
 
 ## Doing this session
 
-- [ ] **QUIZ** - Test your knowledge: Evaluating tools
 - [ ] **Watch** - Common project management tools
 - [ ] **Notes** - Common project management tools
 - [ ] **Read** - Using Google Sheets for project management
@@ -30,8 +29,7 @@ kanban-plugin: basic
 
 ## In progress
 
-- [ ] **Watch** - Exploring types of project management tools
-- [ ] **Notes** - Exploring types of project management tools
+- [ ] **QUIZ** - Test your knowledge: Evaluating tools
 
 
 ## Done - Week 4
@@ -53,6 +51,8 @@ kanban-plugin: basic
 - [ ] **Notes** - Utilising tools for effective project management
 - [ ] **Read** - Introducing new tools to a team
 - [ ] **Notes** - Introducing new tools to a team
+- [ ] **Watch** - Exploring types of project management tools
+- [ ] **Notes** - Exploring types of project management tools
 
 
 ## Done - Week 3
