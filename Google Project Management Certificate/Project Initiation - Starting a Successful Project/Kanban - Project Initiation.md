@@ -10,13 +10,10 @@ kanban-plugin: basic
 
 ## Doing this session
 
-- [ ] **Read** - Get started on Course 3
 
 
 ## In progress
 
-- [ ] **Read** - Course 2 glossary
-- [ ] **Notes** - Course 2 glossary
 
 
 ## Done - Week 4
@@ -53,6 +50,9 @@ kanban-plugin: basic
 - [ ] **Watch** - Amar: Tools are our best friends
 - [ ] **QUIZ** - Weekly challenge 4
 - [ ] **Watch** - Course wrap-up
+- [ ] **Read** - Course 2 glossary
+- [ ] **Notes** - Course 2 glossary
+- [ ] **Read** - Get started on Course 3
 
 
 ## Done - Week 3
