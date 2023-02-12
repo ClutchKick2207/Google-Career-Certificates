@@ -10,7 +10,6 @@ kanban-plugin: basic
 
 ## Doing this session
 
-- [ ] **Watch** - Course wrap-up
 - [ ] **Read** - Course 2 glossary
 - [ ] **Notes** - Course 2 glossary
 - [ ] **Read** - Get started on Course 3
@@ -18,7 +17,7 @@ kanban-plugin: basic
 
 ## In progress
 
-- [ ] **QUIZ** - Weekly challenge 4
+- [ ] **Watch** - Course wrap-up
 
 
 ## Done - Week 4
@@ -53,6 +52,7 @@ kanban-plugin: basic
 - [ ] **Notes** - Build a project management tool tracker
 - [ ] **QUIZ** - Reflection: Project tools
 - [ ] **Watch** - Amar: Tools are our best friends
+- [ ] **QUIZ** - Weekly challenge 4
 
 
 ## Done - Week 3

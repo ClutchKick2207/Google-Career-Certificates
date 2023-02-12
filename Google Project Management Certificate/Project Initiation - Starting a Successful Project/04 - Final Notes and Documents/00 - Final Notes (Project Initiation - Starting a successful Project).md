@@ -1,0 +1,1876 @@
+## Where is this course?
+- [Google Career Certificates - Project Management](https://www.coursera.org/professional-certificates/google-project-management)
+
+## My Notes
+> My notes for this overall course will be laid out by module in the course, and have subheadings in order to differentiate between different topics/videos that are presented in the courses. I'll add in any extra notes/resources that I use where necessary, and hope it will be helpful for anyone looking!
+
+
+## Program and Course overview
+![[Pasted image 20230116185140.png]]
+- **Course overview**
+	- 4 week program - Course 2
+	- **Lesson Types**
+		- **Videos**
+			- Google Employee as an instructor
+		- **Readings**
+			- Introduces new ideas and case studies to build on top of videos
+		- **Discussion Forums**
+			- Explore course topics for better understanding, and talk with peers
+		- **In Video Questions**
+			- Check up on learning as you go during videos
+		- **Practice Quizzes**
+			- Checks understanding, and gives feedback. Important to do
+		- **Graded Quizzes** 
+			- Measures progress by grading quizzes
+		- **Ungraded Peer-Review activities** 
+			- Practice applying skills that you are working to master. Other learners can view this, and give feedback
+		- **Graded Peer-Review activities** 
+			- Assess the ability to apply skills, other learners will grade your work, and give feedback
+		- **Tips**
+			- Take all 6 courses
+		- Complete all items in order
+		- Take time to do all the readings
+		- Don't be afraid to rewatch a video
+		- Take part in as many learning opportunities as possible
+
+## Helpful Resources to get started
+-  **Helpful Habits**
+	- **Plan your time**
+		- Set up regular study times and stick with them
+		- Use a Calendar/Timetable system to create a schedule, and list what you plan on doing each day to break down the work into achievable goals
+	- **Be curious**
+		- Ask questions, and search for more details online
+		- Take notes on any extra information that you have gained
+	- **Take notes**
+		- Take notes on any content that you find interesting, that way you can refer to it later to revise or get any extra content
+		- An effective way to make connections between different topics
+	- **Chat**
+		- Reach out with other learners to gain more information, and potentially have any questions you may have answered
+	- **Update your profile**
+		- Update your profile to something presentable, and something that allows for other people to get to know you more
+- **Finding more Information**
+	- [Project Management Institute](https://www.pmi.org/)
+		- A good resource for those in project, program, or portfolio management professions
+		- Provides guides, industry standards, articles, templates, job boards, certifications, etc.
+	- [Scrum Guides](https://scrumguides.org/index.html)
+		- Defines "Scrum", which is used in Agile project management
+		- Describes Scrum's roles, events, artifacts, and the rules that bind them together
+	- [Foundations of Project Management - Glossary](https://www.coursera.org/learn/project-management-foundations/resources/R9Ijr)
+		- Can find out specific terms (for this unit) in the glossary
+
+## Why is Project initiation essential?
+> [!info] Cost Benefit Analysis - Definition
+> The process of adding up the expected value of a project - the benefits - and comparing them to the dollar costs
+
+- **Project Initiation**
+	- First step of the project
+	- Well planned initiation allows for a strong foundation for the rest of the project
+	- Often initiated to combat a specific issue from a business
+	- Identify project goals, resources, etc.
+		- During initial discussions with stakeholders
+			- Ask the right questions
+			- Determine criteria for project success with stakeholders
+			- Identify project research
+			- Do research
+			- Determine resources
+			- Clearly document
+	- Identify the boundaries of the project
+	- **If not initiated properly**
+		- Without understanding project goals, may underestimate the resources needed/time needed
+		- May not accomplish appropriate goals
+		- Gain as much clarity during the initial phase, as it'll allow for saving time throughout the rest of the project
+	- **Cost Benefit Analysis**
+		- Work with stakeholders
+			- **Benefits**
+				- What value will this project create?
+				- How much money could this project save our organisation?
+				- How much money will it bring in from existing customers?
+				- How much time will be saved?
+				- How will the user experience be improved?
+			- **Costs**
+				- How much time will people have to spend on this project?
+				- What will be the one-time costs?
+				- Are there any on-going costs?
+				- What about long-term costs?
+		- Benefits should always outweigh the costs of the project
+
+## Key components of project initiation
+> [!info] Project Charter - Definition
+> A document that clearly defines the project and its goals, and outlines what is needed to accomplish them
+- **Project initiation parts**
+	- **Goals**
+		- The goal is what you've been asked to do and what you're trying to achieve.
+		- Have to have clear goals
+			- Determined by senior company leaders
+	- **Scope**
+		- Process to define the work that needs to happen to complete the project
+	- **Deliverables**
+		- Products and services that you will create for your customer, client, or project sponsor
+		- Project features and services
+		- Documentation
+		- i.e. anything that enables the goal of the project to be achieved
+		- Can be tangible (Chapters of a textbook) and intangible (Software, scheduling systems)
+	- **Success Criteria**
+		- Standards by which you measure how successful a project was in reaching it's goals
+	- **Stakeholders**
+		- The people who both have an interest in, and are affected by, the completion and success of a project
+		- Instrumental in the above steps
+		- Often create the guidelines and authorise the project to happen in the first place
+		- Understand the expectations early
+		- Make sure that all stakeholders are in agreement on the goals and overall mission of the project
+	- **Resources**
+		- Budget
+		- People
+		- Materials
+		- Other items you will have at your disposal
+		- Think carefully about what resources you need initially
+- **Project Charter**
+	- ![[Pasted image 20230119182411.png]]
+	- Contains all the details of a project
+	- Review the document with stakeholders to make sure you haven't missed anything
+
+## Performing a cost-benefit analysis
+- **Cost-benefit analysis**
+	- **Benefits of a cost-benefit analysis**
+		- Minimise risks
+		- Maximise gains
+		- Allows for clear communication with stakeholders
+		- Uses objective data, and therefore can point out any biases, and keep out stakeholder self-interest
+		- Reduces waste
+		- Provides good justification for a project
+	- **Guiding Questions**
+		- **Benefits**
+			- What value will this project create?
+			- How much money could this project save our organisation?
+			- How much money will it bring in from existing customers?
+			- How much time will it save?
+			- How will it improve the customer experience?
+		- **Costs**
+			- How much time will people have to spend on this project?
+			- What are the one-time costs?
+			- Are there any ongoing costs?
+			- What about the long term costs?
+		- **Intangible Benefits** (Costs are the same but reversed)
+			- **Customer Satisfaction**
+				- Will the project increase customer retention, causing them to spend more on the company's products or services?
+			- **Employee satisfaction
+				- Is the project likely to improve company morale, reducing turnover?
+			- **Employee productivity**
+				- Will the project reduce employee's overtime hours, saving the company money?
+			- **Brand perception**
+				- Is the project likely to improve the company's brand perception and recognition, attracting more customers or providing a competitive advantage?
+	- **Calculating Costs and Benefits**
+		- **ROI (Return on Investment) Formula**
+			- ![[Pasted image 20230120143138.png]]
+			- **G**: Financial gains expected
+			- **C**: Upfront and ongoing costs of investment
+			- Example
+				- Project costs $6000 upfront
+				- $25/month for 12 months (i.e. $300/year)
+				- $10,000 revenue over the course of the year
+				- $$\frac{($10,000-$6,300)}{$6300}=0.58=58\% $$
+	- **Extra Resources**
+		- [Cost-Benefits Analysis for Projects - A Step-by-Step Guide (projectmanager.com)](https://www.projectmanager.com/blog/cost-benefit-analysis-for-projects-a-step-by-step-guide)
+		- [Cost-Benefit Analysis in Project Management | (pmstudycircle.com)](https://pmstudycircle.com/cost-benefit-or-benefit-cost-analysis/#:~:text=Cost%2Dbenefit%20analysis%20is%20a,during%20the%20project%20selection%20analysis)
+
+## Introduction: Defining project goals, scope and success criteria
+- **Goals, scope and success criteria**
+	- **Officegreen**
+		- Lead project manager
+		- Commercial landscaping company
+			- Specialises in plant décor for offices and other businesses
+		- Director of Product has an idea for a new service
+			- *Plant Pals*
+				- High volume customers are offered small, low maintenance plants for their desks
+				- As the project manager, are responsible for the rollout of this new service
+
+## Determining project goals and deliverables
+> [!info] Project Goal - Definition
+> The desired outcome of the project
+- **Project goals and deliverables**
+	- **Project Goal**
+		- What you have been asked to do, and what you are trying to achieve
+		- Example
+			- Improve customer response times for inquiries via email by 20%
+		- **Officegreen example**
+			- Increase revenue by 5% by the end of the year
+			- Through the introduction of "plant pals"
+				- Desk plants for top customers
+			- "Increase revenues through a new services offering by 5%"
+		- Allows for a roadmap to your destination
+		- **Good vs Bad goal**
+			- How well it is defined
+			- "How clear and specific is the goal?"
+				- If the goal is the destination, are you confident that you'll know if you've even arrived?
+			- Generally make it something clear (such as a numerical increase, and something that isn't vague)
+			- Also says how to do, what you have been asked to do
+				- "via email"
+				- "via a new service offering"
+				- And then by how much
+					- 5%
+					- 20%
+	- **Stakeholders**
+		- Get information from stakeholders
+		- Ask how it aligns to the company's larger goals and mission
+		- Example
+			- Finished a new product feature
+			- Stated goal was to deliver an early version of this feature and collect user feedback
+			- When it was delivered for feedback, no one way available
+			- Therefore had to discuss if you have met the goal if there is no user feedback
+				- Some think that you have achieved the goal
+				- Some think that you have not
+			- Customer was satisfied, and therefore should've been completed
+				- But internal team wasted time going back and forth about it
+			- Make sure to keep everyone (stakeholders and team), in the loop about the project goals
+	- **Project Deliverables**
+		- The products or services that are created for the customer, client or project sponsor
+		- What get produced or presented at the end of a task, event, or process
+		- Help quantify and realise the impact of the project
+		- Decided upfront by clients/stakeholders
+		- Hold everyone accountable
+		- Ask questions, and make sure everyone discusses their expectations and goals
+		- Tangible outputs that show how more revenue can be generated
+		- *Customer Response Time*
+			- Deliverable is the creation of email templates for typical questions
+		- *Officegreen*
+			- New website page listing the plants available
+			- Launching the plant service
+
+## Project Plant Pals: Initiation
+- **Initiation**
+	- **Refine goals with stakeholders**
+		- Meet with the Director of Product (the project sponsor)
+		- Discuss aims for the project
+		- Clarify goals and keep the project on track
+		- Turn them into SMART goals
+	- **Assess stakeholder power and influence**
+		- Get to know some of the stakeholders
+		- Find out how these stakeholders fit into the project
+		- Use a stakeholder analysis and power grid
+		- Figure out how often you are to communicate with team member, investors, etc.
+	- **Assign roles and responsibilities to promote the service**
+		- Assemble teams to plan the marketing and sales strategy, and to redesign the website
+		- Use RACI (Responsible Accountable Consulted Informed) charts to determine who should be responsible, accounted, consulted and informed about various project tasks
+	- **Create a charter for the next stage of the project**
+		- Wrapping up the initiation phase
+		- Focus will shift into internal operations
+		- Create a project charter to guide team as they plan training, fulfillment, and delivery procedures for Plant Pals
+
+## How to set SMART goals
+> [!info] Metrics - Definition
+> What you use to measure something
+- **Setting SMART goals**
+	- **Specific**
+		- Can figure out how long it should take
+		- Whether it has been accomplished
+		- *Improve Customer Service response time*
+			- Not specific
+			- Just a general statement
+			- Could improve by 1%, but is that enough?
+		- **Questions**
+			- What do I want to accomplish?
+			- Why is this a goal? (Specific reason, purpose, benefit?)
+			- Who is involved?
+			- Where should be goal be delivered?
+			- To what degree?
+	- **Measurable**
+		- Determine that they are objectively met
+		- Track progress, and stay motivated
+		- **Questions**
+			- How much?
+			- How many?
+			- How will I know when it's accomplished?
+		- Can sometimes be a simple "yes" or "no"
+		- Have to use *Metrics*
+			- Can use numbers or figures
+		- Use *Benchmarks* (points of reference)
+			- To make sure you are using accurate metrics
+			- Look at last year's revenue in order to see what you should aim for this year
+	- **Attainable**
+		- Is it possible?
+		- **Questions**
+			- Can it reasonably be reached?
+				- A little challenging to encourage growth
+				- Don't want it to be too extreme, otherwise you can never reach it
+				- Aim to find a balance
+			- How can it be accomplished?
+				- Break down the goal into smaller parts, and see if it makes sense
+		- **Officegreen**
+			- Only requires a 1.25% increase in revenue per quarter
+			- Reasonable
+	- **Relevant**
+		- **Questions**
+			- Does the goal make sense?
+			- Is the goal worthwhile?
+				- Does the effort balance out with the benefits?
+				- Does it match the organisation's other needs and priorities?
+			- Is it the right time?
+	- **Time-bound**
+		- Has a deadline
+		- Track progress
+		- Goes hand-in-hand with metrics
+		- Increase revenue by the end of the year
+			- Break down how much you need to increase by each quarter, month, and week]
+
+## SMART goals: Making goals meaningful
+![[Pasted image 20230129094856.png]]
+- **SMART Goals**
+	- **Specific**
+		- The objective has no ambiguity for the project team to misinterpret.
+	- **Measurable**
+		- Metrics help the project team determine when the objective is met.
+	- **Attainable**
+		- The project team agrees the objective is realistic.
+	- **Relevant**
+		- The goal fits the organization’s strategic plan and supports the project charter.
+	- **Time-bound**
+		- The project team documents a date to achieve the goal.
+
+## Navigating Peer/Self Reviews
+- **Peer/Self Reviews**
+	- Not just Multiple Choice/Short Answer quizzes
+	- Apply what you learnt to real world Project Management problems, and situations
+	- Create the types of artifacts project managers use everyday
+	- Finish these hands on activities where you can
+		- As it provides practical experience for interviews
+		- Allows you to manage projects better in your personal or professional life
+	- **Self Review**
+		- Follow step-by-step instructions to move the project forward
+		- Quizzes with "Activity" in the title
+		- When you finish an activity, taken through an Exemplar of the completed activity to compare with own work
+		- Review the examplars carefully so you know what you did well, and what to improve for next time
+		- Some activities may have multiple right answers
+		- Examplars only explain one way of doing things
+			- But it gives guides for other approaches
+			- Therefore not just the answers, but shows what approaches you can take
+	- **Quiz Questions**
+		- May be graded or ungraded
+		- Measurement of progress
+		- Expand knowledge
+	- **Peer-Review Assignments**
+		- Similar format to Self Review
+		- Classmates will grade your assignments, and you will grade theirs.
+		- Have to grade at least 2 submissions (can grade more)
+		- Gives objective feedback, and allows for you to see how others did a similar problem
+		- Use a rubric to grade
+			- Checklist of items, each with a mark allocation
+			- Score at least 80% to pass
+				- If a Rubric has 10 points, need at least 8
+			- Rubric is available before the assignment is submitted, so you are able to see how you will be graded
+			- Give and receive qualitative feedback
+		- Feedback
+			- Positive and Negative feedback
+			- Leave thoughtful and constructive feedback
+
+## Optional: What to know about peer-graded feedback
+- **Peer Graded Assignments**
+	- **Submitting Work**
+		- Generally involve submitting documents or spreadsheets for review
+		- Can submit as a URL (a shared Google Doc for example), or a downloadable file (such as .docx or .pdf)
+		- To grade your assignment, graders will access the link, or download the file submitted
+		- Try submitting it a day or two before the deadline, to allow for timely feedback
+	- **Links**
+		- [Coursera Help Center | Submit peer reviewed assignments](https://www.coursera.support/s/article/208279926-Submit-peer-reviewed-assignments?language=en_US)
+		- [Coursera Help Center | Getting and viewing grades for peer-reviewed assignments](https://www.coursera.support/s/article/208279946-Getting-and-viewing-grades-for-peer-reviewed-assignments?language=en_US)
+		- [Sharing Google files for Peer-Graded activities | Coursera](https://www.coursera.org/learn/project-initiation-google/resources/FOW2Z)
+
+## Introduction to OKRs
+- **OKRs**
+	- "**O**bjectives + **K**ey **R**esults"
+	- Combine a goal and a metric to determine a measurable outcome
+	- Clearly state goal, and provide specific details to measure success
+	- Separate different components of SMART goals, and clarify them even further
+	- Can be used to create "stretch goals"
+		- Challenges to achieve
+	- If you are able to achieve all the key results, may have made the OKRs a bit too easy
+	- **Objective**
+		- Similar to goals
+		- Defines what needs to be achieved
+		- Describes a desired outcome
+			- Increase in customer retention
+			- Improvement in employee onboarding process
+	- **Key Results**
+		- Defines how you'll know whether or not you've met your objective
+		- Measurable outcomes that define when the objective has been met
+			- Objective: Improve customer retention
+				- Key Result: achieve a 90% customer satisfaction rating by the end of the first quarter
+		- A bit more ambitious
+	- **OKR Levels**
+		- **Company/Organisation**
+			- ![[Pasted image 20230129130204.png]]
+			- Commonly shared among the organisation
+			- Everyone is clear on the company goals
+			- Updated on an annual basis
+			- Helps drive the organisation in the direction it wants to go
+		- **Department/Team**
+		- **Project**
+			- ![[Pasted image 20230129130242.png]]
+			- Created in the initiation phase
+			- Need to align with and support both company and department level OKRs
+	- **Office Green Company-wide OKRs**
+		- **Objective**
+			- Increase customer retention by adapting to the changing workplace environment
+				- **Project (Plant Pals) OKRs**
+					- **Objective**
+						- Enroll existing customers in the Plant Pals service
+					- **Key Result**
+						- 25% of existing customers sign up for the Plant Pals pilot
+		- **Key Results**
+			- 95% of phone, chat, and email customer support tickets are resolved during the first contact
+			- Top 3 most requested new offering for distributed office environments are in pilot by the end of the second quarter
+			- Sales and support channels are available 24/7 by the end of the year
+				- **Office Green Sales Department OKRs**
+					- **Objective**
+						- Increase the sales team presence 
+					- **Key Result**
+						- New sales offices are open in 10 cities by the end of the year
+		- These Key Results can be the basis for projects themselves
+			- *"Top 3 most requested new offering for distributed office environments are in pilot by the end of the second quarter"*
+				- Could involve the Plant Pals project
+
+## Creating OKRs for your project
+- **OKRs**
+	- **What are OKRs?**
+		- Objectives and Key Result
+		- ![[Pasted image 20230129140328.png]]
+		- Combines a goal and a metric to determine a measurable outcome
+		- Company-wide OKRs are used to set an ultimate goal for an entire organisation
+		- Team, department and project-level OKRs describe focused results each group needs to do in order to support the organisation
+	- **OKRs and Project Management**
+		- Can help in expanding upon project goals and further clarify the deliveries you'll need from the project to accomplish the goals
+		- Allows for an appropriate scope for a team (in a project-level OKR), therefore allowing for you to say "no" to requests that may get in the way
+		- Can create and push project-level OKRs to help motivate the team, as they are used to push past what is easily achievable
+	- **Creating OKRs**
+		- **Set your objectives**
+			- Project objectives should be aspirational, aligned with organisational goals, action-oriented, concrete and significant
+			- Consider the vision you and your stakeholders have for your project, and determine what you want the project team to do
+			- **Examples**
+				- Build the most secure data security software
+				- Continuously improve web analytics and conversions
+				- Provide a top-performing service
+				- Make a universally-available app
+				- Increase market reach
+				- Achieve top sales among competitors in the region
+			- **Strong Objectives Criteria**
+				- Aspirational
+				- Aligned with organizational goals
+				- Action-oriented
+				- Concrete
+				- Significant
+			- **Questions to ask to create an Objective**
+				- Does the objective help in achieving the project’s overall goals?
+				- Does the objective align with company and departmental OKRs?
+				- Is the objective inspiring and motivational?
+				- Will achieving the objective make a significant impact?
+		- **Develop key results**
+			- Add 2-3 key results for each objective
+			- Should be time-bound
+			- Can be used to indicate the amount of progress to achieve within a shorter period
+			- Or to define whether you have met your objective at the end of the project
+			- Should be challenging
+			- **Examples**
+				- X% new signups within first quarter post launch
+				- Increase advertiser spend by X%
+				- New feature adoption is at least X% 
+				- Maximum 2 critical bugs are reported by customers per Sprint
+				- Maintain newsletter unsubscribe rate at X%
+			- **Strong Key Results Criteria**
+				- Results-oriented—**not** a task
+				- Measurable and verifiable
+				- Specific and time-bound
+				- Aggressive yet realistic
+			- **Questions to ask to create a Key Result**
+				- What does success mean?
+				- What metrics would prove that we've successfully achieved the objective?
+	- **OKR Development best practices**
+		- Think of objectives as motivational and inspiring
+		- Think of key results as tactical and specific
+		- Objective describes what you want to do, and key results describe how you'll know you did it
+		- Develop 2-3 key results for each objective
+		- Document OKRs and link them into the project plan
+	- **OKRs vs SMART goals**
+		- [SMART Goals vs. OKRs | Smartsheet](https://www.smartsheet.com/content/okr-vs-smart-goals)
+	- **More resources**
+		- [What Matters: OKR Google playbook: Examples & templates](https://www.whatmatters.com/resources/google-okr-playbook)
+		- [How to Create and Track Goals in Asana | Product Guide • Asana Product Guide](https://asana.com/guide/examples/project-management/goals-okrs-planning)
+		- [What Matters: OKR vs. SMART goals: What's the difference?](https://www.whatmatters.com/resources/okrs-smart-goals-difference-between)
+		- [OKRs and KPIs: What They Are and How They Work Together - Reflektive](https://www.reflektive.com/blog/okrs-and-kpis-what-they-are-and-how-they-work-together/)
+		- [How OKR and project management work together - Perdoo](https://www.perdoo.com/resources/okr-and-project-management/)
+		- [OKR Examples - Company Objectives &amp; Key Results | Adobe Workfront](https://business.adobe.com/blog/basics/okr-examples)
+
+## Launching and landing a project
+> [!info] Project Launch - Definition
+> Delivering the final result of your project to the client or user
+
+> [!info] Project Landing - Definition
+> Measuring the success of your project using the success criteria established at the outset of the project
+
+- **Launching and Landing**
+	- Know when it is successful
+	- Continue beyond the point of delivering the project
+	- Make sure it functions as intended
+	- **Office Green**
+		- Even though the launch might be successful, have to wait to make sure there are no unintended issues
+		- Such as things may be dying
+	- Make sure to wait for the "land", as that is the main form of success
+	- Make sure to define what a successful landing looks like for a particular project
+
+
+## Defining Success Criteria
+> [!info] Adoption - Definition
+> Adoption refers to how the customer uses and adopts a product or service without any issues
+
+> [!info] Engagement - Definition
+> Refers to how often of meaningful customer interaction and participation is over time
+
+
+- **Success Criteria**
+	- Tells you whether or not the project was successful
+	- Specific details of project goals, deliverables, requirements, and expectations
+	- The standards by which the project will be judged once it's been delivered to stakeholders
+	- Should clarity, and may bring to light questions and areas of disagreement
+	- **Key points**
+		- Identify the measurable aspects of the project
+			- How will I know when it is successfully accomplished?
+		- Get clarity from stakeholders on the project requirements and expectations
+			- Ask questions, and make sure you know who says when it is successful, and what criteria it may be judged on
+			- Document and share all of it
+	- **Officegreen**
+		- Increase revenue by 5% by the end of the year
+		- Website
+		- Not enough to just make a list of criteria, create a process by measuring success
+			- make adjustments, and ensure success
+		- Some may use more than one
+		- Metrics should be closely aligned to goal
+			- Happiness metrics
+				- Satisfaction
+				- Ease of use
+				- can use surveys
+					- 83% of customers be happy
+		- Measure with a team, while it's in progress
+			- Hold a project review once a month
+			- Have team members complete tasks with certain deadlines
+			- Hold live feedback sessions with customers and users
+	- Include methods for how success will be measured, how often it's measured, and who's responsible for measuring it
+	- Have the appropriate stakeholders sign off on the success criteria
+	- Defining success criteria should create greater alignment within the team and give everybody better visibility into how to achieve success
+
+## Tracking and communicating success critiera
+![[Pasted image 20230203081521.png]]
+- **Success Criteria**
+	- **Product Quality**
+		- The final product has it's own set of attributes that define it's success
+		- *Includes*
+			- Completeness in features
+			- Quality of features
+			- Unit cost
+			- Usability
+			- etc.
+		- Applies to any project where you deliver a product or tangible outcome
+		- Create a list of product requirements
+		- **Metrics**
+			- Track if you implemented the product’s priority requirements
+			- Track and assess the product’s number of technical issues or defects
+			- Measure the percentage of features you delivered or released at the end of the project
+	- **What is important to the customers or stakeholders**
+		- Be mindful of stakeholder and additional customer expectations
+		- Follow any strategic goals set by the company
+		- Make sure that each component of the project is able to meet customer and stakeholder expetations
+		- Strategic goals often tie back into the business case, adn the reason you initiated the project in the first place
+		- **Metrics**
+			- Evaluating user engagement with the product 
+			- Measuring stakeholder and customer satisfaction via surveys
+			- Tracking user adoption of the product by using sales data
+	- **Document, align, and communicate success**
+		- Understanding where we are and where we we are going
+		- Get clarity from stakeholder on the project requirements and expectations
+			- Many people involved with any project, and success will look different for each of them
+		- *Questions*
+			- Who ultimately says whether or not the project is successful?
+			- What criteria will be measured to determine success?
+			- What is the success of this project based on?
+		- Get key stakeholder 
+
+## Using OKRs to evaluate progress
+![[Pasted image 20230203090222.png]]
+- **OKRs**
+	- ![[Pasted image 20230203090229.png]]
+- **Communicating and tracking OKRs**
+	- **Share OKRs**
+		- Once you have created OKRs, it is important to communicate them to the team so that everyone knows what to do
+		- Allows for focusing and aligning efforts
+	- **Assign owners**
+		- Make sure someone is responsible for each key result, so that everyone knows who is responsible for what
+		- Adds clarity, and increases accountability
+- **Measuring Progress**
+	- **Determine how you will score your OKRs**
+		- Can be scored as a percentage of the objective completed
+		- Can be scored as the completion of certain milestones
+		- On a scale of 1-10
+		- Traffic light scale
+			- Red: no progress
+			- Yellow: some progress
+			- Green: completed objective
+		- Yes/No methods
+			- yes: achieved objective
+			- no: didn't achieve objective
+		- Scale
+			- example
+				- "launch 6 features"
+				- Only launched 3
+				- Therefore score of 0.5
+			- Score ranges from 0.0 - 1.0
+	- **Set scoring expectations**
+		- Expectations can be set from 0.6-0.7 (60-70% completed) across all OKRs
+		- Lower scores may indicate that the OKRs are too ambitious
+		- Higher scores may indicate that it is not challenging enough
+	- **Schedule checkpoints**
+		- Regularly communicate the status of project OKRs with the team and senior managers
+		- A monthly check-up can help, and make sure that goals and objectives have not changed
+## Defining project scope
+- **Project Scope**
+	- Boundaries of a project
+	- Agreed upon understanding on what is included and excluded from the project
+	- Who the project is delivered to
+	- Who is using the project
+	- The project's complexibility
+		- Complex or straightforward?
+	- Project timeline
+	- Budget
+	- Resources
+	- **Office Green**
+		- **Plant Pals**
+			- Small low maintenance plants such as cacti and ferns
+			- Can order online or on a catalogue
+			- Will be shipped to them
+		- **Scope**
+			- Will you provide replacement plants
+			- Who will it be offered
+			- Catalogue physical, website?
+			- How will they order?
+			- Dimensions of the catalogue
+			- Black and white
+			- etc.
+	- Speak with sponsors and stakeholders, to see what they want
+	- Also learn what is not included in the project
+	- **Questions**
+		- Where did the project come from?
+		- Why is it needed?
+		- What is the project expected to achieve?
+		- What does the project sponsor have in mind?
+		- Who approves the final results?
+
+## Gathering information to define scope
+- Defining scope
+	- **Ask scope defining questions**
+		- ![[Pasted image 20230129214957.png]]
+
+## Monitoring and maintaining a project's scope
+> [!info] In-scope - Definition
+> Tasks that are included in the project plan and contribute to the project's goal
+
+> [!info] Out-of-scope - Definition
+> Tasks that are not included in the project plan and don't contribute to the project's goal
+
+> [!info] Scope creep - Definition
+> Changes, growth, and uncontrolled factors that affect a project's scope at any point after the project begins
+
+- **Project scope**
+	- Point out when things take too much time and too much money
+	- Try to avoid scope creep
+		- Although it is good to avoid, if it is something small, and can provide a lot of value, can be worth it
+		- Sometimes unavoidable, especially when coming from stakeholders and sponsors
+		- Although good to be firm, as it can go against the budget and resources
+	- **Sources**
+		- **External**
+			- Customer request
+			- Environment shifts
+			- Tech changes
+			- **Solutions**
+				- Stakeholders have visibility into the project
+				- Know what is being produced, timeline, costs, etc
+				- Get clarity on project requirements
+				- Set ground rules and expectations for stakeholder involvement
+				- Create a plan for dealing with out-of-scope requests
+				- Put your agreements and plans in writing
+		- **Internal**
+			- Product improvements
+			- Process changes
+			- Anytime a team member takes on an extra task, losing time and resources
+			- Maintain limits, and keep everything just at the scope
+			- Protect it at all costs
+
+## Strategies for controlling scope creep
+- **Best practices**
+	- **Define your project’s requirements.** 
+		- Communicate with your stakeholders or customers to find out exactly what they want from the project and document those requirements during the initiation phase. 
+	- **Set a clear project schedule.** 
+		- Time and task management are essential for sticking to your project’s scope. Your schedule should outline all of your project’s requirements and the tasks that are necessary to achieve them.
+	- **Determine what is out of scope.** 
+		- Make sure your stakeholders, customers, and project team understand when proposed changes are out of scope. Come to a clear agreement about the potential impacts to the project and document your agreement. 
+	- **Provide** **alternatives.** 
+		- Suggest alternative solutions to your customer or stakeholder. You can also help them consider how their proposed changes might create additional risks. Perform a cost-benefit analysis, if necessary.
+	- **Set up a change control process.** 
+		- During the course of your project, some changes are inevitable. Determine the process for how each change will be defined, reviewed, and approved (or rejected) before you add it to your project plan. Make sure your project team is aware of this process.
+	- **Learn how to say no.** 
+		- Sometimes you will have to say no to proposed changes. Saying no to a key stakeholder or customer can be uncomfortable, but it can be necessary to protect your project’s scope and its overall quality. If you are asked to take on additional tasks, explain how they will interfere with the budget, timeline, and/or resources defined in your initial project requirements. 
+	- **Collect** **costs for out-of-scope work.** 
+		- If out-of-scope work is required, be sure to document all costs incurred. That includes costs for work indirectly impacted by the increased scope. Be sure to indicate what the charges are for.
+
+## Managing changes to a project's scope
+- **Project Scope**
+	- Deliver within the project's scope agreements
+	- Within the given deadline, and approved budget
+	- May need to make compromises, and weigh up trade offs, as situations arise
+	- Every time a team member is doing something else apart from the task, more than just time is lost
+	- **Triple constraint model**
+		- ![[Pasted image 20230129221403.png]]
+		- Three most significant restrictions of any project
+		- **Time**
+			- Timeline
+			- Schedule
+			- Deadlines
+		- **Cost**
+			- Budget
+			- Resources
+			- People that will work on it
+		- **Scope**
+			- The limitations of the project's boundaries
+		- A change in any of the three has an affect on the other
+			- A decrease in budget affects the time and scope
+		- Look at what you are willing to trade off
+			- Such as if there is a specific deadline that must be met, need to limit any changes to the scope
+			- Must look or function a certain way
+				- Scope is a priority, justify changes in time or cost
+		- Just because you can make a change doesn't mean you should make a change
+		- You are able to ask stakeholders and project sponsors
+		- **Office Green**
+			- Wants to have a pot that will tell you when to water it
+			- ![[Pasted image 20230129221837.png]]
+			- Can extend the timeline to compensate
+			- A request has been made to reduce budget, without changing scope
+				- ![[Pasted image 20230129221926.png]]
+			- Finish early
+				- ![[Pasted image 20230129221939.png]]
+
+## Introduction: Working effectively with stakeholders
+> [!info] Stakeholders - Definition
+> People who are interested in and affected by the project's completion and success
+- **RACI charts**
+	- ![[Pasted image 20230204203350.png]]
+
+## Accessibility for project managers
+> [!info] Accessibility - Definition
+> Actively removing any barriers that might prevent persons with disabilities from being able to access technology, information, or experiences, and levelling the playing field so everyone has an equal chance of enjoying life and being successful
+- **Accessibility**
+	- Should be at any role of a company
+	- Over 1 billion people have a disability
+	- Diverse and intersectional
+		- Could be born with, or developed later on
+	- Could be permanent, to temporary, or situational
+		- Deaf, broken leg, using a remote in the dark (respectively)
+	- Communicate freely
+		- Make sure to ask, and have other people comfortable to ask what they need
+		- Try and deliver where you can
+	- As a project manager, you are responsible for making sure a group of people can come together to achieve a common goal using shared tools and systems
+	- Make sure the infrastructure and culture works for everyone
+
+## Choosing a project team
+- **Project Team**
+	- Consider and outline needs
+	- Choosing the right people for the team is a big task
+	- The people that do the actual work on the project
+	- **Key Questions**
+		- How many people do I need on my team each step of the way?
+		- Which team members do I need and when?
+		- Are those experts already busy on other projects?
+		- Who makes the final decisions on project resources?
+	- **Consider**
+		- **Required roles**
+			- Accountable for specific tasks in the project life cycle
+			- Home Construction Project Team
+				- Includes roles such as
+					- Architect
+					- Site manager
+					- Construction workers
+		- **Team size**
+			- Small projects, may only need 3-4 people to complete the project in time
+				- Might not be enough people to finish the deliverables on time
+			- Large projects may need dozens
+				- Communication can become difficult
+				- Someone can miss important details
+		- **Necessary Skills**
+			- To see who should do what
+			- Remember that skills can be taught
+				- Just because someone doesn't have the skills initially, it doesn't mean they wouldn't be a good fit for the team
+				- Could bring a positive attitude, and attention to detail
+				- Make sure they are trained in time so they don't cause any project delays
+		- **Availability**
+			- Maybe staffed on a different project
+			- Make sure that it is relevant for the staff member
+				- Such as giving them the visibility needed for a promotion
+		- **Motivation**
+			- Key ingredient to great work
+			- Pick people who are excited to get to work
+	- **Office Green**
+		- Ask about staff experience
+		- Availability
+		- Workspace
+		- Team member workload on other projects
+		- **Questions to ask**
+			- Who on the team has office landscaping experience?
+			- Who is local to the city where the launch will happen?
+			- Who will be fully dedicated to the project for the next 8 weeks?
+		- No exact formula
+			- Makes it tricky
+		- Look deeper into each part of the project
+
+## Review: The building blocks of a project dream team
+![[Pasted image 20230205130207.png]]
+- **Project Dream team**
+	- **Too big, too small, or just right?**
+		- Dependant on the size of the project
+		- Complex projects with large divisions of work will require larger project teams
+		- Simple projects with straightforward expectations may only require a few people on the project team
+	- **The right skills and abilities to fill the role**
+		- Multiple roles may be assigned to one person
+			- Especially in a smaller team
+		- May require those with necessary technical skills
+			- Specific skills for the task being performed
+			- *Office Green*
+				- Indoor landscaping design for the layout of plants
+				- Floral design of plant arranging
+		- Interpersonal skills are also highly valuable
+			- People skills/soft skills
+		- **Problem Solving skills**
+			- Being able to solve problems in a large complex project is vital
+			- Need to use their own judgement to get the job done
+		- **Leadership skills**
+			- Help team members navigate organisational boundaries and effectively communicate with stakeholders to generate buy-in
+	- **Who is available?**
+		- Especially true in Matrix organisations
+			- Team members being able to have multiple bosses
+		- May not be able to keep a team member for the entire project
+		- May not be able to pick the team members you want to for your project
+		- May have to use team members picked by the project sponsor
+		- Have a diverse team
+			- Allows for different viewpoints
+			- and different lines of thinking
+		- Dedicate time early on in the team to develop trust between the team members
+	- **What motivates them?**
+		- Make sure to take note of the motivation level of team members, and engage them to keep them motivated
+		- Keep the team engaged and keep them ready to overcome any obstacles that may occur
+		- Maintaining a positive outlook with the team can keep them motivated
+
+## Defining project roles
+- **Project roles**
+	- Many moving parts
+	- Have confidence and trust that the people around you have the skills and motivation to do the work well
+	- Have clearly defined responsibilities for each role
+		- Makes sure everyone knows what they need to do
+	- Cannot complete the project on your own
+		- Make sure to have trust
+	- Project roles aren't always fixed
+		- Some team members may need to adapt, and take on multiple roles
+		- Most common in smaller companies, where you have to do multiple roles
+	- **Fixed Roles**
+		- ![[Pasted image 20230205131248.png]]
+		- **Project Sponsor**
+			- The person who's accountable for the project and who ensures the project delivers the agreed upon business benefits
+			- Vital leadership role
+			- Sometimes funds the project
+			- Communicate directly with managers and stakeholders
+		- **Team member**
+			- The people doing the work and making things happen
+		- **Users (customers)**
+			- The people who will get some value from a successfully landed project
+			- "Buyers" of the project
+			- **Customers vs Users**
+				- **Users**
+					- The people that use the product produced by your project
+				- **Customers**
+					- The people that will get some value from a successfully landed project
+			- **Example**
+				- Instant messaging platform
+				- Purchased by company ABC
+					- They are the customer
+				- Users are everyone within corporation ABC that will be using the software
+		- **Stakeholders**
+			-  Anyone involved in the project who has a vested interest in the project's success
+			- **Primary**
+				- Expected to benefit directly from the project's success
+			- **Secondary**
+				- Indirectly impacted by the project
+					- Could be contractors
+					- Members of a partner organisation
+			- Help define project goals and outcomes
+		- **Project Manager**
+			- The person who plans, organises, and oversees the whole project
+- **Office Green**
+	- Commercial plant company that does interior landscaping and plant design for offices and other commercial business
+	- New plant service
+		- SMART goal
+			- Roll out a new service to provide office plants to the top clients by the end of the year
+		- Plants need to be ordered and delivered every few days
+		- New clients will need to be familiarised with office green and it's procedures
+		- Ongoing updates for the app and website
+	- **Roles**
+		- **Project Sponsor**
+			- *Director of Product*
+				- Approves the project budget
+				- Makes sure everything stays aligned with the vision
+				- Inexpensive, and easy to maintain live plants are provided in order to improve the employee work experience
+		- **Team members**
+			- Cross-discipline team
+			- *Marketing team*
+				- Assigned some people to the team
+				- Need to tell people about this new service
+			- *Website designer, Landscape designer*
+				- Example of where a team member can play more than one role
+		- **Project Manager**
+			- *you :)*
+				- Managing information
+				- Managing Schedule
+				- Managing People
+		- **Customers**
+			- Buyers at offices
+				- Those who might be interested in Office Green services
+				- Such as office managers and procurement team
+		- **Users**
+			- Employees that work at the offices
+			- As they are the ones actually using the plants
+		- **Project Stakeholders**
+			- *Investors*
+				- Helping to fund the new service launch
+			- *Receptionist*
+				- Answer a lot of customer questions
+
+## Essential project roles
+- **Project Roles**
+	- **Project Manager**
+		- ![[Pasted image 20230205133502.png]]
+		- Responsible for the overall success of the team and project
+		- Paying close attention to team dynamics is essential
+		- *Techniques used*
+			- Team building techniques
+			- Motivation
+			- Influencing
+			- Decision-making
+			- Coaching skills
+		- *Integrating project work*
+			- Developing project management plan
+			- Directing the work
+			- Documenting reports
+			- Controlling change
+			- Monitoring quality
+		- *Responsible for*
+			- Balancing the scope
+			- Balancing the schedule
+			- Balancing cost of the project
+				- All the above done by managing engagement with stakeholders
+		- *Managing stakeholders*
+			- Strong communication skills
+			- Political and cultural awareness
+			- Negotiation
+			- Trust-building
+			- Conflict management skills
+	- **Stakeholders**
+		- **Primary Stakeholders**
+			- Key stakeholders
+			- Directly affected by the outcome of the project
+			- *Includes*
+				- Team members
+				- Senior leaders
+				- Customers
+		- **Secondary Stakeholders**
+			- Indirectly affected by the outcome of the project
+			- *Includes*
+				- Project's point of contact in legal
+			- Although the project outcome may not affect them directly, the project itself would impact their work when they process the contract
+	- **Project team members**
+		- Considered to be primary stakeholders
+			- As they play a crucial role in getting the job done
+		- Team members will vary depending on the type, complexity, and size of the project
+		- Choosing team members with the right technical skills and interpersonal skills will be valuable as you work to meet your project goals
+		- If you are not able to select the team, build trust and create harmony within the team
+	- **Sponsor**
+		- Primary stakeholder
+		- Initiates the project, and is responsible for presenting a business case
+		- Signs the project charter
+		- Releases resources for the project manager
+		- Critical to communicate with the sponsor every step of the way
+		- Could be the CEO for example
+
+## Project Role Responsibilities
+- ![[Pasted image 20230205134826.png]]
+
+## Completing a stakeholder analysis
+> [!info] Stakeholder buy-in - Definition
+> The process of involving these people in decision making to hopefully reach a broader consensus  on the organisation's future
+- **Stakeholder Analysis**
+	- **Primary Stakeholders**
+		- People who will benefit directly from the project's success
+	- **Secondary Stakeholders**
+		- People who are indirectly impacted by the project's success
+	- Helps you see all the opportunities for success, and the risks
+	- Allows for you to see which stakeholders are taking on which responsibilites
+	- Helps include the right people in the important conversations
+	- *3 key steps*
+		- Make a list of all the stakeholders the project impacts
+		- Determine the level of interest and influence for each stakeholder
+			- **Influence**
+				- Measures how much power a stakeholder has and how much this stakeholder's actions affect the project outcome
+			- **Interest**
+				- How much are the needs of the stakeholder affected by the project operations and outcomes?
+		- Assess stakeholder's ability to participate and then find ways to involve them
+	- **Power Grid**
+		- ![[Pasted image 20230205150811.png]]
+		- 2x2 grid
+		- Assign each stakeholder's level of importance to the project
+			- Measuring their influence and interest
+		- The higher their level of influence and interest, the more important
+			- Without their support, will probably not be successful
+			- **Key stakeholders**
+				- Closely partner with them
+		- Everyone gets a spot in the grid
+		- Look above at the diagram, and treat as listed
+		- **Template**
+			- ![[Pasted image 20230205150853.png]]
+		- Different ways to involve stakeholders
+			- Meet with some stakeholders every day
+			- Some just periodic emails with updates
+		- **Stakeholder buy-in**
+			- Pay particular attention to high impact stakeholders
+				- Keep them in the loop
+				- Explain to them how this project will help them achieve their goals
+				- Have their support later on when any issues come up
+		- **Communicating with stakeholders**
+			- If you have 1 main stakeholder
+				- Likely to be highly important and influential
+				- Needs constant communication
+			- If you have numerous stakeholders
+				- Not as involved in the day-to-day tasks
+			- Overcommunicate early on so stakeholders can make decisions with as much information as possible
+			- Send daily end of day progress emails
+			- Think about the amount of project detail every stakeholder needs
+			- Daily, weekly, monthly check-ins
+
+## Prioritising stakeholders and generating their buy-in
+- **Conducting a stakeholder analysis**
+	- **Key Steps**
+		1.  **Make a list of all the stakeholders the project impacts.** 
+			- *Questions to ask* 
+				- Who is invested in the project? 
+				- Who is impacted by this project? 
+				- Who contributes to this project? 
+		2. **Determine the level of interest and influence for each stakeholder**
+			- Determine who your key stakeholders are. 
+			- The higher the level of interest and influence, the more important it will be to prioritize their needs throughout the project. 
+		3. **Assess stakeholders’ ability to participate and then find ways to involve them.** 
+			- **Active Stakeholders**
+				- More opinions and touchpoints
+			- **Passive Stakeholders**
+				- Preferring only high-level updates and not involved in the day-to-day
+			- Just because some stakeholders don't participate as directly, doesn't mean they aren't important
+			- Many different factors that can influence the stakeholder's ability to participate
+				- Physical distance from the project
+				- Existing workload
+	- **Steering committee**
+		- A collection of key stakeholders who have a high level of power and interest in a project
+		- Can influence multiple departments within an organisation
+			- Potential to release a greater number of resources to the project manager
+	- **Visualising Analysis**
+		- **Power grid**
+			- ![[Pasted image 20230205154232.png]]
+			- Shows stakeholder interest in the project versus their influence over the project
+			- Allows for evaluating how to manage their stakeholders
+			- Used to determine the appropriate level of engagement required by the project team to gain the stakeholder's buy-in and trust
+			- Make sure to take into account each individual project, as they all will be different
+	- **Generating stakeholder buy-in**
+		- Make decisions on whose buy-in is absolutely necessary for success, whose requirements deserve the most attention, and what level of communication each stakeholder will require
+		- **Tips**
+			- Clearly mapping the work of the project to the goals of the stakeholder
+			- Describing how the project aligns with the goals of the stakeholder's department or team
+			- Listening to feedback from the stakeholder and finding ways to incorporate their feedback into the project's charter where appropriate
+	- **Optional Reading**
+		- [We Asked the Project Management Community: What Steps Do You Take To Identify and Prioritize All Stakeholders at the Start of a Project? (pmi.org)](https://www.pmi.org/learning/library/identify-prioritize-stakeholders-11408)
+
+## Stakeholder Interviews
+- **Suggested Questions**
+	- What are your most important priorities/goals?
+	-   How will this initiative/project support you and your most important priorities?
+	-   What role would you like to play within this initiative/project?
+	-   Here’s how I plan to keep people informed; does that work for you?
+	-   What can I clarify for you?
+	-   What are your expectations? What would you like for the project to accomplish?
+	-   What would success look like for you?
+	-   Who else do you recommend I reach out to about this initiative?
+	-   What information or insights do you have that might be challenging for me to find?
+	-   Where do you see me getting support for this initiative? Facing resistance?
+	-   What additional thoughts/questions do you have?
+
+## Elements of a RACI chart
+> [!info] RACI Chart - Definition
+> Helps define roles and responsibilities for individuals or teams to ensure work gets done efficiently
+- **RACI chart**
+	- ![[Pasted image 20230205213736.png]]
+	- **RACI Chart principles**
+		- **Responsible**
+			- Those doing the work to complete the task
+		- **Accountable**
+			- Those making sure the work gets done
+		- **Consulted**
+			- Those giving feedback, like subject matter experts or decision makers
+		- **Informed**
+			- Those just needing to know the final decisions or that a task is complete
+	- **Role confusion**
+		- *Unbalanced workloads*
+			- Some people might be doing more or less work compared to other people on the team
+		- *Unclear hierarchy*
+			- People aren't sure who to seek help from if a task doesn't get done
+		- *Unclear ownership decisions*
+			- Unsure who makes the final call on a project
+		- *Overlapping work*
+			- Multiple people are responsible for the same work
+		- *Excessive communication*
+			- Too much can make things more complicated
+			- Cause information overload
+				- Not too sure what to pay attention to
+		- RACI can help resolve/avoid all this
+
+## Building out a RACI chart
+- **RACI Chart**
+	- **Elements of a RACI chart**
+		- **Responsible**
+			- *Who gets the work done*
+			- Those who are actually doing the work to complete the task
+			- At least one is needed
+			- Try and limit the amount of people you have assigned to "responsible"
+				- Although you may need more than one
+			- *Questions*
+				- What department does the work fall under?
+				- Who will perform the work?
+			- *Office Green Example*
+				- Task is to develop price points
+				- Therefore will list Financial Analyst
+				- ![[Pasted image 20230205215505.png]]
+		- **Accountable**
+			- *Who makes sure the work is done*
+			- Only have one individual accountable for each task
+			- Helps clarify ownership for the task
+			- Ultimately has the authority to approve the deliverable to the responsible party
+			- *Questions*
+				- Who will delegate the task to be completed?
+				- Who will delegate the task to be completed?
+			- May encounter a situation where the responsible party is accountable
+				- Try and avoid this where possible to avoid confusion of ownership
+			- *Office Green Example*
+				- Head of finance will be assigned here
+				- Has to make sure the project stays on budget and creates a profit anyways, so needs to approve the Financial Analyst's work
+				- ![[Pasted image 20230205215751.png]]
+		- **Consulted**
+			- *Who gives input or feedback on work*
+			- Have useful information to help complete the task
+			- No maximum or minimum amount of people that can be here
+			- Important that each person has a reason for being there
+			- *Questions*
+				- Who will the task impact?
+				- Who will have input or feedback for the responsible person to help the work be completed?
+				- Who will have input or feedback for the responsible person to help the work be completed?
+			- Consulted people will be in frequent, two-way communication with the responsible party
+				- Make sure that the right people are in this role to help accomplish the goal efficiently and correctly
+			- *Office Green example*
+				- Have the director of product be consulted
+				- As they oversee all product offerings
+					- Have knowledge about the product, and any potential changes, and how this can affect price points
+				- ![[Pasted image 20230205220213.png]]
+		- **Informed**
+			- *Who needs to know the outcome*
+			- Just need to know the final decisions, and when the item is completed
+			- Common to have many people assigned to this role
+			- Will not be asked for feedback
+				- so make sure that anyone here only requires status updates and does not need to provide any direct feedback for the completion of the task
+			- As a lot of people may be in this section, make sure it is not labour intensive to get  the information out
+				- Something as simple as a read only version of the planning document is good
+			- *Questions*
+				- Who cares about this task’s completion?
+				- Who will be affected by the outcome?
+			- *Office Green*
+				- Let the sales team know what has been happening, and also keep them informed on any progress
+				- ![[Pasted image 20230205220509.png]]
+	- **RACI chart example**
+		- One a bit above is an example
+		- Here is another one
+		- ![[Pasted image 20230205215156.png]]
+
+## Getting the most out of a RACI chart
+- **RACI charts**
+	- **Definition and Structure**
+		- Determining the graph allows for you to keep in control of the project
+		- ![[Pasted image 20230205224851.png]]
+	- **Workload balance**
+		- Try not to assign too many tasks to one stakeholder
+		- Good idea to go back and track how many "R"s are assigned to each stakeholder
+		- Helps you avoid overloading a single member in the team
+		- A RACI chart can help mitigate single points of failure (aka *Silos*, where knowledge and responsibility for a task falls on a single person)
+			- Therefore distribute tasks to avoid burnout
+		- Try not to rely just on top performers to keep the project moving forward
+			- If you find yourself doing so, step back and revaluate your team
+	- **Put your RACI into practice**
+		- Share RACI with sponsors and stakeholders to get buy-in and it signed off
+		- When you get stakeholder buy-in, can set clear expectations for the team, and make sure everyone is aligned with their responsibilities
+		- Document your team and stakeholder's acknowledgement of expectations through the project charter, meeting notes and in the RACI
+		- Makes sure to continually check in with stakeholders and your team
+	- **When should you use a RACI chart?**
+		- Use it for larger, more complex projects
+		- Might just slow down smaller projects
+		- Projects which have a large amount of stakeholders would benefit
+		- Even if you don't use it, it allows for a much larger level of understanding
+			- Can help for a better project management experience
+
+## Why Projects fail: Initiation missteps
+- **Projects failing: Initiation Mistakes**
+	- ![[Pasted image 20230205232303.png]]
+	- **Unclear expectations**
+		- *Questions*
+			- What is the end goal?
+			- What are the expected deliverables and schedule?
+			- What is the budget?
+			- Who are the stakeholders?
+		- Not taking the time at the beginning of the project to answer these questions can bring headaches down the line
+	- **Unrealistic expectations**
+		- Although good to impress managers, try not to be too unreasonable from the start
+		- Give yourself enough time and resources to complete the task comfortably
+		- Understand the requirements before agreeing to any deadline
+		- Best practice is to not commit to any firm deadlines while initiating to avoid setting any unrealistic expectations
+		- Will have more information and will be able to better manage expectations in the planning phase
+	- **Miscommunication**
+		- Clear communication is key
+		- Make sure it is communicated in a timely manner
+		- Make sure it includes pertinent information
+			- Risks
+			- Decisions made
+			- Scope changes
+		- Make sure it is sent to the correct stakeholders
+		- Conduct a stakeholder analysis, and use a RACI chart
+		- Don't have to cater to everyone, but have to set clear expectations about how communication will occur
+		- Make sure to take some time to understand the communication needs of the team and stakeholders
+		- Set expectations for communications early on, so that everyone can have a clear understanding of how you will all communicate
+	- **Lack of resources**
+		- Resources include
+			- Team members
+			- Budget
+			- Materials
+		- Without proper planning, resources can be over-tasked or depleted
+		-  Have to account that staff can be juggling multiple things at the same time, and may not be able to dedicate their entire time to this one project
+		- Make sure to accurately calculate project expenses, and have some buffer room where possible
+	- **Scope Creep**
+		- Make sure that you know exactly what is and what isn't expected from the project's work and deliverables
+		- Defining scope helps identify any resources that are needed, any costs that can be associated with it, and the schedule
+		- Some projects fail due to the scope of the project growing too much
+		- Make sure that it is set very firmly, and meet with stakeholders to confirm exactly what is needed
+		- Make sure to know who has the authority to approve scope changes, and document everything
+	- **Extra reading**
+		- https://project-management.com/7-lessons-to-learn-from-a-failed-project/
+
+## Essential Project resources
+> [!info] Budget - Definition
+> An estimate of the amount of money a project will cost to operate
+
+> [!info] Tools - Definition
+> Aids that make it easier for a project manager or team to manage resources and organise work
+- **Project Resources**
+	- **Types of Project Resources**
+		- **Budget**
+			- An estimate of the amount of money a project will cost to operate
+			- Every project has expenses
+			- Hiring vendors to complete jobs
+			- Software that needs to be purchased
+			- Speak with stakeholder
+				- Figure out what tasks are needed to get the project done
+				- Ask questions to uncover hidden cost
+					- i.e. any taxes or extra fees for products
+				- Figure out any upcoming costs
+				- Track any money going in and out of the budget
+			- Put budget in a project charter
+		- **People**
+			- Those who help execute tasks in the project
+			- Can include people outside of the company, who may have skills which people inside the company do not have
+		- **Materials**
+			- Items you need to help get the project done
+				- Could be lumber to complete a construction project
+	- Figure out resources before starting
+	- Therefore can allow for avoiding being understaffed
+	- Able to set teammates up, to meet the project goals
+	- **Organising Project Resources**
+		- Use tools
+			- Asana
+			- Google Docs
+		- Essential for tracking progress
+		- Keep it at the top of your mind throughout the project
+		- *Office Green*
+			- Easy to care for plants
+			- Ordered online
+			- Print catalogue
+			- Shipped to the office
+			- Increase revenue by 5%
+			- *What to do?*
+				- Do research on how much it will cost to develop the project
+				- New promotional materials and website costs
+				- Budget for specific tools
+					- Such as project management tools
+				- Build a realistic budget
+				- Who is working with you?
+					- List of people and external vendors that will complete all the tasks
+
+## Managing resources to get the job done
+![[Pasted image 20230209092903.png]]
+- **Managing resources**
+	- **Budget**
+		- *Team*
+			- The cost of people performing the work
+		- *Services*
+			- Any outside vendors helping your project
+		- *Materials*
+			- Any tangible items purchased to complete the project
+	- **People**
+		- Rely on a strong team of people with a variety of skill sets
+		- Commitment and buy-in on the number of hours it will take for your resources to complete their tasks
+		- Find the best partners who are aligned to the goals of the project
+			- Or who are most interested in the project's work
+	- **Materials**
+		- Different on any project
+		- Can be tangible or intangible
+			- i.e. software or hardware
+		- Account for all of this in your budget
+
+## The Value of project documentation
+- **Project Documentation**
+	- Although may not be your job to do final decisions, is your job to do all the planning
+	- **Project Planning**
+		- Identifying project goals and deliverables
+		- Choosing the right people to add to the team
+	- Too much for someone to keep track off
+	- Important for anyone that is affected by any decisions to be well informed
+	- Documentation is such an important part of a project role
+	- Clear and consistent documentation can ensure transparency and clear communication
+	- Helps set the stage for the project
+	- **Goals of documentation**
+		- What problem are you trying to solve?
+		- What are the project goals?
+		- What are the scope and deliverables, and who are the project's stakeholders?
+		- What resources does the team need to complete their work?
+	- Helps preserve decisions made early on in the project
+		- Reference later for those that join later on
+	- Documenting decisions can help you uncover tasks, timelines or costs you hadn't previously considered
+	- Provides a historical record that can be reviewed at the end of the project
+
+## Project proposals and charters 101
+> [!info] Project proposal - Definition
+> A form of documentation that persuades a stakeholder to begin a project
+
+> [!info] Project Charter - Definition
+> A form of documentation that clearly defines the project and outline the necessary details needed to reach its goals
+- **Project proposals and charters**
+	- **Project proposal**
+		- Persuade stakeholders that they should start a project
+		- Senior members of an organisation might make 
+		- Able to help understand the impact of the project
+		- *Could be*
+			- A formal document
+			- A presentation
+			- A simple email to get others onboard
+		- Created earlier than the project charter
+		- Kicks off the initiation phase by influencing and persuading the company to move forward with the project
+		- Only use at the earliest ages
+	- **Project charter**
+		- Helps you get organised
+		- Helps you set up a framework for what needs to be done
+		- Communicate those details with others
+		- Comes at the end of the initiation phase
+		- Goal is to clearly define the key details of the project
+		- Point of reference throughout the life of the project
+		- Makes clear that the benefits of the project outweigh the costs of the project
+		- **Cost benefit analysis**
+			- Business value created?
+			- Money saved?
+			- Time invested?
+		- Include answers for cost benefit analysis in the project charter
+		- Helps ensure that you and your stakeholder agree on the details of the project
+		- Management is supportive, if the charter is approved
+		- After the charter is approved, you have authority to move on with the project
+		- Tailor to the stakeholders
+			- If chief of marketing, talk about how it will impact the brand
+			- If chief of technology, talk about engineering resources needed to maintain the project
+		- Creating a project charter is a best practice for ensuring that everyone agrees on how to move forward before entering the planning phase
+		- Living document
+			- Can evolve as the project progresses
+			- Can review and refine it as the project progresses
+
+## Project charters: Elements and formats
+- **Project Charters**
+	- Formal way that a project's goals, values, benefits and details are captured
+	- Stakeholders can look to the project charter to see if the desired end goal is on track
+	- Important to incorporate the right amount of detail, while omitting miscellaneous elements
+	- Collaborate with your team and stakeholders early and often
+	- Use the business case (the reason for initiating the project) within the project charter
+	- **Key points in a project charter**
+		- introduction/project summary
+		- goals/objectives 
+		- business case/benefits and costs
+		- project team
+		- scope
+		- success criteria
+		- major requirements or key deliverables
+		- budget
+		- schedule/timeline or milestones
+		- constraints and assumptions
+		- risks
+		- OKRs
+		- approvals
+	- Short and simple charters are good for smaller projects
+		- ![[Pasted image 20230210091803.png]]
+	- Larger projects may need to link to additional analysis or documents
+	- Can house these items in an appendix
+	- Remember that changes can happen in the project charter, and therefore is important to change it time goes on
+
+## Developing a project charter
+- **Project charter**
+	- Many different templates
+	- Using a Google template for the next project
+	- **Project Green**
+		- *Name of the project*
+			- Project Plant Pals
+		- *Brief summary*
+			- Our plan is to offer high volume customers small, low maintenance plants that can thrive in an office environment
+		- **Project goals**
+			- *SMART goals*
+				- Increase revenue by 5% by rolling out a new service that provides office plants to top clients by the end of the year
+			- *Project deliverable*
+				- Send 1000 plants to 100 customers
+				- Launch a new website for orders and customer support
+			- *Business case*
+				- Reason for starting the project
+				- This is a top requested service from our customers, nd will improve customer satisfaction and retention
+				- *Cost benefit analysis*
+					- Should be more detailed than this
+					- Make sure benefits outweigh costs
+					- *Gain*
+						- Improved customer satisfaction
+						- Increased revenue
+					- *Costs*
+						- Sourcing products 
+						- Developing a website
+						- Marketing materials
+					- *Budget*
+						- $250,000
+			- *Project Scope*
+				- Agreed upon understanding about what is included, and what is excluded from the project
+				- *In Scope*
+					- We'll create a service to deliver small plants to last year's top clients
+				- *Out of Scope*
+					- Plant care after they are delivered
+			- *Project Team*
+				- *Project Sponsor*
+					- Director of Product
+				- *Project Lead*
+					- Me :)
+				- *Project Team*
+					- Marketing Associates
+					- Website developers
+					- Plant vendors
+				- *Additional Stakeholders*
+					- VP, Customer Success
+					- Account manager
+					- Fulfilment Manager
+			- *Measuring Success*
+				- *What is acceptable?*
+					- 5% revenue increase by the end of the year
+					- Customer satisfaction rate of 95% 3 months after launch
+
+## Identify: Components of a project charter
+- **Project Charter Example**
+	- **Executive Summary**
+		- *Project overview*
+			- Our plan is to add a line of replacement laces that will stay tied during athletic activity.
+	- **Project Goals**
+		- *SMART objective 1*
+			- Increase overall revenue by 3% by the end of fourth quarter by releasing our new athletic shoelaces.
+		- *SMART objective 2*
+			- Gain 2,000 new social media followers from the running community prior to launch.
+	- **Deliverables**
+		- *Major requirements*
+			- Design slip-proof shoelace weave.
+			- Manufacture 12,000 pairs of athletic shoelaces.
+			- Increase brand awareness in the running community.
+	- **Business Case**
+		- *Why are we doing this?*
+			- Customer research reveals this as an untapped opportunity in the market, with the potential to win loyalty among a demographic obsessed with finding the best gear.
+	- **Benefits and Costs**
+		- *What we'll gain/pay*
+			- *Benefits*
+				- Add new product to our lace line, leading to 3% revenue increase, increased brand awareness and customer loyalty
+			- *Costs*
+				- Price of materials, design, and prototyping
+				- Adding laces to inventory software
+			- *Budget needed*
+				- $525,000
+	- **Scope and exclusion**
+		- *What's in- and out-of-scope*
+			- *In-scope*
+				- Product development, prototyping, manufacturing, marketing
+			- *Out-of-scope*
+				- Vendor contracts, delivery to customers
+	- **Project Team**
+		- *Stakeholders*
+			- *Project Sponsor*
+				- Director of merchandise
+			- *Project Lead*
+				- Project manager (you)
+			- *Project Team*
+				- Shoelace designer
+				- Prototyper
+				- Quality assurance tester
+			- *Additional stakeholders*
+				- Director of market research
+				- Marketing manager
+				- Sales manager 
+				- Director of online sales
+	- **Measuring Success**
+		- *What is acceptable*
+			- 3% increase in revenue by the end of the fourth quarter
+			- 5% increase in new customers three months after product launch
+
+## Utilising tools for effective project management
+- **Tools for project management**
+	- Tools are some of the most helpful resources
+		- Aids that make it easier for a project manager or team to manage resources and manage work
+	- Important for tracking progress
+	- **Importance for tools**
+		- May not be able to choose
+			- Work with what they give you
+			- Make sure you are flexible
+		- Can help track detailed information about all kinds of tasks and make it easy to communicate with lots of different people
+		- Effective communication and tracking are large parts of day-to-day tasks
+		- **Office Green**
+			- Tons of information to provide
+			- Instead of using a whiteboard (whereby everyone has to go by your desk), use something like a Google Doc
+				- Store the information on an online resource as it allows for quicker accessibility, and for it to be updated in real time
+		- Information can go both ways
+			- Where team mates can communicate with you, as much as you do with them
+			- Avoids the need for extra meetings and phone calls
+		- **Tools help you**
+			- **Track task deadlines**
+				- Is it on time, or delayed?
+				- Lets you quickly see what any changes will do to the project
+			- **Provide visibility for everyone, including stakeholders**
+				- *Examples*
+					- monday.com
+					- g suite
+					- Jira
+					- Smartsheet
+			- **Manage a budget**
+			- **Create helpful diagrams**
+			- **Manage contracts**
+		- **Simple vs Sophisticated**
+			- **Simple**
+				- Things such as a google doc
+				- Easy to use, and intuitive
+				- Limited capability
+				- Good for smaller projects
+			- **Sophisticated**
+				- Things like a scheduling software
+				- Good for larger projects, and a larger scope
+				- Takes some time for everyone to get used to the software, and this should be accounted for
+
+## Introducing new tools to a team
+![[Pasted image 20230212141417.png]]
+- **How to introduce new tools**
+	- **Discuss the tool early and often, if possible** 
+		- Make sure it isn't a surprise
+		- Make sure they know the change is coming as early as possible
+		- Will help them prepare for an introduction or migration to the new tool
+	- **Ask for feedback from key stakeholders** 
+		- Could get great feedback on features that you may have overlooked without asking for their expertise. 
+		- You can solicit this feedback by requesting their input about functionality or have them list features in order of priority.
+		- The key is to create an opportunity for stakeholders to provide their feedback and allow you to incorporate their feedback into next steps
+	- **Involve the key stakeholders in demonstrations as you get closer to making the final decision on the project tracking tool** 
+		- You will be able to leverage key stakeholders' acceptance by letting them test the product or sign up for a trial run. 
+		- It is also important to make sure that the tool is actually going to meet the mark and provide a meaningful change for the project. 
+		- You may want to pull in key users from your team to test and familiarize themselves with the tool prior to rolling it out. 
+		- This will allow the team to get on board with your plans or discuss their concerns beforehand. 
+		- This will also highlight in-house experts for future training, assistance, and implementation.
+	- **Ensure the tool is fully functional** **before** **the team is introduced to it.** 
+		- Whenever possible, hold off from introducing the tool if it still has any issues. 
+		- Make sure the tool is accessible for all users. 
+		- Keep in mind, your team members may resist a tool that doesn’t live up to how it is supposed to function. 
+		- This will impact implementation and acceptance fairly significantly, so put your best tool forward!
+	- **Set up training for the tool as needed** **before** **you ask the team to actually use it.** 
+		- Everyone has different levels of comfort with different tools. 
+		- It is your job as the project manager to ensure that each team members’ needs are addressed. 
+		- Setting up training also helps create positive first impressions, which will lead to higher productivity and quicker, more successful implementation and acceptance.
+
+## Exploring types of project management tools
+- **Types of project management tools**
+	- **Complex tools**
+		- **Scheduling and Work Management Software**
+			- Lots of work management software
+				- *Such as*
+					- Jira
+					- Asana
+			- Certain tools can work better for your project depending on factors such as
+				- Project methodology
+				- Number of tasks
+				- Number of people involved
+			- Useful for assigning tasks to multiple teammates
+			- Tracking progress on any work assigned
+			- Visualise team's progress
+			- More likely to see any patterns
+				- Such as 50 tasks on week 1, and 3 on week 2
+				- Then can check on where appropriate, and see what went wrong
+	- **Simple Tools**
+		- **Productivity Tools**
+			- Things that help you be more productive such as
+				- **Online shared documents**
+					- *Example*
+						- Google Docs
+						- Microsoft Word
+					- Allows for real time collaboration from anywhere, and can be viewed anywhere
+				- **Meeting agendas**
+				- **Status updates**
+				- **Spreadsheets**
+					- Versatile
+					- Can use them to make
+						- *RACI charts*
+						- *Project plans*
+					- Can be used to make a lot of charts
+				- **Presentations**
+					- Good way to present to stakeholders
+					- Good way to package project overviews in a visual, easily digestible way
+		- **Collaboration Tools**
+			- **Email and chat**
+				- Quickly and efficiently check in to questions, comment, and other communication about the project
+
+## Common project management tools
+- **Common project management tools**
+	- **Work Management Software**
+		- More efficient than manual project tracking
+		- **Asana**
+			- Work management platform
+			- *Helps to plan and coordinate work*
+				- From daily tasks to strategic initiatives
+			- *Living system, and source of truth*
+				- Everyone can see, discuss and manage team priorities
+				- Gives teams clarity on who is doing what, by when
+				- Good for building project plans
+				- Assigning tasks
+				- Automating workflows
+				- Tracking progress
+				- Communicating with stakeholders
+			- *Can create a log of tasks*
+				- Create tasks
+				- Assign them to people on the team
+			- *All tasks are visible and organised*
+				- Can be organised in whatever way the project manager chooses
+					- Like a list
+					- Or a calendar
+				- Designed to be transparent, with all the tasks related to the overall goal
+			- *Easy to use with external stakeholders*
+				- Within Asana, can share status updates and other communications with those outside of the company
+		- **Spreadsheet**
+			- Extremely versatile
+			- *Can be used in a wide range of tasks*
+				- From creating timelines
+				- Building charts
+				- Managing budgets
+				- Tracking tasks
+			- *Add and view project information*
+				- Depending on what you need in the moment
+				- Can sort easily
+					- Such as by due date, to see what is due next
+					- By name to see who has to do what
+					- etc.
+				- Transform, visualise and manipulate information
+	- Make sure you are familiar with a few pieces of software
+	- Keep in mind that options are always changing
+		- If you understand one tool deeply, can translate to others
+		- As a lot of similar features
+
+## Using Google Sheets for project management
+- **Google Sheets**
+	- **Essential Sheets features**
+		- **Collaboration**
+			- Easy to collaborate and share information
+			- *Permissions*
+				- **Editing**
+					- Allows others to make direct edits and changes to the file
+				- **Commenting**
+					- Allows others to add comments and make suggestions
+				- **View only**
+					- Allows others to view the file but not edit, comment, or suggest. 
+					- This is a good choice if you don’t want any changes to be made to the file.
+			- Can all collaborate by using comments
+			- Can assign tasks or action items using comments
+		- **Formatting Spreadsheet**
+			- *Resources*
+				- [Google Sheets cheat sheet - Google Workspace Learning Center](https://support.google.com/a/users/answer/9300022?hl=en)
+			- **Create lists**
+				- To create any list in Sheets, simply label each list
+					- for example, Name, Date, Notes, or other criteria—in the **header row**. 
+						- (The header row is the top row in the spreadsheet.) 
+				- Add a different list item in each cell underneath the list title. 
+				- Most lists are arranged vertically, but you might prefer a horizontal list depending on the types of items.
+			- **Display and hide content**
+				- **Freeze rows or columns**
+					- Freezing the header row (or column for horizontal lists) and formatting headers is a great way to make the list titles stand out.
+					- Freezing a header row keeps the row in place when you scroll down the list, so you can always see what the list titles are. 
+					- Format the headers just like you would text in a document by changing the font, style, size, or color.
+				- **Group and hide related content**
+					- Grouping rows and columns allows you to expand and collapse larger categories of data or information with a single click. 
+					- This makes your spreadsheet easier to read and manage by hiding the grouped data when it’s not needed, or quickly ungroup and show when it is needed.
+				- **Resources**
+					- [Freeze or merge rows & columns - Computer - Google Docs Editors Help](https://support.google.com/docs/answer/9060449?hl=en&ref_topic=9055295)
+			- **Add checkboxes**
+				- Checkboxes provide a quick and highly-visual way to track progress on a task or indicate whether certain criteria have been met.
+				- *Resources*
+					- [Add checkboxes to spreadsheets - Google Workspace Learning Center](https://support.google.com/a/users/answer/9308622?hl=en&ref_topic=9326428)
+		- **Organise Data**
+			- **Create dropdown lists**
+				- Ensures data is entered into the spreadsheet correctly
+				- Makes it much fasters for others to add data
+					- As they are choosing from pre-existing options
+				- *Resources*
+					- [Top 10 tips to clean up data - Google Workspace Learning Center](https://support.google.com/a/users/answer/9604139?hl=en#zippy=%2Clearn-how)
+			- **Add colour coding**
+				- Sometimes it’s helpful to change the colour of cells and text so you can quickly see how your project is progressing. 
+				- You can add colour coding to your spreadsheet by applying *conditional formatting*. 
+					- Conditional formatting formats cells in a certain way if they contain specific information. 
+					- For example, track progress status as “Not started” in red, “In progress” in orange, and “Complete” in green.
+				- *Resources*
+					- [See data changes with conditional formatting - Google Workspace Learning Center](https://support.google.com/a/users/answer/9308962?hl=en&ref_topic=9327402)
+			- **Add links**
+				- It can be helpful to link to other project documentation or even external websites in your spreadsheet. 
+				- This provides your team easy, centralized access to all relevant data they might need. 
+					- For example, you could add a link to your project charter document from your project plan spreadsheet.
+				- *Resources*
+					- [Work with links & bookmarks - Computer - Google Docs Editors Help](https://support.google.com/docs/answer/45893?co=GENIE.Platform%3DDesktop&hl=en#zippy=%2Ccreate-a-link)
+					- [Link to data in a spreadsheet - Google Workspace Learning Center](https://support.google.com/a/users/answer/9308662?hl=en)
+		- **Visualise data**
+			- **Create a pivot table**
+				- A *pivot table* is a basic data analysis tool. 
+				- Pivot tables summarize your data and can help show the relationships between data points, making it easier to understand all the information contained in your spreadsheet. 
+				- *Resources*
+					- [Create and edit pivot tables - Google Workspace Learning Center](https://support.google.com/a/users/answer/9308944?hl=en)
+			- **Make a chart or graph**
+				- Presenting data in charts and graphs is a great way to quickly and effectively summarize important information about your project to stakeholders and make reports and presentations more engaging. 
+				- Sheets enables you to automatically create different kinds of charts and graphs using the data in your spreadsheet.
+				- *Resources*
+					- [Insert and edit charts - Google Workspace Learning Center](https://support.google.com/a/users/answer/9308981?hl=en)
+		- **Perform calculations**
+			- **Use functions**
+				- *Functions* can be used to manipulate data and perform calculations. 
+				- Google Sheets has a wide array of functions that are already built in, which means they will automatically perform the calculations you specify.
+				- Use functions to quickly calculate sums or averages, automatically determine start or end dates, generate financial reports, and much more.
+				- *Resources*
+					- [Add formulas & functions - Computer - Google Docs Editors Help](https://support.google.com/docs/answer/46977?hl=en&ref_topic=9054531)
+					- [Google Sheets cheat sheet - Google Workspace Learning Center](https://support.google.com/a/users/answer/9300022?hl=en)
+	- **Useful Templates**
+		- [Google Sheets - Template Gallery](https://docs.google.com/spreadsheets/u/0/?ftv=1&folder=0AKrj08N1UHZqUk9PVA&tgif=c)
+		- **Name and Uses**
+			- **Project Timeline**
+				- [Project timeline template - Google Sheets](https://docs.google.com/spreadsheets/d/1Us-j-BAG3kiIJENBt3SqRXkJQL_TZh-yejJyZzq9L60/template/preview#gid=1709744959)
+				- A project timeline template is useful if you want to track an entire project from conception to close. 
+				- This example includes a visual timeline that lays out the life cycle of a project and the major activities that need to happen during each phase. 
+			- **Project Tracking**
+				- [Project tracking template - Google Sheets](https://docs.google.com/spreadsheets/d/12AK5slxygSxj8nmjS39SCnEFkCy8WZDbgN0vSQh2xwg/template/preview?resourcekey=0-__sqaWcGZavYWgXz-WD4jQ#gid=1161341563)
+				- A project tracking template is useful for tracking your project’s budget, deliverables, and other data. 
+				- This example includes columns for tracking costs and time, as well as a column with dropdown lists for tracking tasks’ priority levels. 
+				- Other features include formulas for calculating hours, costs, and percentage of deliverables completed, which allow you to track your spending and progress on a project.
+			- **GANTT Chart**
+				- [Gantt chart template - Google Sheets](https://docs.google.com/spreadsheets/d/1Yc1KA_7DMwBqyt2Zcx68HAV3oEp1FnUt-undm0XHgqM/template/preview?resourcekey=0-y-3VgQEbmAVaiEGfeyeJ-g#gid=1115838130)
+				- A Gantt chart combines many of the aspects of other types of project management spreadsheets into one. 
+				- It organizes tasks by day and is useful for showing the relationships between the many moving parts of a project. 
+				- It’s also helpful for managing a project with multiple collaborators. 
+				- Gantt charts often include conditional formatting that makes cells change color based on how far along the project is so you can immediately determine how much progress you have made on a particular task.
+			- **Event Marketing Timeline**
+				- [Event marketing timeline template - Google Sheets](https://docs.google.com/spreadsheets/d/10GindXMsW6z0pFvd5Ymjz_PS0dXJ5eCkl3KDKEPO9qY/template/preview#gid=541890420)
+				- A timeline template is useful for creating a schedule, tracking events, and visualizing the tasks and milestones involved in a project. 
+				- You might use this template to manage a project that involves a lot of marketing or public-facing tasks. 
+				- You can track social media posts, market research, and coordinate content across multiple platforms.
+		- **Creating Templates resources**
+			- [Create document templates - Google Workspace Learning Center](https://support.google.com/a/users/answer/9308885?hl=en)
+
+## Demonstrating your knowledge of project management tools
+![[Pasted image 20230212150925.png]]
+- **Demonstrating knowledge**
+	- *“How do you know if a project is off track?”*
+		- It’s important to tie this answer back to the types of scheduling tools you have learned
+		- Leverage any real life experiences you can
+	- **Planning for a move as experience**
+		- If so, you can discuss how you planned your timeline and scheduled vendors so that you could meet your move date. 
+		- Did you use a spreadsheet to keep track of your budget, schedule, and belongings?
+			- This experience demonstrates you understand how to use tools.
+			- It also demonstrates that you know the importance of creating, monitoring, and managing the project schedule to deliver results at project completion.
+	- *“How do you execute tasks within your timeline?”*
+		- Demonstrate your ability to be productive by sharing your experience with tools, such as digital documents or spreadsheets
+		- These tools help you create project artifacts, track tasks, and store project details in one place
+		- You can also use them as a collaboration tool because they are easily shareable with teammates and stakeholders and allow for real-time updates
+	- **Special Project Management tools**
+		- Project management tools such as 
+			- Asana 
+			- Monday.com
+			- Basecamp
+			- Trello
+		- Among some of the top ranked tools for managing projects.  
+		- These tools help you plan, track, and complete work across many project phases. 
+		- They often have visually appealing layouts and automated features that save time and create efficiency in a project manager’s day-to-day tasks.  
+		- Explaining your knowledge of these tools—and how they benefit the project manager, team, and company—in an interview is a great way to demonstrate that you are qualified for the role.
+	- **Examples of tools to Learn**
+		- **Asana**
+			- [Asana](https://asana.com/)
+			- [Asana Product Guide](https://asana.com/guide)
+		- **Basecamp**
+			- [Basecamp](https://basecamp.com/)
+		- **Trello**
+			- [Trello](https://trello.com/en)
+		- **Jira**
+			- [Jira](https://www.atlassian.com/software/jira)
+		- **Clickup**
+			- [ClickUp](https://www.clickup.com/)
+		- **Monday.com**
+			- [monday.com](https://monday.com/)
+		- **Microsoft Project**
+			- [Microsoft Project](https://www.microsoft.com/en-us/microsoft-365/project/project-management-software)
+		- **Project Libre (Open source alternative :D)**
+			- [Projectlibre](https://www.projectlibre.com/)
+
+## Build a project management tool tracker
+- **Project Management tool tracker**
+	- **Developing tool tracker spreadsheet**
+		- **Step 1: Create a new spreadsheet**
+			- [Template: Project Management Tool Tracker - Google Sheets](https://docs.google.com/spreadsheets/d/1HyBhk8e1w7N_MIlLBvFtPTOy4-I_6Ig_MA1nd5LqYQE/template/preview?resourcekey=0-_cR_r4OEpzHxfJzpCEUNrQ#gid=0)
+			- Edit it however you need
+		- **Step 2: Add column headers**
+			- ![[Pasted image 20230212152044.png]]
+			- Consider the different types of information you’d like to track about each tool, and add these as *column headers* in your tracker. 
+			- (The header is the top cell or cells in a column in the spreadsheet.)
+			- *Example Headers*
+				- Tool Name
+				- Description/Benefits
+				- Link to product website
+				- Link to course content in Coursera
+				- Cost to use
+				- Requirements (training/equipment)
+				- Your current experience with the tool 
+				- Notes
+		- **Step 3: Add tools and relevant information**
+			- Review some of the course videos, readings, and activities so far that discuss project management tools. 
+		- **Step 4: Format your sheet**
+			- ![[Pasted image 20230212152218.png]]
+			- After you’ve added a few tools and some initial information, format your sheet by bolding column headers and adding drop-down lists, conditional formatting, or web links. 
+			- Try out other formatting options like bolding, highlighting, or colors to make important text stand out. 
+			- [Google Sheets training and help](https://support.google.com/a/users/answer/9282959#zippy=) 
+				- contains articles with step-by-step directions for how to use all of these features and more.
+		- **Step 5: Continue adding tools**
+			- ![[Pasted image 20230212152249.png]]
+			- Continue to add more tools and information that’s relevant to your career goals. Search job listings and add tools, software, or specific knowledge needed for jobs you’re interested in.
