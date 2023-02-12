@@ -308,3 +308,32 @@
 			- [Projectlibre](https://www.projectlibre.com/)
 
 ## Build a project management tool tracker
+- **Project Management tool tracker**
+	- **Developing tool tracker spreadsheet**
+		- **Step 1: Create a new spreadsheet**
+			- [Template: Project Management Tool Tracker - Google Sheets](https://docs.google.com/spreadsheets/d/1HyBhk8e1w7N_MIlLBvFtPTOy4-I_6Ig_MA1nd5LqYQE/template/preview?resourcekey=0-_cR_r4OEpzHxfJzpCEUNrQ#gid=0)
+			- Edit it however you need
+		- **Step 2: Add column headers**
+			- ![[Pasted image 20230212152044.png]]
+			- Consider the different types of information you’d like to track about each tool, and add these as *column headers* in your tracker. 
+			- (The header is the top cell or cells in a column in the spreadsheet.)
+			- *Example Headers*
+				- Tool Name
+				- Description/Benefits
+				- Link to product website
+				- Link to course content in Coursera
+				- Cost to use
+				- Requirements (training/equipment)
+				- Your current experience with the tool 
+				- Notes
+		- **Step 3: Add tools and relevant information**
+			- Review some of the course videos, readings, and activities so far that discuss project management tools. 
+		- **Step 4: Format your sheet**
+			- ![[Pasted image 20230212152218.png]]
+			- After you’ve added a few tools and some initial information, format your sheet by bolding column headers and adding drop-down lists, conditional formatting, or web links. 
+			- Try out other formatting options like bolding, highlighting, or colors to make important text stand out. 
+			- [Google Sheets training and help](https://support.google.com/a/users/answer/9282959#zippy=) 
+				- contains articles with step-by-step directions for how to use all of these features and more.
+		- **Step 5: Continue adding tools**
+			- ![[Pasted image 20230212152249.png]]
+			- Continue to add more tools and information that’s relevant to your career goals. Search job listings and add tools, software, or specific knowledge needed for jobs you’re interested in.
