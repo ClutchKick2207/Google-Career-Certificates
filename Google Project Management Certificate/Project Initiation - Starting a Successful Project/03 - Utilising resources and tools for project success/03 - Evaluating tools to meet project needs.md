@@ -73,4 +73,43 @@
 		- It is your job as the project manager to ensure that each team members’ needs are addressed. 
 		- Setting up training also helps create positive first impressions, which will lead to higher productivity and quicker, more successful implementation and acceptance.
 
-##
+## Exploring types of project management tools
+- **Types of project management tools**
+	- **Complex tools**
+		- **Scheduling and Work Management Software**
+			- Lots of work management software
+				- *Such as*
+					- Jira
+					- Asana
+			- Certain tools can work better for your project depending on factors such as
+				- Project methodology
+				- Number of tasks
+				- Number of people involved
+			- Useful for assigning tasks to multiple teammates
+			- Tracking progress on any work assigned
+			- Visualise team's progress
+			- More likely to see any patterns
+				- Such as 50 tasks on week 1, and 3 on week 2
+				- Then can check on where appropriate, and see what went wrong
+	- **Simple Tools**
+		- **Productivity Tools**
+			- Things that help you be more productive such as
+				- **Online shared documents**
+					- *Example*
+						- Google Docs
+						- Microsoft Word
+					- Allows for real time collaboration from anywhere, and can be viewed anywhere
+				- **Meeting agendas**
+				- **Status updates**
+				- **Spreadsheets**
+					- Versatile
+					- Can use them to make
+						- *RACI charts*
+						- *Project plans*
+					- Can be used to make a lot of charts
+				- **Presentations**
+					- Good way to present to stakeholders
+					- Good way to package project overviews in a visual, easily digestible way
+		- **Collaboration Tools**
+			- **Email and chat**
+				- Quickly and efficiently check in to questions, comment, and other communication about the project
