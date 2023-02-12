@@ -10,9 +10,6 @@ kanban-plugin: basic
 
 ## Doing this session
 
-- [ ] **QUIZ** - Reflection: Project tools
-- [ ] **Watch** - Amar: Tools are our best friends
-- [ ] **QUIZ** - Weekly challenge 4
 - [ ] **Watch** - Course wrap-up
 - [ ] **Read** - Course 2 glossary
 - [ ] **Notes** - Course 2 glossary
@@ -21,8 +18,7 @@ kanban-plugin: basic
 
 ## In progress
 
-- [ ] **Read** - Build a project management tool tracker
-- [ ] **Notes** - Build a project management tool tracker
+- [ ] **QUIZ** - Weekly challenge 4
 
 
 ## Done - Week 4
@@ -53,6 +49,10 @@ kanban-plugin: basic
 - [ ] **Notes** - Using Google Sheets for project management
 - [ ] **Read** - Demonstrating your knowledge of project management tools
 - [ ] **Notes** - Demonstrating your knowledge of project management tools
+- [ ] **Read** - Build a project management tool tracker
+- [ ] **Notes** - Build a project management tool tracker
+- [ ] **QUIZ** - Reflection: Project tools
+- [ ] **Watch** - Amar: Tools are our best friends
 
 
 ## Done - Week 3
