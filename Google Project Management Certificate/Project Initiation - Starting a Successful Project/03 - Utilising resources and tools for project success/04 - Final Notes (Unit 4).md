@@ -1,0 +1,607 @@
+## Where is this course?
+- [Google Career Certificates - Project Management](https://www.coursera.org/professional-certificates/google-project-management)
+
+## My Notes
+> My notes for this overall course will be laid out by module in the course, and have subheadings in order to differentiate between different topics/videos that are presented in the courses. I'll add in any extra notes/resources that I use where necessary, and hope it will be helpful for anyone looking!
+
+## Essential Project resources
+> [!info] Budget - Definition
+> An estimate of the amount of money a project will cost to operate
+
+> [!info] Tools - Definition
+> Aids that make it easier for a project manager or team to manage resources and organise work
+- **Project Resources**
+	- **Types of Project Resources**
+		- **Budget**
+			- An estimate of the amount of money a project will cost to operate
+			- Every project has expenses
+			- Hiring vendors to complete jobs
+			- Software that needs to be purchased
+			- Speak with stakeholder
+				- Figure out what tasks are needed to get the project done
+				- Ask questions to uncover hidden cost
+					- i.e. any taxes or extra fees for products
+				- Figure out any upcoming costs
+				- Track any money going in and out of the budget
+			- Put budget in a project charter
+		- **People**
+			- Those who help execute tasks in the project
+			- Can include people outside of the company, who may have skills which people inside the company do not have
+		- **Materials**
+			- Items you need to help get the project done
+				- Could be lumber to complete a construction project
+	- Figure out resources before starting
+	- Therefore can allow for avoiding being understaffed
+	- Able to set teammates up, to meet the project goals
+	- **Organising Project Resources**
+		- Use tools
+			- Asana
+			- Google Docs
+		- Essential for tracking progress
+		- Keep it at the top of your mind throughout the project
+		- *Office Green*
+			- Easy to care for plants
+			- Ordered online
+			- Print catalogue
+			- Shipped to the office
+			- Increase revenue by 5%
+			- *What to do?*
+				- Do research on how much it will cost to develop the project
+				- New promotional materials and website costs
+				- Budget for specific tools
+					- Such as project management tools
+				- Build a realistic budget
+				- Who is working with you?
+					- List of people and external vendors that will complete all the tasks
+
+## Managing resources to get the job done
+![[Pasted image 20230209092903.png]]
+- **Managing resources**
+	- **Budget**
+		- *Team*
+			- The cost of people performing the work
+		- *Services*
+			- Any outside vendors helping your project
+		- *Materials*
+			- Any tangible items purchased to complete the project
+	- **People**
+		- Rely on a strong team of people with a variety of skill sets
+		- Commitment and buy-in on the number of hours it will take for your resources to complete their tasks
+		- Find the best partners who are aligned to the goals of the project
+			- Or who are most interested in the project's work
+	- **Materials**
+		- Different on any project
+		- Can be tangible or intangible
+			- i.e. software or hardware
+		- Account for all of this in your budget
+
+## The Value of project documentation
+- **Project Documentation**
+	- Although may not be your job to do final decisions, is your job to do all the planning
+	- **Project Planning**
+		- Identifying project goals and deliverables
+		- Choosing the right people to add to the team
+	- Too much for someone to keep track off
+	- Important for anyone that is affected by any decisions to be well informed
+	- Documentation is such an important part of a project role
+	- Clear and consistent documentation can ensure transparency and clear communication
+	- Helps set the stage for the project
+	- **Goals of documentation**
+		- What problem are you trying to solve?
+		- What are the project goals?
+		- What are the scope and deliverables, and who are the project's stakeholders?
+		- What resources does the team need to complete their work?
+	- Helps preserve decisions made early on in the project
+		- Reference later for those that join later on
+	- Documenting decisions can help you uncover tasks, timelines or costs you hadn't previously considered
+	- Provides a historical record that can be reviewed at the end of the project
+
+## Project proposals and charters 101
+> [!info] Project proposal - Definition
+> A form of documentation that persuades a stakeholder to begin a project
+
+> [!info] Project Charter - Definition
+> A form of documentation that clearly defines the project and outline the necessary details needed to reach its goals
+- **Project proposals and charters**
+	- **Project proposal**
+		- Persuade stakeholders that they should start a project
+		- Senior members of an organisation might make 
+		- Able to help understand the impact of the project
+		- *Could be*
+			- A formal document
+			- A presentation
+			- A simple email to get others onboard
+		- Created earlier than the project charter
+		- Kicks off the initiation phase by influencing and persuading the company to move forward with the project
+		- Only use at the earliest ages
+	- **Project charter**
+		- Helps you get organised
+		- Helps you set up a framework for what needs to be done
+		- Communicate those details with others
+		- Comes at the end of the initiation phase
+		- Goal is to clearly define the key details of the project
+		- Point of reference throughout the life of the project
+		- Makes clear that the benefits of the project outweigh the costs of the project
+		- **Cost benefit analysis**
+			- Business value created?
+			- Money saved?
+			- Time invested?
+		- Include answers for cost benefit analysis in the project charter
+		- Helps ensure that you and your stakeholder agree on the details of the project
+		- Management is supportive, if the charter is approved
+		- After the charter is approved, you have authority to move on with the project
+		- Tailor to the stakeholders
+			- If chief of marketing, talk about how it will impact the brand
+			- If chief of technology, talk about engineering resources needed to maintain the project
+		- Creating a project charter is a best practice for ensuring that everyone agrees on how to move forward before entering the planning phase
+		- Living document
+			- Can evolve as the project progresses
+			- Can review and refine it as the project progresses
+
+## Project charters: Elements and formats
+- **Project Charters**
+	- Formal way that a project's goals, values, benefits and details are captured
+	- Stakeholders can look to the project charter to see if the desired end goal is on track
+	- Important to incorporate the right amount of detail, while omitting miscellaneous elements
+	- Collaborate with your team and stakeholders early and often
+	- Use the business case (the reason for initiating the project) within the project charter
+	- **Key points in a project charter**
+		- introduction/project summary
+		- goals/objectives 
+		- business case/benefits and costs
+		- project team
+		- scope
+		- success criteria
+		- major requirements or key deliverables
+		- budget
+		- schedule/timeline or milestones
+		- constraints and assumptions
+		- risks
+		- OKRs
+		- approvals
+	- Short and simple charters are good for smaller projects
+		- ![[Pasted image 20230210091803.png]]
+	- Larger projects may need to link to additional analysis or documents
+	- Can house these items in an appendix
+	- Remember that changes can happen in the project charter, and therefore is important to change it time goes on
+
+## Developing a project charter
+- **Project charter**
+	- Many different templates
+	- Using a Google template for the next project
+	- **Project Green**
+		- *Name of the project*
+			- Project Plant Pals
+		- *Brief summary*
+			- Our plan is to offer high volume customers small, low maintenance plants that can thrive in an office environment
+		- **Project goals**
+			- *SMART goals*
+				- Increase revenue by 5% by rolling out a new service that provides office plants to top clients by the end of the year
+			- *Project deliverable*
+				- Send 1000 plants to 100 customers
+				- Launch a new website for orders and customer support
+			- *Business case*
+				- Reason for starting the project
+				- This is a top requested service from our customers, nd will improve customer satisfaction and retention
+				- *Cost benefit analysis*
+					- Should be more detailed than this
+					- Make sure benefits outweigh costs
+					- *Gain*
+						- Improved customer satisfaction
+						- Increased revenue
+					- *Costs*
+						- Sourcing products 
+						- Developing a website
+						- Marketing materials
+					- *Budget*
+						- $250,000
+			- *Project Scope*
+				- Agreed upon understanding about what is included, and what is excluded from the project
+				- *In Scope*
+					- We'll create a service to deliver small plants to last year's top clients
+				- *Out of Scope*
+					- Plant care after they are delivered
+			- *Project Team*
+				- *Project Sponsor*
+					- Director of Product
+				- *Project Lead*
+					- Me :)
+				- *Project Team*
+					- Marketing Associates
+					- Website developers
+					- Plant vendors
+				- *Additional Stakeholders*
+					- VP, Customer Success
+					- Account manager
+					- Fulfilment Manager
+			- *Measuring Success*
+				- *What is acceptable?*
+					- 5% revenue increase by the end of the year
+					- Customer satisfaction rate of 95% 3 months after launch
+
+## Identify: Components of a project charter
+- **Project Charter Example**
+	- **Executive Summary**
+		- *Project overview*
+			- Our plan is to add a line of replacement laces that will stay tied during athletic activity.
+	- **Project Goals**
+		- *SMART objective 1*
+			- Increase overall revenue by 3% by the end of fourth quarter by releasing our new athletic shoelaces.
+		- *SMART objective 2*
+			- Gain 2,000 new social media followers from the running community prior to launch.
+	- **Deliverables**
+		- *Major requirements*
+			- Design slip-proof shoelace weave.
+			- Manufacture 12,000 pairs of athletic shoelaces.
+			- Increase brand awareness in the running community.
+	- **Business Case**
+		- *Why are we doing this?*
+			- Customer research reveals this as an untapped opportunity in the market, with the potential to win loyalty among a demographic obsessed with finding the best gear.
+	- **Benefits and Costs**
+		- *What we'll gain/pay*
+			- *Benefits*
+				- Add new product to our lace line, leading to 3% revenue increase, increased brand awareness and customer loyalty
+			- *Costs*
+				- Price of materials, design, and prototyping
+				- Adding laces to inventory software
+			- *Budget needed*
+				- $525,000
+	- **Scope and exclusion**
+		- *What's in- and out-of-scope*
+			- *In-scope*
+				- Product development, prototyping, manufacturing, marketing
+			- *Out-of-scope*
+				- Vendor contracts, delivery to customers
+	- **Project Team**
+		- *Stakeholders*
+			- *Project Sponsor*
+				- Director of merchandise
+			- *Project Lead*
+				- Project manager (you)
+			- *Project Team*
+				- Shoelace designer
+				- Prototyper
+				- Quality assurance tester
+			- *Additional stakeholders*
+				- Director of market research
+				- Marketing manager
+				- Sales manager 
+				- Director of online sales
+	- **Measuring Success**
+		- *What is acceptable*
+			- 3% increase in revenue by the end of the fourth quarter
+			- 5% increase in new customers three months after product launch
+
+## Utilising tools for effective project management
+- **Tools for project management**
+	- Tools are some of the most helpful resources
+		- Aids that make it easier for a project manager or team to manage resources and manage work
+	- Important for tracking progress
+	- **Importance for tools**
+		- May not be able to choose
+			- Work with what they give you
+			- Make sure you are flexible
+		- Can help track detailed information about all kinds of tasks and make it easy to communicate with lots of different people
+		- Effective communication and tracking are large parts of day-to-day tasks
+		- **Office Green**
+			- Tons of information to provide
+			- Instead of using a whiteboard (whereby everyone has to go by your desk), use something like a Google Doc
+				- Store the information on an online resource as it allows for quicker accessibility, and for it to be updated in real time
+		- Information can go both ways
+			- Where team mates can communicate with you, as much as you do with them
+			- Avoids the need for extra meetings and phone calls
+		- **Tools help you**
+			- **Track task deadlines**
+				- Is it on time, or delayed?
+				- Lets you quickly see what any changes will do to the project
+			- **Provide visibility for everyone, including stakeholders**
+				- *Examples*
+					- monday.com
+					- g suite
+					- Jira
+					- Smartsheet
+			- **Manage a budget**
+			- **Create helpful diagrams**
+			- **Manage contracts**
+		- **Simple vs Sophisticated**
+			- **Simple**
+				- Things such as a google doc
+				- Easy to use, and intuitive
+				- Limited capability
+				- Good for smaller projects
+			- **Sophisticated**
+				- Things like a scheduling software
+				- Good for larger projects, and a larger scope
+				- Takes some time for everyone to get used to the software, and this should be accounted for
+
+## Introducing new tools to a team
+![[Pasted image 20230212141417.png]]
+- **How to introduce new tools**
+	- **Discuss the tool early and often, if possible** 
+		- Make sure it isn't a surprise
+		- Make sure they know the change is coming as early as possible
+		- Will help them prepare for an introduction or migration to the new tool
+	- **Ask for feedback from key stakeholders** 
+		- Could get great feedback on features that you may have overlooked without asking for their expertise. 
+		- You can solicit this feedback by requesting their input about functionality or have them list features in order of priority.
+		- The key is to create an opportunity for stakeholders to provide their feedback and allow you to incorporate their feedback into next steps
+	- **Involve the key stakeholders in demonstrations as you get closer to making the final decision on the project tracking tool** 
+		- You will be able to leverage key stakeholders' acceptance by letting them test the product or sign up for a trial run. 
+		- It is also important to make sure that the tool is actually going to meet the mark and provide a meaningful change for the project. 
+		- You may want to pull in key users from your team to test and familiarize themselves with the tool prior to rolling it out. 
+		- This will allow the team to get on board with your plans or discuss their concerns beforehand. 
+		- This will also highlight in-house experts for future training, assistance, and implementation.
+	- **Ensure the tool is fully functional** **before** **the team is introduced to it.** 
+		- Whenever possible, hold off from introducing the tool if it still has any issues. 
+		- Make sure the tool is accessible for all users. 
+		- Keep in mind, your team members may resist a tool that doesn’t live up to how it is supposed to function. 
+		- This will impact implementation and acceptance fairly significantly, so put your best tool forward!
+	- **Set up training for the tool as needed** **before** **you ask the team to actually use it.** 
+		- Everyone has different levels of comfort with different tools. 
+		- It is your job as the project manager to ensure that each team members’ needs are addressed. 
+		- Setting up training also helps create positive first impressions, which will lead to higher productivity and quicker, more successful implementation and acceptance.
+
+## Exploring types of project management tools
+- **Types of project management tools**
+	- **Complex tools**
+		- **Scheduling and Work Management Software**
+			- Lots of work management software
+				- *Such as*
+					- Jira
+					- Asana
+			- Certain tools can work better for your project depending on factors such as
+				- Project methodology
+				- Number of tasks
+				- Number of people involved
+			- Useful for assigning tasks to multiple teammates
+			- Tracking progress on any work assigned
+			- Visualise team's progress
+			- More likely to see any patterns
+				- Such as 50 tasks on week 1, and 3 on week 2
+				- Then can check on where appropriate, and see what went wrong
+	- **Simple Tools**
+		- **Productivity Tools**
+			- Things that help you be more productive such as
+				- **Online shared documents**
+					- *Example*
+						- Google Docs
+						- Microsoft Word
+					- Allows for real time collaboration from anywhere, and can be viewed anywhere
+				- **Meeting agendas**
+				- **Status updates**
+				- **Spreadsheets**
+					- Versatile
+					- Can use them to make
+						- *RACI charts*
+						- *Project plans*
+					- Can be used to make a lot of charts
+				- **Presentations**
+					- Good way to present to stakeholders
+					- Good way to package project overviews in a visual, easily digestible way
+		- **Collaboration Tools**
+			- **Email and chat**
+				- Quickly and efficiently check in to questions, comment, and other communication about the project
+
+## Common project management tools
+- **Common project management tools**
+	- **Work Management Software**
+		- More efficient than manual project tracking
+		- **Asana**
+			- Work management platform
+			- *Helps to plan and coordinate work*
+				- From daily tasks to strategic initiatives
+			- *Living system, and source of truth*
+				- Everyone can see, discuss and manage team priorities
+				- Gives teams clarity on who is doing what, by when
+				- Good for building project plans
+				- Assigning tasks
+				- Automating workflows
+				- Tracking progress
+				- Communicating with stakeholders
+			- *Can create a log of tasks*
+				- Create tasks
+				- Assign them to people on the team
+			- *All tasks are visible and organised*
+				- Can be organised in whatever way the project manager chooses
+					- Like a list
+					- Or a calendar
+				- Designed to be transparent, with all the tasks related to the overall goal
+			- *Easy to use with external stakeholders*
+				- Within Asana, can share status updates and other communications with those outside of the company
+		- **Spreadsheet**
+			- Extremely versatile
+			- *Can be used in a wide range of tasks*
+				- From creating timelines
+				- Building charts
+				- Managing budgets
+				- Tracking tasks
+			- *Add and view project information*
+				- Depending on what you need in the moment
+				- Can sort easily
+					- Such as by due date, to see what is due next
+					- By name to see who has to do what
+					- etc.
+				- Transform, visualise and manipulate information
+	- Make sure you are familiar with a few pieces of software
+	- Keep in mind that options are always changing
+		- If you understand one tool deeply, can translate to others
+		- As a lot of similar features
+
+## Using Google Sheets for project management
+- **Google Sheets**
+	- **Essential Sheets features**
+		- **Collaboration**
+			- Easy to collaborate and share information
+			- *Permissions*
+				- **Editing**
+					- Allows others to make direct edits and changes to the file
+				- **Commenting**
+					- Allows others to add comments and make suggestions
+				- **View only**
+					- Allows others to view the file but not edit, comment, or suggest. 
+					- This is a good choice if you don’t want any changes to be made to the file.
+			- Can all collaborate by using comments
+			- Can assign tasks or action items using comments
+		- **Formatting Spreadsheet**
+			- *Resources*
+				- [Google Sheets cheat sheet - Google Workspace Learning Center](https://support.google.com/a/users/answer/9300022?hl=en)
+			- **Create lists**
+				- To create any list in Sheets, simply label each list
+					- for example, Name, Date, Notes, or other criteria—in the **header row**. 
+						- (The header row is the top row in the spreadsheet.) 
+				- Add a different list item in each cell underneath the list title. 
+				- Most lists are arranged vertically, but you might prefer a horizontal list depending on the types of items.
+			- **Display and hide content**
+				- **Freeze rows or columns**
+					- Freezing the header row (or column for horizontal lists) and formatting headers is a great way to make the list titles stand out.
+					- Freezing a header row keeps the row in place when you scroll down the list, so you can always see what the list titles are. 
+					- Format the headers just like you would text in a document by changing the font, style, size, or color.
+				- **Group and hide related content**
+					- Grouping rows and columns allows you to expand and collapse larger categories of data or information with a single click. 
+					- This makes your spreadsheet easier to read and manage by hiding the grouped data when it’s not needed, or quickly ungroup and show when it is needed.
+				- **Resources**
+					- [Freeze or merge rows & columns - Computer - Google Docs Editors Help](https://support.google.com/docs/answer/9060449?hl=en&ref_topic=9055295)
+			- **Add checkboxes**
+				- Checkboxes provide a quick and highly-visual way to track progress on a task or indicate whether certain criteria have been met.
+				- *Resources*
+					- [Add checkboxes to spreadsheets - Google Workspace Learning Center](https://support.google.com/a/users/answer/9308622?hl=en&ref_topic=9326428)
+		- **Organise Data**
+			- **Create dropdown lists**
+				- Ensures data is entered into the spreadsheet correctly
+				- Makes it much fasters for others to add data
+					- As they are choosing from pre-existing options
+				- *Resources*
+					- [Top 10 tips to clean up data - Google Workspace Learning Center](https://support.google.com/a/users/answer/9604139?hl=en#zippy=%2Clearn-how)
+			- **Add colour coding**
+				- Sometimes it’s helpful to change the colour of cells and text so you can quickly see how your project is progressing. 
+				- You can add colour coding to your spreadsheet by applying *conditional formatting*. 
+					- Conditional formatting formats cells in a certain way if they contain specific information. 
+					- For example, track progress status as “Not started” in red, “In progress” in orange, and “Complete” in green.
+				- *Resources*
+					- [See data changes with conditional formatting - Google Workspace Learning Center](https://support.google.com/a/users/answer/9308962?hl=en&ref_topic=9327402)
+			- **Add links**
+				- It can be helpful to link to other project documentation or even external websites in your spreadsheet. 
+				- This provides your team easy, centralized access to all relevant data they might need. 
+					- For example, you could add a link to your project charter document from your project plan spreadsheet.
+				- *Resources*
+					- [Work with links & bookmarks - Computer - Google Docs Editors Help](https://support.google.com/docs/answer/45893?co=GENIE.Platform%3DDesktop&hl=en#zippy=%2Ccreate-a-link)
+					- [Link to data in a spreadsheet - Google Workspace Learning Center](https://support.google.com/a/users/answer/9308662?hl=en)
+		- **Visualise data**
+			- **Create a pivot table**
+				- A *pivot table* is a basic data analysis tool. 
+				- Pivot tables summarize your data and can help show the relationships between data points, making it easier to understand all the information contained in your spreadsheet. 
+				- *Resources*
+					- [Create and edit pivot tables - Google Workspace Learning Center](https://support.google.com/a/users/answer/9308944?hl=en)
+			- **Make a chart or graph**
+				- Presenting data in charts and graphs is a great way to quickly and effectively summarize important information about your project to stakeholders and make reports and presentations more engaging. 
+				- Sheets enables you to automatically create different kinds of charts and graphs using the data in your spreadsheet.
+				- *Resources*
+					- [Insert and edit charts - Google Workspace Learning Center](https://support.google.com/a/users/answer/9308981?hl=en)
+		- **Perform calculations**
+			- **Use functions**
+				- *Functions* can be used to manipulate data and perform calculations. 
+				- Google Sheets has a wide array of functions that are already built in, which means they will automatically perform the calculations you specify.
+				- Use functions to quickly calculate sums or averages, automatically determine start or end dates, generate financial reports, and much more.
+				- *Resources*
+					- [Add formulas & functions - Computer - Google Docs Editors Help](https://support.google.com/docs/answer/46977?hl=en&ref_topic=9054531)
+					- [Google Sheets cheat sheet - Google Workspace Learning Center](https://support.google.com/a/users/answer/9300022?hl=en)
+	- **Useful Templates**
+		- [Google Sheets - Template Gallery](https://docs.google.com/spreadsheets/u/0/?ftv=1&folder=0AKrj08N1UHZqUk9PVA&tgif=c)
+		- **Name and Uses**
+			- **Project Timeline**
+				- [Project timeline template - Google Sheets](https://docs.google.com/spreadsheets/d/1Us-j-BAG3kiIJENBt3SqRXkJQL_TZh-yejJyZzq9L60/template/preview#gid=1709744959)
+				- A project timeline template is useful if you want to track an entire project from conception to close. 
+				- This example includes a visual timeline that lays out the life cycle of a project and the major activities that need to happen during each phase. 
+			- **Project Tracking**
+				- [Project tracking template - Google Sheets](https://docs.google.com/spreadsheets/d/12AK5slxygSxj8nmjS39SCnEFkCy8WZDbgN0vSQh2xwg/template/preview?resourcekey=0-__sqaWcGZavYWgXz-WD4jQ#gid=1161341563)
+				- A project tracking template is useful for tracking your project’s budget, deliverables, and other data. 
+				- This example includes columns for tracking costs and time, as well as a column with dropdown lists for tracking tasks’ priority levels. 
+				- Other features include formulas for calculating hours, costs, and percentage of deliverables completed, which allow you to track your spending and progress on a project.
+			- **GANTT Chart**
+				- [Gantt chart template - Google Sheets](https://docs.google.com/spreadsheets/d/1Yc1KA_7DMwBqyt2Zcx68HAV3oEp1FnUt-undm0XHgqM/template/preview?resourcekey=0-y-3VgQEbmAVaiEGfeyeJ-g#gid=1115838130)
+				- A Gantt chart combines many of the aspects of other types of project management spreadsheets into one. 
+				- It organizes tasks by day and is useful for showing the relationships between the many moving parts of a project. 
+				- It’s also helpful for managing a project with multiple collaborators. 
+				- Gantt charts often include conditional formatting that makes cells change color based on how far along the project is so you can immediately determine how much progress you have made on a particular task.
+			- **Event Marketing Timeline**
+				- [Event marketing timeline template - Google Sheets](https://docs.google.com/spreadsheets/d/10GindXMsW6z0pFvd5Ymjz_PS0dXJ5eCkl3KDKEPO9qY/template/preview#gid=541890420)
+				- A timeline template is useful for creating a schedule, tracking events, and visualizing the tasks and milestones involved in a project. 
+				- You might use this template to manage a project that involves a lot of marketing or public-facing tasks. 
+				- You can track social media posts, market research, and coordinate content across multiple platforms.
+		- **Creating Templates resources**
+			- [Create document templates - Google Workspace Learning Center](https://support.google.com/a/users/answer/9308885?hl=en)
+
+## Demonstrating your knowledge of project management tools
+![[Pasted image 20230212150925.png]]
+- **Demonstrating knowledge**
+	- *“How do you know if a project is off track?”*
+		- It’s important to tie this answer back to the types of scheduling tools you have learned
+		- Leverage any real life experiences you can
+	- **Planning for a move as experience**
+		- If so, you can discuss how you planned your timeline and scheduled vendors so that you could meet your move date. 
+		- Did you use a spreadsheet to keep track of your budget, schedule, and belongings?
+			- This experience demonstrates you understand how to use tools.
+			- It also demonstrates that you know the importance of creating, monitoring, and managing the project schedule to deliver results at project completion.
+	- *“How do you execute tasks within your timeline?”*
+		- Demonstrate your ability to be productive by sharing your experience with tools, such as digital documents or spreadsheets
+		- These tools help you create project artifacts, track tasks, and store project details in one place
+		- You can also use them as a collaboration tool because they are easily shareable with teammates and stakeholders and allow for real-time updates
+	- **Special Project Management tools**
+		- Project management tools such as 
+			- Asana 
+			- Monday.com
+			- Basecamp
+			- Trello
+		- Among some of the top ranked tools for managing projects.  
+		- These tools help you plan, track, and complete work across many project phases. 
+		- They often have visually appealing layouts and automated features that save time and create efficiency in a project manager’s day-to-day tasks.  
+		- Explaining your knowledge of these tools—and how they benefit the project manager, team, and company—in an interview is a great way to demonstrate that you are qualified for the role.
+	- **Examples of tools to Learn**
+		- **Asana**
+			- [Asana](https://asana.com/)
+			- [Asana Product Guide](https://asana.com/guide)
+		- **Basecamp**
+			- [Basecamp](https://basecamp.com/)
+		- **Trello**
+			- [Trello](https://trello.com/en)
+		- **Jira**
+			- [Jira](https://www.atlassian.com/software/jira)
+		- **Clickup**
+			- [ClickUp](https://www.clickup.com/)
+		- **Monday.com**
+			- [monday.com](https://monday.com/)
+		- **Microsoft Project**
+			- [Microsoft Project](https://www.microsoft.com/en-us/microsoft-365/project/project-management-software)
+		- **Project Libre (Open source alternative :D)**
+			- [Projectlibre](https://www.projectlibre.com/)
+
+## Build a project management tool tracker
+- **Project Management tool tracker**
+	- **Developing tool tracker spreadsheet**
+		- **Step 1: Create a new spreadsheet**
+			- [Template: Project Management Tool Tracker - Google Sheets](https://docs.google.com/spreadsheets/d/1HyBhk8e1w7N_MIlLBvFtPTOy4-I_6Ig_MA1nd5LqYQE/template/preview?resourcekey=0-_cR_r4OEpzHxfJzpCEUNrQ#gid=0)
+			- Edit it however you need
+		- **Step 2: Add column headers**
+			- ![[Pasted image 20230212152044.png]]
+			- Consider the different types of information you’d like to track about each tool, and add these as *column headers* in your tracker. 
+			- (The header is the top cell or cells in a column in the spreadsheet.)
+			- *Example Headers*
+				- Tool Name
+				- Description/Benefits
+				- Link to product website
+				- Link to course content in Coursera
+				- Cost to use
+				- Requirements (training/equipment)
+				- Your current experience with the tool 
+				- Notes
+		- **Step 3: Add tools and relevant information**
+			- Review some of the course videos, readings, and activities so far that discuss project management tools. 
+		- **Step 4: Format your sheet**
+			- ![[Pasted image 20230212152218.png]]
+			- After you’ve added a few tools and some initial information, format your sheet by bolding column headers and adding drop-down lists, conditional formatting, or web links. 
+			- Try out other formatting options like bolding, highlighting, or colors to make important text stand out. 
+			- [Google Sheets training and help](https://support.google.com/a/users/answer/9282959#zippy=) 
+				- contains articles with step-by-step directions for how to use all of these features and more.
+		- **Step 5: Continue adding tools**
+			- ![[Pasted image 20230212152249.png]]
+			- Continue to add more tools and information that’s relevant to your career goals. Search job listings and add tools, software, or specific knowledge needed for jobs you’re interested in.
