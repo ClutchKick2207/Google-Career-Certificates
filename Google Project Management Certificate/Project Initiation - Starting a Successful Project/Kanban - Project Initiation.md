@@ -10,8 +10,6 @@ kanban-plugin: basic
 
 ## Doing this session
 
-- [ ] **Read** - Introducing new tools to a team
-- [ ] **Notes** - Introducing new tools to a team
 - [ ] **Watch** - Exploring types of project management tools
 - [ ] **Notes** - Exploring types of project management tools
 - [ ] **QUIZ** - Test your knowledge: Evaluating tools
@@ -34,8 +32,8 @@ kanban-plugin: basic
 
 ## In progress
 
-- [ ] **Watch** - Utilising tools for effective project management
-- [ ] **Notes** - Utilising tools for effective project management
+- [ ] **Read** - Introducing new tools to a team
+- [ ] **Notes** - Introducing new tools to a team
 
 
 ## Done - Week 4
@@ -53,6 +51,8 @@ kanban-plugin: basic
 - [ ] **Notes** - Developing a project charter
 - [ ] **ASSESMENT** - Activity: *Create a project charter*
 - [ ] **ASSESMENT** - Activity: Create a project charter (marking)
+- [ ] **Watch** - Utilising tools for effective project management
+- [ ] **Notes** - Utilising tools for effective project management
 
 
 ## Done - Week 3
