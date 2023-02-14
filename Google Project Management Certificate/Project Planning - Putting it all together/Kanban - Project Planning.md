@@ -21,6 +21,22 @@ kanban-plugin: basic
 - [ ] **Read** - tips for leading a successful kick-off meeting
 - [ ] **Notes** - tips for leading a successful kick-off meeting
 - [ ] **QUIZ** - Test your knowledge: The planning phase components
+- [ ] **Watch** - Understanding tasks and milestones
+- [ ] **Notes** - Understanding tasks and milestones
+- [ ] **Watch** - The importance of setting milestones
+- [ ] **Notes** - The importance of setting milestones
+- [ ] **Watch** - How to set milestones
+- [ ] **Notes** - How to set milestones
+- [ ] **Read** - Setting milestones: Best practices
+- [ ] **Notes** - Setting milestones: Best practices
+- [ ] **PARTICIPATE** - Assigning tasks to milestones
+- [ ] **Notes** - Assigning tasks to milestones
+- [ ] **Watch** - Creating a work breakdown structure
+- [ ] **Notes** - Creating a work breakdown structure
+- [ ] **Read** - Breaking down the work breakdown structure
+- [ ] **Notes** - Breaking down the work breakdown structure
+- [ ] **PARTICIPATE** - Explore: Project Plant Pals: Planning
+- [ ] **Notes** - Explore: Project Plant Pals: Planning
 
 
 ## Doing this session
