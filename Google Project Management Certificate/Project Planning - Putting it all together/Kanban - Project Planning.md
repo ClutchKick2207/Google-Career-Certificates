@@ -37,6 +37,13 @@ kanban-plugin: basic
 - [ ] **Notes** - Breaking down the work breakdown structure
 - [ ] **PARTICIPATE** - Explore: Project Plant Pals: Planning
 - [ ] **Notes** - Explore: Project Plant Pals: Planning
+- [ ] **PARTICIPATE** - Activity: Use a WBS to create milestones and project tasks - Part 1
+- [ ] **Notes** - Activity Exemplar: Use a WBS to create milestones and project tasks - Part 1
+- [ ] **PARTICIPATE** - Use a WBS to create milestones and project tasks - Part 2
+- [ ] **Notes** - Activity Exemplar: Use a WBS to create project tasks and milestones - Part 2
+- [ ] **Watch** - Wrap Up
+- [ ] **Watch** - How planning creates a sense of team
+- [ ] **QUIZ** - Weekly challenge 1
 
 
 ## Doing this session
