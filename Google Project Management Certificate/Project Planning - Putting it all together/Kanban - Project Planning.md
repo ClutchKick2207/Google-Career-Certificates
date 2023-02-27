@@ -38,13 +38,6 @@ kanban-plugin: basic
 
 ## Doing this session
 
-- [ ] **Watch** - Introduction to course 3
-- [ ] **Read** - Course 3 overview
-- [ ] **Notes** - Course 3 overview
-- [ ] **Read** - Helpful resources to get started
-- [ ] **Notes** - Helpful resources to get started
-- [ ] **Watch** - the benefits of project planning
-- [ ] **Notes** - then benefits of project planning
 - [ ] **Watch** - Launching the planning phase
 - [ ] **Notes** - Launching the planning phase
 - [ ] **QUIZ** - Reflection: Project planning considerations
@@ -52,10 +45,17 @@ kanban-plugin: basic
 
 ## In progress
 
+- [ ] **Watch** - the benefits of project planning
+- [ ] **Notes** - then benefits of project planning
 
 
 ## Done - Week 1
 
+- [ ] **Watch** - Introduction to course 3
+- [ ] **Read** - Course 3 overview
+- [ ] **Notes** - Course 3 overview
+- [ ] **Read** - Helpful resources to get started
+- [ ] **Notes** - Helpful resources to get started
 
 
 ## Done - Week 2
