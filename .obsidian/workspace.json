@@ -44,7 +44,14 @@
                 "source": false
               }
             }
-          },
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "b169c3c55510911c",
+        "type": "tabs",
+        "children": [
           {
             "id": "610442fc36e5e850",
             "type": "leaf",
@@ -57,8 +64,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b06ea18f5787de9e",
@@ -199,10 +204,10 @@
   "active": "d402c89719395bb7",
   "lastOpenFiles": [
     "Google Project Management Certificate/Project Initiation - Starting a Successful Project/00 - Fundamentals of project initiation/00 - Getting started with the course.md",
+    "Google Project Management Certificate/Project Planning - Putting It All Together/Kanban - Project Planning.md",
     "Google Project Management Certificate/Project Planning - Putting It All Together/00 - Beginning the planning phase/00 - Getting started with the course.md",
     "Google Project Management Certificate/Note Template - Project Management.md",
     "Google Project Management Certificate/Project Initiation - Starting a Successful Project/04 - Final Notes and Documents/01 - Final Notes (Project Initiation - Starting a successful Project) PDF.pdf",
-    "Google Project Management Certificate/Project Planning - Putting It All Together/Kanban - Project Planning.md",
     "Google Project Management Certificate/Project Initiation - Starting a Successful Project/04 - Final Notes and Documents/02 - Certificate.pdf",
     "Google Project Management Certificate/01 - Project Initiation - Starting a Successful Project/Kanban - Project Initiation.md",
     "Google Project Management Certificate/01 - Project Initiation - Starting a Successful Project/04 - Final Notes and Documents/01 - Final Notes (Project Initiation - Starting a successful Project) PDF.pdf",
