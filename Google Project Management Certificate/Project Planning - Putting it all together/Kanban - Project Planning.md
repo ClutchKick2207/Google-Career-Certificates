@@ -33,13 +33,10 @@ kanban-plugin: basic
 
 ## Doing this session
 
-- [ ] **QUIZ** - Test your knowledge: The planning phase components
 
 
 ## In progress
 
-- [ ] **Read** - tips for leading a successful kick-off meeting
-- [ ] **Notes** - tips for leading a successful kick-off meeting
 
 
 ## Done - Week 1
@@ -56,6 +53,9 @@ kanban-plugin: basic
 - [ ] **QUIZ** - Reflection: Project planning considerations
 - [ ] **Watch** - Facilitating a project kick-off meeting
 - [ ] **Notes** - Facilitating a project kick off meeting
+- [ ] **Read** - tips for leading a successful kick-off meeting
+- [ ] **Notes** - tips for leading a successful kick-off meeting
+- [ ] **QUIZ** - Test your knowledge: The planning phase components
 
 
 ## Done - Week 2
