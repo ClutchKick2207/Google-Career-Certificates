@@ -6,9 +6,6 @@ kanban-plugin: basic
 
 ## To-Do
 
-- [ ] **Read** - tips for leading a successful kick-off meeting
-- [ ] **Notes** - tips for leading a successful kick-off meeting
-- [ ] **QUIZ** - Test your knowledge: The planning phase components
 - [ ] **Watch** - Understanding tasks and milestones
 - [ ] **Notes** - Understanding tasks and milestones
 - [ ] **Watch** - The importance of setting milestones
@@ -36,12 +33,13 @@ kanban-plugin: basic
 
 ## Doing this session
 
-- [ ] **Watch** - Facilitating a project kick-off meeting
-- [ ] **Notes** - Facilitating a project kick off meeting
+- [ ] **QUIZ** - Test your knowledge: The planning phase components
 
 
 ## In progress
 
+- [ ] **Read** - tips for leading a successful kick-off meeting
+- [ ] **Notes** - tips for leading a successful kick-off meeting
 
 
 ## Done - Week 1
@@ -56,6 +54,8 @@ kanban-plugin: basic
 - [ ] **Watch** - Launching the planning phase
 - [ ] **Notes** - Launching the planning phase
 - [ ] **QUIZ** - Reflection: Project planning considerations
+- [ ] **Watch** - Facilitating a project kick-off meeting
+- [ ] **Notes** - Facilitating a project kick off meeting
 
 
 ## Done - Week 2
