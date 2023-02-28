@@ -31,3 +31,17 @@
 			- *Team work*
 				- Push the project across the finish line
 				- By working together in the planning phase, you are able to build team chemistry before the actual work even starts
+
+## Launching the planning phase
+- **Launching the planning phase**
+	- **What needs to be done**
+		- **Schedule**
+			- The project timeline, which includes the start date, the end date, and dates for events in between
+			- Time estimation techniques are used to predict when key events occur
+		- **Budget**
+			- Accounts for the total cost to complete the project
+			- Needs to be broken down to see how much each specific part costs
+				- Like an itemised list
+		- **Risk management plan**
+			- Searching for possible problems related to the project and planning ahead to mitigate these risks
+			- Inevitable, although planning can avoid most of the pain
