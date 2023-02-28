@@ -101,3 +101,49 @@
 			- Maybe get permission to record the meeting
 		- After the meeting, send a follow up email that summarises the key points and outcomes from the meeting, and any action items from the attendees
 		- Invite attendees to reach out if they have any potential questions
+
+## Tips for leading a successful kick-off meeting
+![[Pasted image 20230228082620.png]]
+- **Leading a successful kick-off meeting**
+	- **Best practices**
+		- **Set the right time**
+			- Choose a meeting time that works for everyone. 
+			- Be mindful of time zone differences.
+		- **Set the right length**
+			- Choose an appropriate meeting length
+				- No more than one hour. 
+			- You don’t want to waste people’s time, but you also don’t want to run out of time. 
+			- Kick-off meetings work best when you first share key information and then spend any additional time on questions and team building.
+		- **Invite the right people**
+			- Be strategic about including the appropriate people. 
+			- The goal is to invite attendees who play a role in the development and execution of the project, such as 
+				- all team members,
+				- stakeholders
+				- project sponsor.
+			- You don’t want to leave anyone out, but you also don’t want to invite people who shouldn’t be there.
+		- **Designate a notetaker**
+			- he discussion that takes place during the meeting is important. 
+			- It is critical that you document any feedback, changes, or questions asked by attendees. 
+			- If you are leading the meeting, designate someone else to take notes before the meeting starts. 
+			- You can also use tools like 
+				- Chorus Notetaker
+				- Google Keep
+				- Google Docs
+				- Microsoft OneNote
+		- **Set the agenda**
+			- Includes
+				- Introductions
+				- The project background and purpose
+				- Project goals and scope
+				- Roles and responsibilities
+				- Collaboration process and project tools
+				- What comes next (expectations and action items)
+				- Time for questions and discussion.
+		- **Share the agenda**
+			- Prior to the meeting, share the agenda with attendees via email and identify speakers for each topic. 
+			- By sending the agenda in advance, everyone will have an idea of what to expect, time to prepare for anything they may need to present or discuss, and time to generate questions or ideas.
+		- **Stick to the agenda** 
+			- During meetings, discussions can sometimes go off topic or take longer than expected. 
+			- As a project manager, it is your job to keep the meeting on track by redirecting discussions to the items on the agenda.
+		- **Follow up after the meeting** 
+			- After the meeting, make sure to send out a meeting summary featuring the meeting notes and any action items.
