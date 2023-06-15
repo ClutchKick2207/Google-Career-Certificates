@@ -147,3 +147,9 @@
 			- As a project manager, it is your job to keep the meeting on track by redirecting discussions to the items on the agenda.
 		- **Follow up after the meeting** 
 			- After the meeting, make sure to send out a meeting summary featuring the meeting notes and any action items.
+
+## Understanding tasks and milestones
+- **Tasks and milestones**
+	- Responsible for assigning work to the team and keeping track of project progress
+	- **Project Milestones**
+		- An important point within the project schedule that indicates progress and usually signid

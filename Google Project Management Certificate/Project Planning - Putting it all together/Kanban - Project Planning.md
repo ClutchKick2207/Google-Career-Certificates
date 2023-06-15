@@ -21,8 +21,6 @@ kanban-plugin: basic
 
 ## Doing this session
 
-- [ ] **Watch** - Understanding tasks and milestones
-- [ ] **Notes** - Understanding tasks and milestones
 - [ ] **Watch** - The importance of setting milestones
 - [ ] **Notes** - The importance of setting milestones
 - [ ] **Watch** - How to set milestones
@@ -37,6 +35,8 @@ kanban-plugin: basic
 
 ## In progress
 
+- [ ] **Watch** - Understanding tasks and milestones
+- [ ] **Notes** - Understanding tasks and milestones
 
 
 ## Done - Week 1
