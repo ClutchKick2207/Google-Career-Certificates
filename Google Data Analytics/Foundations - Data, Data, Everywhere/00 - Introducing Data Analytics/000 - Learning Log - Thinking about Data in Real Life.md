@@ -6,4 +6,25 @@
 
 ## Learning Log
 - **Learning Log - Think About Data in Real Life**
-	- 
+	- **Everyday Data**
+		- What is the best time to leave to get to school on time?
+		- How much does my commute change by every day?
+		- How many calories do I consume every day?
+		- How much sleep do I get each day?
+	- **Reflection**
+		- **What are some considerations or preferences you want to kepe in mind when making a decision?**
+			- *For "What is the best time to leave to get to school on time?"*
+				- How much sleep do I need to get?
+				- What are the traffic conditions?
+				- What is the weather?
+				- What study do I have to get done?
+					- Will I benefit going early to school?
+				- What time does the train arrive?
+				- What kind of walking conditions are there from the station?
+				- What alternative routes are available?
+		- **What kind of information or data do you have access to that will influence your decision?**
+			- What the weather is
+			- Tracking of bus locations and train locations
+			- Train and bus timetables
+			- How busy each train is
+			- 
