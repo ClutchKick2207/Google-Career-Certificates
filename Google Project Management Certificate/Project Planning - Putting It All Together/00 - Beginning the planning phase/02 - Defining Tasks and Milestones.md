@@ -38,4 +38,3 @@
 		- As milestones later in the pipeline require ones before to be completed
 	- If a deliverable tied to a specific milestone, it could set back your project schedule
 		- Team might need to work overtime to catch up
-	- 
