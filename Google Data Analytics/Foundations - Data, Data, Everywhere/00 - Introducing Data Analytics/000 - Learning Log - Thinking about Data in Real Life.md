@@ -27,4 +27,7 @@
 			- Tracking of bus locations and train locations
 			- Train and bus timetables
 			- How busy each train is
+		- **Are there any other things you might to track associated with this decisions?**
+			- Times that I get to school
+			- Commute times (how long it takes to get to school)
 			- 
