@@ -83,3 +83,35 @@ During this certificate program, you will be asked to complete a few short surve
 - **Certificate Completion Survey**
 	- After you complete the last graded assignment in the final course of the certificate, you will be asked to answer a survey that revisits some earlier questions and asks what you have learned throughout the duration of the program.
 	- This survey also asks if you would like to share your contact information with prospective employers.
+
+## Intro to Course
+> [!info] Data - Definition
+> A collection of facts
+- **Introduction to the Course**
+	- "Data! Data! Data!... I can't make bricks without clay!"
+		- Sherlock Holmes
+			- Couldn't draw any conclusions without any data
+	- Data is the building block for a lot of things
+		- Very in demand
+	- Very open with how you learn
+	- Analysis of Data allows for the creation of predictions
+	- Data Analysts
+		- Used in many different disciplines
+		- Can be used in
+			- Finance
+			- Heathcare
+			- Communications
+			- Government
+			- Consumer Products
+			- etc.
+		- Open world of opportunity
+	- Best practices for making decisions, and making conclusions from data
+		- **Practices**
+			- **Ask**
+			- **Prepare**
+			- **Process**
+			- **Analyse**
+			- **Share**
+			- **Act**
+
+

@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/000 - Learning Log - Thinking about Data in Real Life.md",
+                "file": "Google Project Management Certificate/Foundations of Project Management/00 - Embarking on a career in Project Management/00 - Getting Started with the Program - Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/000 - Learning Log - Thinking about Data in Real Life.md",
+                "file": "Google Project Management Certificate/Foundations of Project Management/00 - Embarking on a career in Project Management/00 - Getting Started with the Program - Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/000 - Learning Log - Thinking about Data in Real Life.md"
+                "file": "Google Project Management Certificate/Foundations of Project Management/00 - Embarking on a career in Project Management/00 - Getting Started with the Program - Notes.md"
               }
             }
           },
@@ -206,13 +206,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2f7dbbb2a8fcbe2f",
+  "active": "900d724958fe134c",
   "lastOpenFiles": [
+    "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/000 - Learning Log - Thinking about Data in Real Life.md",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/000 - Learning-Log-Template_Examplar-Think-about-data-in-daily-life.pdf",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/Unconfirmed 795440.crdownload",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/~$0 - Learning-Log-Template_-Think-about-data-in-daily-life.docx",
     "Google Project Management Certificate/Foundations of Project Management/00 - Embarking on a career in Project Management/00 - Getting Started with the Program - Notes.md",
-    "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/000 - Learning Log - Thinking about Data in Real Life.md",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/000 - Learning-Log-Template_-Think-about-data-in-daily-life.docx",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/Unconfirmed 472328.crdownload",
     "Google Data Analytics/Note Template - Data Analytics.md",
@@ -233,7 +233,6 @@
     "Google Project Management Certificate/Project Planning - Putting It All Together/00 - Beginning the planning phase/Images/Pasted image 20230228082620.png",
     "Google Project Management Certificate/Project Planning - Putting It All Together/00 - Beginning the planning phase/00 - Getting started with the course.md",
     "Google Project Management Certificate/Project Initiation - Starting a Successful Project/00 - Fundamentals of project initiation/00 - Getting started with the course.md",
-    "Google Project Management Certificate/Project Initiation - Starting a Successful Project/04 - Final Notes and Documents/02 - Certificate.pdf",
     "Google Project Management Certificate/01 - Project Initiation - Starting a Successful Project/Kanban - Project Initiation.md",
     "Google Project Management Certificate/01 - Project Initiation - Starting a Successful Project/04 - Final Notes and Documents/00 - Final Notes (Project Initiation - Starting a successful Project).md",
     "Google Project Management Certificate/01 - Project Initiation - Starting a Successful Project/03 - Utilising resources and tools for project success/04 - Final Notes (Unit 4).md"
