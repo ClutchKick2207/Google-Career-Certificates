@@ -48,6 +48,18 @@
             }
           },
           {
+            "id": "ea2c9078b610678f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/01 - Transforming data into insights.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "900d724958fe134c",
             "type": "leaf",
             "state": {
@@ -118,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b06ea18f5787de9e",
@@ -135,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google Project Management Certificate/Foundations of Project Management/00 - Embarking on a career in Project Management/00 - Getting Started with the Program - Notes.md",
+                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/01 - Transforming data into insights.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Google Project Management Certificate/Foundations of Project Management/00 - Embarking on a career in Project Management/00 - Getting Started with the Program - Notes.md",
+                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/01 - Transforming data into insights.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Google Project Management Certificate/Foundations of Project Management/00 - Embarking on a career in Project Management/00 - Getting Started with the Program - Notes.md"
+                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/01 - Transforming data into insights.md"
               }
             }
           },
@@ -206,16 +217,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "900d724958fe134c",
+  "active": "ea2c9078b610678f",
   "lastOpenFiles": [
     "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/000 - Learning Log - Thinking about Data in Real Life.md",
+    "Google Data Analytics/Note Template - Data Analytics.md",
+    "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/01 - Transforming data into insights.md",
+    "Google Project Management Certificate/Project Initiation - Starting a Successful Project/04 - Final Notes and Documents/00 - Final Notes (Project Initiation - Starting a successful Project).md",
+    "Google Project Management Certificate/Foundations of Project Management/00 - Embarking on a career in Project Management/00 - Getting Started with the Program - Notes.md",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/000 - Learning-Log-Template_Examplar-Think-about-data-in-daily-life.pdf",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/Unconfirmed 795440.crdownload",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/~$0 - Learning-Log-Template_-Think-about-data-in-daily-life.docx",
-    "Google Project Management Certificate/Foundations of Project Management/00 - Embarking on a career in Project Management/00 - Getting Started with the Program - Notes.md",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/000 - Learning-Log-Template_-Think-about-data-in-daily-life.docx",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/Unconfirmed 472328.crdownload",
-    "Google Data Analytics/Note Template - Data Analytics.md",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/00 - Get Started.md",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/Images/Pasted image 20230616093603.png",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/Images/Pasted image 20230616093533.png",
@@ -227,7 +240,6 @@
     "Google Project Management Certificate/Untitled.md",
     "Google Data Analytics",
     "Google Project Management Certificate/Project Planning - Putting It All Together/00 - Beginning the planning phase/01 - Understanding the planning phase components.md",
-    "Google Project Management Certificate/Project Initiation - Starting a Successful Project/04 - Final Notes and Documents/00 - Final Notes (Project Initiation - Starting a successful Project).md",
     "Google Project Management Certificate/Project Initiation - Starting a Successful Project/04 - Final Notes and Documents/01 - Final Notes (Project Initiation - Starting a successful Project) PDF.pdf",
     "Google Project Management Certificate/Project Planning - Putting It All Together/Kanban - Project Planning.md",
     "Google Project Management Certificate/Project Planning - Putting It All Together/00 - Beginning the planning phase/Images/Pasted image 20230228082620.png",
