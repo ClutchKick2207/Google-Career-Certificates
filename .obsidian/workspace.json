@@ -118,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b06ea18f5787de9e",
@@ -207,6 +208,9 @@
   },
   "active": "ea2c9078b610678f",
   "lastOpenFiles": [
+    "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/Images/Pasted image 20230622080917.png",
+    "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/Images/Pasted image 20230622080855.png",
+    "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/Images/Pasted image 20230622080332.png",
     "Google Data Analytics/Note Template - Data Analytics.md",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/01 - Transforming data into insights.md",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/000 - Learning Log - Thinking about Data in Real Life.md",
