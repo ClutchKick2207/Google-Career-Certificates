@@ -44,5 +44,48 @@
 		- Starts with good preparation
 		- Build a timeline
 		- Decide how to relay any progress with any stakeholders
-		- Identify what 
+		- Examples of things to do to prepare:
+			- They developed specific questions to ask about employee satisfaction with different business processes, such as hiring and onboarding, and their overall compensation.
+			- They established rules for who would have access to the data collected - in this case, anyone outside the group wouldn't have access to the raw data, but could view summarised or aggregated data. For example, an individual's compensation wouldn't be available, but salary ranges for groups of individuals would be viewable.
+			- They finalized what specific information would be gathered, and how best to present the data visually. The analysts brainstormed possible project- and data-related issues and how to avoid them.
+	- **Process**
+		- ![[Pasted image 20230703003501.png]]
+		- Respect both the data and those who provide it
+		- Make sure that everyone consents to the data collection
+		- Make sure participants know how their data will be:
+			- Collected
+			- Stored
+			- Managed
+			- Protected
+		- Collecting and using data ethically is one of the main responsibilities of Data Scientists
+		- Steps that can be taken
+			- They restricted access to the data to a limited number of analysts.
+			- They cleaned the data to make sure it was complete, correct, and relevant. 
+				- Certain data was aggregated and summarized without revealing individual responses. 
+			- They uploaded raw data to an internal data warehouse for an additional layer of security. 
+	- **Analyse**
+		- ![[Pasted image 20230703003704.png]]
+		- Actually analysing the data
+		- Example of an analysis
+			- Employees who experienced a long and complicated hiring process were most likely to leave the company. 
+			- Employees who experienced an efficient and transparent evaluation and feedback process were most likely to remain with the company. 
+		- Document everything that they find in the analysis (no matter the results)
+	- **Share**
+		- ![[Pasted image 20230703003824.png]]
+		- Be careful about sharing the report
+		- Example of how a report can be shared
+			- They shared the report with managers who met or exceeded the minimum number of direct reports with submitted responses to the survey. 
+			- They presented the results to the managers to make sure they had the full picture. 
+			- They asked the managers to personally deliver the results to their teams. 
+		- Allows for the managers to communicate the results to their individual team in whatever way is most useful
+	- **Act**
+		- ![[Pasted image 20230703004020.png]]
+		- Last stage of the Data Analysis process
+		- Decide how to best implement changes and take actions
+		- Example
+			- Standardise the hiring and evaluation process for employees based on the most efficient and transparent practices. 
+			- Conduct the same survey annually and compare results with those from the previous year.
+	- **Article to look at**
+		- [Examples of Business Analytics in Action | HBS Online](https://online.hbs.edu/blog/post/business-analytics-examples)
+
 
