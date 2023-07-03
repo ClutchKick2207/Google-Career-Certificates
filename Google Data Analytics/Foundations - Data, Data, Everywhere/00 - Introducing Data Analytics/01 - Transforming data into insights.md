@@ -87,5 +87,3 @@
 			- Conduct the same survey annually and compare results with those from the previous year.
 	- **Article to look at**
 		- [Examples of Business Analytics in Action | HBS Online](https://online.hbs.edu/blog/post/business-analytics-examples)
-
-
