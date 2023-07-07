@@ -11,5 +11,6 @@
   "spellcheckLanguages": [
     "en-AU"
   ],
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "vimMode": false
 }

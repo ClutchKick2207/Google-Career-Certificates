@@ -17,6 +17,9 @@
 > [!info] Definition - Data Science
 > Creating new ways of modelling and understanding the unknown by using raw data
 
+> [!info] Definition - Data Analysis
+> The collection, transformation, and organisation of data in order to draw conclusions, make predictions, and drive informed decision making
+
 - **The Data Ecosystem**
 	- Data lives inside it's own ecosystems
 	- **Elements of a Data Ecosystem**
@@ -31,3 +34,23 @@
 		- Can use this information to predict what the customers will purchase in the future
 	- Human Resources database
 		- Ecosystem filled with information from job websites, stats of the current labour market, employment rates, social media data on prospective employees
+		- Can use this information to recruit new workers, and improve employee retention and working rates
+	- **Data Science vs Data Analysis**
+		- Data Scientists create new questions using data
+		- Data Analysts answer questions using data
+
+## Data and gut instinct
+- **Data and Gut instinct**
+	- *6 steps of Data Analysis*
+		- **Ask**
+			- Ask questions and defining the problem
+		- **Prepare**
+			- Prepare Data by collecting and storing the information
+		- **Process**
+			- Process data by cleaning and checking the information
+		- **Analyse**
+			- Analyse data to find patterns, relationships and trends
+		- **Share**
+			- Share data with your audience
+		- **Act**
+			- Act on the data and use the analysis results
