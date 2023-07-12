@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/02 - Understanding the data ecosystem.md",
+                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/03 - What to expect moving forward.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/02 - Understanding the data ecosystem.md",
+                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/03 - What to expect moving forward.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/02 - Understanding the data ecosystem.md",
+                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/03 - What to expect moving forward.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/02 - Understanding the data ecosystem.md"
+                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/03 - What to expect moving forward.md"
               }
             }
           },
@@ -182,13 +182,14 @@
   },
   "active": "ea2c9078b610678f",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Google Data Analytics/Note Template - Data Analytics.md",
+    "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/03 - What to expect moving forward.md",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/02 - Understanding the data ecosystem.md",
+    "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/01 - Transforming data into insights.md",
+    "Untitled.md",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/Images/Pasted image 20230712080957.png",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/Images/Pasted image 20230707165145.png",
-    "Google Data Analytics/Note Template - Data Analytics.md",
     "Google Project Management Certificate/Note Template - Project Management.md",
-    "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/01 - Transforming data into insights.md",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/001 - Learning-Log-Approaching-tasks.pdf",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/~$1 - Learning-Log-Approaching-tasks.docx",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/001 - Learning-Log-Approaching-tasks.docx",
