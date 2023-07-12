@@ -107,6 +107,17 @@
 		- Helps analysts test whether they have accomplished enough to move forward, and ensure that teams have spent enough time on each of the phases
 			- Don't start modelling the data before it is ready
 		- https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781119183686
+	- **SAS's iterative life cycle**
+		- **Ask**
+		- **Prepare**
+		- **Explore**
+		- **Model**
+		- **Implement**
+		- **Act**
+		- **Evaluate**
+		- SAS model emphasises the cyclical nature of their model, by visualising it as an infinity symbol.
+		- Includes a step after the act phase designed to help analysts evaluate their solutions and potentially return to the ask phase again.
+		- https://www.sas.com/content/dam/SAS/en_us/doc/whitepaper1/manage-analytical-life-cycle-continuous-innovation-106179.pdf
 	- **Project-based data analytics life cycle**
 		- **Identifying the problem**
 		- **Designing data requirements**
@@ -114,4 +125,17 @@
 		- **Performing data analysis**
 		- **Visualising data**
 		- Doesn't include the sixth phase ("Act" phase)
-		- https://www.sas.com/content/dam/SAS/en_us/doc/whitepaper1/manage-analytical-life-cycle-continuous-innovation-106179.pdf
+		- http://pingax.com/understanding-data-analytics-project-life-cycle/
+	- **Big Data Analytics life cycle**
+		- **Business case evaluation**
+		- **Data identification**
+		- **Data acquisition and filtering**
+		- **Data extraction**
+		- **Data validation and cleaning**
+		- **Data aggregation and representation**
+		- **Data analysis**
+		- **Data visualisation**
+		- **Utilisation of analysis results**
+		- More broken down what we are having referred to as Prepare and Process into smaller steps
+		- Emphasises the individual tasks required for gathering, preparing and cleanin data before the analysis phase
+		- https://www.informit.com/articles/article.aspx?p=2473128&seqNum=11&ranMID=24808
