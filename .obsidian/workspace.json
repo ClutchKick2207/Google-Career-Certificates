@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/03 - What to expect moving forward.md",
+                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/04 - All about analytical thinking.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b06ea18f5787de9e",
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/03 - What to expect moving forward.md",
+                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/04 - All about analytical thinking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/03 - What to expect moving forward.md",
+                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/04 - All about analytical thinking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/03 - What to expect moving forward.md"
+                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/04 - All about analytical thinking.md"
               }
             }
           },
@@ -181,13 +182,17 @@
   },
   "active": "ea2c9078b610678f",
   "lastOpenFiles": [
-    "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/Glossary-Week-1.docx",
-    "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/Images/Pasted image 20230712090618.png",
-    "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/Images/Pasted image 20230712090458.png",
+    "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/Images/Screenshot 2023-07-25 at 7.43.34 am.png",
     "Google Data Analytics/Note Template - Data Analytics.md",
+    "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/04 - All about analytical thinking.md",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/03 - What to expect moving forward.md",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/02 - Understanding the data ecosystem.md",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/01 - Transforming data into insights.md",
+    "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/upscayl-2.5.5-mac.dmg",
+    "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/Unconfirmed 389216.crdownload",
+    "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/Glossary-Week-1.docx",
+    "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/Images/Pasted image 20230712090618.png",
+    "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/Images/Pasted image 20230712090458.png",
     "Untitled.md",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/Images/Pasted image 20230712080957.png",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/Images/Pasted image 20230707165145.png",
@@ -208,10 +213,7 @@
     "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/Unconfirmed 795440.crdownload",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/~$0 - Learning-Log-Template_-Think-about-data-in-daily-life.docx",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/000 - Learning-Log-Template_-Think-about-data-in-daily-life.docx",
-    "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/Unconfirmed 472328.crdownload",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/00 - Get Started.md",
-    "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/Images",
-    "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics",
     "Google Project Management Certificate/Project Planning - Putting It All Together/00 - Beginning the planning phase/02 - Defining Tasks and Milestones.md",
     "Google Project Management Certificate/Untitled.md",
     "Google Project Management Certificate/Project Planning - Putting It All Together/00 - Beginning the planning phase/01 - Understanding the planning phase components.md",
