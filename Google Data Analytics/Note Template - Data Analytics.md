@@ -6,7 +6,7 @@
 
 ## Major Heading
 
-> [!info] Definition- Definition
+> [!info] Definition - Definition
 > Content
 
 - **Subheading**

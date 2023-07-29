@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/04 - All about analytical thinking.md",
+                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/05 - Thinking about Analytical Thinking.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b06ea18f5787de9e",
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/04 - All about analytical thinking.md",
+                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/05 - Thinking about Analytical Thinking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/04 - All about analytical thinking.md",
+                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/05 - Thinking about Analytical Thinking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/04 - All about analytical thinking.md"
+                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/05 - Thinking about Analytical Thinking.md"
               }
             }
           },
@@ -182,13 +181,14 @@
   },
   "active": "ea2c9078b610678f",
   "lastOpenFiles": [
+    "Google Data Analytics/Note Template - Data Analytics.md",
+    "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/05 - Thinking about Analytical Thinking.md",
+    "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/04 - All about analytical thinking.md",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/02 - Understanding the data ecosystem.md",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/03 - What to expect moving forward.md",
-    "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/04 - All about analytical thinking.md",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/002 - Learning-Log-Template_Explore-data-from-your-daily-life.docx",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/Explore-data-from-your-daily-life.docx",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/Images/Screenshot 2023-07-25 at 7.43.34 am.png",
-    "Google Data Analytics/Note Template - Data Analytics.md",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/01 - Transforming data into insights.md",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/upscayl-2.5.5-mac.dmg",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/Unconfirmed 389216.crdownload",
