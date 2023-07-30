@@ -40,6 +40,8 @@
 				- Execute a plan, and how to do it with more of a focus on the details.
 
 ## Exploring core analytical skills
+> [!info] Definition - Gap Analysis
+> A method for examining and evaluating how a process works currently in order to get where you want to be in the future
 - **Exploring core analytical skills**
 	- Learn to think in different ways
 	- Important, as solutions are almost never in front of you
@@ -50,3 +52,8 @@
 		- **The "5 Why's" process**
 			- Ask *Why* 5 times to reveal the root cause
 				- 5th and final answer should give some useful answers and results
+		- **Gap Analysis**
+			- Understand where you are right now, and where you want to be
+		- **What did we not consider before?**
+			- Figure out what procedure or process is missing from a process
+	- 
