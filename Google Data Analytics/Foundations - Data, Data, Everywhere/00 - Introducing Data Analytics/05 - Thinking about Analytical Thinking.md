@@ -41,4 +41,12 @@
 
 ## Exploring core analytical skills
 - **Exploring core analytical skills**
-	- 
+	- Learn to think in different ways
+	- Important, as solutions are almost never in front of you
+	- **What is the root cause of a problem?**
+		- **Root Cause**
+			- *The reason why a problem occurs*
+		- If you can identify and remove a root cause, the problem can never happen again
+		- **The "5 Why's" process**
+			- Ask *Why* 5 times to reveal the root cause
+				- 5th and final answer should give some useful answers and results
