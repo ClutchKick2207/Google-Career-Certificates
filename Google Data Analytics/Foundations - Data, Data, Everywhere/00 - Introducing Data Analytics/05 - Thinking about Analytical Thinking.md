@@ -38,3 +38,7 @@
 				- *Be able to see the big picture, while also focus on the details*
 				- Helps you zoom out, and look at new opportunities and ideas
 				- Execute a plan, and how to do it with more of a focus on the details.
+
+## Exploring core analytical skills
+- **Exploring core analytical skills**
+	- 
