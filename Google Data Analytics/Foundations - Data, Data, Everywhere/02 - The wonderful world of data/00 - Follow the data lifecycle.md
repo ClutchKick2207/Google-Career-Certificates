@@ -38,3 +38,19 @@
 		- Protects company's private information, and customer's private data
 
 
+## Variations of the data life cycle
+- **Variations of the data life cycle**
+	- **Stages of the Data Life Cycle**
+		- **Plan**
+			- Decide what kind of data is needed, how it will be managed, and who will be responsible for it
+		- **Capture**
+			- Collect or bring in data from a variety of different sources.
+		- **Manage**
+			- Care for and maintain data
+			- Includes determining how and where it is stored and the tools used to do so
+		- **Analyse**
+			- Use the data to solve problems, make decisions and support business goals
+		- **Archive**
+			- Keep relevant data stored for long-term and future reference
+		- **Destroy**
+			- Remove data from storage and delete any shared copies of data
