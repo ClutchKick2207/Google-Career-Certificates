@@ -44,9 +44,13 @@
 		- **Share**
 			- How to interpret results and share them with others
 			- Make visualisations
-				- Essential o geing others to undersand what your data is telling you. 
+				- Essential o getting others to understand what your data is telling you. 
 				- With the right visuals, facts, and figures, it becomes much easer to see, and complex concepts become easier to understand.
 			- Using R
 		- **Act**
 			- When the business is able to take the insights that are taken, and solve the business problem that is given to you
 			- Complete a case study project
+
+## The data analysis process and his program
+- ![[Pasted image 20230910153548.png]]
+
