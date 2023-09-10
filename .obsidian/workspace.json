@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "ea2c9078b610678f",
+            "id": "965ef0e13a35e4fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/00 - Follow the data lifecycle.md",
+                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/01 - Outlining the data analysis process.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/00 - Follow the data lifecycle.md",
+                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/01 - Outlining the data analysis process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/00 - Follow the data lifecycle.md",
+                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/01 - Outlining the data analysis process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/00 - Follow the data lifecycle.md"
+                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/01 - Outlining the data analysis process.md"
               }
             }
           },
@@ -180,14 +180,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ea2c9078b610678f",
+  "active": "965ef0e13a35e4fd",
   "lastOpenFiles": [
+    "Google Data Analytics/Foundations - Data, Data, Everywhere/01 - All about analytical thinking/02 - Using data to drive successful outcomes.md",
     "Google Data Analytics/Note Template - Data Analytics.md",
+    "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/01 - Outlining the data analysis process.md",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/00 - Follow the data lifecycle.md",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/01 - All about analytical thinking/01 - Thinking about Analytical Thinking.md",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/01 - All about analytical thinking/00 - Embrace your data analyst skills.md",
-    "Google Data Analytics/Foundations - Data, Data, Everywhere/01 - All about analytical thinking/02 - Using data to drive successful outcomes.md",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/01 - All about analytical thinking/Glossary-Week-2.docx",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/01 - All about analytical thinking/000 - Learning-Log-Template_-Reflect-on-your-skills-and-expectations.docx",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/01 - All about analytical thinking/Learning-Log-Template_-Reflect-on-your-skills-and-expectations.docx",
