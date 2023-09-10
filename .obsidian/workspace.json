@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/01 - Outlining the data analysis process.md",
+                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/02 - The data analysis toolbox.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/01 - Outlining the data analysis process.md",
+                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/02 - The data analysis toolbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/01 - Outlining the data analysis process.md",
+                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/02 - The data analysis toolbox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/01 - Outlining the data analysis process.md"
+                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/02 - The data analysis toolbox.md"
               }
             }
           },
@@ -182,8 +182,8 @@
   },
   "active": "965ef0e13a35e4fd",
   "lastOpenFiles": [
-    "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/02 - The data analysis toolbox.md",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/01 - Outlining the data analysis process.md",
+    "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/02 - The data analysis toolbox.md",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/Images/Pasted image 20230910153548.png",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/Images",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/data-analysis-process.pdf",
