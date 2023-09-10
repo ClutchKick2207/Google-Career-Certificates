@@ -32,6 +32,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5f75e28785747d6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/01 - Outlining the data analysis process.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d47b01aaa25d93b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/00 - Follow the data lifecycle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -183,13 +207,15 @@
   "active": "965ef0e13a35e4fd",
   "lastOpenFiles": [
     "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/01 - Outlining the data analysis process.md",
+    "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/00 - Follow the data lifecycle.md",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/02 - The data analysis toolbox.md",
+    "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/Course-1-Week-3-Glossary-_-DA-terms-and-definitions.docx",
+    "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/Images/Screenshot 2023-09-10 at 10.16.25 pm.png",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/Images/Pasted image 20230910153548.png",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/Images",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/data-analysis-process.pdf",
     "Google Data Analytics/Note Template - Data Analytics.md",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/01 - All about analytical thinking/02 - Using data to drive successful outcomes.md",
-    "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/00 - Follow the data lifecycle.md",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/01 - All about analytical thinking/01 - Thinking about Analytical Thinking.md",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/01 - All about analytical thinking/00 - Embrace your data analyst skills.md",
@@ -203,7 +229,6 @@
     "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/Explore-data-from-your-daily-life.docx",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/Images/Screenshot 2023-07-25 at 7.43.34 am.png",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/01 - Transforming data into insights.md",
-    "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/upscayl-2.5.5-mac.dmg",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/Images/Pasted image 20230712090618.png",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/Images/Pasted image 20230712090458.png",
     "Untitled.md",
@@ -214,7 +239,6 @@
     "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/Images/Pasted image 20230703004020.png",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/Images/Pasted image 20230703003824.png",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/Images/Pasted image 20230703003704.png",
-    "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/Images/Pasted image 20230703003501.png",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/000 - Learning Log - Thinking about Data in Real Life.md",
     "Google Project Management Certificate/Project Initiation - Starting a Successful Project/04 - Final Notes and Documents/00 - Final Notes (Project Initiation - Starting a successful Project).md",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/00 - Get Started.md",

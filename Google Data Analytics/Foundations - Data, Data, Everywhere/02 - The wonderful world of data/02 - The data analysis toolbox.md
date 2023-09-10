@@ -46,3 +46,37 @@
 			- *Looker*
 				- Easy way to make visuals based on the result of a query
 				- Can give stakeholders a more complete picture of the work, and any work that is done to it
+
+## Key Data Analyst Tools
+- **Data Analyst Tools**
+	- **Spreadsheets**
+		- Used to collect and organise data
+		- Excel and Sheets are the most popular forms of spreadsheets
+		- *Structures data in a meaningful way by allowing for*
+			- Collecting, storing, organising and sorting information
+			- Identifying patterns, and piecing data together in a way that works for each specific data project
+			- Creating excellent data visualisations (such as graphs and charts)
+	- **Databases and query languages**
+		- A database is a collection of structured data stored in a computer system
+		- MySQL, Microsoft SQL Server and BigQuery are examples of popular SQL programs
+		- *Query languages*
+			- Allow analysts to isolate specific information from a database(s)
+			- Make it easier for you to learn and understand the requests made to databases
+			- Allow analysts to select, create, add, or download data from a database for analysis
+	- **Visualisation Tools**
+		- Data analysts use a number of visualisation tools, like graphs, maps, tables, charts, and more. 
+		- Two popular visualisation tools are Tableau and Looker.
+		- *Visualisation Tools*
+			- Turn complex numbers into a story that people can understand
+			- Help stakeholders come up with conclusions that lead to informed decisions and effective business strategies
+			- Have multiple features
+			- **Tableau**
+				- simple drag-and-drop feature lets users create interactive graphs in dashboards and worksheets
+			- **Looker**
+				- communicates directly with a database, allowing you to connect your data right to the visual tool you choose
+
+
+## Choosing the right tool for the job
+- **Choosing the right tool**
+	- ![[Screenshot 2023-09-10 at 10.16.25 pm.png]]
+	- 
