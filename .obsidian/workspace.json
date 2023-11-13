@@ -27,70 +27,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/02 - The data analysis toolbox.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "91bf34dc19b21641",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.10"
-              }
-            }
-          },
-          {
-            "id": "1ba05c6a9ebaca40",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.12"
-              }
-            }
-          },
-          {
-            "id": "634d6be2328ec95e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/01 - Outlining the data analysis process.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f75e28785747d6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/01 - Outlining the data analysis process.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d47b01aaa25d93b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/00 - Follow the data lifecycle.md",
+                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/03 - Setup your toolbox/00 - Mastering Spreadsheet Basics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 292.5,
+    "collapsed": true
   },
   "right": {
     "id": "b06ea18f5787de9e",
@@ -164,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/01 - Outlining the data analysis process.md",
+                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/03 - Setup your toolbox/00 - Mastering Spreadsheet Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/01 - Outlining the data analysis process.md",
+                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/03 - Setup your toolbox/00 - Mastering Spreadsheet Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/01 - Outlining the data analysis process.md"
+                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/03 - Setup your toolbox/00 - Mastering Spreadsheet Basics.md"
               }
             }
           },
@@ -245,17 +190,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "634d6be2328ec95e",
+  "active": "965ef0e13a35e4fd",
   "lastOpenFiles": [
-    "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/02 - The data analysis toolbox.md",
+    "Google Data Analytics/Foundations - Data, Data, Everywhere/03 - Setup your toolbox/Images/Screenshot 2023-11-13 at 3.05.38 pm.png",
+    "Google Data Analytics/Foundations - Data, Data, Everywhere/03 - Setup your toolbox/Images",
+    "Google Data Analytics/Note Template - Data Analytics.md",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/01 - Outlining the data analysis process.md",
+    "Google Data Analytics/Foundations - Data, Data, Everywhere/03 - Setup your toolbox/00 - Mastering Spreadsheet Basics.md",
+    "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/02 - The data analysis toolbox.md",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/00 - Follow the data lifecycle.md",
+    "Google Data Analytics/Foundations - Data, Data, Everywhere/03 - Setup your toolbox",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/Course-1-Week-3-Glossary-_-DA-terms-and-definitions.docx",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/Images/Screenshot 2023-09-10 at 10.16.25 pm.png",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/Images/Pasted image 20230910153548.png",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/Images",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/data-analysis-process.pdf",
-    "Google Data Analytics/Note Template - Data Analytics.md",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/01 - All about analytical thinking/02 - Using data to drive successful outcomes.md",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/01 - All about analytical thinking/01 - Thinking about Analytical Thinking.md",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data",
@@ -266,8 +215,6 @@
     "Google Data Analytics/Foundations - Data, Data, Everywhere/01 - All about analytical thinking",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/02 - Understanding the data ecosystem.md",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/03 - What to expect moving forward.md",
-    "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/002 - Learning-Log-Template_Explore-data-from-your-daily-life.docx",
-    "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/Explore-data-from-your-daily-life.docx",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/Images/Screenshot 2023-07-25 at 7.43.34 am.png",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/01 - Transforming data into insights.md",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/Images/Pasted image 20230712090618.png",
@@ -290,7 +237,6 @@
     "Google Project Management Certificate/Project Planning - Putting It All Together/00 - Beginning the planning phase/00 - Getting started with the course.md",
     "Google Project Management Certificate/Project Initiation - Starting a Successful Project/00 - Fundamentals of project initiation/00 - Getting started with the course.md",
     "Google Project Management Certificate/01 - Project Initiation - Starting a Successful Project/Kanban - Project Initiation.md",
-    "Google Project Management Certificate/01 - Project Initiation - Starting a Successful Project/04 - Final Notes and Documents/00 - Final Notes (Project Initiation - Starting a successful Project).md",
-    "Google Project Management Certificate/01 - Project Initiation - Starting a Successful Project/03 - Utilising resources and tools for project success/04 - Final Notes (Unit 4).md"
+    "Google Project Management Certificate/01 - Project Initiation - Starting a Successful Project/04 - Final Notes and Documents/00 - Final Notes (Project Initiation - Starting a successful Project).md"
   ]
 }
