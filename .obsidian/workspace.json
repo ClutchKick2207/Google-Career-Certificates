@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/03 - Setup your toolbox/02 - Data Visulisation.md",
+                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/04 - Endless Career Opportunities/00 - Data Analyst Job Opportunities.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/03 - Setup your toolbox/02 - Data Visulisation.md",
+                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/04 - Endless Career Opportunities/00 - Data Analyst Job Opportunities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/03 - Setup your toolbox/02 - Data Visulisation.md",
+                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/04 - Endless Career Opportunities/00 - Data Analyst Job Opportunities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/03 - Setup your toolbox/02 - Data Visulisation.md"
+                "file": "Google Data Analytics/Foundations - Data, Data, Everywhere/04 - Endless Career Opportunities/00 - Data Analyst Job Opportunities.md"
               }
             }
           },
@@ -191,12 +191,19 @@
   },
   "active": "8b81d2f49e66bcb6",
   "lastOpenFiles": [
+    "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/01 - Outlining the data analysis process.md",
+    "Google Data Analytics/Foundations - Data, Data, Everywhere/03 - Setup your toolbox/01 - Structured Query Language (SQL).md",
+    "Google Data Analytics/Foundations - Data, Data, Everywhere/04 - Endless Career Opportunities/00 - Data Analyst Job Opportunities.md",
+    "Google Data Analytics/Note Template - Data Analytics.md",
+    "Google Data Analytics/Foundations - Data, Data, Everywhere/03 - Setup your toolbox/00 - Mastering Spreadsheet Basics.md",
+    "Google Data Analytics/Foundations - Data, Data, Everywhere/04 - Endless Career Opportunities",
+    "Google Data Analytics/Foundations - Data, Data, Everywhere/03 - Setup your toolbox/02 - Data Visulisation.md",
+    "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/00 - Follow the data lifecycle.md",
+    "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/02 - The data analysis toolbox.md",
+    "Google Data Analytics/Foundations - Data, Data, Everywhere/03 - Setup your toolbox/Course-1-Week-4-Glossary-_-DA-terms-and-definitions.docx",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/03 - Setup your toolbox/Images/Pasted image 20231118105750.png",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/03 - Setup your toolbox/Images/Pasted image 20231118105606.png",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/03 - Setup your toolbox/Images/Pasted image 20231118105050.png",
-    "Google Data Analytics/Note Template - Data Analytics.md",
-    "Google Data Analytics/Foundations - Data, Data, Everywhere/03 - Setup your toolbox/02 - Data Visulisation.md",
-    "Google Data Analytics/Foundations - Data, Data, Everywhere/03 - Setup your toolbox/01 - Structured Query Language (SQL).md",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/03 - Setup your toolbox/Images/Screenshot 2023-11-16 at 11.52.20 am.png",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/03 - Setup your toolbox/Images/Pasted image 20231116115210.png",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/03 - Setup your toolbox/Images/Screenshot 2023-11-16 at 11.51.52 am.png",
@@ -204,24 +211,17 @@
     "Google Data Analytics/Foundations - Data, Data, Everywhere/03 - Setup your toolbox/Images/Pasted image 20231116115127.png",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/03 - Setup your toolbox/Images/Pasted image 20231116115108.png",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/03 - Setup your toolbox/Images/Pasted image 20231116115042.png",
-    "Google Data Analytics/Foundations - Data, Data, Everywhere/03 - Setup your toolbox/Images/Pasted image 20231116115038.png",
     "Untitled 1.md",
-    "Google Data Analytics/Foundations - Data, Data, Everywhere/03 - Setup your toolbox/00 - Mastering Spreadsheet Basics.md",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/03 - Setup your toolbox/~$Data-chart-task.xlsx",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/03 - Setup your toolbox/Data-chart-task.xlsx",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/03 - Setup your toolbox/Data-chart-template copy.xlsx",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/03 - Setup your toolbox/Data-chart-template.xlsx",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/03 - Setup your toolbox/Images",
-    "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/01 - Outlining the data analysis process.md",
-    "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/02 - The data analysis toolbox.md",
-    "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/00 - Follow the data lifecycle.md",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/03 - Setup your toolbox",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/Course-1-Week-3-Glossary-_-DA-terms-and-definitions.docx",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/Images",
-    "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data/data-analysis-process.pdf",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/01 - All about analytical thinking/02 - Using data to drive successful outcomes.md",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/01 - All about analytical thinking/01 - Thinking about Analytical Thinking.md",
-    "Google Data Analytics/Foundations - Data, Data, Everywhere/02 - The wonderful world of data",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/01 - All about analytical thinking/00 - Embrace your data analyst skills.md",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/02 - Understanding the data ecosystem.md",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/03 - What to expect moving forward.md",
