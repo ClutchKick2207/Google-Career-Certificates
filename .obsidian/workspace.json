@@ -37,9 +37,11 @@
             "id": "326ea93b8918622f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.3"
+                "file": "Google Data Analytics/01 - Ask Questions to Make Data-Driven Decisions/00 - Problem-solving and effective questioning/00 - Course 2 Overview.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -203,6 +205,8 @@
   },
   "active": "326ea93b8918622f",
   "lastOpenFiles": [
+    "Google Data Analytics/00 - Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/00 - Get Started.md",
+    "Google Data Analytics/00 - Foundations - Data, Data, Everywhere/01 - All about analytical thinking/01 - Thinking about Analytical Thinking.md",
     "Google Data Analytics/01 - Ask Questions to Make Data-Driven Decisions/00 - Problem-solving and effective questioning/Images/Pasted image 20240131115437.png",
     "Google Data Analytics/01 - Ask Questions to Make Data-Driven Decisions/00 - Problem-solving and effective questioning/Images",
     "Google Data Analytics/Note Template - Data Analytics.md",
@@ -228,14 +232,12 @@
     "Google Data Analytics/00 - Foundations - Data, Data, Everywhere/03 - Setup your toolbox/Images/Pasted image 20231116115137.png",
     "Google Data Analytics/00 - Foundations - Data, Data, Everywhere/03 - Setup your toolbox/Images/Pasted image 20231116115127.png",
     "Google Data Analytics/00 - Foundations - Data, Data, Everywhere/03 - Setup your toolbox/Images/Pasted image 20231116115108.png",
-    "Google Data Analytics/00 - Foundations - Data, Data, Everywhere/03 - Setup your toolbox/Images/Pasted image 20231116115042.png",
     "Untitled 1.md",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/03 - Setup your toolbox/~$Data-chart-task.xlsx",
     "Google Data Analytics/00 - Foundations - Data, Data, Everywhere/03 - Setup your toolbox/Data-chart-task.xlsx",
     "Google Data Analytics/Foundations - Data, Data, Everywhere/03 - Setup your toolbox/Data-chart-template copy.xlsx",
     "Google Data Analytics/00 - Foundations - Data, Data, Everywhere/03 - Setup your toolbox/Data-chart-template.xlsx",
     "Google Data Analytics/00 - Foundations - Data, Data, Everywhere/01 - All about analytical thinking/02 - Using data to drive successful outcomes.md",
-    "Google Data Analytics/00 - Foundations - Data, Data, Everywhere/01 - All about analytical thinking/01 - Thinking about Analytical Thinking.md",
     "Google Data Analytics/00 - Foundations - Data, Data, Everywhere/01 - All about analytical thinking/00 - Embrace your data analyst skills.md",
     "Google Data Analytics/00 - Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/02 - Understanding the data ecosystem.md",
     "Google Data Analytics/00 - Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/03 - What to expect moving forward.md",
@@ -245,7 +247,6 @@
     "Google Project Management Certificate/Foundations of Project Management/00 - Embarking on a career in Project Management/00 - Getting Started with the Program - Notes.md",
     "Google Data Analytics/00 - Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/000 - Learning Log - Thinking about Data in Real Life.md",
     "Google Project Management Certificate/Project Initiation - Starting a Successful Project/04 - Final Notes and Documents/00 - Final Notes (Project Initiation - Starting a successful Project).md",
-    "Google Data Analytics/00 - Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/00 - Get Started.md",
     "Google Project Management Certificate/Project Planning - Putting It All Together/00 - Beginning the planning phase/02 - Defining Tasks and Milestones.md",
     "Google Project Management Certificate/Untitled.md",
     "Google Project Management Certificate/Project Planning - Putting It All Together/00 - Beginning the planning phase/01 - Understanding the planning phase components.md"
