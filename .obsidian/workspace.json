@@ -44,9 +44,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fddd838b3ae3f111",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -203,7 +213,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "326ea93b8918622f",
+  "active": "fddd838b3ae3f111",
   "lastOpenFiles": [
     "Google Data Analytics/00 - Foundations - Data, Data, Everywhere/00 - Introducing Data Analytics/00 - Get Started.md",
     "Google Data Analytics/00 - Foundations - Data, Data, Everywhere/01 - All about analytical thinking/01 - Thinking about Analytical Thinking.md",
